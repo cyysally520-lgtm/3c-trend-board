@@ -16,7 +16,7 @@
       "location": "United States of America, America / Canada",
       "batch": "Spring 2026",
       "url": "https://www.anoria.com",
-      "scrapedAt": "2026-06-08T06:32:33.972Z"
+      "scrapedAt": "2026-06-08T11:42:59.409Z"
     },
     {
       "id": "yc-fort",
@@ -31,7 +31,7 @@
       "location": "United States of America, America / Canada",
       "batch": "Winter 2026",
       "url": "https://fort.cx",
-      "scrapedAt": "2026-06-08T06:32:33.972Z"
+      "scrapedAt": "2026-06-08T11:42:59.409Z"
     },
     {
       "id": "yc-tornyol",
@@ -46,7 +46,7 @@
       "location": "France, Europe",
       "batch": "Fall 2025",
       "url": "https://tornyol.com/",
-      "scrapedAt": "2026-06-08T06:32:33.972Z"
+      "scrapedAt": "2026-06-08T11:42:59.409Z"
     },
     {
       "id": "yc-vassar-robotics",
@@ -61,7 +61,7 @@
       "location": "United States of America, America / Canada",
       "batch": "Spring 2025",
       "url": "https://www.vassarrobotics.com",
-      "scrapedAt": "2026-06-08T06:32:33.972Z"
+      "scrapedAt": "2026-06-08T11:42:59.409Z"
     },
     {
       "id": "yc-pickle-2",
@@ -76,7 +76,7 @@
       "location": "United States of America, America / Canada",
       "batch": "Winter 2025",
       "url": "https://www.pickle.com",
-      "scrapedAt": "2026-06-08T06:32:33.972Z"
+      "scrapedAt": "2026-06-08T11:42:59.409Z"
     },
     {
       "id": "yc-innate",
@@ -91,7 +91,7 @@
       "location": "United States of America, America / Canada",
       "batch": "Fall 2024",
       "url": "https://innate.bot",
-      "scrapedAt": "2026-06-08T06:32:33.972Z"
+      "scrapedAt": "2026-06-08T11:42:59.409Z"
     },
     {
       "id": "yc-k-scale-labs",
@@ -106,7 +106,7 @@
       "location": "United States of America, America / Canada",
       "batch": "Winter 2024",
       "url": "https://kscale.dev/",
-      "scrapedAt": "2026-06-08T06:32:33.972Z"
+      "scrapedAt": "2026-06-08T11:42:59.409Z"
     },
     {
       "id": "yc-tuesday-lab",
@@ -121,7 +121,7 @@
       "location": "United States of America, America / Canada",
       "batch": "Winter 2024",
       "url": "https://www.tuesdaylab.com",
-      "scrapedAt": "2026-06-08T06:32:33.972Z"
+      "scrapedAt": "2026-06-08T11:42:59.409Z"
     }
   ]
 }
