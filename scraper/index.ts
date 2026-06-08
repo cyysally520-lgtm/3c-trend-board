@@ -86,8 +86,13 @@ async function main() {
   }
 
   // 任意一个完全失败就以 1 退出（CI 友好）
-  const anyFail = results.some((r) => !r.result.ok);
-  process.exit(anyFail ? 1 : 0);
+  // 改为：只要有至少一个成功就退出码 0，避免部分失败阻断整个流程
+  const successCount = results.filter((r) => r.result.ok).length;
+  const failCount = results.filter((r) => !r.result.ok).length;
+  if (failCount > 0) {
+    log.warn('main', `${failCount} scraper(s) failed, but ${successCount} succeeded - data saved`);
+  }
+  process.exit(successCount > 0 ? 0 : 1);
 }
 
 main().catch((err) => {

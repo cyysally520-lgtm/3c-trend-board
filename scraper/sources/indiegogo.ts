@@ -28,19 +28,22 @@ export async function scrapeIndiegogo(maxItems = 30): Promise<ScrapeResult<RawCr
     log.info('indiegogo', `loading: ${EXPLORE_URL}`);
     await gotoSafe(page, EXPLORE_URL, { timeoutMs: 60000 });
 
-    // 等待页面 JS 渲染完成
-    await page.waitForTimeout(5000);
+    // 等待页面 JS 渲染完成（Indiegogo 是重度 SPA）
+    await page.waitForTimeout(8000);
 
     // 滚动加载更多项目
-    for (let i = 0; i < 5; i++) {
-      await page.evaluate(() => window.scrollBy(0, 1000));
-      await page.waitForTimeout(2000);
+    for (let i = 0; i < 8; i++) {
+      await page.evaluate(() => window.scrollBy(0, 1200));
+      await page.waitForTimeout(2500);
     }
 
     // 等待项目链接出现
     await page.waitForSelector('a[href*="/projects/"]', { timeout: 30000 }).catch(() => {
       log.warn('indiegogo', 'project links selector timeout, trying anyway');
     });
+
+    // 再等一下确保渲染完成
+    await page.waitForTimeout(3000);
 
     const html = await page.content();
     const $ = cheerio.load(html);
