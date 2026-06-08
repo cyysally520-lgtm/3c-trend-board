@@ -86,7 +86,19 @@ export default function App() {
                   if (Array.isArray(inv.items)) setInvestData(inv.items);
                 }
               } catch { /* investments 不存在时静默跳过 */ }
-              setLastUpdated(`已更新 ${date}`);
+              // 用 manifest.updatedAt 显示精确到分钟的更新时间（北京时间 UTC+8）
+              const updatedAt = manifest.updatedAt
+                ? (() => {
+                    const d = new Date(new Date(manifest.updatedAt).getTime() + 8 * 3600000);
+                    const y = d.getUTCFullYear();
+                 const mo = String(d.getUTCMonth() + 1).padStart(2, '0');
+                    const day = String(d.getUTCDate()).padStart(2, '0');
+                    const hh = String(d.getUTCHours()).padStart(2, '0');
+                    const mm = String(d.getUTCMinutes()).padStart(2, '0');
+                    return `${y}/${mo}/${day} ${hh}:${mm}`;
+                  })()
+                : date;
+              setLastUpdated(updatedAt);
               loaded = true;
               loaded = true;
             }
@@ -118,10 +130,10 @@ export default function App() {
     refreshData();
   }, []);
 
-  // Launch Scraper Task
+  // Launch Scraper Task — 通过 GitHub API 触发 Actions workflow
   const runScraper = async () => {
     if (scraping) return;
-    // 密码验证：只有输入正确密码才能触发爬虫
+    // 密码验证：只有管理员才能触发
     const pwd = window.prompt('请输入管理员密码以启动爬虫：');
     if (pwd !== 'c3trend2026') {
       if (pwd !== null) alert('密码错误，无权限启动爬虫。');
@@ -130,30 +142,98 @@ export default function App() {
     setScraping(true);
     setShowScrapeConsole(true);
     setScrapeLogs([
-      `[${new Date().toLocaleTimeString('zh-CN', { hour12: false })}] 📡 [SYSTEM] 正在下发自动化数据爬取抓取指令...`,
-      `[${new Date().toLocaleTimeString('zh-CN', { hour12: false })}] 🤖 [AI] 唤醒 Gemini 爬取微弱信号监测及翻译微调引擎...`
+      `[${new Date().toLocaleTimeString('zh-CN', { hour12: false })}] 📡 [SYSTEM] 正在通过 GitHub Actions 触发真实爬虫...`,
     ]);
 
     try {
-      const response = await fetch('/api/scrape', { method: 'POST' });
-      if (response.ok) {
-        const result = await response.json();
-        if (result.success) {
-          setScrapeLogs(result.logs || []);
-          if (result.updatedData) {
-            if (Array.isArray(result.updatedData.crowdfunding)) setCrowdfundingData(result.updatedData.crowdfunding);
-            if (Array.isArray(result.updatedData.news)) setNewsData(result.updatedData.news);
-            if (Array.isArray(result.updatedData.startups)) setStartupData(result.updatedData.startups);
-          }
-        } else {
-          setScrapeLogs(prev => [...prev, `❌ [ERROR] 爬网作业失败: ${result.error || '未标明的异常'}`]);
+      // 调用 GitHub API 触发 workflow_dispatch
+      const res = await fetch(
+        'https://api.github.com/repos/cyysally520-lgtm/3c-trend-board/actions/workflows/daily-scrape.yml/dispatches',
+        {
+          method: 'POST',
+          headers: {
+            'Authorization': `token ${import.meta.env.VITE_GH_PAT ?? ''}`,
+            'Accept': 'application/vnd.github+json',
+            'Content-Type': 'application/json',
+          },
+          body: JSON.stringify({ ref: 'main' }),
         }
+      );
+
+      if (res.status === 204) {
+        const triggerTime = new Date().toLocaleTimeString('zh-CN', { hour12: false });
+        setScrapeLogs(prev => [
+          ...prev,
+          `[${triggerTime}] ✓ GitHub Actions 已触发！爬虫正在云端运行中...`,
+          `[${triggerTime}] ℹ️ 爬取范围：Crowd Supply众筹 / Gizchina资讯(50条) / YC创企 / NextBanker投资项目(96条)`,
+          `[${triggerTime}] ⏳ 预计 5-8 分钟后完成，完成后页面将自动刷新数据...`,
+        ]);
+
+        // 记录触发前的时间戳，用于检测数据更新
+        const beforeUpdate = lastUpdated;
+        let pollCount = 0;
+        const maxPolls = 20; // 最多轮询20次（约10分钟）
+
+        const pollTimer = setInterval(async () => {
+          pollCount++;
+          try {
+            const mRes = await fetch('/data/manifest.json?_=' + Date.now());
+            if (mRes.ok) {
+              const manifest = await mRes.json();
+              if (manifest.updatedAt) {
+                const d = new Date(new Date(manifest.updatedAt).getTime() + 8 * 3600000);
+                const y = d.getUTCFullYear();
+                const mo = String(d.getUTCMonth() + 1).padStart(2, '0');
+                const day = String(d.getUTCDate()).padStart(2, '0');
+                const hh = String(d.getUTCHours()).padStart(2, '0');
+                const mm = String(d.getUTCMinutes()).padStart(2, '0');
+                const newTime = `${y}/${mo}/${day} ${hh}:${mm}`;
+                if (newTime !== beforeUpdate) {
+                  // 检测到新数据，刷新
+                  clearInterval(pollTimer);
+                  setScrapeLogs(prev => [
+                    ...prev,
+                    `[${new Date().toLocaleTimeString('zh-CN', { hour12: false })}] 🎉 数据已更新！正在重新加载...`,
+                  ]);
+                  // 重新加载数据
+                  await refreshData(true);
+                  setScraping(false);
+                  return;
+                }
+              }
+            }
+          } catch { /* 轮询失败忽略 */ }
+
+          if (pollCount >= maxPolls) {
+            clearInterval(pollTimer);
+            setScrapeLogs(prev => [
+              ...prev,
+              `[${new Date().toLocaleTimeString('zh-CN', { hour12: false })}] ⚠️ 超时未检测到更新，请手动刷新页面查看最新数据。`,
+            ]);
+            setScraping(false);
+          } else {
+            const remaining = maxPolls - pollCount;
+            setScrapeLogs(prev => {
+              const newLogs = [...prev];
+              // 更新最后一行等待状态
+              const lastIdx = newLogs.length - 1;
+              if (newLogs[lastIdx]?.includes('等待')) {
+                newLogs[lastIdx] = `[${new Date().toLocaleTimeString('zh-CN', { hour12: false })}] ⏳ 等待数据更新... (还剩约 ${remaining * 30} 秒)`;
+              } else {
+                newLogs.push(`[${new Date().toLocaleTimeString('zh-CN', { hour12: false })}] ⏳ 等待数据更新... (还剩约 ${remaining * 30} 秒)`);
+              }
+              return newLogs;
+            });
+          }
+        }, 30000); // 每30秒检查一次
+
       } else {
-        setScrapeLogs(prev => [...prev, `❌ [ERROR] 网关返回异常代码: ${response.status} ${response.statusText}`]);
+        const errText = await res.text().catch(() => '');
+        setScrapeLogs(prev => [...prev, `❌ [ERROR] GitHub API 返回 ${res.status}: ${errText.slice(0, 200)}`]);
+        setScraping(false);
       }
     } catch (err: any) {
-      setScrapeLogs(prev => [...prev, `❌ [ERROR] 连接断开: ${err.message || err}`]);
-    } finally {
+      setScrapeLogs(prev => [...prev, `❌ [ERROR] 网络错误: ${err.message || err}`]);
       setScraping(false);
     }
   };
