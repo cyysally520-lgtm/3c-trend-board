@@ -20,10 +20,11 @@ import { CROWDFUNDING_DATA, NEWS_DATA, STARTUP_DATA } from './data';
 import { CrowdCard } from './components/CrowdCard';
 import { NewsCard } from './components/NewsCard';
 import { StartupCard } from './components/StartupCard';
+import { InvestCard } from './components/InvestCard';
 import { motion, AnimatePresence } from 'motion/react';
-import { CrowdfundingItem, NewsItem, StartupItem } from './types';
+import { CrowdfundingItem, NewsItem, StartupItem, InvestItem } from './types';
 
-type TabType = 'crowdfunding' | 'news' | 'startups';
+type TabType = 'crowdfunding' | 'news' | 'startups' | 'investments';
 
 export default function App() {
   // Tab control state
@@ -33,6 +34,7 @@ export default function App() {
   const [crowdfundingData, setCrowdfundingData] = useState<CrowdfundingItem[]>(CROWDFUNDING_DATA);
   const [newsData, setNewsData] = useState<NewsItem[]>(NEWS_DATA);
   const [startupData, setStartupData] = useState<StartupItem[]>(STARTUP_DATA);
+  const [investData, setInvestData] = useState<InvestItem[]>([]);
   
   const [isLoading, setIsLoading] = useState(false);
   const [lastUpdated, setLastUpdated] = useState<string>('当前就绪');
@@ -424,6 +426,24 @@ export default function App() {
               </span>
             </button>
 
+            {/* Tab 4: 投资项目 */}
+            <button 
+              onClick={() => setCurrentTab('investments')}
+              className={`flex items-center gap-2 py-3 px-1 border-b-2 font-semibold text-sm whitespace-nowrap transition-all duration-200 cursor-pointer ${
+                currentTab === 'investments' 
+                  ? 'border-emerald-500 text-emerald-600' 
+                  : 'border-transparent text-slate-500 hover:text-slate-800'
+              }`}
+            >
+              <Sparkles className="w-4 h-4" />
+              投资项目
+              <span className={`text-[10px] font-mono font-bold px-2 py-0.5 rounded-full transition-colors ${
+                currentTab === 'investments' ? 'bg-emerald-50 text-emerald-600' : 'bg-slate-100 text-slate-500'
+              }`}>
+                {investData.length}
+              </span>
+            </button>
+
           </div>
         </div>
       </nav>
@@ -738,6 +758,37 @@ export default function App() {
                 >
                   清空筛选重新罗列
                 </button>
+              </div>
+            )}
+          </motion.div>
+        )}
+
+        {/* ===================== TAB 4: 投资项目 ===================== */}
+        {currentTab === 'investments' && (
+          <motion.div
+            initial={{ opacity: 0, y: 5 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ duration: 0.2 }}
+            className="space-y-6"
+          >
+            <div className="bg-gradient-to-r from-emerald-50 to-teal-50 rounded-xl border border-emerald-100 p-4 flex items-start gap-3">
+              <Sparkles className="w-5 h-5 text-emerald-500 shrink-0 mt-0.5" />
+              <div>
+                <p className="text-sm font-semibold text-emerald-800">AI 硬件高潜投资项目</p>
+                <p className="text-xs text-emerald-600 mt-0.5">数据来源：NextBanker ShadowGlow · AI硬件板块 · 每日更新 · 展开卡片可查看团队与融资详情</p>
+              </div>
+            </div>
+            {investData.length > 0 ? (
+              <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4">
+                {investData.map(item => (
+                  <InvestCard key={item.id} item={item} />
+                ))}
+              </div>
+            ) : (
+              <div className="bg-white rounded-xl border border-slate-150 p-12 text-center max-w-lg mx-auto shadow-3xs">
+                <Sparkles className="mx-auto h-12 w-12 text-slate-300" />
+                <h3 className="mt-4 text-sm font-semibold text-slate-900">投资项目数据加载中</h3>
+                <p className="mt-1 text-xs text-slate-400">数据需要首次运行爬虫后才能显示，请等待每日自动更新。</p>
               </div>
             )}
           </motion.div>

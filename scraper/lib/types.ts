@@ -51,6 +51,22 @@ export interface RawStartupItem {
   scrapedAt: string;
 }
 
+export interface RawInvestItem {
+  id: string;
+  rank: number;                 // 排序序号
+  name: string;                 // 项目名称
+  tagline: string;              // 简短标签，如 "KS $400K+"
+  category: string;             // 子分类，如 "AI眼镜"
+  tech: string;                 // 技术描述
+  business: string;             // 商业描�
+  team: string;                 // 团队信息
+  operations: string;           // 运营数据
+  funding: string;              // 融资状态
+  daysAgo: number;              // 几天前发布
+  source_url: string;           // 原始页面链接
+  scrapedAt: string;
+}
+
 export interface ScrapeResult<T> {
   source: string;
   ok: boolean;

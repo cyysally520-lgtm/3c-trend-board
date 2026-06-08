@@ -18,15 +18,17 @@ import { closeBrowser } from './lib/browser';
 import { scrapeCrowdSupply } from './sources/crowdsupply';
 import { scrapeGizchina } from './sources/gizchina';
 import { scrapeYCombinator } from './sources/ycombinator';
+import { scrapeNextbanker } from './sources/nextbanker';
 import type { ScrapeResult } from './lib/types';
 
 type Runner = () => Promise<ScrapeResult<any>>;
 
 // 注册表：name → (kind, runner)
-const REGISTRY: Record<string, { kind: 'crowdfunding' | 'news' | 'startups'; run: Runner }> = {
-  crowdsupply: { kind: 'crowdfunding', run: () => scrapeCrowdSupply(100) },  // 首页全量（约20-30个活跃项目）
-  gizchina:    { kind: 'news',         run: () => scrapeGizchina(50) },      // 最新50条资讯
-  ycombinator: { kind: 'startups',     run: () => scrapeYCombinator(200) },  // YC全量Consumer Electronics
+const REGISTRY: Record<string, { kind: 'crowdfunding' | 'news' | 'startups' | 'investments'; run: Runner }> = {
+  crowdsupply: { kind: 'crowdfunding',  run: () => scrapeCrowdSupply(100) },
+  gizchina:    { kind: 'news',          run: () => scrapeGizchina(50) },
+  ycombinator: { kind: 'startups',      run: () => scrapeYCombinator(200) },
+  nextbanker:  { kind: 'investments',   run: () => scrapeNextbanker(96) },
 };
 
 async function main() {
@@ -52,13 +54,13 @@ async function main() {
   );
 
   // 按 kind 聚合（同一 kind 多 source 的可能合并，目前一对一）
-  const byKind: Record<string, any[]> = { crowdfunding: [], news: [], startups: [] };
+  const byKind: Record<string, any[]> = { crowdfunding: [], news: [], startups: [], investments: [] };
   for (const { kind, result } of results) {
     byKind[kind].push(...result.items);
   }
 
   // 写盘
-  for (const kind of ['crowdfunding', 'news', 'startups'] as const) {
+  for (const kind of ['crowdfunding', 'news', 'startups', 'investments'] as const) {
     if (byKind[kind].length > 0) {
       await saveSnapshot(kind, byKind[kind]);
     } else {

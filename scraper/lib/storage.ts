@@ -21,7 +21,7 @@ import { log } from './logger';
 const ROOT = path.resolve(process.cwd(), 'data');
 const RETENTION_DAYS = 30;
 
-export type DataKind = 'crowdfunding' | 'news' | 'startups';
+export type DataKind = 'crowdfunding' | 'news' | 'startups' | 'investments';
 
 export interface Manifest {
   updatedAt: string;
@@ -60,7 +60,7 @@ export async function updateManifest(): Promise<Manifest> {
   const counts: Manifest['counts'] = {};
   for (const d of dateDirs) {
     counts[d] = {};
-    for (const kind of ['crowdfunding', 'news', 'startups'] as DataKind[]) {
+    for (const kind of ['crowdfunding', 'news', 'startups', 'investments'] as DataKind[]) {
       const f = path.join(ROOT, d, `${kind}.json`);
       try {
         const raw = await fs.readFile(f, 'utf8');
@@ -75,7 +75,7 @@ export async function updateManifest(): Promise<Manifest> {
   const manifest: Manifest = {
     updatedAt: new Date().toISOString(),
     dates: dateDirs,
-    kinds: ['crowdfunding', 'news', 'startups'],
+    kinds: ['crowdfunding', 'news', 'startups', 'investments'],
     counts,
   };
   await fs.writeFile(path.join(ROOT, 'manifest.json'), JSON.stringify(manifest, null, 2), 'utf8');

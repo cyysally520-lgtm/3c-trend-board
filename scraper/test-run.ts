@@ -5,6 +5,7 @@
 import { scrapeGizchina } from './sources/gizchina';
 import { scrapeYCombinator } from './sources/ycombinator';
 import { scrapeCrowdSupply } from './sources/crowdsupply';
+import { scrapeNextbanker } from './sources/nextbanker';
 
 const source = process.argv[2] ?? 'gizchina';
 
@@ -12,6 +13,7 @@ const runners: Record<string, () => Promise<any>> = {
   gizchina: () => scrapeGizchina(5),
   yc: () => scrapeYCombinator(5),
   crowdsupply: () => scrapeCrowdSupply(5),
+  nextbanker: () => scrapeNextbanker(5),
 };
 
 const fn = runners[source];

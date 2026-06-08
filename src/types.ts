@@ -42,3 +42,19 @@ export interface StartupItem {
   batch: string;
   url: string;
 }
+
+export interface InvestItem {
+  id: string;
+  rank: number;
+  name: string;
+  tagline: string;
+  category: string;
+  tech: string;
+  business: string;
+  team: string;
+  operations: string;
+  funding: string;
+  daysAgo: number;
+  source_url: string;
+  scrapedAt: string;
+}
