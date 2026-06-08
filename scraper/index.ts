@@ -24,9 +24,9 @@ type Runner = () => Promise<ScrapeResult<any>>;
 
 // 注册表：name → (kind, runner)
 const REGISTRY: Record<string, { kind: 'crowdfunding' | 'news' | 'startups'; run: Runner }> = {
-  crowdsupply: { kind: 'crowdfunding', run: () => scrapeCrowdSupply(20) },
-  gizchina:    { kind: 'news',         run: () => scrapeGizchina(20) },
-  ycombinator: { kind: 'startups',     run: () => scrapeYCombinator(50) },
+  crowdsupply: { kind: 'crowdfunding', run: () => scrapeCrowdSupply(100) },  // 首页全量（约20-30个活跃项目）
+  gizchina:    { kind: 'news',         run: () => scrapeGizchina(50) },      // 最新50条资讯
+  ycombinator: { kind: 'startups',     run: () => scrapeYCombinator(200) },  // YC全量Consumer Electronics
 };
 
 async function main() {
