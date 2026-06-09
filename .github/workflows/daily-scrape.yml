@@ -2,9 +2,10 @@ name: Daily Scrape & Deploy
 
 on:
   # 每天 UTC 00:00（北京时间 08:00）自动运行
+  # 注意：GitHub Actions 的 schedule 可能有几分钟延迟
   schedule:
     - cron: '0 0 * * *'
-  # 也可以手动触发
+  # 手动触发（首次必须手动触发一次，schedule 才会生效）
   workflow_dispatch:
 
 jobs:
@@ -13,6 +14,12 @@ jobs:
     timeout-minutes: 30
 
     steps:
+      - name: Debug info
+        run: |
+          echo "Current UTC time: $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
+          echo "Current Beijing time: $(TZ=Asia/Shanghai date '+%Y-%m-%d %H:%M:%S CST')"
+          echo "Node version: $(node --version)"
+
       - name: Checkout repository
         uses: actions/checkout@v4
 
