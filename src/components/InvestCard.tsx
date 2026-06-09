@@ -70,12 +70,9 @@ export function InvestCard({ item }: Props) {
           <h3 className="font-bold text-slate-900 text-sm leading-snug group-hover:text-emerald-700 transition-colors">
             {item.name}
           </h3>
-          {/* 标语 + 融资信息 - 绿色小字 */}
+          {/* 标语 - 绿色小字 */}
           {item.tagline && (
             <p className="text-[12px] text-emerald-600 font-medium mt-0.5 leading-snug">{item.tagline}</p>
-          )}
-          {item.funding && (
-            <p className="text-[11px] text-emerald-500 font-mono font-semibold mt-0.5">{item.funding}</p>
           )}
         </div>
 
@@ -156,15 +153,7 @@ export function InvestCard({ item }: Props) {
                       </div>
                     </div>
                   )}
-                  <a
-                    href={item.source_url}
-                    target="_blank"
-                    rel="noreferrer"
-                    className="inline-flex items-center gap-1 text-xs font-semibold text-emerald-600 hover:text-emerald-700 hover:underline transition cursor-pointer"
-                  >
-                    查看原始来源
-                    <ExternalLink className="w-3 h-3" />
-                  </a>
+
                 </div>
               </motion.div>
             )}
