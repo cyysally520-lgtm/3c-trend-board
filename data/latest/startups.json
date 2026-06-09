@@ -13,10 +13,11 @@
         "The first wearable that reads your emotions to enhance your EQ. "
       ],
       "founders": "Unknown",
+      "team_size": 5,
       "location": "United States of America, America / Canada",
       "batch": "Spring 2026",
       "url": "https://www.anoria.com",
-      "scrapedAt": "2026-06-09T02:52:52.037Z"
+      "scrapedAt": "2026-06-09T06:38:59.146Z"
     },
     {
       "id": "yc-fort",
@@ -28,10 +29,11 @@
         "Strength Tracking Wearable"
       ],
       "founders": "Unknown",
+      "team_size": 3,
       "location": "United States of America, America / Canada",
       "batch": "Winter 2026",
       "url": "https://fort.cx",
-      "scrapedAt": "2026-06-09T02:52:52.037Z"
+      "scrapedAt": "2026-06-09T06:38:59.146Z"
     },
     {
       "id": "yc-tornyol",
@@ -43,10 +45,11 @@
         "We build micro-drones that kill mosquitoes. "
       ],
       "founders": "Unknown",
+      "team_size": 7,
       "location": "France, Europe",
       "batch": "Fall 2025",
       "url": "https://tornyol.com/",
-      "scrapedAt": "2026-06-09T02:52:52.037Z"
+      "scrapedAt": "2026-06-09T06:38:59.146Z"
     },
     {
       "id": "yc-vassar-robotics",
@@ -58,10 +61,11 @@
         "Open-source semi-humanoid dev kit → home data → autonomy → 20h/wk"
       ],
       "founders": "Unknown",
+      "team_size": 3,
       "location": "United States of America, America / Canada",
       "batch": "Spring 2025",
       "url": "https://www.vassarrobotics.com",
-      "scrapedAt": "2026-06-09T02:52:52.037Z"
+      "scrapedAt": "2026-06-09T06:38:59.146Z"
     },
     {
       "id": "yc-pickle-2",
@@ -73,10 +77,11 @@
         "Where your life context becomes understanding."
       ],
       "founders": "Unknown",
+      "team_size": 15,
       "location": "United States of America, America / Canada",
       "batch": "Winter 2025",
       "url": "https://www.pickle.com",
-      "scrapedAt": "2026-06-09T02:52:52.037Z"
+      "scrapedAt": "2026-06-09T06:38:59.146Z"
     },
     {
       "id": "yc-innate",
@@ -88,10 +93,11 @@
         "Personal AI Robots"
       ],
       "founders": "Unknown",
+      "team_size": 7,
       "location": "United States of America, America / Canada",
       "batch": "Fall 2024",
       "url": "https://innate.bot",
-      "scrapedAt": "2026-06-09T02:52:52.037Z"
+      "scrapedAt": "2026-06-09T06:38:59.146Z"
     },
     {
       "id": "yc-k-scale-labs",
@@ -103,10 +109,11 @@
         "Open-source humanoid robots"
       ],
       "founders": "Unknown",
+      "team_size": 10,
       "location": "United States of America, America / Canada",
       "batch": "Winter 2024",
       "url": "https://kscale.dev/",
-      "scrapedAt": "2026-06-09T02:52:52.037Z"
+      "scrapedAt": "2026-06-09T06:38:59.146Z"
     },
     {
       "id": "yc-tuesday-lab",
@@ -118,10 +125,11 @@
         "Delightful robots"
       ],
       "founders": "Unknown",
+      "team_size": 5,
       "location": "United States of America, America / Canada",
       "batch": "Winter 2024",
       "url": "https://www.tuesdaylab.com",
-      "scrapedAt": "2026-06-09T02:52:52.037Z"
+      "scrapedAt": "2026-06-09T06:38:59.146Z"
     }
   ]
 }
