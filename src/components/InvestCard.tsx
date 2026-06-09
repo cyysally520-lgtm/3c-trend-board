@@ -66,12 +66,16 @@ export function InvestCard({ item }: Props) {
             </span>
           </div>
 
-          {/* 项目名称 */}
-          <h3 className="font-bold text-slate-900 text-sm leading-snug line-clamp-2 group-hover:text-emerald-700 transition-colors">
+          {/* 项目名称 - 黑色粗体 */}
+          <h3 className="font-bold text-slate-900 text-sm leading-snug group-hover:text-emerald-700 transition-colors">
             {item.name}
           </h3>
+          {/* 标语 + 融资信息 - 绿色小字 */}
           {item.tagline && (
-            <p className="text-xs text-emerald-600 font-medium mt-0.5 line-clamp-1">{item.tagline}</p>
+            <p className="text-[12px] text-emerald-600 font-medium mt-0.5 leading-snug">{item.tagline}</p>
+          )}
+          {item.funding && (
+            <p className="text-[11px] text-emerald-500 font-mono font-semibold mt-0.5">{item.funding}</p>
           )}
         </div>
 
@@ -82,7 +86,7 @@ export function InvestCard({ item }: Props) {
               <Cpu className={`w-3 h-3 ${getCategoryIconColor(item.category)}`} />
               <span className="text-[10px] font-bold text-violet-700">核心技术</span>
             </div>
-            <p className="text-xs text-slate-600 line-clamp-2 leading-relaxed">{item.tech}</p>
+            <p className="text-xs text-slate-600 leading-relaxed">{item.tech}</p>
           </div>
         )}
 
@@ -92,7 +96,7 @@ export function InvestCard({ item }: Props) {
               <TrendingUp className="w-3 h-3 text-amber-500" />
               <span className="text-[10px] font-bold text-amber-700">商业模式</span>
             </div>
-            <p className="text-xs text-slate-600 line-clamp-1">{item.business}</p>
+            <p className="text-xs text-slate-600 leading-relaxed">{item.business}</p>
           </div>
         )}
 
