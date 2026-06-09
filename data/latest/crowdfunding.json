@@ -22,7 +22,7 @@
       "summary_zh": [
         "A fully local, open-source replacement board that brings Home Assistant voice to the 1st Gen Google Home Mini"
       ],
-      "scrapedAt": "2026-06-09T01:27:32.982Z"
+      "scrapedAt": "2026-06-09T01:42:44.303Z"
     },
     {
       "id": "cs-modos-tech-modos-flow",
@@ -43,7 +43,7 @@
       "summary_zh": [
         "A paper-like monitor for reading, writing, and focused work"
       ],
-      "scrapedAt": "2026-06-09T01:27:32.983Z"
+      "scrapedAt": "2026-06-09T01:42:44.304Z"
     },
     {
       "id": "cs-wafer-space-gf180mcu-run-2",
@@ -64,7 +64,7 @@
       "summary_zh": [
         "Fabricate 1,000 chips of your own design"
       ],
-      "scrapedAt": "2026-06-09T01:27:32.984Z"
+      "scrapedAt": "2026-06-09T01:42:44.305Z"
     },
     {
       "id": "cs-leafkvm-leafkvm",
@@ -85,7 +85,7 @@
       "summary_zh": [
         "A flexible KVM remote control with support for wireless connectivity"
       ],
-      "scrapedAt": "2026-06-09T01:27:32.984Z"
+      "scrapedAt": "2026-06-09T01:42:44.305Z"
     },
     {
       "id": "cs-meatpi-electronics-wican-pro",
@@ -106,7 +106,7 @@
       "summary_zh": [
         "Advanced OBD scanner for next-generation vehicle diagnostics and Home Assistant integration"
       ],
-      "scrapedAt": "2026-06-09T01:27:32.985Z"
+      "scrapedAt": "2026-06-09T01:42:44.306Z"
     },
     {
       "id": "cs-meatpi-electronics-ollie-v2",
@@ -127,7 +127,7 @@
       "summary_zh": [
         "An even better all-in-one USB to isolated-UARTx2/CAN/RS485/RS232 converter"
       ],
-      "scrapedAt": "2026-06-09T01:27:32.986Z"
+      "scrapedAt": "2026-06-09T01:42:44.306Z"
     },
     {
       "id": "cs-meatpi-electronics-wican",
@@ -148,7 +148,7 @@
       "summary_zh": [
         "Open source, ESP32-C3 CAN adapter with USB, Wi-Fi, and BLE support"
       ],
-      "scrapedAt": "2026-06-09T01:27:32.986Z"
+      "scrapedAt": "2026-06-09T01:42:44.307Z"
     },
     {
       "id": "cs-bela-bela-gem-stereo-and-multi",
@@ -169,7 +169,7 @@
       "summary_zh": [
         "A high-performance audio and sensor system for the PocketBeagle 2"
       ],
-      "scrapedAt": "2026-06-09T01:27:32.987Z"
+      "scrapedAt": "2026-06-09T01:42:44.307Z"
     },
     {
       "id": "cs-sitron-labs-solder-ninja-pen",
@@ -190,7 +190,7 @@
       "summary_zh": [
         "A 45 W USB-powered soldering iron compatible with Weller RT Micro tips"
       ],
-      "scrapedAt": "2026-06-09T01:27:32.987Z"
+      "scrapedAt": "2026-06-09T01:42:44.308Z"
     },
     {
       "id": "cs-aerio-solutions-usb-insight-hub",
@@ -211,7 +211,7 @@
       "summary_zh": [
         "A USB interfacing tool for developers & tech enthusiasts"
       ],
-      "scrapedAt": "2026-06-09T01:27:32.987Z"
+      "scrapedAt": "2026-06-09T01:42:44.308Z"
     },
     {
       "id": "cs-icy-electronics-icepi-zero",
@@ -232,7 +232,7 @@
       "summary_zh": [
         "A powerful FPGA dev board in a familiar, pint-sized package"
       ],
-      "scrapedAt": "2026-06-09T01:27:32.987Z"
+      "scrapedAt": "2026-06-09T01:42:44.308Z"
     },
     {
       "id": "cs-saraai-sarakit",
@@ -253,7 +253,7 @@
       "summary_zh": [
         "Raspberry Pi CM4 expansion board with ChatGPT-based voice control, motor control, powerful sensors, and tons of tutorials"
       ],
-      "scrapedAt": "2026-06-09T01:27:32.988Z"
+      "scrapedAt": "2026-06-09T01:42:44.309Z"
     },
     {
       "id": "cs-apfaudio-tiliqua",
@@ -274,7 +274,7 @@
       "summary_zh": [
         "A powerful, hackable FPGA-based audio multitool for Eurorack"
       ],
-      "scrapedAt": "2026-06-09T01:27:32.988Z"
+      "scrapedAt": "2026-06-09T01:42:44.309Z"
     },
     {
       "id": "cs-silicognition-lifepo4wered-pi-plus",
@@ -295,7 +295,7 @@
       "summary_zh": [
         "A full-featured LiFePO4 battery, power manager, and UPS for the Raspberry Pi"
       ],
-      "scrapedAt": "2026-06-09T01:27:32.988Z"
+      "scrapedAt": "2026-06-09T01:42:44.309Z"
     },
     {
       "id": "cs-techxartisan-openterface-mini-kvm",
@@ -316,7 +316,7 @@
       "summary_zh": [
         "Your Laptop as a KVM Console"
       ],
-      "scrapedAt": "2026-06-09T01:27:32.989Z"
+      "scrapedAt": "2026-06-09T01:42:44.310Z"
     },
     {
       "id": "cs-mnt-pocket-reform",
@@ -337,7 +337,7 @@
       "summary_zh": [
         "A newer, smaller, lighter, more-affordable, seven-inch mini Reform laptop that remains fully open source"
       ],
-      "scrapedAt": "2026-06-09T01:27:32.989Z"
+      "scrapedAt": "2026-06-09T01:42:44.310Z"
     },
     {
       "id": "cs-securinghw-tigard",
@@ -358,7 +358,7 @@
       "summary_zh": [
         "An open source FT2232H-based, multi-protocol, multi-voltage tool for hardware hacking"
       ],
-      "scrapedAt": "2026-06-09T01:27:32.989Z"
+      "scrapedAt": "2026-06-09T01:42:44.311Z"
     },
     {
       "id": "cs-newae-chipwhisperer-husky",
@@ -379,7 +379,7 @@
       "summary_zh": [
         "The power-analysis and fault-injection tool you can hold in your paw"
       ],
-      "scrapedAt": "2026-06-09T01:27:32.990Z"
+      "scrapedAt": "2026-06-09T01:42:44.311Z"
     }
   ]
 }
