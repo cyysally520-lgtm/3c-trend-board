@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useMemo } from 'react';
 import { Calendar, Sparkles, ChevronDown, ChevronUp, ExternalLink } from 'lucide-react';
 import { NewsItem } from '../types';
 import { motion, AnimatePresence } from 'motion/react';
@@ -7,8 +7,26 @@ interface NewsCardProps {
   item: NewsItem;
 }
 
+/** 根据 publishedAt 实时计算相对时间描述 */
+function getRelativeTime(publishedAt: string): string {
+  const now = Date.now();
+  const then = new Date(publishedAt).getTime();
+  const diffMs = now - then;
+  if (diffMs < 0) return '刚刚';
+  const diffMin = Math.floor(diffMs / 60000);
+  if (diffMin < 1) return '刚刚';
+  if (diffMin < 60) return `${diffMin}分钟前`;
+  const diffHours = Math.floor(diffMin / 60);
+  if (diffHours < 24) return `${diffHours}小时前`;
+  const diffDays = Math.floor(diffHours / 24);
+  if (diffDays < 30) return `${diffDays}天前`;
+  const diffMonths = Math.floor(diffDays / 30);
+  return `${diffMonths}个月前`;
+}
+
 export const NewsCard: React.FC<NewsCardProps> = ({ item }) => {
   const [showAiSummary, setShowAiSummary] = useState(true);
+  const relativeTime = useMemo(() => getRelativeTime(item.publishedAt), [item.publishedAt]);
 
   const getSourceStyle = (source: string) => {
     switch (source) {
@@ -59,7 +77,7 @@ export const NewsCard: React.FC<NewsCardProps> = ({ item }) => {
           {/* Time block */}
           <div className="flex items-center gap-1.5 text-slate-400 font-mono text-[11px]">
             <Calendar className="w-3.5 h-3.5 text-slate-400 shrink-0" />
-            <span>发布于 {item.hoursAgo >= 24 ? `${Math.floor(item.hoursAgo / 24)}天前` : item.hoursAgo <= 1 ? '刚刚' : `${item.hoursAgo}小时前`}</span>
+            <span>发布于 {relativeTime}</span>
           </div>
 
           {/* Title */}

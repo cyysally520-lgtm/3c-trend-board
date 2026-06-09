@@ -23,7 +23,7 @@ export interface NewsItem {
   image: string;
   title: string;
   title_zh: string;
-  hoursAgo: number; // For relative time simulation
+  publishedAt: string; // ISO timestamp for real-time relative calculation
   snippet: string;
   snippet_zh: string[];
   url: string;

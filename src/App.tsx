@@ -68,14 +68,7 @@ export default function App() {
               const st = await stRes.json();
               if (Array.isArray(cf.items)) setCrowdfundingData(cf.items);
               if (Array.isArray(n.items)) {
-                // 把 publishedAt 转成 hoursAgo
-                const newsItems = n.items.map((item: any) => ({
-                  ...item,
-                  hoursAgo: item.publishedAt
-                    ? Math.max(1, Math.round((Date.now() - new Date(item.publishedAt).getTime()) / 3600000))
-                    : item.hoursAgo ?? 1,
-                }));
-                setNewsData(newsItems);
+                setNewsData(n.items);
               }
               if (Array.isArray(st.items)) setStartupData(st.items);
               // 加载投资项目数据

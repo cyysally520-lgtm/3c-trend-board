@@ -186,7 +186,7 @@ export const NEWS_DATA: NewsItem[] = [
     image: 'https://picsum.photos/seed/applear/600/400',
     title: 'Apple Unveils Vision SE Lightweight AR Headset to Compete with Normal Glasses',
     title_zh: '苹果发布轻量化 Vision SE 眼镜，正面阻击日常偏光AR眼罩',
-    hoursAgo: 2,
+    publishedAt: new Date(Date.now() - 2*3600000).toISOString(),
     snippet: 'Apple surprised developers today by dropping Vision SE, a lightweight version of its spatial computing headsets designed with standard style lens.',
     snippet_zh: [
       '相比前代暴减70%物理重量，镜片和普通眼镜相差无几，大幅缩窄前屏幕黑影。',
@@ -202,7 +202,7 @@ export const NEWS_DATA: NewsItem[] = [
     image: 'https://picsum.photos/seed/openaigrid/600/400',
     title: 'OpenAI Launches Operator Agent for Autonomous Handheld Hardware Control',
     title_zh: 'OpenAI 揭晓多源算力代理体系，接管手持 AI 智能微端',
-    hoursAgo: 5,
+    publishedAt: new Date(Date.now() - 5*3600000).toISOString(),
     snippet: 'OpenAI officially entered the robotic application race by announcing its Operator agent capable of controlling system inputs directly with natural languages.',
     snippet_zh: [
       '支持用户输入极低复杂指令，自动进行意图分解并执行长时间任务调用。',
@@ -218,7 +218,7 @@ export const NEWS_DATA: NewsItem[] = [
     image: 'https://picsum.photos/seed/gpdduo/600/400',
     title: 'GPD Duo OLED Dual-Screen laptop is a modular beast for cyber geeks',
     title_zh: 'GPD Duo 双面 OLED 笔记本成极客新宠，主打便携堆叠生产力',
-    hoursAgo: 12,
+    publishedAt: new Date(Date.now() - 12*3600000).toISOString(),
     snippet: 'The newly launched portable dual display computer from GPD delivers true productivity with double stacked OLED and desktop level connections.',
     snippet_zh: [
       '上下双置折叠 OLED 超极炫彩高刷新屏幕，能够合并全屏或多开任务副屏工作。',
@@ -234,7 +234,7 @@ export const NEWS_DATA: NewsItem[] = [
     image: 'https://picsum.photos/seed/iotpower/600/400',
     title: 'Cape Town Hardware startup power-up IoT nodes using wireless solar rays',
     title_zh: '开普敦创企推出长续航物联网微芯片，搭载微光太阳能能捕获结构',
-    hoursAgo: 18,
+    publishedAt: new Date(Date.now() - 18*3600000).toISOString(),
     snippet: 'Africa hardware innovation rises as Cape Town based teams design ambient light energy harvesting systems for global smart homes.',
     snippet_zh: [
       '内置纳米级高效光伏贴片感应网，依靠常态环境反射灯光即可完成稳定储能。',
@@ -250,7 +250,7 @@ export const NEWS_DATA: NewsItem[] = [
     image: 'https://picsum.photos/seed/logikey/600/400',
     title: 'Logitech Unveils MX Ergo Master: A Modular Trackball for Dynamic Splitting',
     title_zh: '罗技发布 MX Ergo Master：支持人体工学机械分裂设计的轨迹球鼠标',
-    hoursAgo: 24,
+    publishedAt: new Date(Date.now() - 24*3600000).toISOString(),
     snippet: 'Logitech’s latest mechanical keyboard paired with MX trackball splits apart seamlessly to match absolute alignment comfort.',
     snippet_zh: [
       '左右底盘模块通过高密磁吸扣快速分离，中间支持加装自定义快捷旋钮。',
@@ -266,7 +266,7 @@ export const NEWS_DATA: NewsItem[] = [
     image: 'https://picsum.photos/seed/aihear/600/400',
     title: 'AI Companion Hearables Take Center Stage with On-Device Multi languages Translation',
     title_zh: 'AI 翻译耳机全方位落地：支持完全不连网离线高精度多国同传译',
-    hoursAgo: 36,
+    publishedAt: new Date(Date.now() - 36*3600000).toISOString(),
     snippet: 'A wave of voice-first startups are shipping audio devices which can translate live speech offline without active cellular data.',
     snippet_zh: [
       '集成本地极精简声学语义模型层，覆盖主流近24种日常会话和工作讨论场景。',
@@ -282,7 +282,7 @@ export const NEWS_DATA: NewsItem[] = [
     image: 'https://picsum.photos/seed/heatwatch/600/400',
     title: 'HeatWatch: Solar-Charging Smartwatch Outlasts Any Battery Competitors',
     title_zh: 'HeatWatch 智能运动手表搭载热能充电架构，终结日常充电繁杂',
-    hoursAgo: 48,
+    publishedAt: new Date(Date.now() - 48*3600000).toISOString(),
     snippet: 'The newly introduced smartwatch runs indefinitely utilizing the temperature difference between human skin and ambient air.',
     snippet_zh: [
       '背壳应用高效半导体温差发电纳米模块，紧贴肌肤源源不断转换生物能。',
@@ -298,7 +298,7 @@ export const NEWS_DATA: NewsItem[] = [
     image: 'https://picsum.photos/seed/soundtech/600/400',
     title: 'Aura Sound Labs ships innovative directional dynamic dome speakers',
     title_zh: 'Aura Sound Labs 成功推出定向穹顶扬声器，构建尊享私人声场圈',
-    hoursAgo: 72,
+    publishedAt: new Date(Date.now() - 72*3600000).toISOString(),
     snippet: 'South African based sound tech teams are rolling out directional audio shields which keep your sound from bleeding into neighbor ears.',
     snippet_zh: [
       '使用相干声波束物理干涉阵列，成功将清晰悦耳声压束缚在 30 度的狭长区域。',
