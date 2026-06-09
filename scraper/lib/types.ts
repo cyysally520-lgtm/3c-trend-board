@@ -45,6 +45,7 @@ export interface RawStartupItem {
   intro: string;
   intro_zh: string[];
   founders: string;
+  team_size: string;           // 如 "11-50" / "1-10"
   location: string;
   batch: string;             // 如 "S24" / "W25"
   url: string;

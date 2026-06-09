@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Sparkles, Trophy, MapPin, UserCheck, ChevronDown, ChevronUp, ArrowUpRight } from 'lucide-react';
+import { Sparkles, Trophy, MapPin, Users, ChevronDown, ChevronUp, ArrowUpRight } from 'lucide-react';
 import { StartupItem } from '../types';
 import { motion, AnimatePresence } from 'motion/react';
 
@@ -90,11 +90,11 @@ export const StartupCard: React.FC<StartupCardProps> = ({ item }) => {
         <div className="pt-3 grid grid-cols-2 gap-4 text-[11px] border-t border-slate-100/85">
           <div className="space-y-0.5">
             <span className="text-slate-400 flex items-center gap-1">
-              <UserCheck className="w-3 h-3 text-slate-400" />
-              创始管理层
+              <Users className="w-3 h-3 text-slate-400" />
+              团队人数
             </span>
-            <p className="font-semibold text-slate-700 truncate" title={item.founders}>
-              {item.founders}
+            <p className="font-semibold text-slate-700 truncate" title={item.team_size || item.founders}>
+              {item.team_size || item.founders || '—'}
             </p>
           </div>
           <div className="space-y-0.5">

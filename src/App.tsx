@@ -368,7 +368,7 @@ export default function App() {
         item => 
           item.name.toLowerCase().includes(q) || 
           item.name_zh.toLowerCase().includes(q) ||
-          item.founders.toLowerCase().includes(q) ||
+          item.team_size.toLowerCase().includes(q) ||
           item.intro.toLowerCase().includes(q)
       );
     }

@@ -38,6 +38,7 @@ export interface StartupItem {
   intro: string;
   intro_zh: string[];
   founders: string;
+  team_size: string;
   location: string;
   batch: string;
   url: string;
