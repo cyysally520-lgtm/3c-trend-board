@@ -12,12 +12,9 @@ function getRelativeTime(publishedAt: string): string {
   const now = Date.now();
   const then = new Date(publishedAt).getTime();
   const diffMs = now - then;
-  if (diffMs < 0) return '刚刚';
-  const diffMin = Math.floor(diffMs / 60000);
-  if (diffMin < 1) return '刚刚';
-  if (diffMin < 60) return `${diffMin}分钟前`;
-  const diffHours = Math.floor(diffMin / 60);
-  if (diffHours < 24) return `${diffHours}小时前`;
+  if (diffMs < 0) return '1天内';
+  const diffHours = Math.floor(diffMs / 3600000);
+  if (diffHours < 24) return '1天内';
   const diffDays = Math.floor(diffHours / 24);
   if (diffDays < 30) return `${diffDays}天前`;
   const diffMonths = Math.floor(diffDays / 30);
