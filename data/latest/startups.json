@@ -17,7 +17,7 @@
       "location": "San Francisco, USA",
       "batch": "Spring 2026",
       "url": "https://www.anoria.com",
-      "scrapedAt": "2026-06-09T07:41:29.090Z"
+      "scrapedAt": "2026-06-09T08:01:37.959Z"
     },
     {
       "id": "yc-fort",
@@ -33,7 +33,7 @@
       "location": "San Francisco, USA",
       "batch": "Winter 2026",
       "url": "https://fort.cx",
-      "scrapedAt": "2026-06-09T07:41:29.090Z"
+      "scrapedAt": "2026-06-09T08:01:37.959Z"
     },
     {
       "id": "yc-tornyol",
@@ -46,10 +46,10 @@
       ],
       "founders": "Unknown",
       "team_size": "7",
-      "location": "Paris, Île-de-France, France",
+      "location": "Paris, France",
       "batch": "Fall 2025",
       "url": "https://tornyol.com/",
-      "scrapedAt": "2026-06-09T07:41:29.090Z"
+      "scrapedAt": "2026-06-09T08:01:37.959Z"
     },
     {
       "id": "yc-vassar-robotics",
@@ -65,7 +65,7 @@
       "location": "Los Angeles, USA",
       "batch": "Spring 2025",
       "url": "https://www.vassarrobotics.com",
-      "scrapedAt": "2026-06-09T07:41:29.090Z"
+      "scrapedAt": "2026-06-09T08:01:37.959Z"
     },
     {
       "id": "yc-pickle-2",
@@ -81,7 +81,7 @@
       "location": "San Francisco, USA",
       "batch": "Winter 2025",
       "url": "https://www.pickle.com",
-      "scrapedAt": "2026-06-09T07:41:29.090Z"
+      "scrapedAt": "2026-06-09T08:01:37.959Z"
     },
     {
       "id": "yc-innate",
@@ -97,7 +97,7 @@
       "location": "San Francisco, USA",
       "batch": "Fall 2024",
       "url": "https://innate.bot",
-      "scrapedAt": "2026-06-09T07:41:29.090Z"
+      "scrapedAt": "2026-06-09T08:01:37.959Z"
     },
     {
       "id": "yc-k-scale-labs",
@@ -113,7 +113,7 @@
       "location": "Palo Alto, USA",
       "batch": "Winter 2024",
       "url": "https://kscale.dev/",
-      "scrapedAt": "2026-06-09T07:41:29.090Z"
+      "scrapedAt": "2026-06-09T08:01:37.959Z"
     },
     {
       "id": "yc-tuesday-lab",
@@ -129,7 +129,7 @@
       "location": "New York, USA",
       "batch": "Winter 2024",
       "url": "https://www.tuesdaylab.com",
-      "scrapedAt": "2026-06-09T07:41:29.090Z"
+      "scrapedAt": "2026-06-09T08:01:37.959Z"
     }
   ]
 }

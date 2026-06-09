@@ -800,24 +800,28 @@ export default function App() {
                     type="text" 
                     value={startupSearch}
                     onChange={e => setStartupSearch(e.target.value)}
-                    placeholder="输入创业公司名、中文愿景、团队管理者关键词..." 
+                    placeholder="输入创业公司名" 
                     className="block w-full pl-9 pr-4 py-2 border border-slate-200 rounded-lg text-xs bg-slate-50 placeholder-slate-400 focus:outline-none focus:ring-1 focus:ring-emerald-500 focus:border-emerald-500 focus:bg-white transition"
                   />
                 </div>
 
                 {/* YC/a16z 批次限制过滤 */}
                 <div className="flex items-center gap-3 font-sans">
-                  <span className="text-[11px] text-slate-400 font-medium">孵化批次/创投:</span>
+                  <span className="text-[11px] text-slate-400 font-medium">批次:</span>
                   <select 
                     value={selectedBatch}
                     onChange={e => setSelectedBatch(e.target.value)}
                     className="bg-slate-50 border border-slate-200 rounded-md text-xs px-2.5 py-1.5 text-slate-700 outline-none focus:ring-1 focus:ring-emerald-500 cursor-pointer font-medium"
                   >
-                    <option value="">全部年份学届/状态</option>
-                    <option value="S24">S24 (Summer 2024 夏季班)</option>
-                    <option value="W25">W25 (Winter 2025 冬季班)</option>
-                    <option value="S25">S25 (Summer 2025 夏季班)</option>
-                    <option value="Active">a16z Active (投后活跃)</option>
+                    <option value="">全部批次</option>
+                    <option value="Spring 2026">S26（Spring 2026）</option>
+                    <option value="Winter 2026">W26（Winter 2026）</option>
+                    <option value="Fall 2025">F25（Fall 2025）</option>
+                    <option value="Summer 2025">S25（Summer 2025）</option>
+                    <option value="Winter 2025">W25（Winter 2025）</option>
+                    <option value="Fall 2024">F24（Fall 2024）</option>
+                    <option value="Summer 2024">S24（Summer 2024）</option>
+                    <option value="Active">a16z Active（投后活跃）</option>
                   </select>
 
                   {/* 重设 */}

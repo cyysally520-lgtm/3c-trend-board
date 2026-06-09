@@ -92,9 +92,13 @@ export async function scrapeYCombinator(maxItems = 100): Promise<ScrapeResult<Ra
           intro_zh: [hit.one_liner || hit.long_description?.slice(0, 240) || ''],
           founders: (hit.founders_names || []).join(', ') || 'Unknown',
           team_size: hit.team_size ? String(hit.team_size) : '',
-          location: (hit.all_locations || (hit.regions || []).join(', ') || 'Unknown')
-            .replace(/,?\s*[A-Z]{2}(?=,|$)/g, (m) => m.includes(',') ? '' : m)
-            .replace(/,\s*,/g, ',').replace(/^,\s*/, '').replace(/,\s*$/, ''),
+          location: (() => {
+            const raw = hit.all_locations || (hit.regions || []).join(', ') || 'Unknown';
+            // Keep only first (city) and last (country) parts, drop middle region/state
+            const parts = raw.split(',').map(s => s.trim()).filter(Boolean);
+            if (parts.length <= 2) return parts.join(', ');
+            return parts[0] + ', ' + parts[parts.length - 1];
+          })(),
           batch: hit.batch || '',
           url: hit.website || `https://www.ycombinator.com/companies/${hit.slug || ''}`,
           scrapedAt: new Date().toISOString(),
