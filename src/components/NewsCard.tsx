@@ -59,7 +59,7 @@ export const NewsCard: React.FC<NewsCardProps> = ({ item }) => {
           {/* Time block */}
           <div className="flex items-center gap-1.5 text-slate-400 font-mono text-[11px]">
             <Calendar className="w-3.5 h-3.5 text-slate-400 shrink-0" />
-            <span>发布于 {item.hoursAgo} 小时前</span>
+            <span>发布于 {item.hoursAgo >= 24 ? `${Math.floor(item.hoursAgo / 24)}天前` : item.hoursAgo <= 1 ? '刚刚' : `${item.hoursAgo}小时前`}</span>
           </div>
 
           {/* Integrated Multi languages Title */}

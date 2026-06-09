@@ -1,8 +1,9 @@
 /**
  * Indiegogo 爬虫
  * 入口：https://www.indiegogo.com/explore/technology
- * 策略：Playwright 动态渲染 + cheerio 解析
+ * 策略：Playwright 动态渲染 + 详情页补充抓取
  * 分类：Technology & Innovation
+ * 修复：抓取 founder/location/price
  */
 import * as cheerio from 'cheerio';
 import { newContext, gotoSafe } from '../lib/browser';
@@ -48,12 +49,13 @@ export async function scrapeIndiegogo(maxItems = 30): Promise<ScrapeResult<RawCr
     const html = await page.content();
     const $ = cheerio.load(html);
 
-    // Indiegogo 的项目链接格式：indiegogo.com/en/projects/...
+    // Indiegogo 的项目链接格式
     const projectLinks = $('a[href*="/projects/"]').toArray();
     log.info('indiegogo', `found ${projectLinks.length} project links`);
 
     const seenUrls = new Set<string>();
     let extracted = 0;
+    const detailUrls: string[] = [];
 
     for (const el of projectLinks) {
       if (extracted >= maxItems) break;
@@ -61,23 +63,22 @@ export async function scrapeIndiegogo(maxItems = 30): Promise<ScrapeResult<RawCr
         const $link = $(el);
         const href = $link.attr('href') || '';
 
-        // 只取 indiegogo.com 的链接，跳过 gamefound 等跨平台链接
+        // 只取 indiegogo.com 的链接
         if (!href.includes('indiegogo.com')) continue;
 
-        // 标准化 URL（去掉 :443 端口和 ref 参数）
+        // 标准化 URL
         const cleanUrl = href.replace(':443', '').replace(/\?ref=[^&]+/, '').replace(/\/$/, '');
         if (seenUrls.has(cleanUrl)) continue;
         seenUrls.add(cleanUrl);
 
-        // 项目名称 - 从链接文本或子元素获取
+        // 项目名称
         const linkText = $link.text().trim();
-        // 找到有实质文本的链接（跳过只有数字的链接如 "2.2k"）
         if (!linkText || linkText.length < 5 || /^\d/.test(linkText)) continue;
 
         const name = linkText.slice(0, 100).split('\n')[0].trim();
         if (!name || name.length < 3) continue;
 
-        // 获取项目卡片容器（向上找父级）
+        // 获取项目卡片容器
         const $card = $link.closest('div[class]');
 
         // 图片
@@ -89,7 +90,7 @@ export async function scrapeIndiegogo(maxItems = 30): Promise<ScrapeResult<RawCr
         // 描述
         const blurb = $card.find('p').first().text().trim();
 
-        // 筹集金额 - 从卡片文本中提取
+        // 筹集金额
         const cardText = $card.text();
         const amountMatch = cardText.match(/\$([\d,]+\.?\d*)/);
         const raised = amountMatch ? parseFloat(amountMatch[1].replace(/,/g, '')) : 0;
@@ -102,12 +103,6 @@ export async function scrapeIndiegogo(maxItems = 30): Promise<ScrapeResult<RawCr
         const pctMatch = cardText.match(/(\d+)%/);
         const progress_pct = pctMatch ? parseInt(pctMatch[1], 10) : (raised > 0 ? 100 : 0);
 
-        // 发起人
-        const founder = 'Unknown';
-
-        // 位置
-        const location = 'Unknown';
-
         const slugMatch = cleanUrl.match(/\/projects\/([^?]+)/);
         const slug = slugMatch ? slugMatch[1].replace(/\//g, '-') : name.toLowerCase().replace(/\s+/g, '-');
 
@@ -117,8 +112,8 @@ export async function scrapeIndiegogo(maxItems = 30): Promise<ScrapeResult<RawCr
           image,
           name,
           name_zh: name,
-          founder,
-          location,
+          founder: 'Unknown',
+          location: 'Unknown',
           raised,
           currency: 'USD',
           currencySymbol: '$',
@@ -131,9 +126,78 @@ export async function scrapeIndiegogo(maxItems = 30): Promise<ScrapeResult<RawCr
           scrapedAt: new Date().toISOString(),
         };
         result.items.push(item);
+        detailUrls.push(cleanUrl);
         extracted++;
       } catch (err) {
         result.errors.push(`card parse: ${err instanceof Error ? err.message : err}`);
+      }
+    }
+
+    // 第二阶段：用 Playwright 逐个访问详情页补充 founder/location/price
+    if (detailUrls.length > 0) {
+      log.info('indiegogo', `fetching detail pages for ${detailUrls.length} projects...`);
+      for (let i = 0; i < detailUrls.length && i < 15; i++) {
+        const url = detailUrls[i];
+        try {
+          const detailPage = await ctx.newPage();
+          await gotoSafe(detailPage, url, { timeoutMs: 30000, waitUntil: 'domcontentloaded' });
+          await detailPage.waitForTimeout(3000);
+          const detailHtml = await detailPage.content();
+          const $d = cheerio.load(detailHtml);
+
+          // 创始人
+          let founder = '';
+          const founderEl = $d('[class*="creator"], [class*="owner"], [class*="campaigner"], a[href*="/indiegogo.com/people/"]').first();
+          founder = founderEl.text().trim().replace(/^by\s+/i, '');
+          if (!founder) {
+            const byMatch = detailHtml.match(/by\s+([A-Z][a-zA-Z\s&.]+?)(?:\s*[·|,]|\s*<)/);
+            if (byMatch) founder = byMatch[1].trim();
+          }
+
+          // 位置
+          let location = '';
+          const locEl = $d('[class*="location"], [class*="city"], [class*="country"]').first();
+          location = locEl.text().trim();
+          if (!location) {
+            const locMatch = detailHtml.match(/([A-Z][a-z]+(?:\s*,\s*[A-Z][a-z]+)+)/);
+            if (locMatch) location = locMatch[1].trim();
+          }
+
+          // 价格：从 perk/reward 区域提取最低价格
+          let price = '';
+          const perkEl = $d('[class*="perk"], [class*="reward"], [class*="tier"]').first();
+          const perkText = perkEl.text();
+          const priceMatch = perkText.match(/\$(\d[\d,]*)/);
+          if (priceMatch) {
+            price = '$' + priceMatch[1];
+          }
+          if (!price) {
+            const allPrices = detailHtml.match(/\$(\d[\d,]*)/g);
+            if (allPrices && allPrices.length > 0) {
+              const prices = allPrices.map(p => parseInt(p.replace(/[$,]/g, ''), 10)).filter(p => p > 0);
+              if (prices.length > 0) {
+                const minPrice = Math.min(...prices);
+                price = '$' + minPrice.toLocaleString();
+              }
+            }
+          }
+
+          // 更新对应 item
+          if (i < result.items.length) {
+            if (founder) result.items[i].founder = founder;
+            if (location) result.items[i].location = location;
+            if (price) result.items[i].price = price;
+            log.info('indiegogo', `detail [${i + 1}/${detailUrls.length}]: founder=${founder || 'Unknown'}, loc=${location || 'Unknown'}, price=${price || ''}`);
+          }
+
+          await detailPage.close();
+        } catch (err) {
+          log.warn('indiegogo', `detail fetch failed for ${url}: ${err instanceof Error ? err.message : err}`);
+        }
+        // 礼貌间隔
+        if (i < detailUrls.length - 1) {
+          await new Promise(r => setTimeout(r, 1500));
+        }
       }
     }
 
