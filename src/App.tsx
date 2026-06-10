@@ -334,7 +334,7 @@ export default function App() {
                 </>
               )}
             </span>
-            <span className="text-slate-500 font-medium">
+            <span className="text-slate-500 font-medium text-[10px]">
               更新已完成 · <span className="text-slate-700 font-semibold font-mono">{lastUpdated}</span>
             </span>
           </div>
