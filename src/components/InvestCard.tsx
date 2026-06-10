@@ -51,17 +51,23 @@ export function InvestCard({ item }: Props) {
       <div className="p-4 flex-grow flex flex-col gap-3">
         {/* 头部区域 */}
         <div>
-          {/* 序号 + 融资状态 + 分类标签 */}
-          <div className="flex items-center gap-1.5 mb-2 flex-wrap">
-            <span className="text-[10px] font-mono font-bold text-slate-400 bg-slate-50 px-1.5 py-0.5 rounded">
-              #{item.rank}
-            </span>
-            <span className={`text-[10px] font-semibold px-2 py-0.5 rounded-full border ${getFundingStyle(item.funding)}`}>
-              {item.funding.split('（')[0].slice(0, 10)}
-            </span>
-            <span className={`text-[10px] font-semibold px-2 py-0.5 rounded-full border ${getCategoryStyle(item.category)}`}>
-              {item.category}
-            </span>
+          {/* 序号 + 融资状态 + 分类标签 + 时间 */}
+          <div className="flex items-center justify-between mb-2">
+            <div className="flex items-center gap-1.5 flex-wrap">
+              <span className="text-[10px] font-mono font-bold text-slate-400 bg-slate-50 px-1.5 py-0.5 rounded">
+                #{item.rank}
+              </span>
+              <span className={`text-[10px] font-semibold px-2 py-0.5 rounded-full border ${getFundingStyle(item.funding)}`}>
+                {item.funding.split('（')[0].slice(0, 10)}
+              </span>
+              <span className={`text-[10px] font-semibold px-2 py-0.5 rounded-full border ${getCategoryStyle(item.category)}`}>
+                {item.category}
+              </span>
+            </div>
+            <div className="flex items-center gap-1 text-slate-400 font-mono text-[11px] shrink-0 ml-2">
+              <Clock className="w-3 h-3 text-slate-400" />
+              <span>{item.daysAgo === 0 ? '今日更新' : `${item.daysAgo}天前`}</span>
+            </div>
           </div>
 
           {/* 项目名称 */}
@@ -129,11 +135,6 @@ export function InvestCard({ item }: Props) {
           </div>
         )}
 
-        {/* 时间标签 */}
-        <div className="flex items-center gap-1.5 text-slate-400 font-mono text-[11px]">
-          <Clock className="w-3 h-3 text-slate-400 shrink-0" />
-          <span>{item.daysAgo === 0 ? '今日更新' : `${item.daysAgo}天前`}</span>
-        </div>
       </div>
     </div>
   );
