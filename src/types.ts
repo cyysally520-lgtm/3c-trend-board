@@ -1,6 +1,6 @@
 export interface CrowdfundingItem {
-  id: number;
-  platform: 'Kickstarter' | 'Indiegogo' | 'Makuake' | 'Crowd Supply';
+  id: number | string;
+  platform: string;
   image: string;
   name: string;
   name_zh: string;
@@ -18,8 +18,8 @@ export interface CrowdfundingItem {
 }
 
 export interface NewsItem {
-  id: number;
-  source: 'Ventureburn' | 'The Verge' | 'Gizchina' | 'TechCrunch';
+  id: number | string;
+  source: string;
   image: string;
   title: string;
   title_zh: string;
@@ -31,8 +31,8 @@ export interface NewsItem {
 }
 
 export interface StartupItem {
-  id: number;
-  source: 'Y Combinator' | 'a16z';
+  id: number | string;
+  source: string;
   name: string;
   name_zh: string;
   intro: string;

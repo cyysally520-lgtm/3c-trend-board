@@ -323,6 +323,7 @@ export const STARTUP_DATA: StartupItem[] = [
       '广泛应用在跨大洋集装箱卫星运输跟踪、大体量工业设备温度传感器中。'
     ],
     founders: 'Alex Mercer, Dr. Zhao Wei',
+    team_size: '2-10',
     location: '波士顿, 美国',
     batch: 'W25',
     url: 'https://www.ycombinator.com'
@@ -339,6 +340,7 @@ export const STARTUP_DATA: StartupItem[] = [
       '未来可实现数码相机全景无码高清实时回传、无感眼动智能渲染。'
     ],
     founders: 'Emily Rostova, Julian Barnes',
+    team_size: '2-10',
     location: '圣何塞, 美国',
     batch: 'S24',
     url: 'https://www.ycombinator.com'
@@ -355,6 +357,7 @@ export const STARTUP_DATA: StartupItem[] = [
       '为未来空间混合计算终端带来颠覆性的轻巧无摩擦双向输入震动力学。'
     ],
     founders: 'Leo Tanaka, Sarah Lin',
+    team_size: '2-10',
     location: '东京都, 日本',
     batch: 'S25',
     url: 'https://www.ycombinator.com'
@@ -371,6 +374,7 @@ export const STARTUP_DATA: StartupItem[] = [
       '开放全部SDK，全平台极度轻巧底层协议极低系统延迟，仅需单节干电池。'
     ],
     founders: 'Zack Thorne, Maya Patil',
+    team_size: '2-10',
     location: '西雅图, 美国',
     batch: 'W25',
     url: 'https://www.ycombinator.com'
@@ -387,6 +391,7 @@ export const STARTUP_DATA: StartupItem[] = [
       '配备正面隐藏式高反度运动反光灯条和精密无线空气质量蓝牙数据记录。'
     ],
     founders: 'Kenji Sato, Robert Miller',
+    team_size: '2-10',
     location: '横滨市, 日本',
     batch: 'S24',
     url: 'https://www.ycombinator.com'
@@ -403,6 +408,7 @@ export const STARTUP_DATA: StartupItem[] = [
       '与本地科学助眠白噪音、睡眠阶段检测智能传感器结合，全程健康呵护。'
     ],
     founders: 'Dmitri Vanko, Helen Carter',
+    team_size: '2-10',
     location: '斯德哥尔摩, 瑞典',
     batch: 'S25',
     url: 'https://www.ycombinator.com'
@@ -419,6 +425,7 @@ export const STARTUP_DATA: StartupItem[] = [
       '柔软超薄富有弹性可完美隐藏扣于西装内衬，蓝牙连接随时物理控制理疗。'
     ],
     founders: 'Carlo Rossi, Dr. Fiona Gallagher',
+    team_size: '2-10',
     location: '米兰, 意大利',
     batch: 'W25',
     url: 'https://www.ycombinator.com'
@@ -435,6 +442,7 @@ export const STARTUP_DATA: StartupItem[] = [
       '专为越野、极限速降、野外勘探矿工选手设计的极简紧凑人体工程学构架。'
     ],
     founders: 'Tomás Silva, Lucas Bennett',
+    team_size: '2-10',
     location: '奥斯汀, 美国',
     batch: 'S24',
     url: 'https://www.ycombinator.com'

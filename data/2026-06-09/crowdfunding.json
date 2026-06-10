@@ -1,8 +1,260 @@
 {
   "date": "2026-06-09",
   "kind": "crowdfunding",
-  "count": 36,
+  "count": 30,
   "items": [
+    {
+      "id": "ks-allplanets-skysphere-building-an-intelligent-all-sky-camera-network?ref=discovery_category&total_hits=58011&category_id=340",
+      "platform": "Kickstarter",
+      "image": "https://i.kickstarter.com/assets/053/810/002/ed54ab8a25289edc90f51e2d1349be05_original.png?anim=false&fit=cover&gravity=auto&height=198&origin=ugc&q=92&v=1779314992&width=352&sig=wDuw8%2B7xSqJIQkUkXOUo5147YaT%2BeqR3LmBM5kq48NQ%3D",
+      "name": "SkySphere: Building an Intelligent All-Sky Camera Network",
+      "name_zh": "SkySphere: Building an Intelligent All-Sky Camera Network",
+      "founder": "Franck Marchis",
+      "location": "Unknown",
+      "raised": 0,
+      "currency": "USD",
+      "currencySymbol": "$",
+      "progress_pct": 0,
+      "backers": 0,
+      "price": "",
+      "campaign_url": "https://www.kickstarter.com/projects/allplanets/skysphere-building-an-intelligent-all-sky-camera-network?ref=discovery_category&total_hits=58011&category_id=340",
+      "category_tag_zh": "#科技",
+      "summary_zh": [
+        "Franck Marchis"
+      ],
+      "scrapedAt": "2026-06-09T11:53:07.132Z"
+    },
+    {
+      "id": "ks-lumoshelmet-lumos-sonorus-mesh-intercom-helmet-with-360-visibility?ref=discovery_category&total_hits=58011&category_id=52",
+      "platform": "Kickstarter",
+      "image": "https://i.kickstarter.com/assets/053/772/144/648e60b318ec2ea19bcf3e9fcb7c009f_original.png?anim=false&fit=cover&gravity=auto&height=198&origin=ugc&q=92&v=1779108217&width=352&sig=n6LfV8rK3jPGpGeax%2FlVnXoygKUzpCiJ5iLc%2B2Y26j0%3D",
+      "name": "Lumos Sonorus: Mesh Intercom Helmet with 360° Visibility",
+      "name_zh": "Lumos Sonorus: Mesh Intercom Helmet with 360° Visibility",
+      "founder": "Lumos Helmet",
+      "location": "Unknown",
+      "raised": 0,
+      "currency": "USD",
+      "currencySymbol": "$",
+      "progress_pct": 0,
+      "backers": 0,
+      "price": "",
+      "campaign_url": "https://www.kickstarter.com/projects/lumoshelmet/lumos-sonorus-mesh-intercom-helmet-with-360-visibility?ref=discovery_category&total_hits=58011&category_id=52",
+      "category_tag_zh": "#科技",
+      "summary_zh": [
+        "Lumos Helmet"
+      ],
+      "scrapedAt": "2026-06-09T11:53:07.132Z"
+    },
+    {
+      "id": "ks-xgimititannoir-xgimi-titan-noir-series-4k-projector?ref=discovery_category&total_hits=58011&category_id=52",
+      "platform": "Kickstarter",
+      "image": "https://i.kickstarter.com/assets/053/456/880/b52a551e8aa66c93dc57fe242ffbedb7_original.jpg?anim=false&fit=cover&gravity=auto&height=198&origin=ugc&q=92&v=1776955293&width=352&sig=B68pibrQulAKYKCXt9GdYusSII3CKBJwvUNjQ6SIrz0%3D",
+      "name": "XGIMI TITAN Noir Series: A Dual Iris 4K RGB Laser Projector",
+      "name_zh": "XGIMI TITAN Noir Series: A Dual Iris 4K RGB Laser Projector",
+      "founder": "XGIMI Tech",
+      "location": "Unknown",
+      "raised": 0,
+      "currency": "USD",
+      "currencySymbol": "$",
+      "progress_pct": 0,
+      "backers": 0,
+      "price": "",
+      "campaign_url": "https://www.kickstarter.com/projects/xgimititannoir/xgimi-titan-noir-series-4k-projector?ref=discovery_category&total_hits=58011&category_id=52",
+      "category_tag_zh": "#科技",
+      "summary_zh": [
+        "XGIMI Tech"
+      ],
+      "scrapedAt": "2026-06-09T11:53:07.134Z"
+    },
+    {
+      "id": "ks-magpietech-airox-145-psi-cordless-dual-compressor-station-just-99-lb?ref=discovery_category&total_hits=58011&category_id=337",
+      "platform": "Kickstarter",
+      "image": "https://i.kickstarter.com/assets/053/333/164/1ee6896a0e653260a4d514ef825463fd_original.jpg?anim=false&fit=cover&gravity=auto&height=198&origin=ugc&q=92&v=1776157663&width=352&sig=1NB%2F1NK0XreEAgBB%2BHE5ndvtfeTXU%2FgqRA6wyNmm91c%3D",
+      "name": "AIROX: 145 PSI Cordless Dual-Compressor. Just 9.9 lb",
+      "name_zh": "AIROX: 145 PSI Cordless Dual-Compressor. Just 9.9 lb",
+      "founder": "Magpie Tech",
+      "location": "Unknown",
+      "raised": 0,
+      "currency": "USD",
+      "currencySymbol": "$",
+      "progress_pct": 0,
+      "backers": 0,
+      "price": "",
+      "campaign_url": "https://www.kickstarter.com/projects/magpietech/airox-145-psi-cordless-dual-compressor-station-just-99-lb?ref=discovery_category&total_hits=58011&category_id=337",
+      "category_tag_zh": "#科技",
+      "summary_zh": [
+        "Magpie Tech"
+      ],
+      "scrapedAt": "2026-06-09T11:53:07.135Z"
+    },
+    {
+      "id": "ks-irahayes-dojo-air-smarter-breathwork-with-real-time-volume-feedback?ref=discovery_category&total_hits=58011&category_id=341",
+      "platform": "Kickstarter",
+      "image": "https://i.kickstarter.com/assets/053/836/061/b09e5dd16af1fb72538cb83098b6720a_original.jpg?anim=false&fit=cover&gravity=auto&height=198&origin=ugc&q=92&v=1779489966&width=352&sig=UCPkffOVNr6EiJbfoAHSUaaiWvluHrsVGNNe%2FI94XPk%3D",
+      "name": "DOJO Air: A Portable Data Driven Breath Trainer",
+      "name_zh": "DOJO Air: A Portable Data Driven Breath Trainer",
+      "founder": "DOJO Air",
+      "location": "Unknown",
+      "raised": 0,
+      "currency": "USD",
+      "currencySymbol": "$",
+      "progress_pct": 0,
+      "backers": 0,
+      "price": "",
+      "campaign_url": "https://www.kickstarter.com/projects/irahayes/dojo-air-smarter-breathwork-with-real-time-volume-feedback?ref=discovery_category&total_hits=58011&category_id=341",
+      "category_tag_zh": "#科技",
+      "summary_zh": [
+        "DOJO Air"
+      ],
+      "scrapedAt": "2026-06-09T11:53:07.136Z"
+    },
+    {
+      "id": "ks-glinet-comet-q?ref=discovery_category&total_hits=58011&category_id=337",
+      "platform": "Kickstarter",
+      "image": "https://i.kickstarter.com/assets/053/528/492/d8084aafa8b40a2ba3ec9beee0ecad30_original.jpg?anim=false&fit=cover&gravity=auto&height=198&origin=ugc&q=92&v=1777446985&width=352&sig=Ax8SrwZ%2FWlesiYOPbN8Ile3izda96sg1oRbnXvdT%2BDQ%3D",
+      "name": "GL.iNet Comet Q: Wake, Unlock & Control Remotely",
+      "name_zh": "GL.iNet Comet Q: Wake, Unlock & Control Remotely",
+      "founder": "GL.iNet",
+      "location": "Unknown",
+      "raised": 0,
+      "currency": "USD",
+      "currencySymbol": "$",
+      "progress_pct": 0,
+      "backers": 0,
+      "price": "",
+      "campaign_url": "https://www.kickstarter.com/projects/glinet/comet-q?ref=discovery_category&total_hits=58011&category_id=337",
+      "category_tag_zh": "#科技",
+      "summary_zh": [
+        "GL.iNet"
+      ],
+      "scrapedAt": "2026-06-09T11:53:07.137Z"
+    },
+    {
+      "id": "ks-800078983-ovo-not-a-mouse-a-new-way-to-point-0?ref=discovery_category&total_hits=58011&category_id=52",
+      "platform": "Kickstarter",
+      "image": "https://i.kickstarter.com/assets/053/872/131/6a676cbaf8dfc3e69db272447943e8b2_original.jpg?anim=false&fit=cover&gravity=auto&height=198&origin=ugc&q=92&v=1779799952&width=352&sig=Sp9zvlYBHMUutTr71GkSAtwzjokruhX2hB0Yp%2F%2F9yAI%3D",
+      "name": "OVO: Not a Mouse. A New Way to Point.",
+      "name_zh": "OVO: Not a Mouse. A New Way to Point.",
+      "founder": "NextAxis Design",
+      "location": "Unknown",
+      "raised": 0,
+      "currency": "USD",
+      "currencySymbol": "$",
+      "progress_pct": 0,
+      "backers": 0,
+      "price": "",
+      "campaign_url": "https://www.kickstarter.com/projects/800078983/ovo-not-a-mouse-a-new-way-to-point-0?ref=discovery_category&total_hits=58011&category_id=52",
+      "category_tag_zh": "#科技",
+      "summary_zh": [
+        "NextAxis Design"
+      ],
+      "scrapedAt": "2026-06-09T11:53:07.138Z"
+    },
+    {
+      "id": "ks-makeblock-xtool-wonderpress-the-most-creative-3d-auto-heat-press-ever?ref=discovery_category&total_hits=58011&category_id=334",
+      "platform": "Kickstarter",
+      "image": "https://i.kickstarter.com/assets/053/190/423/03ecd9cb9ab0cf4999dbfcda4aded8f4_original.jpg?anim=false&fit=cover&gravity=auto&height=198&origin=ugc&q=92&v=1775122328&width=352&sig=nt1NgUECOm1V9hlxmSkv8butbtQkFHnBUyb3CsFBopA%3D",
+      "name": "xTool WonderPress: The Most Creative 3D Auto Heat Press Ever",
+      "name_zh": "xTool WonderPress: The Most Creative 3D Auto Heat Press Ever",
+      "founder": "xTool",
+      "location": "Unknown",
+      "raised": 0,
+      "currency": "USD",
+      "currencySymbol": "$",
+      "progress_pct": 0,
+      "backers": 0,
+      "price": "",
+      "campaign_url": "https://www.kickstarter.com/projects/makeblock/xtool-wonderpress-the-most-creative-3d-auto-heat-press-ever?ref=discovery_category&total_hits=58011&category_id=334",
+      "category_tag_zh": "#科技",
+      "summary_zh": [
+        "xTool"
+      ],
+      "scrapedAt": "2026-06-09T11:53:07.139Z"
+    },
+    {
+      "id": "ks-inkwonprinting-inkwon-tag-worlds-1st-4-in-1-pocket-color-inkjet-printer?ref=discovery_category&total_hits=58011&category_id=334",
+      "platform": "Kickstarter",
+      "image": "https://i.kickstarter.com/assets/053/519/124/6c434387a07ae7efb57faf794739383f_original.png?anim=false&fit=cover&gravity=auto&height=198&origin=ugc&q=92&v=1777393724&width=352&sig=PE6hw6OVi4iPUaEyENemhKKh3Z1YXvbJhjxeeGr5N2I%3D",
+      "name": "INKWON Tag - World's 1st 4-in-1 Pocket Creative Studio",
+      "name_zh": "INKWON Tag - World's 1st 4-in-1 Pocket Creative Studio",
+      "founder": "INKWON Printing",
+      "location": "Unknown",
+      "raised": 0,
+      "currency": "USD",
+      "currencySymbol": "$",
+      "progress_pct": 0,
+      "backers": 0,
+      "price": "",
+      "campaign_url": "https://www.kickstarter.com/projects/inkwonprinting/inkwon-tag-worlds-1st-4-in-1-pocket-color-inkjet-printer?ref=discovery_category&total_hits=58011&category_id=334",
+      "category_tag_zh": "#科技",
+      "summary_zh": [
+        "INKWON Printing"
+      ],
+      "scrapedAt": "2026-06-09T11:53:07.140Z"
+    },
+    {
+      "id": "ks-nlab-nlab-the-worlds-smallest-all-in-one-electronics-lab?ref=discovery_category&total_hits=58011&category_id=337",
+      "platform": "Kickstarter",
+      "image": "https://i.kickstarter.com/assets/053/982/284/9705dbf9948702e8b805f7dc50d1f44b_original.png?anim=false&fit=cover&gravity=auto&height=198&origin=ugc&q=92&v=1780541005&width=352&sig=W%2B8I3X3G4Bp1wheRAYyhrC71UWk6V6yxJQklF3Oy130%3D",
+      "name": "nLab: The world's smallest all-in-one electronics lab.",
+      "name_zh": "nLab: The world's smallest all-in-one electronics lab.",
+      "founder": "Angie Mercurio",
+      "location": "Unknown",
+      "raised": 0,
+      "currency": "USD",
+      "currencySymbol": "$",
+      "progress_pct": 0,
+      "backers": 0,
+      "price": "",
+      "campaign_url": "https://www.kickstarter.com/projects/nlab/nlab-the-worlds-smallest-all-in-one-electronics-lab?ref=discovery_category&total_hits=58011&category_id=337",
+      "category_tag_zh": "#科技",
+      "summary_zh": [
+        "Angie Mercurio"
+      ],
+      "scrapedAt": "2026-06-09T11:53:07.141Z"
+    },
+    {
+      "id": "ks-zerowriter-zerowriter-fold?ref=discovery_category&total_hits=58011&category_id=52",
+      "platform": "Kickstarter",
+      "image": "https://i.kickstarter.com/assets/053/834/623/74c2d938157059ce0197c04dc39286a4_original.jpg?anim=false&fit=cover&gravity=auto&height=198&origin=ugc&q=92&v=1779479299&width=352&sig=lhOB%2FZqikQlP1y2eC2dPrd%2Fo%2FmTiNTsh2%2B4N0W7Rp10%3D",
+      "name": "Zerowriter Fold: E-Ink Word Processor",
+      "name_zh": "Zerowriter Fold: E-Ink Word Processor",
+      "founder": "Zerowriter",
+      "location": "Unknown",
+      "raised": 0,
+      "currency": "USD",
+      "currencySymbol": "$",
+      "progress_pct": 0,
+      "backers": 0,
+      "price": "",
+      "campaign_url": "https://www.kickstarter.com/projects/zerowriter/zerowriter-fold?ref=discovery_category&total_hits=58011&category_id=52",
+      "category_tag_zh": "#科技",
+      "summary_zh": [
+        "Zerowriter"
+      ],
+      "scrapedAt": "2026-06-09T11:53:07.142Z"
+    },
+    {
+      "id": "ks-omara-the-omara-scent-display-for-gaming?ref=discovery_category&total_hits=58011&category_id=52",
+      "platform": "Kickstarter",
+      "image": "https://i.kickstarter.com/assets/053/887/868/28a75bf8c2ff61925586fde1d2aec7a9_original.png?anim=false&fit=cover&gravity=auto&height=198&origin=ugc&q=92&v=1779887721&width=352&sig=qqH%2Bf006QHzy3qffit3e3%2Bicp595bPdH%2FzXJf41HWSc%3D",
+      "name": "The Omara Scent Display for Gaming",
+      "name_zh": "The Omara Scent Display for Gaming",
+      "founder": "OVR Technology",
+      "location": "Unknown",
+      "raised": 0,
+      "currency": "USD",
+      "currencySymbol": "$",
+      "progress_pct": 0,
+      "backers": 0,
+      "price": "",
+      "campaign_url": "https://www.kickstarter.com/projects/omara/the-omara-scent-display-for-gaming?ref=discovery_category&total_hits=58011&category_id=52",
+      "category_tag_zh": "#科技",
+      "summary_zh": [
+        "OVR Technology"
+      ],
+      "scrapedAt": "2026-06-09T11:53:07.144Z"
+    },
     {
       "id": "cs-micimike-rev-devices-micimike-home-mini-drop-in-pcb",
       "platform": "Crowd Supply",
@@ -22,7 +274,7 @@
       "summary_zh": [
         "A fully local, open-source replacement board that brings Home Assistant voice to the 1st Gen Google Home Mini"
       ],
-      "scrapedAt": "2026-06-09T09:17:44.460Z"
+      "scrapedAt": "2026-06-09T11:52:20.529Z"
     },
     {
       "id": "cs-modos-tech-modos-flow",
@@ -43,7 +295,7 @@
       "summary_zh": [
         "A paper-like monitor for reading, writing, and focused work"
       ],
-      "scrapedAt": "2026-06-09T09:17:44.461Z"
+      "scrapedAt": "2026-06-09T11:52:20.530Z"
     },
     {
       "id": "cs-wafer-space-gf180mcu-run-2",
@@ -64,7 +316,7 @@
       "summary_zh": [
         "Fabricate 1,000 chips of your own design"
       ],
-      "scrapedAt": "2026-06-09T09:17:44.462Z"
+      "scrapedAt": "2026-06-09T11:52:20.530Z"
     },
     {
       "id": "cs-leafkvm-leafkvm",
@@ -85,7 +337,7 @@
       "summary_zh": [
         "A flexible KVM remote control with support for wireless connectivity"
       ],
-      "scrapedAt": "2026-06-09T09:17:44.462Z"
+      "scrapedAt": "2026-06-09T11:52:20.531Z"
     },
     {
       "id": "cs-meatpi-electronics-wican-pro",
@@ -95,18 +347,18 @@
       "name_zh": "WiCAN Pro",
       "founder": "MeatPi Electronics",
       "location": "Melbourne, Australia",
-      "raised": 172439,
+      "raised": 172528,
       "currency": "USD",
       "currencySymbol": "$",
       "progress_pct": 100,
-      "backers": 1741,
+      "backers": 1742,
       "price": "$89",
       "campaign_url": "https://www.crowdsupply.com/meatpi-electronics/wican-pro",
       "category_tag_zh": "#硬件",
       "summary_zh": [
         "Advanced OBD scanner for next-generation vehicle diagnostics and Home Assistant integration"
       ],
-      "scrapedAt": "2026-06-09T09:17:44.476Z"
+      "scrapedAt": "2026-06-09T11:52:20.532Z"
     },
     {
       "id": "cs-meatpi-electronics-ollie-v2",
@@ -127,7 +379,7 @@
       "summary_zh": [
         "An even better all-in-one USB to isolated-UARTx2/CAN/RS485/RS232 converter"
       ],
-      "scrapedAt": "2026-06-09T09:17:44.476Z"
+      "scrapedAt": "2026-06-09T11:52:20.532Z"
     },
     {
       "id": "cs-meatpi-electronics-wican",
@@ -148,7 +400,7 @@
       "summary_zh": [
         "Open source, ESP32-C3 CAN adapter with USB, Wi-Fi, and BLE support"
       ],
-      "scrapedAt": "2026-06-09T09:17:44.477Z"
+      "scrapedAt": "2026-06-09T11:52:20.533Z"
     },
     {
       "id": "cs-bela-bela-gem-stereo-and-multi",
@@ -169,7 +421,7 @@
       "summary_zh": [
         "A high-performance audio and sensor system for the PocketBeagle 2"
       ],
-      "scrapedAt": "2026-06-09T09:17:44.477Z"
+      "scrapedAt": "2026-06-09T11:52:20.533Z"
     },
     {
       "id": "cs-sitron-labs-solder-ninja-pen",
@@ -190,7 +442,7 @@
       "summary_zh": [
         "A 45 W USB-powered soldering iron compatible with Weller RT Micro tips"
       ],
-      "scrapedAt": "2026-06-09T09:17:44.478Z"
+      "scrapedAt": "2026-06-09T11:52:20.534Z"
     },
     {
       "id": "cs-aerio-solutions-usb-insight-hub",
@@ -211,7 +463,7 @@
       "summary_zh": [
         "A USB interfacing tool for developers & tech enthusiasts"
       ],
-      "scrapedAt": "2026-06-09T09:17:44.478Z"
+      "scrapedAt": "2026-06-09T11:52:20.534Z"
     },
     {
       "id": "cs-icy-electronics-icepi-zero",
@@ -232,7 +484,7 @@
       "summary_zh": [
         "A powerful FPGA dev board in a familiar, pint-sized package"
       ],
-      "scrapedAt": "2026-06-09T09:17:44.479Z"
+      "scrapedAt": "2026-06-09T11:52:20.534Z"
     },
     {
       "id": "cs-saraai-sarakit",
@@ -253,7 +505,7 @@
       "summary_zh": [
         "Raspberry Pi CM4 expansion board with ChatGPT-based voice control, motor control, powerful sensors, and tons of tutorials"
       ],
-      "scrapedAt": "2026-06-09T09:17:44.479Z"
+      "scrapedAt": "2026-06-09T11:52:20.535Z"
     },
     {
       "id": "cs-apfaudio-tiliqua",
@@ -274,7 +526,7 @@
       "summary_zh": [
         "A powerful, hackable FPGA-based audio multitool for Eurorack"
       ],
-      "scrapedAt": "2026-06-09T09:17:44.480Z"
+      "scrapedAt": "2026-06-09T11:52:20.535Z"
     },
     {
       "id": "cs-silicognition-lifepo4wered-pi-plus",
@@ -295,7 +547,7 @@
       "summary_zh": [
         "A full-featured LiFePO4 battery, power manager, and UPS for the Raspberry Pi"
       ],
-      "scrapedAt": "2026-06-09T09:17:44.480Z"
+      "scrapedAt": "2026-06-09T11:52:20.535Z"
     },
     {
       "id": "cs-techxartisan-openterface-mini-kvm",
@@ -316,7 +568,7 @@
       "summary_zh": [
         "Your Laptop as a KVM Console"
       ],
-      "scrapedAt": "2026-06-09T09:17:44.481Z"
+      "scrapedAt": "2026-06-09T11:52:20.536Z"
     },
     {
       "id": "cs-mnt-pocket-reform",
@@ -337,7 +589,7 @@
       "summary_zh": [
         "A newer, smaller, lighter, more-affordable, seven-inch mini Reform laptop that remains fully open source"
       ],
-      "scrapedAt": "2026-06-09T09:17:44.481Z"
+      "scrapedAt": "2026-06-09T11:52:20.536Z"
     },
     {
       "id": "cs-securinghw-tigard",
@@ -358,7 +610,7 @@
       "summary_zh": [
         "An open source FT2232H-based, multi-protocol, multi-voltage tool for hardware hacking"
       ],
-      "scrapedAt": "2026-06-09T09:17:44.481Z"
+      "scrapedAt": "2026-06-09T11:52:20.537Z"
     },
     {
       "id": "cs-newae-chipwhisperer-husky",
@@ -379,385 +631,7 @@
       "summary_zh": [
         "The power-analysis and fault-injection tool you can hold in your paw"
       ],
-      "scrapedAt": "2026-06-09T09:17:44.482Z"
-    },
-    {
-      "id": "ks-crowartbook-the-crow-artbook",
-      "platform": "Kickstarter",
-      "image": "https://i.kickstarter.com/assets/054/034/064/e10221e8546ee02f254ccb66ee5ef6d9_original.jpg?anim=false&fit=cover&gravity=auto&height=198&origin=ugc&q=92&v=1780942477&width=352&sig=AFdmg164GIRmvlrwyPpd2d4LlB4jDI3f2IvGJiSEwYk%3D",
-      "name": "The Crow: Artbook",
-      "name_zh": "The Crow: Artbook",
-      "founder": "Printed In Blood",
-      "location": "Unknown",
-      "raised": 0,
-      "currency": "USD",
-      "currencySymbol": "$",
-      "progress_pct": 0,
-      "backers": 0,
-      "price": "",
-      "campaign_url": "https://www.kickstarter.com/projects/crowartbook/the-crow-artbook",
-      "category_tag_zh": "#科技",
-      "summary_zh": [
-        "Printed In Blood"
-      ],
-      "scrapedAt": "2026-06-09T09:19:20.189Z"
-    },
-    {
-      "id": "ks-direwolfdigital-war-of-the-dragon-the-wheel-of-time",
-      "platform": "Kickstarter",
-      "image": "https://i.kickstarter.com/assets/054/007/331/0ca5c71b59ed0ec541260f31eb962c82_original.jpg?anim=false&fit=cover&gravity=auto&height=198&origin=ugc&q=92&v=1780699511&width=352&sig=sYoCFXMROf9Ez0XfwEZJqTzLblpd5Q5k97nAe6CfoKQ%3D",
-      "name": "War of the Dragon: The Wheel of Time®",
-      "name_zh": "War of the Dragon: The Wheel of Time®",
-      "founder": "Dire Wolf",
-      "location": "Unknown",
-      "raised": 0,
-      "currency": "USD",
-      "currencySymbol": "$",
-      "progress_pct": 0,
-      "backers": 0,
-      "price": "",
-      "campaign_url": "https://www.kickstarter.com/projects/direwolfdigital/war-of-the-dragon-the-wheel-of-time",
-      "category_tag_zh": "#科技",
-      "summary_zh": [
-        "Dire Wolf"
-      ],
-      "scrapedAt": "2026-06-09T09:19:20.190Z"
-    },
-    {
-      "id": "ks-mgoblog-valiant-a-celebration-of-michigan-basketballs-2026-season",
-      "platform": "Kickstarter",
-      "image": "https://i.kickstarter.com/assets/053/533/194/25400f222f003fd2a9b7e8190c36611e_original.png?anim=false&fit=cover&gravity=auto&height=198&origin=ugc&q=92&v=1777472231&width=352&sig=i5vNzaBw8bwp7OQebm4H%2BPXbJxulInGOEL6TBpgkerU%3D",
-      "name": "VALIANT: A celebration of Michigan basketball's 2026 season",
-      "name_zh": "VALIANT: A celebration of Michigan basketball's 2026 season",
-      "founder": "Brian @ MGoBlog",
-      "location": "Unknown",
-      "raised": 0,
-      "currency": "USD",
-      "currencySymbol": "$",
-      "progress_pct": 0,
-      "backers": 0,
-      "price": "",
-      "campaign_url": "https://www.kickstarter.com/projects/mgoblog/valiant-a-celebration-of-michigan-basketballs-2026-season",
-      "category_tag_zh": "#科技",
-      "summary_zh": [
-        "Brian @ MGoBlog"
-      ],
-      "scrapedAt": "2026-06-09T09:19:20.191Z"
-    },
-    {
-      "id": "ks-298262371-unipop-the-last-jar-and-bottle-opener-youll-ever-need",
-      "platform": "Kickstarter",
-      "image": "https://i.kickstarter.com/assets/053/962/077/7cdfa269117beaace945b160d9ac551c_original.jpg?anim=false&fit=cover&gravity=auto&height=198&origin=ugc&q=92&v=1780417101&width=352&sig=JJgUObo8F1NNDhFnF1v%2FQJdcbUhuVde5S8brNUjaRlY%3D",
-      "name": "UniPop: The Last Jar & Bottle Opener You'll Ever Need 🥫",
-      "name_zh": "UniPop: The Last Jar & Bottle Opener You'll Ever Need 🥫",
-      "founder": "Hard Crafts",
-      "location": "Unknown",
-      "raised": 0,
-      "currency": "USD",
-      "currencySymbol": "$",
-      "progress_pct": 0,
-      "backers": 0,
-      "price": "",
-      "campaign_url": "https://www.kickstarter.com/projects/298262371/unipop-the-last-jar-and-bottle-opener-youll-ever-need",
-      "category_tag_zh": "#科技",
-      "summary_zh": [
-        "Hard Crafts"
-      ],
-      "scrapedAt": "2026-06-09T09:19:20.192Z"
-    },
-    {
-      "id": "ks-victorshiu-hover-a-surprisingly-brutal-hummingbird-game",
-      "platform": "Kickstarter",
-      "image": "https://i.kickstarter.com/assets/053/788/948/ff6f586472118d7d72a5d8d61b582658_original.jpg?anim=false&fit=cover&gravity=auto&height=198&origin=ugc&q=92&v=1779199381&width=352&sig=yIulo3fYhcmlQ%2FgajbUXLtMrBAblriHgLABN%2FdDIHRE%3D",
-      "name": "Hover - A Surprisingly Brutal Hummingbird Game",
-      "name_zh": "Hover - A Surprisingly Brutal Hummingbird Game",
-      "founder": "Victor Shiu",
-      "location": "Unknown",
-      "raised": 0,
-      "currency": "USD",
-      "currencySymbol": "$",
-      "progress_pct": 0,
-      "backers": 0,
-      "price": "",
-      "campaign_url": "https://www.kickstarter.com/projects/victorshiu/hover-a-surprisingly-brutal-hummingbird-game",
-      "category_tag_zh": "#科技",
-      "summary_zh": [
-        "Victor Shiu"
-      ],
-      "scrapedAt": "2026-06-09T09:19:20.192Z"
-    },
-    {
-      "id": "ks-cloverpress-the-amazing-spider-man-classic-newspaper-comics-1981-1984",
-      "platform": "Kickstarter",
-      "image": "https://i.kickstarter.com/assets/053/948/355/0b38a697ef477ff4556c3aeec7364d5c_original.jpg?anim=false&fit=cover&gravity=auto&height=198&origin=ugc&q=92&v=1780343329&width=352&sig=158jcUJG9cT0EHPwuPcllvBzq%2F98FJC5xbIkFdAwRo4%3D",
-      "name": "The Amazing Spider-Man Classic Newspaper Comics 1981-1984",
-      "name_zh": "The Amazing Spider-Man Classic Newspaper Comics 1981-1984",
-      "founder": "Clover Press",
-      "location": "Unknown",
-      "raised": 0,
-      "currency": "USD",
-      "currencySymbol": "$",
-      "progress_pct": 0,
-      "backers": 0,
-      "price": "",
-      "campaign_url": "https://www.kickstarter.com/projects/cloverpress/the-amazing-spider-man-classic-newspaper-comics-1981-1984",
-      "category_tag_zh": "#科技",
-      "summary_zh": [
-        "Clover Press"
-      ],
-      "scrapedAt": "2026-06-09T09:19:20.193Z"
-    },
-    {
-      "id": "ks-allplanets-skysphere-building-an-intelligent-all-sky-camera-network?ref=discovery_category&total_hits=58007&category_id=340",
-      "platform": "Kickstarter",
-      "image": "https://i.kickstarter.com/assets/053/810/002/ed54ab8a25289edc90f51e2d1349be05_original.png?anim=false&fit=cover&gravity=auto&height=198&origin=ugc&q=92&v=1779314992&width=352&sig=wDuw8%2B7xSqJIQkUkXOUo5147YaT%2BeqR3LmBM5kq48NQ%3D",
-      "name": "SkySphere: Building an Intelligent All-Sky Camera Network",
-      "name_zh": "SkySphere: Building an Intelligent All-Sky Camera Network",
-      "founder": "Franck Marchis",
-      "location": "Unknown",
-      "raised": 0,
-      "currency": "USD",
-      "currencySymbol": "$",
-      "progress_pct": 0,
-      "backers": 0,
-      "price": "",
-      "campaign_url": "https://www.kickstarter.com/projects/allplanets/skysphere-building-an-intelligent-all-sky-camera-network?ref=discovery_category&total_hits=58007&category_id=340",
-      "category_tag_zh": "#科技",
-      "summary_zh": [
-        "Franck Marchis"
-      ],
-      "scrapedAt": "2026-06-09T09:19:20.193Z"
-    },
-    {
-      "id": "ks-lumoshelmet-lumos-sonorus-mesh-intercom-helmet-with-360-visibility?ref=discovery_category&total_hits=58007&category_id=52",
-      "platform": "Kickstarter",
-      "image": "https://i.kickstarter.com/assets/053/772/144/648e60b318ec2ea19bcf3e9fcb7c009f_original.png?anim=false&fit=cover&gravity=auto&height=198&origin=ugc&q=92&v=1779108217&width=352&sig=n6LfV8rK3jPGpGeax%2FlVnXoygKUzpCiJ5iLc%2B2Y26j0%3D",
-      "name": "Lumos Sonorus: Mesh Intercom Helmet with 360° Visibility",
-      "name_zh": "Lumos Sonorus: Mesh Intercom Helmet with 360° Visibility",
-      "founder": "Lumos Helmet",
-      "location": "Unknown",
-      "raised": 0,
-      "currency": "USD",
-      "currencySymbol": "$",
-      "progress_pct": 0,
-      "backers": 0,
-      "price": "",
-      "campaign_url": "https://www.kickstarter.com/projects/lumoshelmet/lumos-sonorus-mesh-intercom-helmet-with-360-visibility?ref=discovery_category&total_hits=58007&category_id=52",
-      "category_tag_zh": "#科技",
-      "summary_zh": [
-        "Lumos Helmet"
-      ],
-      "scrapedAt": "2026-06-09T09:19:20.194Z"
-    },
-    {
-      "id": "ks-xgimititannoir-xgimi-titan-noir-series-4k-projector?ref=discovery_category&total_hits=58007&category_id=52",
-      "platform": "Kickstarter",
-      "image": "https://i.kickstarter.com/assets/053/456/880/b52a551e8aa66c93dc57fe242ffbedb7_original.jpg?anim=false&fit=cover&gravity=auto&height=198&origin=ugc&q=92&v=1776955293&width=352&sig=B68pibrQulAKYKCXt9GdYusSII3CKBJwvUNjQ6SIrz0%3D",
-      "name": "XGIMI TITAN Noir Series: A Dual Iris 4K RGB Laser Projector",
-      "name_zh": "XGIMI TITAN Noir Series: A Dual Iris 4K RGB Laser Projector",
-      "founder": "XGIMI Tech",
-      "location": "Unknown",
-      "raised": 0,
-      "currency": "USD",
-      "currencySymbol": "$",
-      "progress_pct": 0,
-      "backers": 0,
-      "price": "",
-      "campaign_url": "https://www.kickstarter.com/projects/xgimititannoir/xgimi-titan-noir-series-4k-projector?ref=discovery_category&total_hits=58007&category_id=52",
-      "category_tag_zh": "#科技",
-      "summary_zh": [
-        "XGIMI Tech"
-      ],
-      "scrapedAt": "2026-06-09T09:19:20.194Z"
-    },
-    {
-      "id": "ks-magpietech-airox-145-psi-cordless-dual-compressor-station-just-99-lb?ref=discovery_category&total_hits=58007&category_id=337",
-      "platform": "Kickstarter",
-      "image": "https://i.kickstarter.com/assets/053/333/164/1ee6896a0e653260a4d514ef825463fd_original.jpg?anim=false&fit=cover&gravity=auto&height=198&origin=ugc&q=92&v=1776157663&width=352&sig=1NB%2F1NK0XreEAgBB%2BHE5ndvtfeTXU%2FgqRA6wyNmm91c%3D",
-      "name": "AIROX: 145 PSI Cordless Dual-Compressor. Just 9.9 lb",
-      "name_zh": "AIROX: 145 PSI Cordless Dual-Compressor. Just 9.9 lb",
-      "founder": "Magpie Tech",
-      "location": "Unknown",
-      "raised": 0,
-      "currency": "USD",
-      "currencySymbol": "$",
-      "progress_pct": 0,
-      "backers": 0,
-      "price": "",
-      "campaign_url": "https://www.kickstarter.com/projects/magpietech/airox-145-psi-cordless-dual-compressor-station-just-99-lb?ref=discovery_category&total_hits=58007&category_id=337",
-      "category_tag_zh": "#科技",
-      "summary_zh": [
-        "Magpie Tech"
-      ],
-      "scrapedAt": "2026-06-09T09:19:20.195Z"
-    },
-    {
-      "id": "ks-irahayes-dojo-air-smarter-breathwork-with-real-time-volume-feedback?ref=discovery_category&total_hits=58007&category_id=341",
-      "platform": "Kickstarter",
-      "image": "https://i.kickstarter.com/assets/053/836/061/b09e5dd16af1fb72538cb83098b6720a_original.jpg?anim=false&fit=cover&gravity=auto&height=198&origin=ugc&q=92&v=1779489966&width=352&sig=UCPkffOVNr6EiJbfoAHSUaaiWvluHrsVGNNe%2FI94XPk%3D",
-      "name": "DOJO Air: A Portable Data Driven Breath Trainer",
-      "name_zh": "DOJO Air: A Portable Data Driven Breath Trainer",
-      "founder": "DOJO Air",
-      "location": "Unknown",
-      "raised": 0,
-      "currency": "USD",
-      "currencySymbol": "$",
-      "progress_pct": 0,
-      "backers": 0,
-      "price": "",
-      "campaign_url": "https://www.kickstarter.com/projects/irahayes/dojo-air-smarter-breathwork-with-real-time-volume-feedback?ref=discovery_category&total_hits=58007&category_id=341",
-      "category_tag_zh": "#科技",
-      "summary_zh": [
-        "DOJO Air"
-      ],
-      "scrapedAt": "2026-06-09T09:19:20.196Z"
-    },
-    {
-      "id": "ks-glinet-comet-q?ref=discovery_category&total_hits=58007&category_id=337",
-      "platform": "Kickstarter",
-      "image": "https://i.kickstarter.com/assets/053/528/492/d8084aafa8b40a2ba3ec9beee0ecad30_original.jpg?anim=false&fit=cover&gravity=auto&height=198&origin=ugc&q=92&v=1777446985&width=352&sig=Ax8SrwZ%2FWlesiYOPbN8Ile3izda96sg1oRbnXvdT%2BDQ%3D",
-      "name": "GL.iNet Comet Q: Wake, Unlock & Control Remotely",
-      "name_zh": "GL.iNet Comet Q: Wake, Unlock & Control Remotely",
-      "founder": "GL.iNet",
-      "location": "Unknown",
-      "raised": 0,
-      "currency": "USD",
-      "currencySymbol": "$",
-      "progress_pct": 0,
-      "backers": 0,
-      "price": "",
-      "campaign_url": "https://www.kickstarter.com/projects/glinet/comet-q?ref=discovery_category&total_hits=58007&category_id=337",
-      "category_tag_zh": "#科技",
-      "summary_zh": [
-        "GL.iNet"
-      ],
-      "scrapedAt": "2026-06-09T09:19:20.197Z"
-    },
-    {
-      "id": "ks-makeblock-xtool-wonderpress-the-most-creative-3d-auto-heat-press-ever?ref=discovery_category&total_hits=58007&category_id=334",
-      "platform": "Kickstarter",
-      "image": "https://i.kickstarter.com/assets/053/190/423/03ecd9cb9ab0cf4999dbfcda4aded8f4_original.jpg?anim=false&fit=cover&gravity=auto&height=198&origin=ugc&q=92&v=1775122328&width=352&sig=nt1NgUECOm1V9hlxmSkv8butbtQkFHnBUyb3CsFBopA%3D",
-      "name": "xTool WonderPress: The Most Creative 3D Auto Heat Press Ever",
-      "name_zh": "xTool WonderPress: The Most Creative 3D Auto Heat Press Ever",
-      "founder": "xTool",
-      "location": "Unknown",
-      "raised": 0,
-      "currency": "USD",
-      "currencySymbol": "$",
-      "progress_pct": 0,
-      "backers": 0,
-      "price": "",
-      "campaign_url": "https://www.kickstarter.com/projects/makeblock/xtool-wonderpress-the-most-creative-3d-auto-heat-press-ever?ref=discovery_category&total_hits=58007&category_id=334",
-      "category_tag_zh": "#科技",
-      "summary_zh": [
-        "xTool"
-      ],
-      "scrapedAt": "2026-06-09T09:19:20.197Z"
-    },
-    {
-      "id": "ks-omara-the-omara-scent-display-for-gaming?ref=discovery_category&total_hits=58007&category_id=52",
-      "platform": "Kickstarter",
-      "image": "https://i.kickstarter.com/assets/053/887/868/28a75bf8c2ff61925586fde1d2aec7a9_original.png?anim=false&fit=cover&gravity=auto&height=198&origin=ugc&q=92&v=1779887721&width=352&sig=qqH%2Bf006QHzy3qffit3e3%2Bicp595bPdH%2FzXJf41HWSc%3D",
-      "name": "The Omara Scent Display for Gaming",
-      "name_zh": "The Omara Scent Display for Gaming",
-      "founder": "OVR Technology",
-      "location": "Unknown",
-      "raised": 0,
-      "currency": "USD",
-      "currencySymbol": "$",
-      "progress_pct": 0,
-      "backers": 0,
-      "price": "",
-      "campaign_url": "https://www.kickstarter.com/projects/omara/the-omara-scent-display-for-gaming?ref=discovery_category&total_hits=58007&category_id=52",
-      "category_tag_zh": "#科技",
-      "summary_zh": [
-        "OVR Technology"
-      ],
-      "scrapedAt": "2026-06-09T09:19:20.198Z"
-    },
-    {
-      "id": "ks-tayen-icemist-the-ultimate-semiconductor-portable-mist-fan?ref=discovery_category&total_hits=58007&category_id=52",
-      "platform": "Kickstarter",
-      "image": "https://i.kickstarter.com/assets/053/982/240/5bff82b91a7e3d84958d3b0adf8eb587_original.png?anim=false&fit=cover&gravity=auto&height=198&origin=ugc&q=92&v=1780540771&width=352&sig=1oj0if%2FaJcaVXi4uT6T5tcEhVhes0%2F39jLOg4%2BgEqN8%3D",
-      "name": "TAYEN Gen 2 — AC-Style Semiconductor Cooling Mist Fan",
-      "name_zh": "TAYEN Gen 2 — AC-Style Semiconductor Cooling Mist Fan",
-      "founder": "Tayen tech",
-      "location": "Unknown",
-      "raised": 0,
-      "currency": "USD",
-      "currencySymbol": "$",
-      "progress_pct": 0,
-      "backers": 0,
-      "price": "",
-      "campaign_url": "https://www.kickstarter.com/projects/tayen/icemist-the-ultimate-semiconductor-portable-mist-fan?ref=discovery_category&total_hits=58007&category_id=52",
-      "category_tag_zh": "#科技",
-      "summary_zh": [
-        "Tayen tech"
-      ],
-      "scrapedAt": "2026-06-09T09:19:20.198Z"
-    },
-    {
-      "id": "ks-ironfleet-iron-fleet-the-diy-rc-tank-that-teaches-real-engineering?ref=discovery_category&total_hits=58007&category_id=334",
-      "platform": "Kickstarter",
-      "image": "https://i.kickstarter.com/assets/053/611/238/0a7a6df87fcb398d930d729140e42417_original.png?anim=false&fit=cover&gravity=auto&height=198&origin=ugc&q=92&v=1778020814&width=352&sig=aH%2F6q9AszUOkVzzRGWuUoJMjJLwR5B%2BjVk3ZDCGj%2BSc%3D",
-      "name": "Iron Fleet: The DIY RC Tank That Teaches Real Engineering",
-      "name_zh": "Iron Fleet: The DIY RC Tank That Teaches Real Engineering",
-      "founder": "Iron Bull",
-      "location": "Unknown",
-      "raised": 0,
-      "currency": "USD",
-      "currencySymbol": "$",
-      "progress_pct": 0,
-      "backers": 0,
-      "price": "",
-      "campaign_url": "https://www.kickstarter.com/projects/ironfleet/iron-fleet-the-diy-rc-tank-that-teaches-real-engineering?ref=discovery_category&total_hits=58007&category_id=334",
-      "category_tag_zh": "#科技",
-      "summary_zh": [
-        "Iron Bull"
-      ],
-      "scrapedAt": "2026-06-09T09:19:20.199Z"
-    },
-    {
-      "id": "ks-1180418196-vbookscan-all-in-one-smart-scanning-solution?ref=discovery_category&total_hits=58007&category_id=337",
-      "platform": "Kickstarter",
-      "image": "https://i.kickstarter.com/assets/053/621/553/6a45a7338c61a83f297031a87193bf86_original.jpg?anim=false&fit=cover&gravity=auto&height=198&origin=ugc&q=92&v=1778083069&width=352&sig=QdjSzscNpgbl9gfwXkceyqX4pFGl3B6w1RBp2OQihc4%3D",
-      "name": "VbookScan - All-in-One Smart Scanning Solution",
-      "name_zh": "VbookScan - All-in-One Smart Scanning Solution",
-      "founder": "VbookScan",
-      "location": "Unknown",
-      "raised": 0,
-      "currency": "USD",
-      "currencySymbol": "$",
-      "progress_pct": 0,
-      "backers": 0,
-      "price": "",
-      "campaign_url": "https://www.kickstarter.com/projects/1180418196/vbookscan-all-in-one-smart-scanning-solution?ref=discovery_category&total_hits=58007&category_id=337",
-      "category_tag_zh": "#科技",
-      "summary_zh": [
-        "VbookScan"
-      ],
-      "scrapedAt": "2026-06-09T09:19:20.200Z"
-    },
-    {
-      "id": "ks-465535565-linyo-h1-car-wash-machine?ref=discovery_category&total_hits=58007&category_id=16",
-      "platform": "Kickstarter",
-      "image": "https://i.kickstarter.com/assets/053/909/644/fd8e04578a956e139738b07302cf86d0_original.jpg?anim=false&fit=cover&gravity=auto&height=198&origin=ugc&q=92&v=1780027144&width=352&sig=%2Bc12Nq8X486HDaI%2BEGZwej7UrM1l2oDdFxHREaB3IVs%3D",
-      "name": "LINYO H1 Car Wash Machine",
-      "name_zh": "LINYO H1 Car Wash Machine",
-      "founder": "Linyo",
-      "location": "Unknown",
-      "raised": 0,
-      "currency": "USD",
-      "currencySymbol": "$",
-      "progress_pct": 0,
-      "backers": 0,
-      "price": "",
-      "campaign_url": "https://www.kickstarter.com/projects/465535565/linyo-h1-car-wash-machine?ref=discovery_category&total_hits=58007&category_id=16",
-      "category_tag_zh": "#科技",
-      "summary_zh": [
-        "Linyo"
-      ],
-      "scrapedAt": "2026-06-09T09:19:20.200Z"
+      "scrapedAt": "2026-06-09T11:52:20.537Z"
     }
   ]
 }

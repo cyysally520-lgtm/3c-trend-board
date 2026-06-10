@@ -1,15 +1,41 @@
 /**
  * Kickstarter 爬虫
  * 入口：https://www.kickstarter.com/discover/advanced?category_id=16&sort=popular
- * 策略：Playwright 动态渲染 + cheerio 解析
+ * 策略：Playwright 动态渲染 + data-project JSON 提取（主要）+ cheerio DOM 解析（回退）
  * 分类：Technology (id=16)
+ * 
+ * 关键发现：KS 列表页的 .js-react-proj-card[data-project] 属性包含完整项目 JSON，
+ * 包含 pledged、backers_count、percent_funded、creator、location 等所有需要的字段。
+ * Cloudflare 会间歇性拦截，需要等待验证通过后提取。
  */
 import * as cheerio from 'cheerio';
-import { newContext, gotoSafe } from '../lib/browser';
+import { newContext, gotoSafe, waitForCloudflare } from '../lib/browser';
 import { log } from '../lib/logger';
 import type { RawCrowdfundingItem, ScrapeResult } from '../lib/types';
 
 const DISCOVER_URL = 'https://www.kickstarter.com/discover/advanced?category_id=16&sort=popular&seed=2846981&page=1';
+
+/** KS data-project JSON 中项目对象的类型定义 */
+interface KSProject {
+  id: number;
+  name: string;
+  slug: string;
+  blurb: string;
+  goal: { amount: number; currency: string; currency_symbol: string } | number;
+  pledged: { amount: number; currency: string; currency_symbol: string } | number;
+  backers_count: number;
+  percent_funded: number;
+  currency: string;
+  currency_symbol?: string;
+  deadline: number;
+  launched_at: number;
+  state: string;
+  creator?: { id: number; name: string; slug: string };
+  location?: { id: number; name: string; displayable_name: string; country: string };
+  category?: { id: number; name: string; slug: string; parent_id?: number };
+  photo?: { key: string; full: string; ed: string; med: string; little: string; small: string; thumb: string };
+  urls?: { web?: { project: string }; api?: { project: string } };
+}
 
 export async function scrapeKickstarter(maxItems = 30): Promise<ScrapeResult<RawCrowdfundingItem>> {
   const t0 = Date.now();
@@ -26,22 +52,46 @@ export async function scrapeKickstarter(maxItems = 30): Promise<ScrapeResult<Raw
 
   try {
     log.info('kickstarter', `loading: ${DISCOVER_URL}`);
-    await gotoSafe(page, DISCOVER_URL, { timeoutMs: 60000 });
+    // 使用 load 事件（比 domcontentloaded 更早触发），Cloudflare 验证页也能触发
+    await gotoSafe(page, DISCOVER_URL, { timeoutMs: 45000, waitUntil: 'load' });
+
+    // 等待 Cloudflare 验证通过（标题从 "Just a moment..." 变为实际标题）
+    let cloudflareOk = await waitForCloudflare(page);
+    if (!cloudflareOk) {
+      // 策略：刷新页面重试（Cloudflare 有时在第二次访问时放行）
+      log.warn('kickstarter', 'Cloudflare challenge not passed, retrying with page reload...');
+      await page.reload({ waitUntil: 'load', timeout: 45000 }).catch(() => {});
+      cloudflareOk = await waitForCloudflare(page, 30);
+    }
+    if (!cloudflareOk) {
+      log.warn('kickstarter', 'Cloudflare challenge did not pass after retry, attempting anyway');
+    }
 
     // 等待项目卡片加载
-    await page.waitForSelector('[data-testid="project-card"], .js-react-proj-card, div[class*="project_"]', { timeout: 30000 }).catch(() => {
+    await page.waitForSelector('.js-react-proj-card', { timeout: 30000 }).catch(() => {
       log.warn('kickstarter', 'project card selector timeout, trying anyway');
     });
-
-    // 额外等待让数据渲染完
     await page.waitForTimeout(3000);
 
+    // ===== 策略 1：从 data-project 属性提取完整 JSON =====
+    const jsonItems = await extractFromDataProject(page, maxItems);
+    if (jsonItems.length > 0) {
+      log.ok('kickstarter', `extracted ${jsonItems.length} items from data-project JSON`);
+      result.items = jsonItems;
+      result.ok = true;
+      result.durationMs = Date.now() - t0;
+      await page.close();
+      await ctx.close();
+      return result;
+    }
+
+    // ===== 策略 2：cheerio DOM 解析（回退） =====
+    log.info('kickstarter', 'data-project JSON extraction failed, falling back to DOM parsing');
     const html = await page.content();
     const $ = cheerio.load(html);
 
-    // Kickstarter 多种页面结构，尝试多种选择器
     const cards = $('[data-testid="project-card"], .js-react-proj-card, div[class*="project-card"], a[class*="project_"]').toArray();
-    log.info('kickstarter', `found ${cards.length} project cards`);
+    log.info('kickstarter', `found ${cards.length} project cards via DOM`);
 
     const seenIds = new Set<string>();
     let extracted = 0;
@@ -50,54 +100,39 @@ export async function scrapeKickstarter(maxItems = 30): Promise<ScrapeResult<Raw
       if (extracted >= maxItems) break;
       try {
         const $card = $(el);
-
-        // 项目链接
         const href = $card.find('a[href*="/projects/"]').first().attr('href') || $card.attr('href') || '';
         const campaignUrl = href.startsWith('http') ? href : `https://www.kickstarter.com${href}`;
         if (!href || seenIds.has(campaignUrl)) continue;
 
-        // 项目名称
         const name = $card.find('h3, [class*="title"], [class*="project-title"]').first().text().trim()
           || $card.find('a[href*="/projects/"]').first().text().trim();
         if (!name) continue;
 
-        // 图片
         const imgSrc = $card.find('img').first().attr('src') || '';
         const image = imgSrc.startsWith('//') ? 'https:' + imgSrc
           : imgSrc.startsWith('/') ? 'https://www.kickstarter.com' + imgSrc
           : imgSrc;
 
-        // 描述
         const blurb = $card.find('p[class*="blurb"], [class*="description"], p').first().text().trim();
-
-        // 筹集金额 - 解析 "$123,456 pledged" 格式
         const pledgedText = $card.find('[class*="pledged"], [class*="amount"]').text();
         const pledgedMatch = pledgedText.match(/[\$€£¥]?([\d,]+\.?\d*)/);
         const raised = pledgedMatch ? parseFloat(pledgedMatch[1].replace(/,/g, '')) : 0;
 
-        // 支持者数
         const backersText = $card.find('[class*="backer"], [class*="supporter"]').text();
         const backersMatch = backersText.match(/([\d,]+)/);
         const backers = backersMatch ? parseInt(backersMatch[1].replace(/,/g, ''), 10) : 0;
 
-        // 进度百分比
         const pctText = $card.find('[class*="percent"], [class*="progress"], [class*="funded"]').text();
         const pctMatch = pctText.match(/(\d+)%/);
         const progress_pct = pctMatch ? parseInt(pctMatch[1], 10) : (raised > 0 ? 100 : 0);
 
-        // 发起人
         const founder = $card.find('[class*="creator"], [class*="author"], [class*="by"]').text().trim().replace(/^by\s+/i, '') || 'Unknown';
-
-        // 位置
         const location = $card.find('[class*="location"]').text().trim() || 'Unknown';
-
-        // 价格
-        const priceText = $card.find('[class*="price"], [class*="reward"]').first().text().trim();
 
         const slug = href.split('/projects/')[1]?.replace(/\//g, '-') || name.toLowerCase().replace(/\s+/g, '-');
         seenIds.add(campaignUrl);
 
-        const item: RawCrowdfundingItem = {
+        result.items.push({
           id: `ks-${slug}`,
           platform: 'Kickstarter',
           image,
@@ -110,70 +145,20 @@ export async function scrapeKickstarter(maxItems = 30): Promise<ScrapeResult<Raw
           currencySymbol: '$',
           progress_pct,
           backers,
-          price: priceText || '',
+          price: '',
           campaign_url: campaignUrl,
           category_tag_zh: '#科技',
           summary_zh: blurb ? [blurb.slice(0, 200)] : [],
           scrapedAt: new Date().toISOString(),
-        };
-        result.items.push(item);
+        });
         extracted++;
       } catch (err) {
         result.errors.push(`card parse: ${err instanceof Error ? err.message : err}`);
       }
     }
 
-    // 如果第一页没抓到足够数据，尝试 API 方式
-    if (result.items.length < 5) {
-      log.info('kickstarter', 'DOM parsing got few results, trying API endpoint...');
-      try {
-        const apiUrl = 'https://www.kickstarter.com/services/search/graphql?query=%7B%22category_id%22%3A16%2C%22sort%22%3A%22popular%22%2C%22page%22%3A1%7D';
-        const apiPage = await ctx.newPage();
-        await gotoSafe(apiPage, apiUrl, { timeoutMs: 30000, waitUntil: 'domcontentloaded' });
-        const apiText = await apiPage.locator('body').textContent().catch(() => '');
-        await apiPage.close();
-
-        if (apiText) {
-          try {
-            const apiData = JSON.parse(apiText);
-            const projects = apiData?.data?.projects?.edges || apiData?.projects || [];
-            for (const edge of projects) {
-              if (extracted >= maxItems) break;
-              const p = edge.node || edge;
-              if (!p.name || seenIds.has(p.url)) continue;
-              seenIds.add(p.url);
-              result.items.push({
-                id: `ks-${p.slug || p.pid}`,
-                platform: 'Kickstarter',
-                image: p.image?.full || p.imageUrl || '',
-                name: p.name,
-                name_zh: p.name,
-                founder: p.creator?.name || 'Unknown',
-                location: p.location?.displayable_name || 'Unknown',
-                raised: p.pledged?.amount || p.pledged_amount || 0,
-                currency: p.pledged?.currency || p.currency || 'USD',
-                currencySymbol: p.pledged?.currency_symbol || '$',
-                progress_pct: p.percent_funded || Math.round(((p.pledged?.amount || p.pledged_amount || 0) / (p.goal?.amount || p.goal || 1)) * 100),
-                backers: p.backers_count || p.backers || 0,
-                price: '',
-                campaign_url: p.url || `https://www.kickstarter.com/projects/${p.creator?.slug}/${p.slug}`,
-                category_tag_zh: '#科技',
-                summary_zh: p.blurb ? [p.blurb.slice(0, 200)] : [],
-                scrapedAt: new Date().toISOString(),
-              });
-              extracted++;
-            }
-          } catch {
-            log.warn('kickstarter', 'API response parse failed');
-          }
-        }
-      } catch (apiErr) {
-        log.warn('kickstarter', `API fallback failed: ${apiErr instanceof Error ? apiErr.message : apiErr}`);
-      }
-    }
-
     result.ok = result.items.length > 0;
-    log.ok('kickstarter', `extracted ${result.items.length} items`);
+    log.ok('kickstarter', `extracted ${result.items.length} items via DOM fallback`);
   } catch (err) {
     log.err('kickstarter', 'scrape failed', err);
     result.errors.push(err instanceof Error ? err.message : String(err));
@@ -184,4 +169,141 @@ export async function scrapeKickstarter(maxItems = 30): Promise<ScrapeResult<Raw
 
   result.durationMs = Date.now() - t0;
   return result;
+}
+
+/**
+ * 从 .js-react-proj-card[data-project] 提取完整项目数据
+ * 这是主要策略，data-project 属性包含 KS 服务端渲染的完整项目 JSON
+ * 
+ * 注意：page.evaluate() 在浏览器上下文执行，不能引用外部 Node.js 函数。
+ * 因此先在浏览器中提取原始 JSON 数据，再在 Node.js 中处理格式化。
+ */
+async function extractFromDataProject(page: import('playwright').Page, maxItems: number): Promise<RawCrowdfundingItem[]> {
+  // 第一步：在浏览器上下文中提取原始 JSON 数据（不能调用外部函数）
+  const rawItems = await page.evaluate((max) => {
+    const cards = document.querySelectorAll('.js-react-proj-card[data-project]');
+    const items: any[] = [];
+
+    for (let i = 0; i < Math.min(max, cards.length); i++) {
+      const card = cards[i];
+      const rawJson = card.getAttribute('data-project');
+      if (!rawJson) continue;
+
+      try {
+        const p = JSON.parse(rawJson);
+
+        // 提取金额（pledged 可能是对象或数字）
+        const pledgedAmount = typeof p.pledged === 'object' ? p.pledged.amount : p.pledged;
+        const pledgedCurrency = typeof p.pledged === 'object' ? p.pledged.currency : p.currency;
+        const pledgedSymbol = typeof p.pledged === 'object' ? p.pledged.currency_symbol : (p.currency_symbol || '$');
+
+        // 提取 goal
+        const goalAmount = typeof p.goal === 'object' ? p.goal.amount : p.goal;
+
+        // 计算进度百分比（取整）
+        const rawPct = p.percent_funded
+          || (goalAmount && goalAmount > 0 ? (pledgedAmount / goalAmount) * 100 : 0);
+
+        items.push({
+          slug: p.slug || p.id,
+          name: p.name,
+          blurb: p.blurb,
+          campaignUrl: p.urls?.web?.project
+            || `https://www.kickstarter.com/projects/${p.creator?.slug || ''}/${p.slug}`,
+          image: p.photo?.ed || p.photo?.full || p.photo?.med || '',
+          pledgedAmount,
+          pledgedCurrency,
+          pledgedSymbol,
+          goalAmount,
+          progressPct: Math.round(rawPct),
+          backers: p.backers_count || 0,
+          founder: p.creator?.name || 'Unknown',
+          rawLocation: p.location?.displayable_name || p.location?.name || 'Unknown',
+          locationCountry: p.location?.country || '',
+          catSlug: p.category?.slug || '',
+        });
+      } catch (e) {
+        // 解析失败跳过
+      }
+    }
+
+    return items;
+  }, maxItems);
+
+  // 第二步：在 Node.js 上下文中处理格式化（可以调用 simplifyLocation 等函数）
+  return rawItems.map(r => ({
+    id: `ks-${r.slug}`,
+    platform: 'Kickstarter',
+    image: r.image,
+    name: r.name,
+    name_zh: r.name,
+    founder: r.founder,
+    location: simplifyLocation(r.rawLocation, r.locationCountry),
+    raised: r.pledgedAmount || 0,
+    currency: r.pledgedCurrency || 'USD',
+    currencySymbol: r.pledgedSymbol || '$',
+    progress_pct: r.progressPct,
+    backers: r.backers,
+    price: '',
+    campaign_url: r.campaignUrl,
+    category_tag_zh: r.catSlug.includes('tech') || r.catSlug.includes('hardware') ? '#科技'
+      : r.catSlug.includes('design') || r.catSlug.includes('product') ? '#设计'
+      : '#科技',
+    summary_zh: r.blurb ? [r.blurb.slice(0, 200)] : [],
+    scrapedAt: new Date().toISOString(),
+  }));
+}
+
+/**
+ * 简化位置格式：去掉州/地区缩写，只保留城市+国家
+ * 例: "San Francisco, CA" → "San Francisco, USA"
+ * 例: "Paris, Île-de-France, France" → "Paris, France"
+ * 例: "Shenzhen, China" → "Shenzhen, China"（不变）
+ */
+function simplifyLocation(displayName: string, country: string): string {
+  if (!displayName || displayName === 'Unknown') return 'Unknown';
+  const parts = displayName.split(',').map(s => s.trim()).filter(Boolean);
+  if (parts.length <= 1) return displayName;
+  // 只保留第一部分（城市）和最后一部分（国家或州/地区）
+  const city = parts[0];
+  const lastPart = parts[parts.length - 1];
+  // 如果最后一部分是2个大写字母（美国州缩写），替换为国家
+  if (/^[A-Z]{2}$/.test(lastPart)) {
+    // country 字段可能是 "US"，转换为更友好的格式
+    const countryName = country === 'US' ? 'USA' : country;
+    return countryName ? `${city}, ${countryName}` : `${city}, USA`;
+  }
+  // 如果最后一部分看起来像国家名（非缩写），直接用
+  if (lastPart.length > 2) {
+    return `${city}, ${lastPart}`;
+  }
+  // 其他情况用 country 字段（2字母国家代码转3字母）
+  if (country) {
+    const countryName = country === 'US' ? 'USA' : country;
+    return `${city}, ${countryName}`;
+  }
+  return displayName;
+}
+
+// 直接运行测试
+if (process.argv[1]?.includes('kickstarter')) {
+  scrapeKickstarter(10).then(result => {
+    console.log('\n=== Kickstarter Scrape Result ===');
+    console.log('OK:', result.ok);
+    console.log('Items:', result.items.length);
+    console.log('Errors:', result.errors);
+    console.log('Duration:', result.durationMs, 'ms');
+    for (const item of result.items.slice(0, 3)) {
+      console.log('\n---', item.name, '---');
+      console.log('  raised:', item.raised, item.currencySymbol);
+      console.log('  backers:', item.backers);
+      console.log('  progress:', item.progress_pct + '%');
+      console.log('  founder:', item.founder);
+      console.log('  location:', item.location);
+      console.log('  category:', item.category_tag_zh);
+    }
+  }).catch(e => {
+    console.error('Scrape failed:', e);
+    process.exit(1);
+  });
 }

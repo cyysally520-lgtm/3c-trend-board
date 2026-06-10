@@ -45,71 +45,87 @@ export default function App() {
   const [scrapeLogs, setScrapeLogs] = useState<string[]>([]);
 
   // Hydrate data from back-end database
+  // NOTE: 每个数据源独立加载，一个失败不影响其他
   const refreshData = async (silent = false) => {
     if (!silent) setIsLoading(true);
+    let anyLoaded = false;
+
     try {
-      // 优先从静态 data/ 目录读取（Vercel 部署场景）
-      // fallback 到 Express API（本地开发场景）
-      let loaded = false;
+      // 1. 先读 manifest
+      let manifest: any = null;
+      let date = '';
       try {
         const manifestRes = await fetch('/data/manifest.json');
         if (manifestRes.ok) {
-          const manifest = await manifestRes.json();
+          manifest = await manifestRes.json();
           if (manifest.dates && manifest.dates.length > 0) {
-            const date = manifest.dates[0]; // 最新日期
-            const [cfRes, nRes, stRes] = await Promise.all([
-              fetch(`/data/${date}/crowdfunding.json`),
-              fetch(`/data/${date}/news.json`),
-              fetch(`/data/${date}/startups.json`),
-            ]);
-            if (cfRes.ok && nRes.ok && stRes.ok) {
-              const cf = await cfRes.json();
-              const n = await nRes.json();
-              const st = await stRes.json();
-              if (Array.isArray(cf.items)) setCrowdfundingData(cf.items);
-              if (Array.isArray(n.items)) {
-                setNewsData(n.items);
-              }
-              if (Array.isArray(st.items)) setStartupData(st.items);
-              // 加载投资项目数据
-              try {
-                const invRes = await fetch(`/data/${date}/investments.json`);
-                if (invRes.ok) {
-                  const inv = await invRes.json();
-                  if (Array.isArray(inv.items)) setInvestData(inv.items);
-                }
-              } catch { /* investments 不存在时静默跳过 */ }
-              // 用 manifest.updatedAt 显示精确到分钟的更新时间（北京时间 UTC+8）
-              const updatedAt = manifest.updatedAt
-                ? (() => {
-                    const d = new Date(new Date(manifest.updatedAt).getTime() + 8 * 3600000);
-                    const y = d.getUTCFullYear();
-                 const mo = String(d.getUTCMonth() + 1).padStart(2, '0');
-                    const day = String(d.getUTCDate()).padStart(2, '0');
-                    const hh = String(d.getUTCHours()).padStart(2, '0');
-                    const mm = String(d.getUTCMinutes()).padStart(2, '0');
-                    return `${y}/${mo}/${day} ${hh}:${mm}`;
-                  })()
-                : date;
-              setLastUpdated(updatedAt);
-              loaded = true;
-              loaded = true;
-            }
+            date = manifest.dates[0];
           }
         }
-      } catch { /* fallthrough to API */ }
+      } catch (e) {
+        console.warn('[Hydration] manifest fetch failed:', e);
+      }
 
-      if (!loaded) {
-        // fallback: Express API
-        const res = await fetch('/api/data');
-        if (res.ok) {
-          const data = await res.json();
-          if (data) {
-            if (Array.isArray(data.crowdfunding)) setCrowdfundingData(data.crowdfunding);
-            if (Array.isArray(data.news)) setNewsData(data.news);
-            if (Array.isArray(data.startups)) setStartupData(data.startups);
-            setLastUpdated('实时已同步');
+      // 2. 独立加载每个数据源（一个失败不影响其他）
+      const loadData = async (kind: string, setter: (data: any[]) => void) => {
+        if (!date) return false;
+        try {
+          const res = await fetch(`/data/${date}/${kind}.json`);
+          if (!res.ok) {
+            console.warn(`[Hydration] ${kind}.json returned ${res.status}`);
+            return false;
           }
+          const data = await res.json();
+          if (Array.isArray(data.items)) {
+            setter(data.items);
+            return true;
+          }
+        } catch (e) {
+          console.warn(`[Hydration] ${kind}.json load failed:`, e);
+        }
+        return false;
+      };
+
+      // 并行加载，但互不阻塞
+      const [cfLoaded, nLoaded, stLoaded] = await Promise.all([
+        loadData('crowdfunding', setCrowdfundingData),
+        loadData('news', setNewsData),
+        loadData('startups', setStartupData),
+      ]);
+
+      // 投资项目独立加载（之前就在 try-catch 里）
+      const invLoaded = await loadData('investments', setInvestData);
+
+      anyLoaded = cfLoaded || nLoaded || stLoaded || invLoaded;
+
+      // 3. 更新时间戳
+      if (anyLoaded && manifest?.updatedAt) {
+        const d = new Date(new Date(manifest.updatedAt).getTime() + 8 * 3600000);
+        const y = d.getUTCFullYear();
+        const mo = String(d.getUTCMonth() + 1).padStart(2, '0');
+        const day = String(d.getUTCDate()).padStart(2, '0');
+        const hh = String(d.getUTCHours()).padStart(2, '0');
+        const mm = String(d.getUTCMinutes()).padStart(2, '0');
+        setLastUpdated(`${y}/${mo}/${day} ${hh}:${mm}`);
+      } else if (anyLoaded) {
+        setLastUpdated(date);
+      }
+
+      // 4. fallback: Express API（只有静态文件全部失败时才走这里）
+      if (!anyLoaded) {
+        try {
+          const res = await fetch('/api/data');
+          if (res.ok) {
+            const data = await res.json();
+            if (data) {
+              if (Array.isArray(data.crowdfunding)) setCrowdfundingData(data.crowdfunding);
+              if (Array.isArray(data.news)) setNewsData(data.news);
+              if (Array.isArray(data.startups)) setStartupData(data.startups);
+              setLastUpdated('实时已同步');
+            }
+          }
+        } catch (e) {
+          console.warn('[Hydration] API fallback failed:', e);
         }
       }
     } catch (e) {
