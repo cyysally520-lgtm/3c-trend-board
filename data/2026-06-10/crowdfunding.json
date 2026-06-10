@@ -1,7 +1,7 @@
 {
   "date": "2026-06-10",
   "kind": "crowdfunding",
-  "count": 30,
+  "count": 55,
   "items": [
     {
       "id": "cs-micimike-rev-devices-micimike-home-mini-drop-in-pcb",
@@ -22,7 +22,7 @@
       "summary_zh": [
         "A fully local, open-source replacement board that brings Home Assistant voice to the 1st Gen Google Home Mini"
       ],
-      "scrapedAt": "2026-06-10T06:00:49.213Z"
+      "scrapedAt": "2026-06-10T12:41:41.703Z"
     },
     {
       "id": "cs-modos-tech-modos-flow",
@@ -32,7 +32,7 @@
       "name_zh": "Modos Flow",
       "founder": "others.",
       "location": "daily use",
-      "raised": 59015,
+      "raised": 60453,
       "currency": "USD",
       "currencySymbol": "$",
       "progress_pct": 100,
@@ -43,7 +43,7 @@
       "summary_zh": [
         "A paper-like monitor for reading, writing, and focused work"
       ],
-      "scrapedAt": "2026-06-10T06:00:49.214Z"
+      "scrapedAt": "2026-06-10T12:41:41.704Z"
     },
     {
       "id": "cs-wafer-space-gf180mcu-run-2",
@@ -64,7 +64,7 @@
       "summary_zh": [
         "Fabricate 1,000 chips of your own design"
       ],
-      "scrapedAt": "2026-06-10T06:00:49.215Z"
+      "scrapedAt": "2026-06-10T12:41:41.705Z"
     },
     {
       "id": "cs-leafkvm-leafkvm",
@@ -72,8 +72,8 @@
       "image": "https://www.crowdsupply.com/img/f0b1/acb444da-2aa4-46f6-bdf8-a67784bff0b1_aa-md.jpg",
       "name": "LeafKVM",
       "name_zh": "LeafKVM",
-      "founder": "LeafKVM Team",
-      "location": "Shenzhen, China",
+      "founder": "our partners in China. We will handle final assembly, screen installation, and firmware flashing directly in our studio. Every LeafKVM unit will undergo extensive quality inspection before shipping.",
+      "location": "China",
       "raised": 59067,
       "currency": "USD",
       "currencySymbol": "$",
@@ -85,7 +85,7 @@
       "summary_zh": [
         "A flexible KVM remote control with support for wireless connectivity"
       ],
-      "scrapedAt": "2026-06-10T06:00:49.216Z"
+      "scrapedAt": "2026-06-10T12:41:41.706Z"
     },
     {
       "id": "cs-meatpi-electronics-wican-pro",
@@ -95,18 +95,18 @@
       "name_zh": "WiCAN Pro",
       "founder": "MeatPi Electronics",
       "location": "Melbourne, Australia",
-      "raised": 173952,
+      "raised": 174308,
       "currency": "USD",
       "currencySymbol": "$",
       "progress_pct": 100,
-      "backers": 1756,
+      "backers": 1759,
       "price": "$89",
       "campaign_url": "https://www.crowdsupply.com/meatpi-electronics/wican-pro",
       "category_tag_zh": "#硬件",
       "summary_zh": [
         "Advanced OBD scanner for next-generation vehicle diagnostics and Home Assistant integration"
       ],
-      "scrapedAt": "2026-06-10T06:00:49.217Z"
+      "scrapedAt": "2026-06-10T12:41:41.707Z"
     },
     {
       "id": "cs-meatpi-electronics-ollie-v2",
@@ -127,7 +127,7 @@
       "summary_zh": [
         "An even better all-in-one USB to isolated-UARTx2/CAN/RS485/RS232 converter"
       ],
-      "scrapedAt": "2026-06-10T06:00:49.218Z"
+      "scrapedAt": "2026-06-10T12:41:41.708Z"
     },
     {
       "id": "cs-meatpi-electronics-wican",
@@ -148,7 +148,7 @@
       "summary_zh": [
         "Open source, ESP32-C3 CAN adapter with USB, Wi-Fi, and BLE support"
       ],
-      "scrapedAt": "2026-06-10T06:00:49.219Z"
+      "scrapedAt": "2026-06-10T12:41:41.708Z"
     },
     {
       "id": "cs-bela-bela-gem-stereo-and-multi",
@@ -169,7 +169,7 @@
       "summary_zh": [
         "A high-performance audio and sensor system for the PocketBeagle 2"
       ],
-      "scrapedAt": "2026-06-10T06:00:49.219Z"
+      "scrapedAt": "2026-06-10T12:41:41.708Z"
     },
     {
       "id": "cs-sitron-labs-solder-ninja-pen",
@@ -190,7 +190,7 @@
       "summary_zh": [
         "A 45 W USB-powered soldering iron compatible with Weller RT Micro tips"
       ],
-      "scrapedAt": "2026-06-10T06:00:49.220Z"
+      "scrapedAt": "2026-06-10T12:41:41.709Z"
     },
     {
       "id": "cs-aerio-solutions-usb-insight-hub",
@@ -211,7 +211,7 @@
       "summary_zh": [
         "A USB interfacing tool for developers & tech enthusiasts"
       ],
-      "scrapedAt": "2026-06-10T06:00:49.220Z"
+      "scrapedAt": "2026-06-10T12:41:41.709Z"
     },
     {
       "id": "cs-icy-electronics-icepi-zero",
@@ -225,14 +225,14 @@
       "currency": "USD",
       "currencySymbol": "$",
       "progress_pct": 519,
-      "backers": 204,
+      "backers": 205,
       "price": "$79",
       "campaign_url": "https://www.crowdsupply.com/icy-electronics/icepi-zero",
       "category_tag_zh": "#硬件",
       "summary_zh": [
         "A powerful FPGA dev board in a familiar, pint-sized package"
       ],
-      "scrapedAt": "2026-06-10T06:00:49.221Z"
+      "scrapedAt": "2026-06-10T12:41:41.709Z"
     },
     {
       "id": "cs-saraai-sarakit",
@@ -253,7 +253,7 @@
       "summary_zh": [
         "Raspberry Pi CM4 expansion board with ChatGPT-based voice control, motor control, powerful sensors, and tons of tutorials"
       ],
-      "scrapedAt": "2026-06-10T06:00:49.222Z"
+      "scrapedAt": "2026-06-10T12:41:41.710Z"
     },
     {
       "id": "cs-apfaudio-tiliqua",
@@ -274,7 +274,7 @@
       "summary_zh": [
         "A powerful, hackable FPGA-based audio multitool for Eurorack"
       ],
-      "scrapedAt": "2026-06-10T06:00:49.222Z"
+      "scrapedAt": "2026-06-10T12:41:41.710Z"
     },
     {
       "id": "cs-silicognition-lifepo4wered-pi-plus",
@@ -284,18 +284,18 @@
       "name_zh": "LiFePO4wered/Pi+",
       "founder": "Silicognition",
       "location": "Longmont, Colorado",
-      "raised": 73992,
+      "raised": 74047,
       "currency": "USD",
       "currencySymbol": "$",
       "progress_pct": 1057,
-      "backers": 793,
+      "backers": 794,
       "price": "$53",
       "campaign_url": "https://www.crowdsupply.com/silicognition/lifepo4wered-pi-plus",
       "category_tag_zh": "#硬件",
       "summary_zh": [
         "A full-featured LiFePO4 battery, power manager, and UPS for the Raspberry Pi"
       ],
-      "scrapedAt": "2026-06-10T06:00:49.223Z"
+      "scrapedAt": "2026-06-10T12:41:41.710Z"
     },
     {
       "id": "cs-techxartisan-openterface-mini-kvm",
@@ -316,7 +316,7 @@
       "summary_zh": [
         "Your Laptop as a KVM Console"
       ],
-      "scrapedAt": "2026-06-10T06:00:49.223Z"
+      "scrapedAt": "2026-06-10T12:41:41.711Z"
     },
     {
       "id": "cs-mnt-pocket-reform",
@@ -337,7 +337,7 @@
       "summary_zh": [
         "A newer, smaller, lighter, more-affordable, seven-inch mini Reform laptop that remains fully open source"
       ],
-      "scrapedAt": "2026-06-10T06:00:49.224Z"
+      "scrapedAt": "2026-06-10T12:41:41.712Z"
     },
     {
       "id": "cs-securinghw-tigard",
@@ -347,18 +347,18 @@
       "name_zh": "Tigard",
       "founder": "SecuringHardware.com",
       "location": "Portland, OR",
-      "raised": 164648,
+      "raised": 164732,
       "currency": "USD",
       "currencySymbol": "$",
       "progress_pct": 100,
-      "backers": 1736,
+      "backers": 1737,
       "price": "$35",
       "campaign_url": "https://www.crowdsupply.com/securinghw/tigard",
       "category_tag_zh": "#硬件",
       "summary_zh": [
         "An open source FT2232H-based, multi-protocol, multi-voltage tool for hardware hacking"
       ],
-      "scrapedAt": "2026-06-10T06:00:49.224Z"
+      "scrapedAt": "2026-06-10T12:41:41.712Z"
     },
     {
       "id": "cs-newae-chipwhisperer-husky",
@@ -366,8 +366,8 @@
       "image": "https://www.crowdsupply.com/img/664a/eeb4a6bf-e844-4f20-9ef9-cda676b8664a_aa-md.jpg",
       "name": "ChipWhisperer-Husky",
       "name_zh": "ChipWhisperer-Husky",
-      "founder": "NewAE Technology Inc.",
-      "location": "Halifax, Nova Scotia, Canada",
+      "founder": "us and subject to our quality-assurance process. This approach has allowed us to grow the company while keeping the educational tutorials and critical design pieces (such as the FPGA and firmware code) fully open source.",
+      "location": "the more expensive ChipWhisperer-Pro and supports the same innovative \"synchronous sampling\" technology that underpins our ChipWhisperer capture architecture, which allows you to analyze devices well beyond what its low cost would suggest",
       "raised": 522610,
       "currency": "USD",
       "currencySymbol": "$",
@@ -379,7 +379,7 @@
       "summary_zh": [
         "The power-analysis and fault-injection tool you can hold in your paw"
       ],
-      "scrapedAt": "2026-06-10T06:00:49.225Z"
+      "scrapedAt": "2026-06-10T12:41:41.713Z"
     },
     {
       "id": "ks-miko",
@@ -389,18 +389,18 @@
       "name_zh": "Miko- 30W GaN Fast Charger That Lives On Your Keyring",
       "founder": "asap Technologies",
       "location": "Los Angeles, USA",
-      "raised": 24820,
+      "raised": 25571,
       "currency": "USD",
       "currencySymbol": "$",
-      "progress_pct": 248,
-      "backers": 416,
+      "progress_pct": 256,
+      "backers": 430,
       "price": "$48",
       "campaign_url": "https://www.kickstarter.com/projects/asaptechnologies/miko",
       "category_tag_zh": "#科技",
       "summary_zh": [
         "Key fob sized 30W GaN charger | Fast charges your phone | Foldable prongs | USB-C cable included | Always on your keys"
       ],
-      "scrapedAt": "2026-06-10T06:01:28.149Z"
+      "scrapedAt": "2026-06-10T12:42:24.285Z"
     },
     {
       "id": "ks-skysphere-building-an-intelligent-all-sky-camera-network",
@@ -421,7 +421,7 @@
       "summary_zh": [
         "Real-time sky monitoring powered by intelligent cameras and continuous, trusted observational data."
       ],
-      "scrapedAt": "2026-06-10T06:01:28.149Z"
+      "scrapedAt": "2026-06-10T12:42:24.285Z"
     },
     {
       "id": "ks-lumos-sonorus-mesh-intercom-helmet-with-360-visibility",
@@ -431,18 +431,18 @@
       "name_zh": "Lumos Sonorus: Mesh Intercom Helmet with 360° Visibility",
       "founder": "Lumos Helmet",
       "location": "Boston, USA",
-      "raised": 640722,
+      "raised": 641934,
       "currency": "USD",
       "currencySymbol": "$",
-      "progress_pct": 4271,
-      "backers": 2200,
+      "progress_pct": 4280,
+      "backers": 2204,
       "price": "$299",
       "campaign_url": "https://www.kickstarter.com/projects/lumoshelmet/lumos-sonorus-mesh-intercom-helmet-with-360-visibility",
       "category_tag_zh": "#科技",
       "summary_zh": [
         "Full-Duplex Mesh Intercom | Up to 15 Riders | Open-Ear Audio | E-Bike Safety | 360° Visibility | Turn Signals & Brake Light"
       ],
-      "scrapedAt": "2026-06-10T06:01:28.149Z"
+      "scrapedAt": "2026-06-10T12:42:24.285Z"
     },
     {
       "id": "ks-dusq-the-worlds-only-sleep-regulation-system",
@@ -452,18 +452,18 @@
       "name_zh": "DUSQ - The World’s Only Sleep Regulation System",
       "founder": "DUSQ",
       "location": "Newark, USA",
-      "raised": 699650,
+      "raised": 711499,
       "currency": "USD",
       "currencySymbol": "$",
-      "progress_pct": 6997,
-      "backers": 2635,
+      "progress_pct": 7115,
+      "backers": 2680,
       "price": "$339",
       "campaign_url": "https://www.kickstarter.com/projects/dusq/dusq-the-worlds-only-sleep-regulation-system",
       "category_tag_zh": "#科技",
       "summary_zh": [
         "Monitors your nervous system, detects when sleep fragments and intervenes using vagus and vestibular nerve stimualtion. Non-invasively."
       ],
-      "scrapedAt": "2026-06-10T06:01:28.149Z"
+      "scrapedAt": "2026-06-10T12:42:24.285Z"
     },
     {
       "id": "ks-dojo-air-smarter-breathwork-with-real-time-volume-feedback",
@@ -473,18 +473,18 @@
       "name_zh": "DOJO Air: A Portable Data Driven Breath Trainer",
       "founder": "DOJO Air",
       "location": "San Diego, USA",
-      "raised": 96594,
+      "raised": 96992,
       "currency": "USD",
       "currencySymbol": "$",
-      "progress_pct": 386,
-      "backers": 466,
+      "progress_pct": 388,
+      "backers": 468,
       "price": "$199",
       "campaign_url": "https://www.kickstarter.com/projects/irahayes/dojo-air-smarter-breathwork-with-real-time-volume-feedback",
       "category_tag_zh": "#科技",
       "summary_zh": [
         "Improve your breathing and track your results using guided training exercises, precise volumetric measurement, and real time data."
       ],
-      "scrapedAt": "2026-06-10T06:01:28.149Z"
+      "scrapedAt": "2026-06-10T12:42:24.285Z"
     },
     {
       "id": "ks-comet-q",
@@ -494,18 +494,18 @@
       "name_zh": "GL.iNet Comet Q: Wake, Unlock & Control Remotely",
       "founder": "GL.iNet",
       "location": "Fairfax, USA",
-      "raised": 580117,
+      "raised": 583289,
       "currency": "USD",
       "currencySymbol": "$",
-      "progress_pct": 5801,
-      "backers": 4367,
-      "price": "¥69",
+      "progress_pct": 5833,
+      "backers": 4387,
+      "price": "$15",
       "campaign_url": "https://www.kickstarter.com/projects/glinet/comet-q",
       "category_tag_zh": "#科技",
       "summary_zh": [
         "The World's First Cross-OS Remote Control for Your Mobile Device, including Laptop, Phones, Macmini, Tablet, and more over USB-C Cable."
       ],
-      "scrapedAt": "2026-06-10T06:01:28.149Z"
+      "scrapedAt": "2026-06-10T12:42:24.285Z"
     },
     {
       "id": "ks-xtool-wonderpress-the-most-creative-3d-auto-heat-press-ever",
@@ -515,18 +515,18 @@
       "name_zh": "xTool WonderPress: The Most Creative 3D Auto Heat Press Ever",
       "founder": "xTool",
       "location": "California City, USA",
-      "raised": 4460201,
+      "raised": 4463332,
       "currency": "USD",
       "currencySymbol": "$",
-      "progress_pct": 4460,
-      "backers": 7900,
+      "progress_pct": 4463,
+      "backers": 7908,
       "price": "$279",
       "campaign_url": "https://www.kickstarter.com/projects/makeblock/xtool-wonderpress-the-most-creative-3d-auto-heat-press-ever",
       "category_tag_zh": "#科技",
       "summary_zh": [
         "All-in-One Modular | Auto Heat Press | 3D Sublimation | Vacuum Forming | DTF Curing | Craft Baking"
       ],
-      "scrapedAt": "2026-06-10T06:01:28.149Z"
+      "scrapedAt": "2026-06-10T12:42:24.285Z"
     },
     {
       "id": "ks-the-omara-scent-display-for-gaming",
@@ -547,7 +547,7 @@
       "summary_zh": [
         "You can see your games. You can hear your games. Now smell them. Scent Unlocked."
       ],
-      "scrapedAt": "2026-06-10T06:01:28.149Z"
+      "scrapedAt": "2026-06-10T12:42:24.285Z"
     },
     {
       "id": "ks-icemist-the-ultimate-semiconductor-portable-mist-fan",
@@ -557,18 +557,18 @@
       "name_zh": "TAYEN Gen 2 — AC-Style Semiconductor Cooling Mist Fan",
       "founder": "Tayen tech",
       "location": "Hong Kong, Hong Kong",
-      "raised": 200370,
+      "raised": 201808,
       "currency": "HKD",
       "currencySymbol": "$",
-      "progress_pct": 2004,
-      "backers": 241,
+      "progress_pct": 2018,
+      "backers": 243,
       "price": "$69",
       "campaign_url": "https://www.kickstarter.com/projects/tayen/icemist-the-ultimate-semiconductor-portable-mist-fan",
       "category_tag_zh": "#科技",
       "summary_zh": [
         "A 3-in-1 personal cooling system with semiconductor water cooling, triple mist nozzles, a 6000mAh battery, and wall-mounted or freestan"
       ],
-      "scrapedAt": "2026-06-10T06:01:28.149Z"
+      "scrapedAt": "2026-06-10T12:42:24.285Z"
     },
     {
       "id": "ks-iron-fleet-the-diy-rc-tank-that-teaches-real-engineering",
@@ -589,28 +589,28 @@
       "summary_zh": [
         "Iron Fleet is more than a RC Tank, it’s a hands‑on engineering project, an immersive RC experience and a gateway to living history."
       ],
-      "scrapedAt": "2026-06-10T06:01:28.149Z"
+      "scrapedAt": "2026-06-10T12:42:24.285Z"
     },
     {
       "id": "ks-linyo-h1-car-wash-machine",
       "platform": "Kickstarter",
       "image": "https://i.kickstarter.com/assets/053/909/644/fd8e04578a956e139738b07302cf86d0_original.jpg?anim=false&fit=cover&gravity=auto&height=198&origin=ugc&q=92&v=1780027144&width=352&sig=%2Bc12Nq8X486HDaI%2BEGZwej7UrM1l2oDdFxHREaB3IVs%3D",
-      "name": "LINYO H1 Car Wash Machine",
-      "name_zh": "LINYO H1 Car Wash Machine",
+      "name": "Linyo H1: Cordless All-in-one Car wash machine",
+      "name_zh": "Linyo H1: Cordless All-in-one Car wash machine",
       "founder": "Linyo",
       "location": "Hong Kong, Hong Kong",
-      "raised": 1598490,
+      "raised": 1603551,
       "currency": "HKD",
       "currencySymbol": "$",
-      "progress_pct": 6804,
-      "backers": 479,
+      "progress_pct": 6825,
+      "backers": 480,
       "price": "$349",
       "campaign_url": "https://www.kickstarter.com/projects/465535565/linyo-h1-car-wash-machine",
       "category_tag_zh": "#科技",
       "summary_zh": [
         "Paint-safe | All-in-one | Wash & Coat | 5000mAh Battery｜Hybrid Power | 0.5 Gals & 20 mins per Wash | Zero Runoff | Compact & Portable"
       ],
-      "scrapedAt": "2026-06-10T06:01:28.149Z"
+      "scrapedAt": "2026-06-10T12:42:24.285Z"
     },
     {
       "id": "ks-sond-dreambuds",
@@ -620,18 +620,493 @@
       "name_zh": "The First 12-Signal Sleep Earbuds That Improve Your Sleep",
       "founder": "SOND",
       "location": "Boston, USA",
-      "raised": 425700,
+      "raised": 429031,
       "currency": "USD",
       "currencySymbol": "$",
-      "progress_pct": 4257,
-      "backers": 881,
+      "progress_pct": 4290,
+      "backers": 888,
       "price": "$449",
       "campaign_url": "https://www.kickstarter.com/projects/sond/sond-dreambuds",
       "category_tag_zh": "#科技",
       "summary_zh": [
         "A new category in sleep tech. Helps you fall asleep, stay asleep, & wake up refreshed. No subscription fees. Watch video to learn more"
       ],
-      "scrapedAt": "2026-06-10T06:01:28.149Z"
+      "scrapedAt": "2026-06-10T12:42:24.285Z"
+    },
+    {
+      "id": "mk-elfinflip",
+      "platform": "Makuake",
+      "image": "https://static.makuake.com/upload/project/51371/main_51371.png?version=1780902478&width=320&height=180&optimize=high",
+      "name": "Elfin Flip 4K",
+      "name_zh": "Elfin Flip 4K",
+      "founder": "XGIMI",
+      "location": "Japan",
+      "raised": 556079,
+      "currency": "JPY",
+      "currencySymbol": "￥",
+      "progress_pct": 55607,
+      "backers": 0,
+      "price": "￥41,370",
+      "campaign_url": "https://www.makuake.com/project/elfinflip",
+      "category_tag_zh": "#科技",
+      "summary_zh": [],
+      "scrapedAt": "2026-06-10T12:43:44.086Z"
+    },
+    {
+      "id": "mk-sabera_smartglass",
+      "platform": "Makuake",
+      "image": "https://static.makuake.com/upload/project/51303/main_51303.png?version=1780655924&width=320&height=180&optimize=high",
+      "name": "鯖江生まれの次世代スマート眼鏡「SABERA」",
+      "name_zh": "鯖江生まれの次世代スマート眼鏡「SABERA」",
+      "founder": "株式会社jig.jp",
+      "location": "Japan",
+      "raised": 141889,
+      "currency": "JPY",
+      "currencySymbol": "￥",
+      "progress_pct": 14188,
+      "backers": 0,
+      "price": "￥29,400",
+      "campaign_url": "https://www.makuake.com/project/sabera_smartglass",
+      "category_tag_zh": "#科技",
+      "summary_zh": [],
+      "scrapedAt": "2026-06-10T12:43:44.086Z"
+    },
+    {
+      "id": "mk-gatebox3",
+      "platform": "Makuake",
+      "image": "https://static.makuake.com/upload/project/51425/main_51425.png?version=1777622276&width=320&height=180&optimize=high",
+      "name": "オタクの夢を叶える！好きなキャラクターと暮らせる召喚装置 Gatebox3",
+      "name_zh": "オタクの夢を叶える！好きなキャラクターと暮らせる召喚装置 Gatebox3",
+      "founder": "Gatebox株式会社",
+      "location": "Japan",
+      "raised": 684000,
+      "currency": "JPY",
+      "currencySymbol": "￥",
+      "progress_pct": 1368,
+      "backers": 0,
+      "price": "￥176,250",
+      "campaign_url": "https://www.makuake.com/project/gatebox3",
+      "category_tag_zh": "#科技",
+      "summary_zh": [],
+      "scrapedAt": "2026-06-10T12:43:44.086Z"
+    },
+    {
+      "id": "mk-glidic_ai",
+      "platform": "Makuake",
+      "image": "https://static.makuake.com/upload/project/50980/main_50980.jpg?version=1779777024&width=320&height=180&optimize=high",
+      "name": "累計200万台出荷の日本ブランド発！働くあなたの成長を加速させるAIイヤホン",
+      "name_zh": "累計200万台出荷の日本ブランド発！働くあなたの成長を加速させるAIイヤホン",
+      "founder": "SB C&S",
+      "location": "Japan",
+      "raised": 135541,
+      "currency": "JPY",
+      "currencySymbol": "￥",
+      "progress_pct": 1355,
+      "backers": 0,
+      "price": "￥41,370",
+      "campaign_url": "https://www.makuake.com/project/glidic_ai",
+      "category_tag_zh": "#科技",
+      "summary_zh": [],
+      "scrapedAt": "2026-06-10T12:43:44.086Z"
+    },
+    {
+      "id": "mk-dnsys-boostsuit",
+      "platform": "Makuake",
+      "image": "https://static.makuake.com/upload/project/52042/main_52042.png?version=1780885974&width=320&height=180&optimize=high",
+      "name": "Dnsys BOOSTSUIT",
+      "name_zh": "Dnsys BOOSTSUIT",
+      "founder": "Dnsys",
+      "location": "Japan",
+      "raised": 234480,
+      "currency": "JPY",
+      "currencySymbol": "￥",
+      "progress_pct": 2344,
+      "backers": 0,
+      "price": "￥22,200",
+      "campaign_url": "https://www.makuake.com/project/dnsys-boostsuit",
+      "category_tag_zh": "#科技",
+      "summary_zh": [],
+      "scrapedAt": "2026-06-10T12:43:44.086Z"
+    },
+    {
+      "id": "mk-cio_handyfan",
+      "platform": "Makuake",
+      "image": "https://static.makuake.com/upload/project/51669/main_51669.jpg?version=1781056841&width=320&height=180&optimize=high",
+      "name": "推奨実行者マーク充電中でも使える。外でもデスクでも頼れる「CIO Handy Fan」",
+      "name_zh": "推奨実行者マーク充電中でも使える。外でもデスクでも頼れる「CIO Handy Fan」",
+      "founder": "Unknown",
+      "location": "Japan",
+      "raised": 52973020,
+      "currency": "JPY",
+      "currencySymbol": "￥",
+      "progress_pct": 17657,
+      "backers": 0,
+      "price": "",
+      "campaign_url": "https://www.makuake.com/project/cio_handyfan",
+      "category_tag_zh": "#科技",
+      "summary_zh": [],
+      "scrapedAt": "2026-06-10T12:43:44.086Z"
+    },
+    {
+      "id": "mk-hawkclaw",
+      "platform": "Makuake",
+      "image": "https://static.makuake.com/upload/project/52108/main_52108.jpg?version=1780657958&width=320&height=180&optimize=high",
+      "name": "風が通る極冷感！超伸縮×49立体裁断でどんな動きも自由自在。Air Proパンツ",
+      "name_zh": "風が通る極冷感！超伸縮×49立体裁断でどんな動きも自由自在。Air Proパンツ",
+      "founder": "Unknown",
+      "location": "Japan",
+      "raised": 146165046,
+      "currency": "JPY",
+      "currencySymbol": "￥",
+      "progress_pct": 1461,
+      "backers": 0,
+      "price": "",
+      "campaign_url": "https://www.makuake.com/project/hawkclaw",
+      "category_tag_zh": "#科技",
+      "summary_zh": [],
+      "scrapedAt": "2026-06-10T12:43:44.086Z"
+    },
+    {
+      "id": "mk-sakai-f08",
+      "platform": "Makuake",
+      "image": "https://static.makuake.com/upload/project/52069/main_52069.jpg?version=1780481416&width=320&height=180&optimize=high",
+      "name": "思い出の羽毛布団を蘇らせるリフォーム第二弾！ダウン+300gでふわふわ新品超え！",
+      "name_zh": "思い出の羽毛布団を蘇らせるリフォーム第二弾！ダウン+300gでふわふわ新品超え！",
+      "founder": "Unknown",
+      "location": "Japan",
+      "raised": 35599447,
+      "currency": "JPY",
+      "currencySymbol": "￥",
+      "progress_pct": 355,
+      "backers": 0,
+      "price": "",
+      "campaign_url": "https://www.makuake.com/project/sakai-f08",
+      "category_tag_zh": "#科技",
+      "summary_zh": [],
+      "scrapedAt": "2026-06-10T12:43:44.086Z"
+    },
+    {
+      "id": "mk-keychronk3-he-ultra",
+      "platform": "Makuake",
+      "image": "https://static.makuake.com/upload/project/51986/main_51986.png?version=1779927184&width=320&height=180&optimize=high",
+      "name": "推奨実行者マークKeychron最新薄型キーボード 天然木デザイン×磁気スイッチ / 8KHz",
+      "name_zh": "推奨実行者マークKeychron最新薄型キーボード 天然木デザイン×磁気スイッチ / 8KHz",
+      "founder": "Unknown",
+      "location": "Japan",
+      "raised": 474670050,
+      "currency": "JPY",
+      "currencySymbol": "￥",
+      "progress_pct": 949,
+      "backers": 0,
+      "price": "",
+      "campaign_url": "https://www.makuake.com/project/keychronk3-he-ultra",
+      "category_tag_zh": "#科技",
+      "summary_zh": [],
+      "scrapedAt": "2026-06-10T12:43:44.086Z"
+    },
+    {
+      "id": "mk-kadobin",
+      "platform": "Makuake",
+      "image": "https://static.makuake.com/upload/project/52038/main_52038.jpg?version=1780886839&width=320&height=180&optimize=high",
+      "name": "【角にハマる新発想】オゾン除菌機能付き、自動センサー式ゴミ箱「KADOBIN」COMING SOON",
+      "name_zh": "【角にハマる新発想】オゾン除菌機能付き、自動センサー式ゴミ箱「KADOBIN」COMING SOON",
+      "founder": "Unknown",
+      "location": "Japan",
+      "raised": 0,
+      "currency": "JPY",
+      "currencySymbol": "￥",
+      "progress_pct": 0,
+      "backers": 0,
+      "price": "",
+      "campaign_url": "https://www.makuake.com/project/kadobin",
+      "category_tag_zh": "#科技",
+      "summary_zh": [],
+      "scrapedAt": "2026-06-10T12:43:44.087Z"
+    },
+    {
+      "id": "mk-kirisai_10",
+      "platform": "Makuake",
+      "image": "https://static.makuake.com/upload/project/51220/main_51220.jpg?version=1776410705&width=320&height=180&optimize=high",
+      "name": "桐のレンジスチーマー",
+      "name_zh": "桐のレンジスチーマー",
+      "founder": "Unknown",
+      "location": "Japan",
+      "raised": 181457019,
+      "currency": "JPY",
+      "currencySymbol": "￥",
+      "progress_pct": 1814,
+      "backers": 0,
+      "price": "",
+      "campaign_url": "https://www.makuake.com/project/kirisai_10",
+      "category_tag_zh": "#科技",
+      "summary_zh": [],
+      "scrapedAt": "2026-06-10T12:43:44.087Z"
+    },
+    {
+      "id": "mk-knis11",
+      "platform": "Makuake",
+      "image": "https://static.makuake.com/upload/project/51518/main_51518.jpg?version=1779783134&width=320&height=180&optimize=high",
+      "name": "推奨実行者マーク世界にひとつの神秘模様！メテオライト（隕石）日本製ダイバーズGMT腕時計",
+      "name_zh": "推奨実行者マーク世界にひとつの神秘模様！メテオライト（隕石）日本製ダイバーズGMT腕時計",
+      "founder": "Unknown",
+      "location": "Japan",
+      "raised": 451550026,
+      "currency": "JPY",
+      "currencySymbol": "￥",
+      "progress_pct": 1505,
+      "backers": 0,
+      "price": "",
+      "campaign_url": "https://www.makuake.com/project/knis11",
+      "category_tag_zh": "#科技",
+      "summary_zh": [],
+      "scrapedAt": "2026-06-10T12:43:44.087Z"
+    },
+    {
+      "id": "mk-blackcap_aimableishii",
+      "platform": "Makuake",
+      "image": "https://static.makuake.com/upload/project/51771/main_51771.png?version=1780371435&width=320&height=180&optimize=high",
+      "name": "【黒が暑いはもう古い】見た目も機能も妥協しない帽子「至高のBLACK CAP」",
+      "name_zh": "【黒が暑いはもう古い】見た目も機能も妥協しない帽子「至高のBLACK CAP」",
+      "founder": "Unknown",
+      "location": "Japan",
+      "raised": 121401511,
+      "currency": "JPY",
+      "currencySymbol": "￥",
+      "progress_pct": 1214,
+      "backers": 0,
+      "price": "",
+      "campaign_url": "https://www.makuake.com/project/blackcap_aimableishii",
+      "category_tag_zh": "#科技",
+      "summary_zh": [],
+      "scrapedAt": "2026-06-10T12:43:44.087Z"
+    },
+    {
+      "id": "mk-cio_cerberus",
+      "platform": "Makuake",
+      "image": "https://static.makuake.com/upload/project/52004/main_52004.jpg?version=1779966396&width=320&height=180&optimize=high",
+      "name": "推奨実行者マークmonograph堀口さん発案。デスクからケーブルが消える「CIOケルベロス」",
+      "name_zh": "推奨実行者マークmonograph堀口さん発案。デスクからケーブルが消える「CIOケルベロス」",
+      "founder": "Unknown",
+      "location": "Japan",
+      "raised": 321888,
+      "currency": "JPY",
+      "currencySymbol": "￥",
+      "progress_pct": 10729,
+      "backers": 0,
+      "price": "",
+      "campaign_url": "https://www.makuake.com/project/cio_cerberus",
+      "category_tag_zh": "#科技",
+      "summary_zh": [],
+      "scrapedAt": "2026-06-10T12:43:44.087Z"
+    },
+    {
+      "id": "mk-air_light_one_kaze",
+      "platform": "Makuake",
+      "image": "https://static.makuake.com/upload/project/51487/main_51487.png?version=1776917042&width=320&height=180&optimize=high",
+      "name": "照明を変えたら、空気まで変わった。新発想シーリングファンライト",
+      "name_zh": "照明を変えたら、空気まで変わった。新発想シーリングファンライト",
+      "founder": "Unknown",
+      "location": "Japan",
+      "raised": 180255654,
+      "currency": "JPY",
+      "currencySymbol": "￥",
+      "progress_pct": 180255,
+      "backers": 0,
+      "price": "",
+      "campaign_url": "https://www.makuake.com/project/air_light_one_kaze",
+      "category_tag_zh": "#科技",
+      "summary_zh": [],
+      "scrapedAt": "2026-06-10T12:43:44.087Z"
+    },
+    {
+      "id": "mk-thorr_container_pro",
+      "platform": "Makuake",
+      "image": "https://static.makuake.com/upload/project/51897/main_51897.jpg?version=1780491166&width=320&height=180&optimize=high",
+      "name": "【世田谷ベース掲載】IGT対応でカスタム無限！大人気アルミコンテナが究極進化",
+      "name_zh": "【世田谷ベース掲載】IGT対応でカスタム無限！大人気アルミコンテナが究極進化",
+      "founder": "Unknown",
+      "location": "Japan",
+      "raised": 366900050,
+      "currency": "JPY",
+      "currencySymbol": "￥",
+      "progress_pct": 1223,
+      "backers": 0,
+      "price": "",
+      "campaign_url": "https://www.makuake.com/project/thorr_container_pro",
+      "category_tag_zh": "#科技",
+      "summary_zh": [],
+      "scrapedAt": "2026-06-10T12:43:44.087Z"
+    },
+    {
+      "id": "mk-mag-smart",
+      "platform": "Makuake",
+      "image": "https://static.makuake.com/upload/project/51023/main_51023.png?version=1779933394&width=320&height=180&optimize=high",
+      "name": "ファスナーの煩わしさから解放。片手でサッと1秒開閉！新世代マグネットショルダー。",
+      "name_zh": "ファスナーの煩わしさから解放。片手でサッと1秒開閉！新世代マグネットショルダー。",
+      "founder": "Unknown",
+      "location": "Japan",
+      "raised": 669570024,
+      "currency": "JPY",
+      "currencySymbol": "￥",
+      "progress_pct": 6695,
+      "backers": 0,
+      "price": "",
+      "campaign_url": "https://www.makuake.com/project/mag-smart",
+      "category_tag_zh": "#科技",
+      "summary_zh": [],
+      "scrapedAt": "2026-06-10T12:43:44.087Z"
+    },
+    {
+      "id": "mk-myno-03",
+      "platform": "Makuake",
+      "image": "https://static.makuake.com/upload/project/51641/main_51641.png?version=1778737351&width=320&height=180&optimize=high",
+      "name": "【燕三条】究極の薄さとセキュリティを兼ね備えた、チタン製マイナンバーカードケース",
+      "name_zh": "【燕三条】究極の薄さとセキュリティを兼ね備えた、チタン製マイナンバーカードケース",
+      "founder": "Unknown",
+      "location": "Japan",
+      "raised": 488085046,
+      "currency": "JPY",
+      "currencySymbol": "￥",
+      "progress_pct": 4880,
+      "backers": 0,
+      "price": "",
+      "campaign_url": "https://www.makuake.com/project/myno-03",
+      "category_tag_zh": "#科技",
+      "summary_zh": [],
+      "scrapedAt": "2026-06-10T12:43:44.087Z"
+    },
+    {
+      "id": "mk-soukai",
+      "platform": "Makuake",
+      "image": "https://static.makuake.com/upload/project/51453/main_51453.jpg?version=1780643882&width=320&height=180&optimize=high",
+      "name": "推奨実行者マーク【全方位冷感】全身を駆け巡る風！ファンシート×ネックファンで夏の車内を快適に",
+      "name_zh": "推奨実行者マーク【全方位冷感】全身を駆け巡る風！ファンシート×ネックファンで夏の車内を快適に",
+      "founder": "Unknown",
+      "location": "Japan",
+      "raised": 103679,
+      "currency": "JPY",
+      "currencySymbol": "￥",
+      "progress_pct": 3455,
+      "backers": 0,
+      "price": "",
+      "campaign_url": "https://www.makuake.com/project/soukai",
+      "category_tag_zh": "#科技",
+      "summary_zh": [],
+      "scrapedAt": "2026-06-10T12:43:44.087Z"
+    },
+    {
+      "id": "mk-kotti",
+      "platform": "Makuake",
+      "image": "https://static.makuake.com/upload/project/51192/main_51192.png?version=1779858729&width=320&height=180&optimize=high",
+      "name": "話すほど親密になる新しいパートナー。自然に会話できるAIぬいぐるみ「KOTTI」",
+      "name_zh": "話すほど親密になる新しいパートナー。自然に会話できるAIぬいぐるみ「KOTTI」",
+      "founder": "Unknown",
+      "location": "Japan",
+      "raised": 384178079,
+      "currency": "JPY",
+      "currencySymbol": "￥",
+      "progress_pct": 1280,
+      "backers": 0,
+      "price": "",
+      "campaign_url": "https://www.makuake.com/project/kotti",
+      "category_tag_zh": "#科技",
+      "summary_zh": [],
+      "scrapedAt": "2026-06-10T12:43:44.087Z"
+    },
+    {
+      "id": "mk-docomo_sonaeru",
+      "platform": "Makuake",
+      "image": "https://static.makuake.com/upload/project/51135/main_51135.jpg?version=1781084783&width=320&height=180&optimize=high",
+      "name": "NTTドコモ発、防災の新習慣を広めたい！毎日のスマホ充電が『命を守る備え』に",
+      "name_zh": "NTTドコモ発、防災の新習慣を広めたい！毎日のスマホ充電が『命を守る備え』に",
+      "founder": "Unknown",
+      "location": "Japan",
+      "raised": 96216805,
+      "currency": "JPY",
+      "currencySymbol": "￥",
+      "progress_pct": 9621,
+      "backers": 0,
+      "price": "",
+      "campaign_url": "https://www.makuake.com/project/docomo_sonaeru",
+      "category_tag_zh": "#科技",
+      "summary_zh": [],
+      "scrapedAt": "2026-06-10T12:43:44.087Z"
+    },
+    {
+      "id": "mk-collet-s",
+      "platform": "Makuake",
+      "image": "https://static.makuake.com/upload/project/51935/main_51935.png?version=1780287669&width=320&height=180&optimize=high",
+      "name": "推奨実行者マーク開閉不要でスマート決済 スマホに貼れるミニ財布　collet-s&collet2",
+      "name_zh": "推奨実行者マーク開閉不要でスマート決済 スマホに貼れるミニ財布　collet-s&collet2",
+      "founder": "Unknown",
+      "location": "Japan",
+      "raised": 569415011,
+      "currency": "JPY",
+      "currencySymbol": "￥",
+      "progress_pct": 1898,
+      "backers": 0,
+      "price": "",
+      "campaign_url": "https://www.makuake.com/project/collet-s",
+      "category_tag_zh": "#科技",
+      "summary_zh": [],
+      "scrapedAt": "2026-06-10T12:43:44.087Z"
+    },
+    {
+      "id": "mk-jiffy75",
+      "platform": "Makuake",
+      "image": "https://static.makuake.com/upload/project/51822/main_51822.jpg?version=1779418768&width=320&height=180&optimize=high",
+      "name": "デスクが整う、姿勢が整う。完全無線分割キーボード Jiffy75 LP",
+      "name_zh": "デスクが整う、姿勢が整う。完全無線分割キーボード Jiffy75 LP",
+      "founder": "Unknown",
+      "location": "Japan",
+      "raised": 600252419,
+      "currency": "JPY",
+      "currencySymbol": "￥",
+      "progress_pct": 6002,
+      "backers": 0,
+      "price": "",
+      "campaign_url": "https://www.makuake.com/project/jiffy75",
+      "category_tag_zh": "#科技",
+      "summary_zh": [],
+      "scrapedAt": "2026-06-10T12:43:44.087Z"
+    },
+    {
+      "id": "mk-g-zero_coil8",
+      "platform": "Makuake",
+      "image": "https://static.makuake.com/upload/project/51956/main_51956.jpg?version=1780482686&width=160&height=90&optimize=high",
+      "name": "【G-ZERO COILのはじまり】この技術には、確かな源流【流れる水に新アプローチ】買い替え不要。ホースにセットで水の常識が変わる！",
+      "name_zh": "【G-ZERO COILのはじまり】この技術には、確かな源流【流れる水に新アプローチ】買い替え不要。ホースにセットで水の常識が変わる！",
+      "founder": "Unknown",
+      "location": "Japan",
+      "raised": 0,
+      "currency": "JPY",
+      "currencySymbol": "￥",
+      "progress_pct": 0,
+      "backers": 0,
+      "price": "",
+      "campaign_url": "https://www.makuake.com/project/g-zero_coil8/communication/detail/1854242",
+      "category_tag_zh": "#科技",
+      "summary_zh": [],
+      "scrapedAt": "2026-06-10T12:43:44.087Z"
+    },
+    {
+      "id": "mk-megaruler",
+      "platform": "Makuake",
+      "image": "https://static.makuake.com/upload/project/51633/main_51633.png?version=1780643017&width=160&height=90&optimize=high",
+      "name": "MegaRulerで実現する高精度なライン作業もう30cmで止まらない！無限延長×全角度×水平・垂直を集約したプロ仕様定規",
+      "name_zh": "MegaRulerで実現する高精度なライン作業もう30cmで止まらない！無限延長×全角度×水平・垂直を集約したプロ仕様定規",
+      "founder": "Unknown",
+      "location": "Japan",
+      "raised": 0,
+      "currency": "JPY",
+      "currencySymbol": "￥",
+      "progress_pct": 0,
+      "backers": 0,
+      "price": "",
+      "campaign_url": "https://www.makuake.com/project/megaruler/communication/detail/1853840",
+      "category_tag_zh": "#科技",
+      "summary_zh": [],
+      "scrapedAt": "2026-06-10T12:43:44.087Z"
     }
   ]
 }
