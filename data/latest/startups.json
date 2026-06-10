@@ -17,7 +17,7 @@
       "location": "San Francisco, USA",
       "batch": "Spring 2026",
       "url": "https://www.anoria.com",
-      "scrapedAt": "2026-06-09T12:21:54.278Z"
+      "scrapedAt": "2026-06-10T03:05:17.034Z"
     },
     {
       "id": "yc-fort",
@@ -33,7 +33,7 @@
       "location": "San Francisco, USA",
       "batch": "Winter 2026",
       "url": "https://fort.cx",
-      "scrapedAt": "2026-06-09T12:21:54.278Z"
+      "scrapedAt": "2026-06-10T03:05:17.034Z"
     },
     {
       "id": "yc-tornyol",
@@ -49,7 +49,7 @@
       "location": "Paris, France",
       "batch": "Fall 2025",
       "url": "https://tornyol.com/",
-      "scrapedAt": "2026-06-09T12:21:54.278Z"
+      "scrapedAt": "2026-06-10T03:05:17.034Z"
     },
     {
       "id": "yc-vassar-robotics",
@@ -65,7 +65,7 @@
       "location": "Los Angeles, USA",
       "batch": "Spring 2025",
       "url": "https://www.vassarrobotics.com",
-      "scrapedAt": "2026-06-09T12:21:54.278Z"
+      "scrapedAt": "2026-06-10T03:05:17.034Z"
     },
     {
       "id": "yc-pickle-2",
@@ -81,7 +81,7 @@
       "location": "San Francisco, USA",
       "batch": "Winter 2025",
       "url": "https://www.pickle.com",
-      "scrapedAt": "2026-06-09T12:21:54.278Z"
+      "scrapedAt": "2026-06-10T03:05:17.034Z"
     },
     {
       "id": "yc-innate",
@@ -97,7 +97,7 @@
       "location": "San Francisco, USA",
       "batch": "Fall 2024",
       "url": "https://innate.bot",
-      "scrapedAt": "2026-06-09T12:21:54.278Z"
+      "scrapedAt": "2026-06-10T03:05:17.034Z"
     },
     {
       "id": "yc-k-scale-labs",
@@ -113,23 +113,23 @@
       "location": "Palo Alto, USA",
       "batch": "Winter 2024",
       "url": "https://kscale.dev/",
-      "scrapedAt": "2026-06-09T12:21:54.278Z"
+      "scrapedAt": "2026-06-10T03:05:17.034Z"
     },
     {
-      "id": "yc-tuesday-lab",
+      "id": "yc-tuesday-labs",
       "source": "Y Combinator",
-      "name": "Tuesday Lab",
-      "name_zh": "Tuesday Lab",
+      "name": "Tuesday Labs",
+      "name_zh": "Tuesday Labs",
       "intro": "Delightful robots",
       "intro_zh": [
         "Delightful robots"
       ],
       "founders": "Unknown",
-      "team_size": "5",
+      "team_size": "7",
       "location": "New York, USA",
       "batch": "Winter 2024",
-      "url": "https://www.tuesdaylab.com",
-      "scrapedAt": "2026-06-09T12:21:54.278Z"
+      "url": "https://www.tuesdaylabs.com",
+      "scrapedAt": "2026-06-10T03:05:17.034Z"
     }
   ]
 }

@@ -4,258 +4,6 @@
   "count": 30,
   "items": [
     {
-      "id": "ks-skysphere-building-an-intelligent-all-sky-camera-network",
-      "platform": "Kickstarter",
-      "image": "https://i.kickstarter.com/assets/053/810/002/ed54ab8a25289edc90f51e2d1349be05_original.png?anim=false&fit=cover&gravity=auto&height=198&origin=ugc&q=92&v=1779314992&width=352&sig=wDuw8%2B7xSqJIQkUkXOUo5147YaT%2BeqR3LmBM5kq48NQ%3D",
-      "name": "SkySphere: Building an Intelligent All-Sky Camera Network",
-      "name_zh": "SkySphere: Building an Intelligent All-Sky Camera Network",
-      "founder": "Franck Marchis",
-      "location": "San Francisco, USA",
-      "raised": 71193,
-      "currency": "USD",
-      "currencySymbol": "$",
-      "progress_pct": 95,
-      "backers": 125,
-      "price": "",
-      "campaign_url": "https://www.kickstarter.com/projects/allplanets/skysphere-building-an-intelligent-all-sky-camera-network",
-      "category_tag_zh": "#科技",
-      "summary_zh": [
-        "Real-time sky monitoring powered by intelligent cameras and continuous, trusted observational data."
-      ],
-      "scrapedAt": "2026-06-09T12:20:21.144Z"
-    },
-    {
-      "id": "ks-sond-dreambuds",
-      "platform": "Kickstarter",
-      "image": "https://i.kickstarter.com/assets/053/920/384/c99a0e8801c65327fddca58d50d41cac_original.jpg?anim=false&fit=cover&gravity=auto&height=198&origin=ugc&q=92&v=1780103597&width=352&sig=0hC7bITRLDRQZCDxyqbHf%2F6Nv0zSLqjoZa5mDUHfIfo%3D",
-      "name": "The First 12-Signal Sleep Earbuds That Improve Your Sleep",
-      "name_zh": "The First 12-Signal Sleep Earbuds That Improve Your Sleep",
-      "founder": "SOND",
-      "location": "Boston, USA",
-      "raised": 416455,
-      "currency": "USD",
-      "currencySymbol": "$",
-      "progress_pct": 4165,
-      "backers": 861,
-      "price": "",
-      "campaign_url": "https://www.kickstarter.com/projects/sond/sond-dreambuds",
-      "category_tag_zh": "#科技",
-      "summary_zh": [
-        "A new category in sleep tech. Helps you fall asleep, stay asleep, & wake up refreshed. No subscription fees. Watch video to learn more"
-      ],
-      "scrapedAt": "2026-06-09T12:20:21.144Z"
-    },
-    {
-      "id": "ks-lumos-sonorus-mesh-intercom-helmet-with-360-visibility",
-      "platform": "Kickstarter",
-      "image": "https://i.kickstarter.com/assets/053/772/144/648e60b318ec2ea19bcf3e9fcb7c009f_original.png?anim=false&fit=cover&gravity=auto&height=198&origin=ugc&q=92&v=1779108217&width=352&sig=n6LfV8rK3jPGpGeax%2FlVnXoygKUzpCiJ5iLc%2B2Y26j0%3D",
-      "name": "Lumos Sonorus: Mesh Intercom Helmet with 360° Visibility",
-      "name_zh": "Lumos Sonorus: Mesh Intercom Helmet with 360° Visibility",
-      "founder": "Lumos Helmet",
-      "location": "Boston, USA",
-      "raised": 633580,
-      "currency": "USD",
-      "currencySymbol": "$",
-      "progress_pct": 4224,
-      "backers": 2171,
-      "price": "",
-      "campaign_url": "https://www.kickstarter.com/projects/lumoshelmet/lumos-sonorus-mesh-intercom-helmet-with-360-visibility",
-      "category_tag_zh": "#科技",
-      "summary_zh": [
-        "Full-Duplex Mesh Intercom | Up to 15 Riders | Open-Ear Audio | E-Bike Safety | 360° Visibility | Turn Signals & Brake Light"
-      ],
-      "scrapedAt": "2026-06-09T12:20:21.144Z"
-    },
-    {
-      "id": "ks-xgimi-titan-noir-series-4k-projector",
-      "platform": "Kickstarter",
-      "image": "https://i.kickstarter.com/assets/053/456/880/b52a551e8aa66c93dc57fe242ffbedb7_original.jpg?anim=false&fit=cover&gravity=auto&height=198&origin=ugc&q=92&v=1776955293&width=352&sig=B68pibrQulAKYKCXt9GdYusSII3CKBJwvUNjQ6SIrz0%3D",
-      "name": "XGIMI TITAN Noir Series: A Dual Iris 4K RGB Laser Projector",
-      "name_zh": "XGIMI TITAN Noir Series: A Dual Iris 4K RGB Laser Projector",
-      "founder": "XGIMI Tech",
-      "location": "Rowland Heights, USA",
-      "raised": 18613871,
-      "currency": "USD",
-      "currencySymbol": "$",
-      "progress_pct": 18614,
-      "backers": 5919,
-      "price": "",
-      "campaign_url": "https://www.kickstarter.com/projects/xgimititannoir/xgimi-titan-noir-series-4k-projector",
-      "category_tag_zh": "#科技",
-      "summary_zh": [
-        "Dual Intelligent Iris System | 10,000:1 Native Contrast | 7000 ISO Lumens | Anti-RBE(2D & 3D) | VRR supported"
-      ],
-      "scrapedAt": "2026-06-09T12:20:21.144Z"
-    },
-    {
-      "id": "ks-airox-145-psi-cordless-dual-compressor-station-just-99-lb",
-      "platform": "Kickstarter",
-      "image": "https://i.kickstarter.com/assets/053/333/164/1ee6896a0e653260a4d514ef825463fd_original.jpg?anim=false&fit=cover&gravity=auto&height=198&origin=ugc&q=92&v=1776157663&width=352&sig=1NB%2F1NK0XreEAgBB%2BHE5ndvtfeTXU%2FgqRA6wyNmm91c%3D",
-      "name": "AIROX: 145 PSI Cordless Dual-Compressor. Just 9.9 lb",
-      "name_zh": "AIROX: 145 PSI Cordless Dual-Compressor. Just 9.9 lb",
-      "founder": "Magpie Tech",
-      "location": "Wilmington, USA",
-      "raised": 508784,
-      "currency": "USD",
-      "currencySymbol": "$",
-      "progress_pct": 10176,
-      "backers": 1911,
-      "price": "",
-      "campaign_url": "https://www.kickstarter.com/projects/magpietech/airox-145-psi-cordless-dual-compressor-station-just-99-lb",
-      "category_tag_zh": "#科技",
-      "summary_zh": [
-        "Dual-Motor System| 200 Nails/Min| 6.35s Recovery| Aluminum Tank| 21V Dual Battery| 1PSI Control| Nailing to Airbrushing,Zero Compromise"
-      ],
-      "scrapedAt": "2026-06-09T12:20:21.144Z"
-    },
-    {
-      "id": "ks-dojo-air-smarter-breathwork-with-real-time-volume-feedback",
-      "platform": "Kickstarter",
-      "image": "https://i.kickstarter.com/assets/053/836/061/b09e5dd16af1fb72538cb83098b6720a_original.jpg?anim=false&fit=cover&gravity=auto&height=198&origin=ugc&q=92&v=1779489966&width=352&sig=UCPkffOVNr6EiJbfoAHSUaaiWvluHrsVGNNe%2FI94XPk%3D",
-      "name": "DOJO Air: A Portable Data Driven Breath Trainer",
-      "name_zh": "DOJO Air: A Portable Data Driven Breath Trainer",
-      "founder": "DOJO Air",
-      "location": "San Diego, USA",
-      "raised": 94401,
-      "currency": "USD",
-      "currencySymbol": "$",
-      "progress_pct": 378,
-      "backers": 459,
-      "price": "",
-      "campaign_url": "https://www.kickstarter.com/projects/irahayes/dojo-air-smarter-breathwork-with-real-time-volume-feedback",
-      "category_tag_zh": "#科技",
-      "summary_zh": [
-        "Improve your breathing and track your results using guided training exercises, precise volumetric measurement, and real time data."
-      ],
-      "scrapedAt": "2026-06-09T12:20:21.144Z"
-    },
-    {
-      "id": "ks-comet-q",
-      "platform": "Kickstarter",
-      "image": "https://i.kickstarter.com/assets/053/528/492/d8084aafa8b40a2ba3ec9beee0ecad30_original.jpg?anim=false&fit=cover&gravity=auto&height=198&origin=ugc&q=92&v=1777446985&width=352&sig=Ax8SrwZ%2FWlesiYOPbN8Ile3izda96sg1oRbnXvdT%2BDQ%3D",
-      "name": "GL.iNet Comet Q: Wake, Unlock & Control Remotely",
-      "name_zh": "GL.iNet Comet Q: Wake, Unlock & Control Remotely",
-      "founder": "GL.iNet",
-      "location": "Fairfax, USA",
-      "raised": 565963,
-      "currency": "USD",
-      "currencySymbol": "$",
-      "progress_pct": 5660,
-      "backers": 4295,
-      "price": "",
-      "campaign_url": "https://www.kickstarter.com/projects/glinet/comet-q",
-      "category_tag_zh": "#科技",
-      "summary_zh": [
-        "The World's First Cross-OS Remote Control for Your Mobile Device, including Laptop, Phones, Macmini, Tablet, and more over USB-C Cable."
-      ],
-      "scrapedAt": "2026-06-09T12:20:21.144Z"
-    },
-    {
-      "id": "ks-ovo-not-a-mouse-a-new-way-to-point-0",
-      "platform": "Kickstarter",
-      "image": "https://i.kickstarter.com/assets/053/872/131/6a676cbaf8dfc3e69db272447943e8b2_original.jpg?anim=false&fit=cover&gravity=auto&height=198&origin=ugc&q=92&v=1779799952&width=352&sig=Sp9zvlYBHMUutTr71GkSAtwzjokruhX2hB0Yp%2F%2F9yAI%3D",
-      "name": "OVO: Not a Mouse. A New Way to Point.",
-      "name_zh": "OVO: Not a Mouse. A New Way to Point.",
-      "founder": "NextAxis Design",
-      "location": "London, GB",
-      "raised": 69185,
-      "currency": "GBP",
-      "currencySymbol": "£",
-      "progress_pct": 346,
-      "backers": 566,
-      "price": "",
-      "campaign_url": "https://www.kickstarter.com/projects/800078983/ovo-not-a-mouse-a-new-way-to-point-0",
-      "category_tag_zh": "#科技",
-      "summary_zh": [
-        "A balance-based input device that turns natural hand movement into precise control."
-      ],
-      "scrapedAt": "2026-06-09T12:20:21.144Z"
-    },
-    {
-      "id": "ks-xtool-wonderpress-the-most-creative-3d-auto-heat-press-ever",
-      "platform": "Kickstarter",
-      "image": "https://i.kickstarter.com/assets/053/190/423/03ecd9cb9ab0cf4999dbfcda4aded8f4_original.jpg?anim=false&fit=cover&gravity=auto&height=198&origin=ugc&q=92&v=1775122328&width=352&sig=nt1NgUECOm1V9hlxmSkv8butbtQkFHnBUyb3CsFBopA%3D",
-      "name": "xTool WonderPress: The Most Creative 3D Auto Heat Press Ever",
-      "name_zh": "xTool WonderPress: The Most Creative 3D Auto Heat Press Ever",
-      "founder": "xTool",
-      "location": "California City, USA",
-      "raised": 4427483,
-      "currency": "USD",
-      "currencySymbol": "$",
-      "progress_pct": 4427,
-      "backers": 7845,
-      "price": "",
-      "campaign_url": "https://www.kickstarter.com/projects/makeblock/xtool-wonderpress-the-most-creative-3d-auto-heat-press-ever",
-      "category_tag_zh": "#科技",
-      "summary_zh": [
-        "All-in-One Modular | Auto Heat Press | 3D Sublimation | Vacuum Forming | DTF Curing | Craft Baking"
-      ],
-      "scrapedAt": "2026-06-09T12:20:21.144Z"
-    },
-    {
-      "id": "ks-inkwon-tag-worlds-1st-4-in-1-pocket-color-inkjet-printer",
-      "platform": "Kickstarter",
-      "image": "https://i.kickstarter.com/assets/053/519/124/6c434387a07ae7efb57faf794739383f_original.png?anim=false&fit=cover&gravity=auto&height=198&origin=ugc&q=92&v=1777393724&width=352&sig=PE6hw6OVi4iPUaEyENemhKKh3Z1YXvbJhjxeeGr5N2I%3D",
-      "name": "INKWON Tag - World's 1st 4-in-1 Pocket Creative Studio",
-      "name_zh": "INKWON Tag - World's 1st 4-in-1 Pocket Creative Studio",
-      "founder": "INKWON Printing",
-      "location": "Kowloon, Hong Kong",
-      "raised": 4889832,
-      "currency": "HKD",
-      "currencySymbol": "$",
-      "progress_pct": 4890,
-      "backers": 2337,
-      "price": "",
-      "campaign_url": "https://www.kickstarter.com/projects/inkwonprinting/inkwon-tag-worlds-1st-4-in-1-pocket-color-inkjet-printer",
-      "category_tag_zh": "#科技",
-      "summary_zh": [
-        "Tattoo Sticker | Heat Transfer | Sticker | HD Image - Tag your life with Creativity"
-      ],
-      "scrapedAt": "2026-06-09T12:20:21.144Z"
-    },
-    {
-      "id": "ks-nlab-the-worlds-smallest-all-in-one-electronics-lab",
-      "platform": "Kickstarter",
-      "image": "https://i.kickstarter.com/assets/053/982/284/9705dbf9948702e8b805f7dc50d1f44b_original.png?anim=false&fit=cover&gravity=auto&height=198&origin=ugc&q=92&v=1780541005&width=352&sig=W%2B8I3X3G4Bp1wheRAYyhrC71UWk6V6yxJQklF3Oy130%3D",
-      "name": "nLab: The world's smallest all-in-one electronics lab.",
-      "name_zh": "nLab: The world's smallest all-in-one electronics lab.",
-      "founder": "Angie Mercurio",
-      "location": "Chicago, USA",
-      "raised": 72083,
-      "currency": "USD",
-      "currencySymbol": "$",
-      "progress_pct": 288,
-      "backers": 411,
-      "price": "",
-      "campaign_url": "https://www.kickstarter.com/projects/nlab/nlab-the-worlds-smallest-all-in-one-electronics-lab",
-      "category_tag_zh": "#科技",
-      "summary_zh": [
-        "Everything you need to build real circuits, gain future-proof skills, and bring your ideas to life."
-      ],
-      "scrapedAt": "2026-06-09T12:20:21.144Z"
-    },
-    {
-      "id": "ks-zerowriter-fold",
-      "platform": "Kickstarter",
-      "image": "https://i.kickstarter.com/assets/053/834/623/74c2d938157059ce0197c04dc39286a4_original.jpg?anim=false&fit=cover&gravity=auto&height=198&origin=ugc&q=92&v=1779479299&width=352&sig=lhOB%2FZqikQlP1y2eC2dPrd%2Fo%2FmTiNTsh2%2B4N0W7Rp10%3D",
-      "name": "Zerowriter Fold: E-Ink Word Processor",
-      "name_zh": "Zerowriter Fold: E-Ink Word Processor",
-      "founder": "Zerowriter",
-      "location": "Ottawa, Canada",
-      "raised": 337825,
-      "currency": "CAD",
-      "currencySymbol": "$",
-      "progress_pct": 483,
-      "backers": 827,
-      "price": "",
-      "campaign_url": "https://www.kickstarter.com/projects/zerowriter/zerowriter-fold",
-      "category_tag_zh": "#科技",
-      "summary_zh": [
-        "The portable distraction-free word processor. Write wherever life takes you."
-      ],
-      "scrapedAt": "2026-06-09T12:20:21.144Z"
-    },
-    {
       "id": "cs-micimike-rev-devices-micimike-home-mini-drop-in-pcb",
       "platform": "Crowd Supply",
       "image": "https://www.crowdsupply.com/img/a9cc/3aa4466e-bd14-45d9-a0cc-ca4fd2eda9cc_aa-md.jpg",
@@ -263,18 +11,18 @@
       "name_zh": "MiciMike Home Mini Drop-In PCB",
       "founder": "MiciMike ReV Devices",
       "location": "Bandon, co",
-      "raised": 99490,
+      "raised": 100410,
       "currency": "USD",
       "currencySymbol": "$",
-      "progress_pct": 1243,
-      "backers": 469,
+      "progress_pct": 1255,
+      "backers": 473,
       "price": "$85",
       "campaign_url": "https://www.crowdsupply.com/micimike-rev-devices/micimike-home-mini-drop-in-pcb",
       "category_tag_zh": "#硬件",
       "summary_zh": [
         "A fully local, open-source replacement board that brings Home Assistant voice to the 1st Gen Google Home Mini"
       ],
-      "scrapedAt": "2026-06-09T12:18:31.867Z"
+      "scrapedAt": "2026-06-10T03:04:19.355Z"
     },
     {
       "id": "cs-modos-tech-modos-flow",
@@ -284,7 +32,7 @@
       "name_zh": "Modos Flow",
       "founder": "others.",
       "location": "daily use",
-      "raised": 56858,
+      "raised": 59015,
       "currency": "USD",
       "currencySymbol": "$",
       "progress_pct": 100,
@@ -295,7 +43,7 @@
       "summary_zh": [
         "A paper-like monitor for reading, writing, and focused work"
       ],
-      "scrapedAt": "2026-06-09T12:18:31.868Z"
+      "scrapedAt": "2026-06-10T03:04:19.357Z"
     },
     {
       "id": "cs-wafer-space-gf180mcu-run-2",
@@ -316,7 +64,7 @@
       "summary_zh": [
         "Fabricate 1,000 chips of your own design"
       ],
-      "scrapedAt": "2026-06-09T12:18:31.869Z"
+      "scrapedAt": "2026-06-10T03:04:19.358Z"
     },
     {
       "id": "cs-leafkvm-leafkvm",
@@ -326,18 +74,18 @@
       "name_zh": "LeafKVM",
       "founder": "our partners in China. We will handle final assembly, screen installation, and firmware flashing directly in our studio. Every LeafKVM unit will undergo extensive quality inspection before shipping.",
       "location": "China",
-      "raised": 57463,
+      "raised": 59067,
       "currency": "USD",
       "currencySymbol": "$",
-      "progress_pct": 574,
-      "backers": 225,
-      "price": "$119",
+      "progress_pct": 590,
+      "backers": 231,
+      "price": "$129",
       "campaign_url": "https://www.crowdsupply.com/leafkvm/leafkvm",
       "category_tag_zh": "#硬件",
       "summary_zh": [
         "A flexible KVM remote control with support for wireless connectivity"
       ],
-      "scrapedAt": "2026-06-09T12:18:31.870Z"
+      "scrapedAt": "2026-06-10T03:04:19.358Z"
     },
     {
       "id": "cs-meatpi-electronics-wican-pro",
@@ -347,18 +95,18 @@
       "name_zh": "WiCAN Pro",
       "founder": "MeatPi Electronics",
       "location": "Melbourne, Australia",
-      "raised": 172528,
+      "raised": 173685,
       "currency": "USD",
       "currencySymbol": "$",
       "progress_pct": 100,
-      "backers": 1742,
+      "backers": 1753,
       "price": "$89",
       "campaign_url": "https://www.crowdsupply.com/meatpi-electronics/wican-pro",
       "category_tag_zh": "#硬件",
       "summary_zh": [
         "Advanced OBD scanner for next-generation vehicle diagnostics and Home Assistant integration"
       ],
-      "scrapedAt": "2026-06-09T12:18:31.871Z"
+      "scrapedAt": "2026-06-10T03:04:19.360Z"
     },
     {
       "id": "cs-meatpi-electronics-ollie-v2",
@@ -379,7 +127,7 @@
       "summary_zh": [
         "An even better all-in-one USB to isolated-UARTx2/CAN/RS485/RS232 converter"
       ],
-      "scrapedAt": "2026-06-09T12:18:31.872Z"
+      "scrapedAt": "2026-06-10T03:04:19.373Z"
     },
     {
       "id": "cs-meatpi-electronics-wican",
@@ -389,18 +137,18 @@
       "name_zh": "WiCAN",
       "founder": "MeatPi Electronics",
       "location": "Melbourne, Australia",
-      "raised": 54685,
+      "raised": 54727,
       "currency": "USD",
       "currencySymbol": "$",
       "progress_pct": 100,
-      "backers": 1033,
+      "backers": 1034,
       "price": "$42",
       "campaign_url": "https://www.crowdsupply.com/meatpi-electronics/wican",
       "category_tag_zh": "#硬件",
       "summary_zh": [
         "Open source, ESP32-C3 CAN adapter with USB, Wi-Fi, and BLE support"
       ],
-      "scrapedAt": "2026-06-09T12:18:31.873Z"
+      "scrapedAt": "2026-06-10T03:04:19.373Z"
     },
     {
       "id": "cs-bela-bela-gem-stereo-and-multi",
@@ -414,14 +162,14 @@
       "currency": "USD",
       "currencySymbol": "$",
       "progress_pct": 323,
-      "backers": 315,
+      "backers": 316,
       "price": "$75",
       "campaign_url": "https://www.crowdsupply.com/bela/bela-gem-stereo-and-multi",
       "category_tag_zh": "#硬件",
       "summary_zh": [
         "A high-performance audio and sensor system for the PocketBeagle 2"
       ],
-      "scrapedAt": "2026-06-09T12:18:31.879Z"
+      "scrapedAt": "2026-06-10T03:04:19.373Z"
     },
     {
       "id": "cs-sitron-labs-solder-ninja-pen",
@@ -442,7 +190,7 @@
       "summary_zh": [
         "A 45 W USB-powered soldering iron compatible with Weller RT Micro tips"
       ],
-      "scrapedAt": "2026-06-09T12:18:31.880Z"
+      "scrapedAt": "2026-06-10T03:04:19.374Z"
     },
     {
       "id": "cs-aerio-solutions-usb-insight-hub",
@@ -463,7 +211,7 @@
       "summary_zh": [
         "A USB interfacing tool for developers & tech enthusiasts"
       ],
-      "scrapedAt": "2026-06-09T12:18:31.880Z"
+      "scrapedAt": "2026-06-10T03:04:19.374Z"
     },
     {
       "id": "cs-icy-electronics-icepi-zero",
@@ -477,14 +225,14 @@
       "currency": "USD",
       "currencySymbol": "$",
       "progress_pct": 519,
-      "backers": 203,
+      "backers": 204,
       "price": "$79",
       "campaign_url": "https://www.crowdsupply.com/icy-electronics/icepi-zero",
       "category_tag_zh": "#硬件",
       "summary_zh": [
         "A powerful FPGA dev board in a familiar, pint-sized package"
       ],
-      "scrapedAt": "2026-06-09T12:18:31.881Z"
+      "scrapedAt": "2026-06-10T03:04:19.374Z"
     },
     {
       "id": "cs-saraai-sarakit",
@@ -505,7 +253,7 @@
       "summary_zh": [
         "Raspberry Pi CM4 expansion board with ChatGPT-based voice control, motor control, powerful sensors, and tons of tutorials"
       ],
-      "scrapedAt": "2026-06-09T12:18:31.881Z"
+      "scrapedAt": "2026-06-10T03:04:19.374Z"
     },
     {
       "id": "cs-apfaudio-tiliqua",
@@ -526,7 +274,7 @@
       "summary_zh": [
         "A powerful, hackable FPGA-based audio multitool for Eurorack"
       ],
-      "scrapedAt": "2026-06-09T12:18:31.882Z"
+      "scrapedAt": "2026-06-10T03:04:19.375Z"
     },
     {
       "id": "cs-silicognition-lifepo4wered-pi-plus",
@@ -536,18 +284,18 @@
       "name_zh": "LiFePO4wered/Pi+",
       "founder": "Silicognition",
       "location": "Longmont, Colorado",
-      "raised": 73827,
+      "raised": 73992,
       "currency": "USD",
       "currencySymbol": "$",
-      "progress_pct": 1054,
-      "backers": 791,
+      "progress_pct": 1057,
+      "backers": 793,
       "price": "$53",
       "campaign_url": "https://www.crowdsupply.com/silicognition/lifepo4wered-pi-plus",
       "category_tag_zh": "#硬件",
       "summary_zh": [
         "A full-featured LiFePO4 battery, power manager, and UPS for the Raspberry Pi"
       ],
-      "scrapedAt": "2026-06-09T12:18:31.882Z"
+      "scrapedAt": "2026-06-10T03:04:19.375Z"
     },
     {
       "id": "cs-techxartisan-openterface-mini-kvm",
@@ -557,18 +305,18 @@
       "name_zh": "Openterface Mini-KVM",
       "founder": "TechxArtisan",
       "location": "Hong Kong",
-      "raised": 517125,
+      "raised": 517344,
       "currency": "USD",
       "currencySymbol": "$",
-      "progress_pct": 4309,
-      "backers": 3857,
+      "progress_pct": 4311,
+      "backers": 3859,
       "price": "$95",
       "campaign_url": "https://www.crowdsupply.com/techxartisan/openterface-mini-kvm",
       "category_tag_zh": "#硬件",
       "summary_zh": [
         "Your Laptop as a KVM Console"
       ],
-      "scrapedAt": "2026-06-09T12:18:31.883Z"
+      "scrapedAt": "2026-06-10T03:04:19.375Z"
     },
     {
       "id": "cs-mnt-pocket-reform",
@@ -589,7 +337,7 @@
       "summary_zh": [
         "A newer, smaller, lighter, more-affordable, seven-inch mini Reform laptop that remains fully open source"
       ],
-      "scrapedAt": "2026-06-09T12:18:31.883Z"
+      "scrapedAt": "2026-06-10T03:04:19.376Z"
     },
     {
       "id": "cs-securinghw-tigard",
@@ -610,7 +358,7 @@
       "summary_zh": [
         "An open source FT2232H-based, multi-protocol, multi-voltage tool for hardware hacking"
       ],
-      "scrapedAt": "2026-06-09T12:18:31.884Z"
+      "scrapedAt": "2026-06-10T03:04:19.376Z"
     },
     {
       "id": "cs-newae-chipwhisperer-husky",
@@ -631,7 +379,259 @@
       "summary_zh": [
         "The power-analysis and fault-injection tool you can hold in your paw"
       ],
-      "scrapedAt": "2026-06-09T12:18:31.884Z"
+      "scrapedAt": "2026-06-10T03:04:19.377Z"
+    },
+    {
+      "id": "ks-miko",
+      "platform": "Kickstarter",
+      "image": "https://i.kickstarter.com/assets/054/029/849/8474798b9b4886e9cbe67b6065ddd9cf_original.png?anim=false&fit=cover&gravity=auto&height=198&origin=ugc&q=92&v=1780919873&width=352&sig=48S3n%2F1og3MOJh7oHlhy%2BWZx9zGWH2P4fdmwY%2FpPb0Q%3D",
+      "name": "Miko- 30W GaN Fast Charger That Lives On Your Keyring",
+      "name_zh": "Miko- 30W GaN Fast Charger That Lives On Your Keyring",
+      "founder": "asap Technologies",
+      "location": "Los Angeles, USA",
+      "raised": 24093,
+      "currency": "USD",
+      "currencySymbol": "$",
+      "progress_pct": 241,
+      "backers": 399,
+      "price": "",
+      "campaign_url": "https://www.kickstarter.com/projects/asaptechnologies/miko",
+      "category_tag_zh": "#科技",
+      "summary_zh": [
+        "Key fob sized 30W GaN charger | Fast charges your phone | Foldable prongs | USB-C cable included | Always on your keys"
+      ],
+      "scrapedAt": "2026-06-10T03:04:56.628Z"
+    },
+    {
+      "id": "ks-skysphere-building-an-intelligent-all-sky-camera-network",
+      "platform": "Kickstarter",
+      "image": "https://i.kickstarter.com/assets/053/810/002/ed54ab8a25289edc90f51e2d1349be05_original.png?anim=false&fit=cover&gravity=auto&height=198&origin=ugc&q=92&v=1779314992&width=352&sig=wDuw8%2B7xSqJIQkUkXOUo5147YaT%2BeqR3LmBM5kq48NQ%3D",
+      "name": "SkySphere: Building an Intelligent All-Sky Camera Network",
+      "name_zh": "SkySphere: Building an Intelligent All-Sky Camera Network",
+      "founder": "Franck Marchis",
+      "location": "San Francisco, USA",
+      "raised": 71613,
+      "currency": "USD",
+      "currencySymbol": "$",
+      "progress_pct": 95,
+      "backers": 126,
+      "price": "",
+      "campaign_url": "https://www.kickstarter.com/projects/allplanets/skysphere-building-an-intelligent-all-sky-camera-network",
+      "category_tag_zh": "#科技",
+      "summary_zh": [
+        "Real-time sky monitoring powered by intelligent cameras and continuous, trusted observational data."
+      ],
+      "scrapedAt": "2026-06-10T03:04:56.628Z"
+    },
+    {
+      "id": "ks-lumos-sonorus-mesh-intercom-helmet-with-360-visibility",
+      "platform": "Kickstarter",
+      "image": "https://i.kickstarter.com/assets/053/772/144/648e60b318ec2ea19bcf3e9fcb7c009f_original.png?anim=false&fit=cover&gravity=auto&height=198&origin=ugc&q=92&v=1779108217&width=352&sig=n6LfV8rK3jPGpGeax%2FlVnXoygKUzpCiJ5iLc%2B2Y26j0%3D",
+      "name": "Lumos Sonorus: Mesh Intercom Helmet with 360° Visibility",
+      "name_zh": "Lumos Sonorus: Mesh Intercom Helmet with 360° Visibility",
+      "founder": "Lumos Helmet",
+      "location": "Boston, USA",
+      "raised": 639646,
+      "currency": "USD",
+      "currencySymbol": "$",
+      "progress_pct": 4264,
+      "backers": 2196,
+      "price": "",
+      "campaign_url": "https://www.kickstarter.com/projects/lumoshelmet/lumos-sonorus-mesh-intercom-helmet-with-360-visibility",
+      "category_tag_zh": "#科技",
+      "summary_zh": [
+        "Full-Duplex Mesh Intercom | Up to 15 Riders | Open-Ear Audio | E-Bike Safety | 360° Visibility | Turn Signals & Brake Light"
+      ],
+      "scrapedAt": "2026-06-10T03:04:56.628Z"
+    },
+    {
+      "id": "ks-dusq-the-worlds-only-sleep-regulation-system",
+      "platform": "Kickstarter",
+      "image": "https://i.kickstarter.com/assets/054/048/678/b1ef14e695e5e33aa606e49a4a22f7df_original.png?anim=false&fit=cover&gravity=auto&height=198&origin=ugc&q=92&v=1781027359&width=352&sig=GD0KUe8vVhpKRU1zVn6vGwO459JftMq%2BneYfZQ67wTY%3D",
+      "name": "DUSQ - The World’s Only Sleep Regulation System",
+      "name_zh": "DUSQ - The World’s Only Sleep Regulation System",
+      "founder": "DUSQ",
+      "location": "Newark, USA",
+      "raised": 680384,
+      "currency": "USD",
+      "currencySymbol": "$",
+      "progress_pct": 6804,
+      "backers": 2566,
+      "price": "",
+      "campaign_url": "https://www.kickstarter.com/projects/dusq/dusq-the-worlds-only-sleep-regulation-system",
+      "category_tag_zh": "#科技",
+      "summary_zh": [
+        "Monitors your nervous system, detects when sleep fragments and intervenes using vagus and vestibular nerve stimualtion. Non-invasively."
+      ],
+      "scrapedAt": "2026-06-10T03:04:56.628Z"
+    },
+    {
+      "id": "ks-dojo-air-smarter-breathwork-with-real-time-volume-feedback",
+      "platform": "Kickstarter",
+      "image": "https://i.kickstarter.com/assets/053/836/061/b09e5dd16af1fb72538cb83098b6720a_original.jpg?anim=false&fit=cover&gravity=auto&height=198&origin=ugc&q=92&v=1779489966&width=352&sig=UCPkffOVNr6EiJbfoAHSUaaiWvluHrsVGNNe%2FI94XPk%3D",
+      "name": "DOJO Air: A Portable Data Driven Breath Trainer",
+      "name_zh": "DOJO Air: A Portable Data Driven Breath Trainer",
+      "founder": "DOJO Air",
+      "location": "San Diego, USA",
+      "raised": 96594,
+      "currency": "USD",
+      "currencySymbol": "$",
+      "progress_pct": 386,
+      "backers": 466,
+      "price": "",
+      "campaign_url": "https://www.kickstarter.com/projects/irahayes/dojo-air-smarter-breathwork-with-real-time-volume-feedback",
+      "category_tag_zh": "#科技",
+      "summary_zh": [
+        "Improve your breathing and track your results using guided training exercises, precise volumetric measurement, and real time data."
+      ],
+      "scrapedAt": "2026-06-10T03:04:56.628Z"
+    },
+    {
+      "id": "ks-comet-q",
+      "platform": "Kickstarter",
+      "image": "https://i.kickstarter.com/assets/053/528/492/d8084aafa8b40a2ba3ec9beee0ecad30_original.jpg?anim=false&fit=cover&gravity=auto&height=198&origin=ugc&q=92&v=1777446985&width=352&sig=Ax8SrwZ%2FWlesiYOPbN8Ile3izda96sg1oRbnXvdT%2BDQ%3D",
+      "name": "GL.iNet Comet Q: Wake, Unlock & Control Remotely",
+      "name_zh": "GL.iNet Comet Q: Wake, Unlock & Control Remotely",
+      "founder": "GL.iNet",
+      "location": "Fairfax, USA",
+      "raised": 578823,
+      "currency": "USD",
+      "currencySymbol": "$",
+      "progress_pct": 5788,
+      "backers": 4358,
+      "price": "",
+      "campaign_url": "https://www.kickstarter.com/projects/glinet/comet-q",
+      "category_tag_zh": "#科技",
+      "summary_zh": [
+        "The World's First Cross-OS Remote Control for Your Mobile Device, including Laptop, Phones, Macmini, Tablet, and more over USB-C Cable."
+      ],
+      "scrapedAt": "2026-06-10T03:04:56.629Z"
+    },
+    {
+      "id": "ks-xtool-wonderpress-the-most-creative-3d-auto-heat-press-ever",
+      "platform": "Kickstarter",
+      "image": "https://i.kickstarter.com/assets/053/190/423/03ecd9cb9ab0cf4999dbfcda4aded8f4_original.jpg?anim=false&fit=cover&gravity=auto&height=198&origin=ugc&q=92&v=1775122328&width=352&sig=nt1NgUECOm1V9hlxmSkv8butbtQkFHnBUyb3CsFBopA%3D",
+      "name": "xTool WonderPress: The Most Creative 3D Auto Heat Press Ever",
+      "name_zh": "xTool WonderPress: The Most Creative 3D Auto Heat Press Ever",
+      "founder": "xTool",
+      "location": "California City, USA",
+      "raised": 4455704,
+      "currency": "USD",
+      "currencySymbol": "$",
+      "progress_pct": 4456,
+      "backers": 7893,
+      "price": "",
+      "campaign_url": "https://www.kickstarter.com/projects/makeblock/xtool-wonderpress-the-most-creative-3d-auto-heat-press-ever",
+      "category_tag_zh": "#科技",
+      "summary_zh": [
+        "All-in-One Modular | Auto Heat Press | 3D Sublimation | Vacuum Forming | DTF Curing | Craft Baking"
+      ],
+      "scrapedAt": "2026-06-10T03:04:56.629Z"
+    },
+    {
+      "id": "ks-the-omara-scent-display-for-gaming",
+      "platform": "Kickstarter",
+      "image": "https://i.kickstarter.com/assets/054/048/898/ca977c5abc7dec8ac415e3a55ae4ffe7_original.png?anim=false&fit=cover&gravity=auto&height=198&origin=ugc&q=92&v=1781028575&width=352&sig=AF2njPSwDOjBQBBc%2Fu%2F0GXSU9Ncg03V0WOYXPihjCtE%3D",
+      "name": "The Omara Scent Display for Gaming",
+      "name_zh": "The Omara Scent Display for Gaming",
+      "founder": "OVR Technology",
+      "location": "Burlington, USA",
+      "raised": 41497,
+      "currency": "USD",
+      "currencySymbol": "$",
+      "progress_pct": 277,
+      "backers": 82,
+      "price": "",
+      "campaign_url": "https://www.kickstarter.com/projects/omara/the-omara-scent-display-for-gaming",
+      "category_tag_zh": "#科技",
+      "summary_zh": [
+        "You can see your games. You can hear your games. Now smell them. Scent Unlocked."
+      ],
+      "scrapedAt": "2026-06-10T03:04:56.629Z"
+    },
+    {
+      "id": "ks-icemist-the-ultimate-semiconductor-portable-mist-fan",
+      "platform": "Kickstarter",
+      "image": "https://i.kickstarter.com/assets/053/982/240/5bff82b91a7e3d84958d3b0adf8eb587_original.png?anim=false&fit=cover&gravity=auto&height=198&origin=ugc&q=92&v=1780540771&width=352&sig=1oj0if%2FaJcaVXi4uT6T5tcEhVhes0%2F39jLOg4%2BgEqN8%3D",
+      "name": "TAYEN Gen 2 — AC-Style Semiconductor Cooling Mist Fan",
+      "name_zh": "TAYEN Gen 2 — AC-Style Semiconductor Cooling Mist Fan",
+      "founder": "Tayen tech",
+      "location": "Hong Kong, Hong Kong",
+      "raised": 199021,
+      "currency": "HKD",
+      "currencySymbol": "$",
+      "progress_pct": 1990,
+      "backers": 240,
+      "price": "",
+      "campaign_url": "https://www.kickstarter.com/projects/tayen/icemist-the-ultimate-semiconductor-portable-mist-fan",
+      "category_tag_zh": "#科技",
+      "summary_zh": [
+        "A 3-in-1 personal cooling system with semiconductor water cooling, triple mist nozzles, a 6000mAh battery, and wall-mounted or freestan"
+      ],
+      "scrapedAt": "2026-06-10T03:04:56.629Z"
+    },
+    {
+      "id": "ks-iron-fleet-the-diy-rc-tank-that-teaches-real-engineering",
+      "platform": "Kickstarter",
+      "image": "https://i.kickstarter.com/assets/053/611/238/0a7a6df87fcb398d930d729140e42417_original.png?anim=false&fit=cover&gravity=auto&height=198&origin=ugc&q=92&v=1778020814&width=352&sig=aH%2F6q9AszUOkVzzRGWuUoJMjJLwR5B%2BjVk3ZDCGj%2BSc%3D",
+      "name": "Iron Fleet: The DIY RC Tank That Teaches Real Engineering",
+      "name_zh": "Iron Fleet: The DIY RC Tank That Teaches Real Engineering",
+      "founder": "Iron Bull",
+      "location": "Zagreb, Croatia",
+      "raised": 16624,
+      "currency": "USD",
+      "currencySymbol": "$",
+      "progress_pct": 55,
+      "backers": 41,
+      "price": "",
+      "campaign_url": "https://www.kickstarter.com/projects/ironfleet/iron-fleet-the-diy-rc-tank-that-teaches-real-engineering",
+      "category_tag_zh": "#科技",
+      "summary_zh": [
+        "Iron Fleet is more than a RC Tank, it’s a hands‑on engineering project, an immersive RC experience and a gateway to living history."
+      ],
+      "scrapedAt": "2026-06-10T03:04:56.629Z"
+    },
+    {
+      "id": "ks-linyo-h1-car-wash-machine",
+      "platform": "Kickstarter",
+      "image": "https://i.kickstarter.com/assets/053/909/644/fd8e04578a956e139738b07302cf86d0_original.jpg?anim=false&fit=cover&gravity=auto&height=198&origin=ugc&q=92&v=1780027144&width=352&sig=%2Bc12Nq8X486HDaI%2BEGZwej7UrM1l2oDdFxHREaB3IVs%3D",
+      "name": "LINYO H1 Car Wash Machine",
+      "name_zh": "LINYO H1 Car Wash Machine",
+      "founder": "Linyo",
+      "location": "Hong Kong, Hong Kong",
+      "raised": 1598490,
+      "currency": "HKD",
+      "currencySymbol": "$",
+      "progress_pct": 6804,
+      "backers": 479,
+      "price": "",
+      "campaign_url": "https://www.kickstarter.com/projects/465535565/linyo-h1-car-wash-machine",
+      "category_tag_zh": "#科技",
+      "summary_zh": [
+        "Paint-safe | All-in-one | Wash & Coat | 5000mAh Battery｜Hybrid Power | 0.5 Gals & 20 mins per Wash | Zero Runoff | Compact & Portable"
+      ],
+      "scrapedAt": "2026-06-10T03:04:56.629Z"
+    },
+    {
+      "id": "ks-sond-dreambuds",
+      "platform": "Kickstarter",
+      "image": "https://i.kickstarter.com/assets/053/920/384/c99a0e8801c65327fddca58d50d41cac_original.jpg?anim=false&fit=cover&gravity=auto&height=198&origin=ugc&q=92&v=1780103597&width=352&sig=0hC7bITRLDRQZCDxyqbHf%2F6Nv0zSLqjoZa5mDUHfIfo%3D",
+      "name": "The First 12-Signal Sleep Earbuds That Improve Your Sleep",
+      "name_zh": "The First 12-Signal Sleep Earbuds That Improve Your Sleep",
+      "founder": "SOND",
+      "location": "Boston, USA",
+      "raised": 424674,
+      "currency": "USD",
+      "currencySymbol": "$",
+      "progress_pct": 4247,
+      "backers": 878,
+      "price": "",
+      "campaign_url": "https://www.kickstarter.com/projects/sond/sond-dreambuds",
+      "category_tag_zh": "#科技",
+      "summary_zh": [
+        "A new category in sleep tech. Helps you fall asleep, stay asleep, & wake up refreshed. No subscription fees. Watch video to learn more"
+      ],
+      "scrapedAt": "2026-06-10T03:04:56.629Z"
     }
   ]
 }
