@@ -410,11 +410,29 @@ export default function App() {
             transition={{ duration: 0.2 }}
             className="space-y-6"
           >
-            <div className="bg-gradient-to-r from-emerald-50 to-teal-50 rounded-xl border border-emerald-100 p-4 flex items-start gap-3">
-              <Sparkles className="w-5 h-5 text-emerald-500 shrink-0 mt-0.5" />
-              <div>
-                <p className="text-sm font-semibold text-emerald-800">AI 硬件高潜深海掘金项目</p>
-                <p className="text-xs text-emerald-600 mt-0.5">数据来源：100+家监控渠道 4000+家信源· AI硬件板块 · 每日更新 · 展开卡片可查看团队与融资详情</p>
+            <div className="bg-slate-900 rounded-xl border border-slate-700 p-5 flex items-center justify-between gap-4">
+              <div className="flex items-start gap-3">
+                <Sparkles className="w-5 h-5 text-emerald-400 shrink-0 mt-0.5" />
+                <div>
+                  <p className="text-sm font-semibold text-white">AI 驱动的水下高潜项目线索发现引擎</p>
+                  <p className="text-xs text-slate-400 mt-0.5">让天下的洞见都能找到伯乐</p>
+                </div>
+              </div>
+              <div className="flex items-center gap-6 shrink-0">
+                <div className="text-center">
+                  <div className="text-2xl font-bold text-amber-400">100<span className="text-lg">+</span></div>
+                  <div className="text-[10px] text-slate-400 mt-0.5">渠道</div>
+                </div>
+                <div className="w-px h-8 bg-slate-700"></div>
+                <div className="text-center">
+                  <div className="text-2xl font-bold text-amber-400">4,320</div>
+                  <div className="text-[10px] text-slate-400 mt-0.5">信源</div>
+                </div>
+                <div className="w-px h-8 bg-slate-700"></div>
+                <div className="text-center">
+                  <div className="text-2xl font-bold text-amber-400">862</div>
+                  <div className="text-[10px] text-slate-400 mt-0.5">高潜标的</div>
+                </div>
               </div>
             </div>
             {investData.length > 0 ? (
