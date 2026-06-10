@@ -414,7 +414,7 @@ export default function App() {
               <div className="flex items-start gap-3">
                 <Sparkles className="w-5 h-5 text-emerald-400 shrink-0 mt-0.5" />
                 <div>
-                  <p className="text-sm font-semibold text-white">AI 驱动的水下高潜项目线索发现引擎</p>
+                  <p className="text-base font-semibold text-white">AI 驱动的水下高潜项目线索发现引擎</p>
                   <p className="text-xs text-slate-400 mt-0.5">让天下的洞见都能找到伯乐</p>
                 </div>
               </div>
