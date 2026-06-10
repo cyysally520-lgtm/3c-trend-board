@@ -365,7 +365,7 @@ export default function App() {
               </span>
             </button>
 
-            {/* Tab 2: 全球众擎启航 */}
+            {/* Tab 2: 全球众筹启航 */}
             <button 
               onClick={() => setCurrentTab('crowdfunding')}
               className={`flex items-center gap-2 py-3 px-1 border-b-2 font-semibold text-sm whitespace-nowrap transition-all duration-200 cursor-pointer ${
@@ -375,7 +375,7 @@ export default function App() {
               }`}
             >
               <Rocket className="w-4 h-4" />
-              全球众擎启航
+              全球众筹启航
               <span className={`text-[10px] font-mono font-bold px-2 py-0.5 rounded-full transition-colors ${
                 currentTab === 'crowdfunding' ? 'bg-emerald-50 text-emerald-600' : 'bg-slate-100 text-slate-500'
               }`}>
@@ -492,7 +492,7 @@ export default function App() {
           </motion.div>
         )}
 
-        {/* ===================== TAB 2: 全球众擎启航 ===================== */}
+        {/* ===================== TAB 2: 全球众筹启航 ===================== */}
         {currentTab === 'crowdfunding' && (
           <motion.div 
             initial={{ opacity: 0, y: 5 }} 
