@@ -1,7 +1,7 @@
 {
   "date": "2026-06-11",
   "kind": "news",
-  "count": 90,
+  "count": 100,
   "items": [
     {
       "id": "giz-realme-p4r-5g-launches-in-india-three-days-of-batt",
@@ -1352,6 +1352,164 @@
       "url": "https://www.theverge.com/column/947838/washington-ai-network-honors-2026-midterms",
       "category_tag_zh": "#AI应用",
       "scrapedAt": "2026-06-11T04:23:36.343Z"
+    },
+    {
+      "id": "vb-tensorwave-350m-ai-infrastructure",
+      "source": "Ventureburn",
+      "image": "https://ventureburn.com/wp-content/uploads/2026/06/TensorWave-Raises-350M-768x431.jpeg",
+      "title": "TensorWave Raises $350M to Expand AMD-Powered AI Cloud Infrastructure",
+      "title_zh": "TensorWave 融资3.5亿美元，打造无Nvidia架构AI云",
+      "publishedAt": "2026-06-11T00:00:00.000Z",
+      "snippet": "TensorWave raised $350M Series B at $1.55B valuation, building Nvidia-free AI cloud powered exclusively by AMD Instinct accelerators with 8000+ GPU liquid-cooled clusters.",
+      "snippet_zh": [
+        "TensorWave 完成3.5亿美元B轮融资，估值15.5亿美元，打造全球最大AMD液冷GPU训练集群。",
+        "完全摒弃Nvidia架构，独家采用AMD Instinct加速卡与ROCm开源软件栈构建AI云。",
+        "与TECfusions签署多阶段容量协议，目标实现1吉瓦级数据中心电力部署。"
+      ],
+      "url": "https://ventureburn.com/tensorwave-raises-350m-to-expand-ai-infrastructure/",
+      "category_tag_zh": "#AI基础设施",
+      "scrapedAt": "2026-06-11T06:00:00.000Z"
+    },
+    {
+      "id": "vb-cyera-600m-ai-trust-layer",
+      "source": "Ventureburn",
+      "image": "https://ventureburn.com/wp-content/uploads/2026/06/Cyera-Secures-600M-768x431.jpeg",
+      "title": "Cyera Secures $600 Million to Expand AI Trust Layer",
+      "title_zh": "Cyera 融资6亿美元，扩展AI信任安全层",
+      "publishedAt": "2026-06-11T00:00:00.000Z",
+      "snippet": "Cyera has secured $600 million in funding to expand its AI trust layer platform, strengthening data security and governance for enterprise AI deployments.",
+      "snippet_zh": [
+        "Cyera 获6亿美元融资，扩展AI信任层平台，强化企业AI部署的数据安全与治理能力。"
+      ],
+      "url": "https://ventureburn.com/cyera-secures-600-million-to-expand-ai-trust-layer/",
+      "category_tag_zh": "#AI安全",
+      "scrapedAt": "2026-06-11T06:00:00.000Z"
+    },
+    {
+      "id": "vb-alta-ares-50m-air-defence-ai",
+      "source": "Ventureburn",
+      "image": "https://ventureburn.com/wp-content/uploads/2026/06/Minerva-Raises-20M-3-768x431.png",
+      "title": "Alta Ares Raises €50M to Scale AI-Powered Air Defence Systems",
+      "title_zh": "Alta Ares 融资5000万欧元，扩展AI驱动防空拦截系统",
+      "publishedAt": "2026-06-11T00:00:00.000Z",
+      "snippet": "Alta Ares has raised €50M to scale its AI-powered interceptor system designed to counter drones and missile threats in defence and intelligence applications.",
+      "snippet_zh": [
+        "Alta Ares 获5000万欧元融资，扩展AI驱动拦截系统，应对无人机与导弹威胁。"
+      ],
+      "url": "https://ventureburn.com/alta-ares-raises-50m-air-defence-ai/",
+      "category_tag_zh": "#AI国防",
+      "scrapedAt": "2026-06-11T06:00:00.000Z"
+    },
+    {
+      "id": "vb-cameramatics-49m-ai-fleet",
+      "source": "Ventureburn",
+      "image": "https://ventureburn.com/wp-content/uploads/2026/06/Minerva-Raises-20M-768x431.png",
+      "title": "CameraMatics Raises €49M to Expand AI Fleet Intelligence Platform",
+      "title_zh": "CameraMatics 融资4900万欧元，扩展AI车队智能平台",
+      "publishedAt": "2026-06-11T00:00:00.000Z",
+      "snippet": "CameraMatics has raised €49M in funding to expand its AI-powered fleet intelligence platform for international markets, enhancing vehicle tracking and safety analytics.",
+      "snippet_zh": [
+        "CameraMatics 获4900万欧元融资，扩展AI驱动车队智能平台至国际市场，增强车辆追踪与安全分析。"
+      ],
+      "url": "https://ventureburn.com/cameramatics-raises-49m-ai-fleet-expansion/",
+      "category_tag_zh": "#AI车队",
+      "scrapedAt": "2026-06-11T06:00:00.000Z"
+    },
+    {
+      "id": "vb-f2-24m-ai-private-credit",
+      "source": "Ventureburn",
+      "image": "https://ventureburn.com/wp-content/uploads/2026/06/F2-Raises-24M-768x431.jpeg",
+      "title": "F2 Raises $24M to Expand AI for Private Credit",
+      "title_zh": "F2 融资2400万美元，AI赋能私人信贷分析",
+      "publishedAt": "2026-06-11T00:00:00.000Z",
+      "snippet": "F2 has raised $24M to expand its AI-powered platform for private credit analysis and decision-making, bringing automation to credit risk assessment.",
+      "snippet_zh": [
+        "F2 获2400万美元融资，扩展AI驱动的私人信贷分析与决策平台，自动化信贷风险评估。"
+      ],
+      "url": "https://ventureburn.com/f2-raises-24m-to-expand-ai-for-private-credit/",
+      "category_tag_zh": "#AI金融",
+      "scrapedAt": "2026-06-11T06:00:00.000Z"
+    },
+    {
+      "id": "vb-best-ai-tools-students-2026",
+      "source": "Ventureburn",
+      "image": "https://ventureburn.com/wp-content/uploads/2026/06/Collate-Raises-95M-1-1-768x431.jpeg",
+      "title": "10 Best AI Tools for Students to Boost Grades in 2026",
+      "title_zh": "2026年提升学业的10大AI工具盘点",
+      "publishedAt": "2026-06-08T00:00:00.000Z",
+      "snippet": "From NotebookLM to Speechify, the best AI tools for students in 2026 cover study notes, research, writing, coding, and presentations — 92% of students already use AI in their routines.",
+      "snippet_zh": [
+        "从NotebookLM到Speechify，2026年最强AI学习工具覆盖笔记、研究、写作、编程与演示全场景。",
+        "92%学生和84%教职人员已在教育流程中使用AI，超三分之二高校正在制定AI使用指南。",
+        "核心推荐：NotebookLM智能笔记、ScholarAI学术研究、Grammarly写作润色、AskCodi编程辅助。"
+      ],
+      "url": "https://ventureburn.com/best-ai-tools-for-students/",
+      "category_tag_zh": "#AI教育",
+      "scrapedAt": "2026-06-11T06:00:00.000Z"
+    },
+    {
+      "id": "vb-best-ai-music-generators-2026",
+      "source": "Ventureburn",
+      "image": "https://ventureburn.com/wp-content/uploads/2026/06/Collate-Raises-95M-1-1-768x431.jpeg",
+      "title": "10 Best AI Music Generators to Make Custom Tracks in 2026",
+      "title_zh": "2026年10大AI音乐生成器盘点",
+      "publishedAt": "2026-06-08T00:00:00.000Z",
+      "snippet": "In 2026, Suno v5 generates a complete song with vocals and instrumentation in under 30 seconds. The best AI music generators have moved from novelty to daily infrastructure for creators.",
+      "snippet_zh": [
+        "Suno v5可在30秒内生成包含人声和编曲的完整歌曲，AI音乐生成已从新奇玩具变为创作者日常基础设施。"
+      ],
+      "url": "https://ventureburn.com/best-ai-music-generators/",
+      "category_tag_zh": "#AI音乐",
+      "scrapedAt": "2026-06-11T06:00:00.000Z"
+    },
+    {
+      "id": "vb-developers-root-access-power-control",
+      "source": "Ventureburn",
+      "image": "https://ventureburn.com/wp-content/uploads/2026/06/oavb562026ft1-768x431.jpeg",
+      "title": "Why Developers Prefer Root Access: Power & Control",
+      "title_zh": "开发者为何钟爱Root权限：掌控力与自由度",
+      "publishedAt": "2026-06-05T00:00:00.000Z",
+      "snippet": "Having complete control over your server environment is a must-have for developers. VPS with root access enables custom software setups, advanced security control, and system-level performance tuning.",
+      "snippet_zh": [
+        "Root权限让开发者完全掌控服务器环境，自定义软件安装、防火墙规则与系统级性能调优。",
+        "Docker、Kubernetes部署与渗透测试工具运行均需Root级系统权限支撑。",
+        "现代开发中，VPS Root访问是开发者构建快速、可靠部署流程的关键配置。"
+      ],
+      "url": "https://ventureburn.com/why-developers-prefer-root-access-power-control/",
+      "category_tag_zh": "#开发者工具",
+      "scrapedAt": "2026-06-11T06:00:00.000Z"
+    },
+    {
+      "id": "vb-ai-statistic-2026-market-playbook",
+      "source": "Ventureburn",
+      "image": "https://ventureburn.com/wp-content/uploads/2026/05/AI-Statistic-768x432.jpg",
+      "title": "AI Statistic 2026: Market, Funding, Enterprise and StartUp Playbook",
+      "title_zh": "AI 2026全景数据：市场、融资、企业与创业攻略",
+      "publishedAt": "2026-05-28T00:00:00.000Z",
+      "snippet": "Global AI market valued at over $390.91 billion in 2025 and expected to reach $539 billion by 2026. A comprehensive playbook covering market size, funding trends, and startup opportunities.",
+      "snippet_zh": [
+        "2025年全球AI市场规模超3909亿美元，预计2026年达5390亿美元。",
+        "全面覆盖AI市场规模、融资趋势、企业采用率与创业机会的深度数据攻略。"
+      ],
+      "url": "https://ventureburn.com/ai-statistic-2026-market-funding-enterprise-startup-playbook/",
+      "category_tag_zh": "#AI市场",
+      "scrapedAt": "2026-06-11T06:00:00.000Z"
+    },
+    {
+      "id": "vb-best-ai-coding-tools-2026",
+      "source": "Ventureburn",
+      "image": "https://ventureburn.com/wp-content/uploads/2026/05/XCENA-Raises-135M-3-768x431.jpeg",
+      "title": "12 Best AI for Coding Tools in 2026 (Vibecoding & Data Science)",
+      "title_zh": "2026年12大AI编程工具盘点：Vibecoding与数据科学",
+      "publishedAt": "2026-05-28T00:00:00.000Z",
+      "snippet": "Whether you are a solo developer accelerating your workflow, a team lead evaluating enterprise options, or a beginner exploring free AI coding tools — the 2026 landscape has you covered.",
+      "snippet_zh": [
+        "从独立开发者加速工作流到团队负责人评估企业方案，2026年最强AI编程工具全面评测。",
+        "覆盖Vibecoding新范式与数据科学场景，兼顾免费与付费方案。"
+      ],
+      "url": "https://ventureburn.com/best-ai-for-coding/",
+      "category_tag_zh": "#AI编程",
+      "scrapedAt": "2026-06-11T06:00:00.000Z"
     }
   ]
 }
