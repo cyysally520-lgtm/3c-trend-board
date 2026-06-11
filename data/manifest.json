@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-11T01:51:38.144Z",
+  "updatedAt": "2026-06-11T03:53:43.237Z",
   "dates": [
     "2026-06-11",
     "2026-06-10",
@@ -14,25 +14,25 @@
   ],
   "counts": {
     "2026-06-11": {
-      "crowdfunding": 49,
-      "news": 69,
+      "crowdfunding": 44,
+      "news": 50,
       "startups": 8
     },
     "2026-06-10": {
       "crowdfunding": 45,
-      "news": 69,
+      "news": 50,
       "startups": 8,
       "investments": 96
     },
     "2026-06-09": {
       "crowdfunding": 30,
-      "news": 69,
+      "news": 50,
       "startups": 8,
       "investments": 96
     },
     "2026-06-08": {
       "crowdfunding": 18,
-      "news": 69,
+      "news": 50,
       "startups": 8,
       "investments": 96
     }
