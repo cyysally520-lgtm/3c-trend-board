@@ -15,24 +15,24 @@
   "counts": {
     "2026-06-11": {
       "crowdfunding": 49,
-      "news": 50,
+      "news": 57,
       "startups": 8
     },
     "2026-06-10": {
       "crowdfunding": 45,
-      "news": 50,
+      "news": 57,
       "startups": 8,
       "investments": 96
     },
     "2026-06-09": {
       "crowdfunding": 30,
-      "news": 50,
+      "news": 57,
       "startups": 8,
       "investments": 96
     },
     "2026-06-08": {
       "crowdfunding": 18,
-      "news": 50,
+      "news": 57,
       "startups": 8,
       "investments": 96
     }

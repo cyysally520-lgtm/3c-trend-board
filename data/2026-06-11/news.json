@@ -1,7 +1,7 @@
 {
   "date": "2026-06-11",
   "kind": "news",
-  "count": 50,
+  "count": 57,
   "items": [
     {
       "id": "giz-realme-p4r-5g-launches-in-india-three-days-of-batt",
@@ -752,6 +752,111 @@
       "url": "https://www.gizchina.com/vivo-phones/vivo-x-fold-6-leaks-200mp-triple-camera-7000mah-battery-june-china-launch",
       "category_tag_zh": "#科技",
       "scrapedAt": "2026-06-11T01:51:37.627Z"
+    },
+    {
+      "id": "vb-opal-security-raises-23m-ai-access-governance",
+      "source": "Ventureburn",
+      "image": "https://ventureburn.com/wp-content/uploads/2026/06/Opal-768x431.png",
+      "title": "Opal Security Raises $23M to Expand AI-Native Access Governance Platform",
+      "title_zh": "Opal Security 融资2300万美元，扩展AI原生访问治理平台",
+      "publishedAt": "2026-06-05T00:00:00.000Z",
+      "snippet": "Opal Security has raised $23 million in new funding to fuel rapid growth. The round was led by Greylock and Battery Ventures, focusing on AI-native identity and access governance.",
+      "snippet_zh": [
+        "Opal Security 获2300万美元新融资，由 Greylock 和 Battery Ventures 领投，加速AI原生身份与访问治理平台扩张。"
+      ],
+      "url": "https://ventureburn.com/opal-security-raises-23m-ai-access-governance/",
+      "category_tag_zh": "#AI安全",
+      "scrapedAt": "2026-06-11T02:00:00.000Z"
+    },
+    {
+      "id": "vb-supabase-raises-500m-series-f-ai-infrastructure",
+      "source": "Ventureburn",
+      "image": "https://ventureburn.com/wp-content/uploads/2026/06/Supabase-768x431.png",
+      "title": "Supabase Raises $500M Series F to Expand AI Database Infrastructure",
+      "title_zh": "Supabase 融资5亿美元F轮，估值105亿美元扩展AI数据库基础设施",
+      "publishedAt": "2026-06-05T00:00:00.000Z",
+      "snippet": "Supabase has raised a massive $500M round of Series F funding at a $10.5B post-money valuation. This round was led by Singapore's sovereign wealth fund and other major investors.",
+      "snippet_zh": [
+        "Supabase 完成5亿美元F轮融资，投后估值达105亿美元，由新加坡主权财富基金领投，加码AI数据库基础设施建设。"
+      ],
+      "url": "https://ventureburn.com/supabase-raises-500m-series-f-ai-infrastructure/",
+      "category_tag_zh": "#AI基础设施",
+      "scrapedAt": "2026-06-11T02:00:00.000Z"
+    },
+    {
+      "id": "vb-suno-raises-400m-series-d-ai-music",
+      "source": "Ventureburn",
+      "image": "https://ventureburn.com/wp-content/uploads/2026/06/Suno-768x431.png",
+      "title": "Suno Raises $400M Series D to Scale AI Music Creation Platform",
+      "title_zh": "Suno 融资4亿美元D轮，AI音乐创作平台全球扩张",
+      "publishedAt": "2026-06-04T00:00:00.000Z",
+      "snippet": "Suno has raised $400 million in Series D funding. Bond Capital led the round. The company is based in Cambridge, Massachusetts, scaling its AI music generation platform globally.",
+      "snippet_zh": [
+        "Suno 完成4亿美元D轮融资，由 Bond Capital 领投，总部位于马萨诸塞州剑桥，加速AI音乐生成平台全球布局。"
+      ],
+      "url": "https://ventureburn.com/suno-raises-400m-series-d-to-scale-ai-music-creation-platform/",
+      "category_tag_zh": "#AI音乐",
+      "scrapedAt": "2026-06-11T02:00:00.000Z"
+    },
+    {
+      "id": "vb-airspeed-raises-20m-series-a-revenue-execution",
+      "source": "Ventureburn",
+      "image": "https://ventureburn.com/wp-content/uploads/2026/06/Airspeed-768x431.png",
+      "title": "Airspeed Raises $20M Series A to Scale Agent-Native Revenue Execution Platform",
+      "title_zh": "Airspeed 融资2000万美元A轮，构建Agent原生营收执行平台",
+      "publishedAt": "2026-06-04T00:00:00.000Z",
+      "snippet": "Airspeed has raised $20 million in Series A funding led by DN Capital. The company runs between London and New York, building agent-native revenue execution platform.",
+      "snippet_zh": [
+        "Airspeed 获2000万美元A轮融资，由 DN Capital 领投，横跨伦敦与纽约运营，打造AI Agent原生营收执行平台。"
+      ],
+      "url": "https://ventureburn.com/airspeed-raises-20m-series-a-revenue-execution/",
+      "category_tag_zh": "#AI Agent",
+      "scrapedAt": "2026-06-11T02:00:00.000Z"
+    },
+    {
+      "id": "vb-lassie-raises-35m-ai-small-business",
+      "source": "Ventureburn",
+      "image": "https://ventureburn.com/wp-content/uploads/2026/06/Lassie-768x431.png",
+      "title": "Lassie Raises $35M to Expand Autonomous AI for Small Businesses",
+      "title_zh": "Lassie 融资3500万美元，扩展中小企业自主AI运营平台",
+      "publishedAt": "2026-06-04T00:00:00.000Z",
+      "snippet": "Lassie has raised $35M in a Series A round to scale its autonomous business operations platform, now with $47M in total funding, targeting healthcare and small business automation.",
+      "snippet_zh": [
+        "Lassie 获3500万美元A轮融资，累计融资4700万美元，专注医疗与中小企业自主化AI运营平台扩展。"
+      ],
+      "url": "https://ventureburn.com/lassie-raises-35m-ai-small-business-automation/",
+      "category_tag_zh": "#AI自动化",
+      "scrapedAt": "2026-06-11T02:00:00.000Z"
+    },
+    {
+      "id": "vb-gigascale-capital-250m-physical-economy",
+      "source": "Ventureburn",
+      "image": "https://ventureburn.com/wp-content/uploads/2026/06/Gigascale-768x431.png",
+      "title": "Gigascale Capital Raises $250 Million to Back Physical Economy Innovation",
+      "title_zh": "Gigascale Capital 募资2.5亿美元，押注物理经济与实体AI创新",
+      "publishedAt": "2026-06-03T00:00:00.000Z",
+      "snippet": "Gigascale Capital has just closed its first institutional fund, raising $250 million to support founders who are building the future of the physical economy including clean energy and physical AI.",
+      "snippet_zh": [
+        "Gigascale Capital 首支机构基金募资2.5亿美元，支持清洁能源、基础设施及物理AI等实体经济创新创业者。"
+      ],
+      "url": "https://ventureburn.com/gigascale-capital-raises-250-million-to-back-physical-economy-innovation/",
+      "category_tag_zh": "#AI投资",
+      "scrapedAt": "2026-06-11T02:00:00.000Z"
+    },
+    {
+      "id": "vb-iceye-28m-sar-space-intelligence",
+      "source": "Ventureburn",
+      "image": "https://ventureburn.com/wp-content/uploads/2026/06/ICEYE-768x431.png",
+      "title": "ICEYE Raises €28M to Advance Next-Generation SAR Space Intelligence",
+      "title_zh": "ICEYE 融资2830万欧元，推进下一代SAR太空智能监测",
+      "publishedAt": "2026-06-03T00:00:00.000Z",
+      "snippet": "ICEYE has raised a €28.3 million continuation grant from Business Finland. The grant supports strategic SAR technology development for defence and intelligence monitoring.",
+      "snippet_zh": [
+        "ICEYE 获芬兰商务局2830万欧元续期资助，支持下一代合成孔径雷达(SAR)太空智能技术，服务国防与情报监测领域。"
+      ],
+      "url": "https://ventureburn.com/iceye-raises-e28m-to-advance-next-generation-sar-space-intelligence/",
+      "category_tag_zh": "#太空AI",
+      "scrapedAt": "2026-06-11T02:00:00.000Z"
     }
   ]
 }
