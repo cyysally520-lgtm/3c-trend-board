@@ -405,6 +405,174 @@ export const NEWS_DATA: NewsItem[] = [
     ],
     url: 'https://ventureburn.com/iceye-raises-e28m-to-advance-next-generation-sar-space-intelligence/',
     category_tag_zh: '太空AI'
+  },
+  {
+    id: 16,
+    source: 'TechCrunch',
+    image: 'https://techcrunch.com/wp-content/uploads/2026/03/grok-getty.jpg?w=563',
+    title: 'xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims',
+    title_zh: 'xAI 解雇了就 Grok 安全问题发出警告的工程师，新诉讼指控',
+    publishedAt: new Date(Date.now() - 1*24*3600000).toISOString(),
+    snippet: 'xAI is facing a lawsuit claiming it fired an engineer who raised safety concerns about its Grok AI model, raising questions about AI safety culture at the company.',
+    snippet_zh: [
+      'xAI 面临诉讼，指控其解雇了就 Grok AI 模型安全问题提出警告的工程师，引发对公司AI安全文化的质疑。'
+    ],
+    url: 'https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/',
+    category_tag_zh: 'AI安全'
+  },
+  {
+    id: 17,
+    source: 'TechCrunch',
+    image: 'https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2217247219.jpg?w=562',
+    title: 'Amazon borrows $17.5B from banks as AI spending continues',
+    title_zh: 'Amazon 再借175亿美元，AI支出持续加码',
+    publishedAt: new Date(Date.now() - 1*24*3600000).toISOString(),
+    snippet: 'Amazon has borrowed $17.5 billion from banks following a bond sale, as the company continues to ramp up spending on AI infrastructure and capabilities.',
+    snippet_zh: [
+      'Amazon 在债券发售后再从银行借款175亿美元，持续加大AI基础设施和能力建设投入。'
+    ],
+    url: 'https://techcrunch.com/2026/06/10/fresh-off-bond-sale-amazon-borrows-17-5-billion-from-banks-as-ai-spending-continues/',
+    category_tag_zh: 'AI投资'
+  },
+  {
+    id: 18,
+    source: 'TechCrunch',
+    image: 'https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2253659638.jpg?w=426',
+    title: 'AI-pilled firms spend $7,500 per employee each month on AI',
+    title_zh: '深度AI化企业每月每员工AI支出达7500美元',
+    publishedAt: new Date(Date.now() - 1*24*3600000).toISOString(),
+    snippet: 'Companies fully committed to AI are spending an average of $7,500 per employee monthly on AI tools and infrastructure, signaling a new era of enterprise AI adoption.',
+    snippet_zh: [
+      '全面拥抱AI的企业平均每员工每月在AI工具和基础设施上支出7500美元，标志着企业AI应用新时代到来。'
+    ],
+    url: 'https://techcrunch.com/2026/06/10/ai-pilled-firms-spend-7500-per-employee-each-month-on-ai/',
+    category_tag_zh: 'AI应用'
+  },
+  {
+    id: 19,
+    source: 'TechCrunch',
+    image: 'https://techcrunch.com/wp-content/uploads/2026/06/sajid_conor_photo_niteshift_launch.jpg?w=464',
+    title: 'Datadog veterans launch AI coding startup Niteshift against Big AI lock-in',
+    title_zh: 'Datadog 老将创办 AI 编程创企 Niteshift，对抗大厂AI锁定',
+    publishedAt: new Date(Date.now() - 1*24*3600000).toISOString(),
+    snippet: 'Datadog veterans have launched Niteshift, an AI coding startup that aims to help developers avoid lock-in to big AI platforms by offering open and flexible coding tools.',
+    snippet_zh: [
+      'Datadog 资深团队推出AI编程创企 Niteshift，致力于通过开放灵活的编程工具帮助开发者避免被大厂AI平台锁定。'
+    ],
+    url: 'https://techcrunch.com/2026/06/10/datadog-veterans-launch-ai-coding-startup-niteshift-on-a-bet-against-big-ai-lock-in/',
+    category_tag_zh: 'AI编程'
+  },
+  {
+    id: 20,
+    source: 'TechCrunch',
+    image: 'https://techcrunch.com/wp-content/uploads/2026/06/Jedify-Co-founders.jpg?w=562',
+    title: 'Jedify raises $24M to help companies arm AI agents with business context',
+    title_zh: 'Jedify 融资2400万美元，为企业AI Agent注入业务上下文',
+    publishedAt: new Date(Date.now() - 1*24*3600000).toISOString(),
+    snippet: 'Jedify has raised $24 million to help companies provide AI agents with deep business context, enabling more accurate and relevant autonomous decision-making.',
+    snippet_zh: [
+      'Jedify 获2400万美元融资，帮助企业为AI Agent提供深度业务上下文，实现更精准的自主决策。'
+    ],
+    url: 'https://techcrunch.com/2026/06/10/jedify-raises-24m-to-help-companies-arm-ai-agents-with-context-on-their-business/',
+    category_tag_zh: 'AI Agent'
+  },
+  {
+    id: 21,
+    source: 'TechCrunch',
+    image: 'https://techcrunch.com/wp-content/uploads/2026/06/Oasis-a.png?w=665',
+    title: 'Decart new world model can simulate hours of photorealistic driving',
+    title_zh: 'Decart 新世界模型可模拟数小时逼真驾驶画面',
+    publishedAt: new Date(Date.now() - 1*24*3600000).toISOString(),
+    snippet: 'Decart has unveiled a new world model capable of simulating hours of photorealistic driving footage, though with some limitations in accuracy and consistency.',
+    snippet_zh: [
+      'Decart 发布新世界模型，能够模拟数小时逼真驾驶画面，但在精度和一致性方面仍有局限。'
+    ],
+    url: 'https://techcrunch.com/2026/06/10/decarts-new-world-model-can-simulate-hours-of-photorealistic-driving-with-some-caveats/',
+    category_tag_zh: 'AI世界模型'
+  },
+  {
+    id: 22,
+    source: 'TechCrunch',
+    image: 'https://techcrunch.com/wp-content/uploads/2024/05/meta-getty.jpg?w=668',
+    title: 'Meta signs first AI data center deal in India with Reliance',
+    title_zh: 'Meta 与 Reliance 签署印度首个AI数据中心协议',
+    publishedAt: new Date(Date.now() - 1*24*3600000).toISOString(),
+    snippet: 'Meta has signed its first AI data center deal in India with Reliance Industries, marking a significant expansion of its AI infrastructure into the South Asian market.',
+    snippet_zh: [
+      'Meta 与信实工业签署印度首个AI数据中心协议，标志着其AI基础设施向南亚市场的重要扩张。'
+    ],
+    url: 'https://techcrunch.com/2026/06/10/meta-signs-first-ai-data-center-deal-in-india-with-reliance/',
+    category_tag_zh: 'AI基础设施'
+  },
+  {
+    id: 23,
+    source: 'TechCrunch',
+    image: 'https://techcrunch.com/wp-content/uploads/2026/01/ai-mode-google.jpg?w=563',
+    title: 'Google just fired a warning shot in the AI subscription price wars',
+    title_zh: 'Google 在AI订阅价格战中率先开火',
+    publishedAt: new Date(Date.now() - 2*24*3600000).toISOString(),
+    snippet: 'Google has dramatically cut AI subscription pricing, firing a warning shot in the emerging AI subscription price wars and pressuring competitors to respond.',
+    snippet_zh: [
+      'Google 大幅下调AI订阅定价，在新兴的AI订阅价格战中率先开火，迫使竞争对手做出回应。'
+    ],
+    url: 'https://techcrunch.com/2026/06/09/google-just-fired-a-warning-shot-in-the-ai-subscription-price-wars/',
+    category_tag_zh: 'AI订阅'
+  },
+  {
+    id: 24,
+    source: 'TechCrunch',
+    image: 'https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-09-at-11.40.18-AM.png?w=517',
+    title: 'Anthropic Fable 5 can make weirdly fun video games with a click',
+    title_zh: 'Anthropic Fable 5 一键生成奇趣视频游戏',
+    publishedAt: new Date(Date.now() - 2*24*3600000).toISOString(),
+    snippet: 'Anthropic Fable 5 can generate surprisingly fun and creative video games with just a click, showcasing a new frontier in AI-powered interactive entertainment.',
+    snippet_zh: [
+      'Anthropic 的 Fable 5 仅需一键即可生成令人惊喜的创意视频游戏，展示AI驱动互动娱乐的新前沿。'
+    ],
+    url: 'https://techcrunch.com/2026/06/09/anthropics-fable-5-can-make-weirdly-fun-video-games-with-the-click-of-a-button/',
+    category_tag_zh: 'AI游戏'
+  },
+  {
+    id: 25,
+    source: 'TechCrunch',
+    image: 'https://techcrunch.com/wp-content/uploads/2026/06/image-6.png?w=563',
+    title: 'Sandstone raises $30M to bring AI to in-house legal teams',
+    title_zh: 'Sandstone 融资3000万美元，AI赋能企业法务团队',
+    publishedAt: new Date(Date.now() - 2*24*3600000).toISOString(),
+    snippet: 'Sandstone has raised $30 million to bring AI-powered tools to in-house legal teams, automating contract review, compliance checks, and legal research.',
+    snippet_zh: [
+      'Sandstone 获3000万美元融资，将AI工具引入企业内部法务团队，自动化合同审查、合规检查和法律研究。'
+    ],
+    url: 'https://techcrunch.com/2026/06/09/sandstone-raises-30m-to-bring-ai-to-in-house-legal-teams/',
+    category_tag_zh: 'AI法律'
+  },
+  {
+    id: 26,
+    source: 'TechCrunch',
+    image: 'https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2245627953.jpg?w=562',
+    title: 'Lovable hits $500M annualized revenue, 1 million new projects a week',
+    title_zh: 'Lovable 年化收入达5亿美元，每周新增百万项目',
+    publishedAt: new Date(Date.now() - 2*24*3600000).toISOString(),
+    snippet: 'AI coding platform Lovable has hit $500 million in annualized revenue with 1 million new projects created weekly, becoming one of the fastest-growing AI startups.',
+    snippet_zh: [
+      'AI编程平台 Lovable 年化收入达5亿美元，每周新增100万项目，成为增长最快的AI创企之一。'
+    ],
+    url: 'https://techcrunch.com/2026/06/09/lovable-says-it-has-hit-500m-in-annualized-revenue-with-1-million-new-projects-a-week/',
+    category_tag_zh: 'AI创业'
+  },
+  {
+    id: 27,
+    source: 'TechCrunch',
+    image: 'https://techcrunch.com/wp-content/uploads/2026/02/modi-openai-anthropic-2261854815.jpg?w=563',
+    title: 'OpenAI files confidentially for IPO, following Anthropic',
+    title_zh: 'OpenAI 紧随 Anthropic 机密提交IPO申请',
+    publishedAt: new Date(Date.now() - 3*24*3600000).toISOString(),
+    snippet: 'OpenAI has confidentially filed for an IPO, following Anthropic lead, marking a pivotal moment for the AI industry as top startups seek public markets.',
+    snippet_zh: [
+      'OpenAI 紧随 Anthropic 机密提交IPO申请，标志着AI行业顶尖创企纷纷寻求上市的关键时刻。'
+    ],
+    url: 'https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/',
+    category_tag_zh: 'AI上市'
   }
 ];
 
