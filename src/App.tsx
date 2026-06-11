@@ -329,7 +329,7 @@ export default function App() {
             </div>
             <div>
               <h1 className="text-base sm:text-lg font-bold text-slate-900 tracking-tight">
-                Aidol 产品趋势看板——实时追踪智能新品众筹、极客电子硬件与 YC/a16z 孵化初创名册
+                Aidol 产品趋势扫描雷达——实时追踪智能新品众筹、极客电子硬件与 YC 孵化初创名册
               </h1>
             </div>
           </div>
@@ -395,25 +395,7 @@ export default function App() {
               </span>
             </button>
 
-            {/* Tab 3: 硅谷前沿浪潮 */}
-            <button 
-              onClick={() => setCurrentTab('news')}
-              className={`flex items-center gap-2 py-3 px-1 border-b-2 font-semibold text-sm whitespace-nowrap transition-all duration-200 cursor-pointer ${
-                currentTab === 'news' 
-                  ? 'border-emerald-500 text-emerald-600' 
-                  : 'border-transparent text-slate-500 hover:text-slate-800'
-              }`}
-            >
-              <Newspaper className="w-4 h-4" />
-              硅谷前沿浪潮
-              <span className={`text-[10px] font-mono font-bold px-2 py-0.5 rounded-full transition-colors ${
-                currentTab === 'news' ? 'bg-emerald-50 text-emerald-600' : 'bg-slate-100 text-slate-500'
-              }`}>
-                {newsData.length}
-              </span>
-            </button>
-
-            {/* Tab 4: 新锐科技独角 */}
+            {/* Tab 3: 新锐科技独角 */}
             <button 
               onClick={() => setCurrentTab('startups')}
               className={`flex items-center gap-2 py-3 px-1 border-b-2 font-semibold text-sm whitespace-nowrap transition-all duration-200 cursor-pointer ${
@@ -428,6 +410,24 @@ export default function App() {
                 currentTab === 'startups' ? 'bg-emerald-50 text-emerald-600' : 'bg-slate-100 text-slate-500'
               }`}>
                 {startupData.length}
+              </span>
+            </button>
+
+            {/* Tab 4: 硅谷前沿浪潮 */}
+            <button 
+              onClick={() => setCurrentTab('news')}
+              className={`flex items-center gap-2 py-3 px-1 border-b-2 font-semibold text-sm whitespace-nowrap transition-all duration-200 cursor-pointer ${
+                currentTab === 'news' 
+                  ? 'border-emerald-500 text-emerald-600' 
+                  : 'border-transparent text-slate-500 hover:text-slate-800'
+              }`}
+            >
+              <Newspaper className="w-4 h-4" />
+              硅谷前沿浪潮
+              <span className={`text-[10px] font-mono font-bold px-2 py-0.5 rounded-full transition-colors ${
+                currentTab === 'news' ? 'bg-emerald-50 text-emerald-600' : 'bg-slate-100 text-slate-500'
+              }`}>
+                {newsData.length}
               </span>
             </button>
 

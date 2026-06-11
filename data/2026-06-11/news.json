@@ -1,7 +1,7 @@
 {
   "date": "2026-06-11",
   "kind": "news",
-  "count": 69,
+  "count": 81,
   "items": [
     {
       "id": "giz-realme-p4r-5g-launches-in-india-three-days-of-batt",
@@ -1037,6 +1037,186 @@
       "url": "https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/",
       "category_tag_zh": "#AI上市",
       "scrapedAt": "2026-06-11T03:00:00.000Z"
+    },
+    {
+      "id": "tv-bluesky-communities",
+      "source": "The Verge",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK133_BLUESKY__C.webp?quality=90&strip=all&w=2400",
+      "title": "Bluesky is getting 'communities'",
+      "title_zh": "Bluesky 即将推出「社区」功能",
+      "publishedAt": "2026-06-11T00:00:00.000Z",
+      "snippet": "Bluesky is adding communities feature set to launch sometime this year, bringing Reddit-like group spaces to the decentralized social platform.",
+      "snippet_zh": [
+        "Bluesky 即将推出社区功能，预计今年上线，为去中心化社交平台带来类似 Reddit 的群组空间。"
+      ],
+      "url": "https://www.theverge.com/tech/948215/bluesky-communities-at-protocol-atmosphere-reddit",
+      "category_tag_zh": "#社交平台",
+      "scrapedAt": "2026-06-11T04:00:00.000Z"
+    },
+    {
+      "id": "tv-framework-laptop-13-pro-delay",
+      "source": "The Verge",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DSC00210_71b030.webp?quality=90&strip=all&w=2400",
+      "title": "Framework delays its first Laptop 13 Pro shipments by a month",
+      "title_zh": "Framework 首款 Laptop 13 Pro 延迟一个月发货",
+      "publishedAt": "2026-06-10T18:00:00.000Z",
+      "snippet": "The new 'MacBook Pro for Linux users' ships in July instead of June, with subsequent batches pushed later due to production issues.",
+      "snippet_zh": [
+        "被誉为「Linux 用户的 MacBook Pro」的新品从6月推迟至7月发货，后续批次也相应延后。"
+      ],
+      "url": "https://www.theverge.com/gadgets/948044/framework-laptop-13-pro-delay-shipment-july-august",
+      "category_tag_zh": "#硬件",
+      "scrapedAt": "2026-06-11T04:00:00.000Z"
+    },
+    {
+      "id": "tv-apple-siri-ai-shut-up",
+      "source": "The Verge",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/videoframe_13193.png?quality=90&strip=all&w=2400",
+      "title": "Apple's new Siri AI knows when to shut up",
+      "title_zh": "苹果新 Siri AI 懂得适时闭嘴",
+      "publishedAt": "2026-06-10T16:00:00.000Z",
+      "snippet": "Apple's new Siri AI features a more natural conversational personality that knows when to stop talking and listen, a major step forward in AI assistant design.",
+      "snippet_zh": [
+        "苹果新 Siri AI 具备更自然的对话个性，懂得何时停止说话、开始倾听，是AI助手设计的重大进步。"
+      ],
+      "url": "https://www.theverge.com/tech/948155/apple-siri-ai-chatbot-personality",
+      "category_tag_zh": "#AI助手",
+      "scrapedAt": "2026-06-11T04:00:00.000Z"
+    },
+    {
+      "id": "tv-xbox-layoffs-reset",
+      "source": "The Verge",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25485118/STK048_XBOX2__C.png?quality=90&strip=all&w=2400",
+      "title": "Xbox warns of a 'reset' as it prepares for layoffs",
+      "title_zh": "Xbox 警告「重置」并准备裁员",
+      "publishedAt": "2026-06-10T14:00:00.000Z",
+      "snippet": "Microsoft's Xbox division is preparing for layoffs and has warned employees of a 'reset' as it explores radically different console business models.",
+      "snippet_zh": [
+        "微软 Xbox 部门正准备裁员，并警告员工将迎来「重置」，同时探索激进的全新主机商业模式。"
+      ],
+      "url": "https://www.theverge.com/games/948142/microsoft-xbox-layoffs-reset-asha-sharma",
+      "category_tag_zh": "#游戏",
+      "scrapedAt": "2026-06-11T04:00:00.000Z"
+    },
+    {
+      "id": "tv-seattle-data-center-moratorium",
+      "source": "The Verge",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_A.jpg?quality=90&strip=all&w=2400",
+      "title": "Seattle officially enacted an emergency one-year moratorium on new data centers",
+      "title_zh": "西雅图正式实施为期一年的新数据中心紧急禁令",
+      "publishedAt": "2026-06-10T12:00:00.000Z",
+      "snippet": "Seattle has enacted an emergency one-year moratorium on new data centers, with Amazon employees among the fiercest supporters testifying in city council hearings.",
+      "snippet_zh": [
+        "西雅图正式实施为期一年的新数据中心紧急禁令，亚马逊员工成为最坚定的支持者之一。"
+      ],
+      "url": "https://www.theverge.com/ai-artificial-intelligence/948031/seattle-officially-enacted-an-emergency-one-year-moratorium-on-new-data-centers",
+      "category_tag_zh": "#AI基础设施",
+      "scrapedAt": "2026-06-11T04:00:00.000Z"
+    },
+    {
+      "id": "tv-microsoft-restricts-claude-fable",
+      "source": "The Verge",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STK095_MICROSOFT_CVirginia_B.jpg?quality=90&strip=all&w=2400",
+      "title": "Microsoft restricts Claude Fable for employees over data retention concerns",
+      "title_zh": "微软因数据留存顾虑限制员工使用 Claude Fable",
+      "publishedAt": "2026-06-10T10:00:00.000Z",
+      "snippet": "Microsoft has restricted employees from using Anthropic's Claude Fable over concerns about data retention, highlighting enterprise AI security tensions.",
+      "snippet_zh": [
+        "微软因数据留存顾虑限制员工使用 Anthropic 的 Claude Fable，凸显企业AI安全紧张局势。"
+      ],
+      "url": "https://www.theverge.com/report/947575/microsoft-claude-fable-5-restricted-internally",
+      "category_tag_zh": "#AI安全",
+      "scrapedAt": "2026-06-11T04:00:00.000Z"
+    },
+    {
+      "id": "tv-google-privacy-ai-training",
+      "source": "The Verge",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK093_GOOGLE_B.jpg?quality=90&strip=all&w=2400",
+      "title": "Google will save your Lens photos, Search Live recordings, and Translate audio for AI training",
+      "title_zh": "Google 将保存 Lens 照片、搜索录音和翻译音频用于AI训练",
+      "publishedAt": "2026-06-10T08:00:00.000Z",
+      "snippet": "Google will now save users' Lens photos, Search Live recordings, and Translate audio for AI training, raising fresh privacy concerns about data usage.",
+      "snippet_zh": [
+        "Google 将保存用户的 Lens 照片、搜索实时录音和翻译音频用于AI训练，引发新一轮数据隐私担忧。"
+      ],
+      "url": "https://www.theverge.com/tech/947836/google-search-privacy-settings-images-audio",
+      "category_tag_zh": "#AI隐私",
+      "scrapedAt": "2026-06-11T04:00:00.000Z"
+    },
+    {
+      "id": "tv-waymo-buys-apple-proving-grounds",
+      "source": "The Verge",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22012259/vpavic_4275_20201030_0033.jpg?quality=90&strip=all&w=2400",
+      "title": "Waymo buys Apple's old proving grounds for $220 million",
+      "title_zh": "Waymo 2.2亿美元收购苹果旧测试场",
+      "publishedAt": "2026-06-10T06:00:00.000Z",
+      "snippet": "Waymo has purchased Apple's former 5,458-acre proving grounds in Arizona for $220 million, nearly twice what Apple paid in 2021, as it expands autonomous driving.",
+      "snippet_zh": [
+        "Waymo 以2.2亿美元收购苹果在亚利桑那的5458英亩旧测试场，几乎是苹果2021年买入价的两倍，加速自动驾驶扩张。"
+      ],
+      "url": "https://www.theverge.com/transportation/947628/waymo-buys-apples-old-proving-grounds-for-220-million",
+      "category_tag_zh": "#自动驾驶",
+      "scrapedAt": "2026-06-11T04:00:00.000Z"
+    },
+    {
+      "id": "tv-whatsapp-rival-ai-assistants-eu",
+      "source": "The Verge",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK110_whats_app_Kradtke_02.jpg?quality=90&strip=all&w=2400",
+      "title": "WhatsApp ordered to host rival AI assistants for free",
+      "title_zh": "WhatsApp 被要求免费托管竞争对手AI助手",
+      "publishedAt": "2026-06-10T04:00:00.000Z",
+      "snippet": "EU has ordered WhatsApp to host rival AI assistants for free under the Digital Markets Act, escalating the regulatory push for platform interoperability.",
+      "snippet_zh": [
+        "欧盟依据数字市场法要求 WhatsApp 免费托管竞争对手的AI助手，升级平台互操作性监管力度。"
+      ],
+      "url": "https://www.theverge.com/tech/947516/meta-whatsapp-eu-third-party-ai-chatbot-ban-order",
+      "category_tag_zh": "#AI监管",
+      "scrapedAt": "2026-06-11T04:00:00.000Z"
+    },
+    {
+      "id": "tv-siri-ai-actually-works",
+      "source": "The Verge",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DSC03775_processed.jpg?quality=90&strip=all&w=2400",
+      "title": "I tried Siri AI, and so far it actually works",
+      "title_zh": "我试了 Siri AI，目前确实能用",
+      "publishedAt": "2026-06-09T18:00:00.000Z",
+      "snippet": "After years of disappointment, Apple's new Siri AI is basic but actually works — a big deal for the company's AI ambitions after WWDC 2026.",
+      "snippet_zh": [
+        "经过多年失望，苹果新 Siri AI 虽然基础但确实能用——对 WWDC 2026 后的苹果AI野心来说是件大事。"
+      ],
+      "url": "https://www.theverge.com/tech/947432/siri-ai-apple-intelligence-ios-27-wwdc",
+      "category_tag_zh": "#AI助手",
+      "scrapedAt": "2026-06-11T04:00:00.000Z"
+    },
+    {
+      "id": "tv-xbox-radically-different-console",
+      "source": "The Verge",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22012259/vpavic_4275_20201030_0033.jpg?quality=90&strip=all&w=2400",
+      "title": "Xbox exploring 'radically different' console business models",
+      "title_zh": "Xbox 探索「激进不同」的主机商业模式",
+      "publishedAt": "2026-06-10T02:00:00.000Z",
+      "snippet": "Microsoft's Xbox is exploring radically different console business models including potential price changes and new hardware strategies amid industry disruption.",
+      "snippet_zh": [
+        "微软 Xbox 正在探索激进不同的主机商业模式，包括潜在的价格变动和新硬件策略，应对行业变革。"
+      ],
+      "url": "https://www.theverge.com/news/947537/microsoft-xbox-console-hardware-price-changes-ramageddon",
+      "category_tag_zh": "#游戏",
+      "scrapedAt": "2026-06-11T04:00:00.000Z"
+    },
+    {
+      "id": "tv-instagram-algorithm-tell",
+      "source": "The Verge",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23932740/acastro_STK070__02.jpg?quality=90&strip=all&w=2400",
+      "title": "You can just tell the Instagram algorithm what you want now",
+      "title_zh": "现在你可以直接告诉 Instagram 算法你想要什么",
+      "publishedAt": "2026-06-10T00:00:00.000Z",
+      "snippet": "Meta now lets users directly tell the Instagram algorithm what they want to see in their main feed, giving people more control over their social media experience.",
+      "snippet_zh": [
+        "Meta 现在允许用户直接告诉 Instagram 算法想在主信息流中看到什么，赋予用户更多社交媒体体验控制权。"
+      ],
+      "url": "https://www.theverge.com/tech/947898/meta-instagram-your-algorithm-main-feed-tell",
+      "category_tag_zh": "#社交平台",
+      "scrapedAt": "2026-06-11T04:00:00.000Z"
     }
   ]
 }
