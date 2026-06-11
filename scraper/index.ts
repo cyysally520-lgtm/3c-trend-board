@@ -21,6 +21,9 @@ import { scrapeKickstarter } from './sources/kickstarter';
 import { scrapeIndiegogo } from './sources/indiegogo';
 import { scrapeMakuake } from './sources/makuake';
 import { scrapeGizchina } from './sources/gizchina';
+import { scrapeTechCrunch } from './sources/techcrunch';
+import { scrapeVentureburn } from './sources/ventureburn';
+import { scrapeTheVerge } from './sources/theverge';
 import { scrapeYCombinator } from './sources/ycombinator';
 import { scrapeNextbanker } from './sources/nextbanker';
 import type { ScrapeResult } from './lib/types';
@@ -34,6 +37,9 @@ const REGISTRY: Record<string, { kind: 'crowdfunding' | 'news' | 'startups' | 'i
   indiegogo:   { kind: 'crowdfunding',  run: () => scrapeIndiegogo(30) },
   makuake:     { kind: 'crowdfunding',  run: () => scrapeMakuake(30) },
   gizchina:    { kind: 'news',          run: () => scrapeGizchina(50) },
+  techcrunch:  { kind: 'news',          run: () => scrapeTechCrunch(30) },
+  ventureburn: { kind: 'news',          run: () => scrapeVentureburn(30) },
+  theverge:    { kind: 'news',          run: () => scrapeTheVerge(30) },
   ycombinator: { kind: 'startups',      run: () => scrapeYCombinator(200) },
   nextbanker:  { kind: 'investments',   run: () => scrapeNextbanker(96) },
 };
