@@ -62,22 +62,34 @@ export default function App() {
       }
 
       // 2. 独立加载每个数据源（一个失败不影响其他）
+      // 当最新日期缺少某类数据时，自动回退到较早日期
+      // 注意：SPA 回退路由可能导致缺失 JSON 返回 index.html(200)，需同时检查内容类型
+      const allDates: string[] = manifest?.dates || [];
       const loadData = async (kind: string, setter: (data: any[]) => void) => {
-        if (!date) return false;
-        try {
-          const res = await fetch(`/data/${date}/${kind}.json`);
-          if (!res.ok) {
-            console.warn(`[Hydration] ${kind}.json returned ${res.status}`);
-            return false;
+        if (allDates.length === 0) return false;
+        for (const d of allDates) {
+          try {
+            const res = await fetch(`/data/${d}/${kind}.json`);
+            if (!res.ok) {
+              console.warn(`[Hydration] ${kind}.json for ${d} returned ${res.status}, trying fallback...`);
+              continue;
+            }
+            // SPA 回退可能返回 HTML 而非 JSON，检查 Content-Type 排除
+            const contentType = res.headers.get('content-type') || '';
+            if (!contentType.includes('json') && !contentType.includes('text/plain')) {
+              console.warn(`[Hydration] ${kind}.json for ${d} returned non-JSON content-type: ${contentType}, trying fallback...`);
+              continue;
+            }
+            const data = await res.json();
+            if (Array.isArray(data.items)) {
+              setter(data.items);
+              return true;
+            }
+          } catch (e) {
+            console.warn(`[Hydration] ${kind}.json for ${d} load failed:`, e);
           }
-          const data = await res.json();
-          if (Array.isArray(data.items)) {
-            setter(data.items);
-            return true;
-          }
-        } catch (e) {
-          console.warn(`[Hydration] ${kind}.json load failed:`, e);
         }
+        console.warn(`[Hydration] ${kind}.json not found in any date`);
         return false;
       };
 
