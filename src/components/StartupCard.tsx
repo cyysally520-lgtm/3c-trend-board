@@ -41,11 +41,6 @@ export const StartupCard: React.FC<StartupCardProps> = ({ item }) => {
           </div>
         </div>
 
-        {/* English vision intro */}
-        <p className="text-xs text-slate-400 italic line-clamp-3 leading-relaxed border-l-2 border-slate-200 pl-3">
-          "{item.intro}"
-        </p>
-
         {/* AI Insight deep analysis */}
         <div className="space-y-1.5 pt-2">
           <div className="flex items-center justify-between">
@@ -54,7 +49,7 @@ export const StartupCard: React.FC<StartupCardProps> = ({ item }) => {
               className="flex items-center gap-1.5 text-xs font-bold text-emerald-800 hover:text-emerald-700 bg-emerald-50/65 hover:bg-emerald-100/50 px-2.5 py-1.5 rounded-lg transition select-none cursor-pointer"
             >
               <Trophy className="w-3.5 h-3.5 text-[#10b981]" />
-              AI 独角兽指数潜质分析
+              AI 独角兽企业分析
             </button>
             <button 
               onClick={() => setShowAiAnalysis(!showAiAnalysis)}
