@@ -14,7 +14,18 @@ import type { RawInvestItem, ScrapeResult } from '../lib/types';
 
 const BASE_URL = 'https://nextbanker.cn/';
 
-export async function scrapeNextbanker(maxItems = 96): Promise<ScrapeResult<RawInvestItem>> {
+// 白名单：只爬这些 nextbanker 板块
+// 注意：nextbanker 上"银发科技"= 目标站"银发经济"，按源站命名
+const ALLOWED_SECTIONS = [
+  'AI硬件',
+  '具身智能',
+  'AI Agent',
+  'AI教育',
+  '银发科技',
+  'AI医疗',
+];
+
+export async function scrapeNextbanker(maxItems = 500): Promise<ScrapeResult<RawInvestItem>> {
   const t0 = Date.now();
   const result: ScrapeResult<RawInvestItem> = {
     source: 'NextBanker',
@@ -34,10 +45,11 @@ export async function scrapeNextbanker(maxItems = 96): Promise<ScrapeResult<RawI
     });
     const $ = cheerio.load(html);
 
-    // 找到 AI硬件 板块的标题，然后取其后所有项目卡片
+    // 找到白名单板块，取其后所有项目卡片
     // 每个项目卡是 <h4> 标题 + 后续 <p> 标签内容
     let rank = 0;
-    let inAIHardware = false;
+    let inAllowedSection = false;
+    let currentSection = '';
 
     // 遍历所有 h3（板块标题）和 h4（项目标题）
     $('h3, h4').each((_, el) => {
@@ -45,12 +57,14 @@ export async function scrapeNextbanker(maxItems = 96): Promise<ScrapeResult<RawI
       const text = $(el).text().trim();
 
       if (tag === 'h3') {
-        // 检测是否进入 AI硬件 板块
-        inAIHardware = text.includes('AI硬件');
+        // 检测是否进入白名单板块（精确匹配，避免"AI硬件"误中"AI硬件机器人"等子串）
+        const matched = ALLOWED_SECTIONS.find((s) => text === s || text.startsWith(s));
+        inAllowedSection = !!matched;
+        currentSection = matched ?? '';
         return;
       }
 
-      if (!inAIHardware || tag !== 'h4') return;
+      if (!inAllowedSection || tag !== 'h4') return;
       if (result.items.length >= maxItems) return;
 
       rank++;
@@ -85,8 +99,10 @@ export async function scrapeNextbanker(maxItems = 96): Promise<ScrapeResult<RawI
             ? 0
             : 0;
 
-        // 子分类：从 tagline 或 name 推断（可选，留空也可）
-        const category = guessCat(name + ' ' + tagline);
+        // 子分类：优先使用 h3 板块名（来自源站），fallback 才用关键词推断
+        // 把 nextbanker "银发科技" 归一成与目标站一致的 "银发经济"
+        const sectionAsCategory = currentSection === '银发科技' ? '银发经济' : currentSection;
+        const category = sectionAsCategory || guessCat(name + ' ' + tagline);
 
         if (!name) return;
 

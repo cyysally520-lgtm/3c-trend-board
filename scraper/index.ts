@@ -41,7 +41,7 @@ const REGISTRY: Record<string, { kind: 'crowdfunding' | 'news' | 'startups' | 'i
   ventureburn: { kind: 'news',          run: () => scrapeVentureburn(30) },
   theverge:    { kind: 'news',          run: () => scrapeTheVerge(30) },
   ycombinator: { kind: 'startups',      run: () => scrapeYCombinator(200) },
-  nextbanker:  { kind: 'investments',   run: () => scrapeNextbanker(96) },
+  nextbanker:  { kind: 'investments',   run: () => scrapeNextbanker(500) },
 };
 
 async function main() {
