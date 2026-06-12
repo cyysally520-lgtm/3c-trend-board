@@ -347,7 +347,7 @@ export default function App() {
             </div>
             <div>
               <h1 className="text-base sm:text-lg font-bold text-slate-900 tracking-tight">
-                Aidol 产品趋势扫描雷达——实时追踪智能新品众筹、极客电子硬件与 YC 孵化初创名册
+                Aidol 产品趋势扫描雷达——实时追踪 AI 硬件,创客/极客产品众筹与海外孵化初创名册
               </h1>
             </div>
           </div>
