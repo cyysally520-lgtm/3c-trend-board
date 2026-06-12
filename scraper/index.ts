@@ -15,7 +15,7 @@ import pLimit from 'p-limit';
 import { log } from './lib/logger';
 import { saveSnapshot, updateManifest, pruneOldSnapshots } from './lib/storage';
 import { closeBrowser } from './lib/browser';
-import { translateCrowdNames, generateCrowdSummaries } from './lib/translate';
+import { translateCrowdNames, generateCrowdSummaries, translateNewsTitles } from './lib/translate';
 import { scrapeCrowdSupply } from './sources/crowdsupply';
 import { scrapeKickstarter } from './sources/kickstarter';
 import { scrapeIndiegogo } from './sources/indiegogo';
@@ -82,6 +82,12 @@ async function main() {
     await translateCrowdNames(byKind.crowdfunding);
     log.info('translate', 'generating crowdfunding AI summaries...');
     await generateCrowdSummaries(byKind.crowdfunding);
+  }
+
+  // AI 翻译：新闻标题 → 中文（参考目标站「硅谷听见」样式）
+  if (byKind.news.length > 0) {
+    log.info('translate', 'translating news titles...');
+    await translateNewsTitles(byKind.news);
   }
 
   // 写盘（即使本次某 kind 无新数据也调用 saveSnapshot，触发合并保留旧数据）

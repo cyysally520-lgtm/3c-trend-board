@@ -131,3 +131,54 @@ export async function generateCrowdSummaries(
     }
   }
 }
+
+/**
+ * 翻译新闻标题为中文
+ * 参考目标站「硅谷听见」的样式：英文原标题下方紧跟中文翻译
+ */
+export async function translateNewsTitles(
+  items: Array<{ title: string; title_zh?: string }>
+): Promise<void> {
+  // 跳过：① 已译过 ② 标题本身就是中文（gizchina 等中文源）
+  const isMostlyChinese = (s: string) => {
+    const han = (s.match(/[一-龥]/g) || []).length;
+    return han / Math.max(1, s.length) > 0.3;
+  };
+  const toTranslate = items.filter(
+    (it) => it.title && !isMostlyChinese(it.title) && (!it.title_zh || it.title_zh === it.title)
+  );
+  if (toTranslate.length === 0) {
+    log.info('translate', 'all news titles already translated or are Chinese');
+    return;
+  }
+
+  log.info('translate', `translating ${toTranslate.length} news titles...`);
+
+  const BATCH = 20;
+  for (let i = 0; i < toTranslate.length; i += BATCH) {
+    const batch = toTranslate.slice(i, i + BATCH);
+    const titles = batch.map((it) => it.title);
+
+    try {
+      const prompt = `将以下英文科技新闻标题翻译成简洁的中文标题（保持原意、专业术语准确、不超过 30 字）。每行一个，按顺序对应，只输出翻译结果，不要序号或引号：\n${titles.join('\n')}`;
+      const text = await callGemini(prompt);
+      if (!text) continue;
+
+      const lines = text
+        .split('\n')
+        .map((l) => l.replace(/^\d+[\.\)、]\s*/, '').replace(/^["「『]|["」』]$/g, '').trim())
+        .filter(Boolean);
+
+      for (let j = 0; j < batch.length && j < lines.length; j++) {
+        batch[j].title_zh = lines[j];
+      }
+
+      log.ok(
+        'translate',
+        `translated ${Math.min(batch.length, lines.length)} news titles (batch ${Math.floor(i / BATCH) + 1})`,
+      );
+    } catch (err) {
+      log.warn('translate', `news batch translate failed: ${err instanceof Error ? err.message : err}`);
+    }
+  }
+}
