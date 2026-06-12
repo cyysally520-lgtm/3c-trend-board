@@ -1,38 +1,8 @@
 {
   "date": "2026-06-11",
   "kind": "news",
-  "count": 154,
+  "count": 133,
   "items": [
-    {
-      "id": "tc-opendoors-india-exit-is-fueling-a-bigger-conversat",
-      "source": "TechCrunch",
-      "image": "",
-      "title": "Opendoor’s India exit is fueling a bigger conversation about AI and outsourcing",
-      "title_zh": "Opendoor’s India exit is fueling a bigger conversation about AI and outsourcing",
-      "publishedAt": "2026-06-11T04:02:19.000Z",
-      "snippet": "The decision comes as India emerges as the world’s largest GCC market.",
-      "snippet_zh": [
-        "The decision comes as India emerges as the world’s largest GCC market."
-      ],
-      "url": "https://techcrunch.com/2026/06/10/opendoors-india-exit-is-fueling-a-bigger-conversation-about-ai-and-outsourcing/",
-      "category_tag_zh": "#AI应用",
-      "scrapedAt": "2026-06-11T13:08:10.556Z"
-    },
-    {
-      "id": "tc-anthropics-dario-amodei-has-just-one-direct-report",
-      "source": "TechCrunch",
-      "image": "",
-      "title": "Anthropic’s Dario Amodei has just one direct report",
-      "title_zh": "Anthropic’s Dario Amodei has just one direct report",
-      "publishedAt": "2026-06-11T03:53:06.000Z",
-      "snippet": "If you doubted his genius, doubt no more.",
-      "snippet_zh": [
-        "If you doubted his genius, doubt no more."
-      ],
-      "url": "https://techcrunch.com/2026/06/10/anthropics-dario-amodei-has-just-one-direct-report/",
-      "category_tag_zh": "#AI应用",
-      "scrapedAt": "2026-06-11T13:08:10.557Z"
-    },
     {
       "id": "vb-5-platforms-to-sell-amazon-and-ebay-gift-cards-for",
       "source": "Ventureburn",
@@ -171,21 +141,6 @@
       "scrapedAt": "2026-06-11T04:23:36.338Z"
     },
     {
-      "id": "tc-xai-fired-an-engineer-who-raised-alarms-about-grok",
-      "source": "TechCrunch",
-      "image": "",
-      "title": "xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims",
-      "title_zh": "xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims",
-      "publishedAt": "2026-06-10T22:31:19.000Z",
-      "snippet": "A former xAI engineer is suing the company and SpaceX, alleging he was fired for raising AI safety concerns about Grok days before SpaceX's historic IPO.",
-      "snippet_zh": [
-        "A former xAI engineer is suing the company and SpaceX, alleging he was fired for raising AI safety concerns about Grok days before SpaceX's historic IPO."
-      ],
-      "url": "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/",
-      "category_tag_zh": "#AI应用",
-      "scrapedAt": "2026-06-11T13:08:10.557Z"
-    },
-    {
       "id": "tv-passports-data-breach-cannabis-club-systems-nefos-",
       "source": "The Verge",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25514575/passport_2040.jpg?quality=90&strip=all&crop=0,0,100,100",
@@ -244,21 +199,6 @@
       "url": "https://www.theverge.com/tech/947888/apple-google-add-support-for-thread-1-4",
       "category_tag_zh": "#科技前沿",
       "scrapedAt": "2026-06-11T04:23:36.341Z"
-    },
-    {
-      "id": "tc-fresh-off-bond-sale-amazon-borrows-17-5-billion-fr",
-      "source": "TechCrunch",
-      "image": "",
-      "title": "Fresh off bond sale, Amazon borrows $17.5B from banks as AI spending continues",
-      "title_zh": "Fresh off bond sale, Amazon borrows $17.5B from banks as AI spending continues",
-      "publishedAt": "2026-06-10T20:19:31.000Z",
-      "snippet": "Companies are burning through exorbitant sums of money to keep pace in the AI arms race. Debt is climbing.",
-      "snippet_zh": [
-        "Companies are burning through exorbitant sums of money to keep pace in the AI arms race. Debt is climbing."
-      ],
-      "url": "https://techcrunch.com/2026/06/10/fresh-off-bond-sale-amazon-borrows-17-5-billion-from-banks-as-ai-spending-continues/",
-      "category_tag_zh": "#AI应用",
-      "scrapedAt": "2026-06-11T13:08:10.561Z"
     },
     {
       "id": "tv-kalshi-prediction-markets-insider-trading",
@@ -321,51 +261,6 @@
       "scrapedAt": "2026-06-11T04:23:36.343Z"
     },
     {
-      "id": "tc-ai-pilled-firms-spend-7500-per-employee-each-month",
-      "source": "TechCrunch",
-      "image": "",
-      "title": "‘AI-pilled’ firms spend $7,500 per employee each month on AI",
-      "title_zh": "‘AI-pilled’ firms spend $7,500 per employee each month on AI",
-      "publishedAt": "2026-06-10T17:07:35.000Z",
-      "snippet": "The most AI-obsessed firms are spending roughly $7,500 monthly per employee on AI, per Ramp AI Index. That's not more than an engineer's salary — yet.",
-      "snippet_zh": [
-        "The most AI-obsessed firms are spending roughly $7,500 monthly per employee on AI, per Ramp AI Index. That's not more than an engineer's salary — yet."
-      ],
-      "url": "https://techcrunch.com/2026/06/10/ai-pilled-firms-spend-7500-per-employee-each-month-on-ai/",
-      "category_tag_zh": "#AI应用",
-      "scrapedAt": "2026-06-11T13:08:10.564Z"
-    },
-    {
-      "id": "tc-how-memory-tools-can-make-ai-models-worse",
-      "source": "TechCrunch",
-      "image": "",
-      "title": "How memory tools can make AI models worse",
-      "title_zh": "How memory tools can make AI models worse",
-      "publishedAt": "2026-06-10T16:11:08.000Z",
-      "snippet": "New research suggests that AI memory systems can degrade model performance and encourage sycophantic tendencies.",
-      "snippet_zh": [
-        "New research suggests that AI memory systems can degrade model performance and encourage sycophantic tendencies."
-      ],
-      "url": "https://techcrunch.com/2026/06/10/how-memory-tools-can-make-ai-models-worse/",
-      "category_tag_zh": "#AI应用",
-      "scrapedAt": "2026-06-11T13:08:10.565Z"
-    },
-    {
-      "id": "tc-cybersecurity-researchers-arent-happy-about-the-gu",
-      "source": "TechCrunch",
-      "image": "",
-      "title": "Cybersecurity researchers aren’t happy about the guardrails on Anthropic’s Fable",
-      "title_zh": "Cybersecurity researchers aren’t happy about the guardrails on Anthropic’s Fable",
-      "publishedAt": "2026-06-10T15:41:22.000Z",
-      "snippet": "Cybersecurity researchers are complaining that Anthropic's new model Fable has guardrails that are too strict for any cybersecurity work.",
-      "snippet_zh": [
-        "Cybersecurity researchers are complaining that Anthropic's new model Fable has guardrails that are too strict for any cybersecurity work."
-      ],
-      "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
-      "category_tag_zh": "#AI应用",
-      "scrapedAt": "2026-06-11T13:08:10.567Z"
-    },
-    {
       "id": "vb-ares-secures-12-7-billion-in-major-fundraising-pus",
       "source": "Ventureburn",
       "image": "https://ventureburn.com/wp-content/uploads/2026/06/coins-in-a-jar-2-1024x683.jpg",
@@ -379,36 +274,6 @@
       "url": "https://ventureburn.com/ares-secures-12-7-billion-in-major-fundraising-push/",
       "category_tag_zh": "#科技创投",
       "scrapedAt": "2026-06-11T04:22:25.070Z"
-    },
-    {
-      "id": "tc-datadog-veterans-launch-ai-coding-startup-niteshif",
-      "source": "TechCrunch",
-      "image": "",
-      "title": "Datadog veterans launch AI coding startup Niteshift on a bet against Big AI lock-in",
-      "title_zh": "Datadog veterans launch AI coding startup Niteshift on a bet against Big AI lock-in",
-      "publishedAt": "2026-06-10T15:00:00.000Z",
-      "snippet": "AI coding agent startup Niteshift has raised a $7 million seed round from a who's who of angels. It's betting companies will want power over, not lock-in with model makers.",
-      "snippet_zh": [
-        "AI coding agent startup Niteshift has raised a $7 million seed round from a who's who of angels. It's betting companies will want power over, not lock-in with model makers."
-      ],
-      "url": "https://techcrunch.com/2026/06/10/datadog-veterans-launch-ai-coding-startup-niteshift-on-a-bet-against-big-ai-lock-in/",
-      "category_tag_zh": "#AI应用",
-      "scrapedAt": "2026-06-11T13:08:10.569Z"
-    },
-    {
-      "id": "tc-the-three-hard-tech-moonshots-fueling-spacexs-unbe",
-      "source": "TechCrunch",
-      "image": "",
-      "title": "The three hard-tech moonshots fueling SpaceX’s unbelievable IPO",
-      "title_zh": "The three hard-tech moonshots fueling SpaceX’s unbelievable IPO",
-      "publishedAt": "2026-06-10T14:48:01.000Z",
-      "snippet": "Most of the value in SpaceX's IPO is effectively a call option on the company's ambitious space data center plans.",
-      "snippet_zh": [
-        "Most of the value in SpaceX's IPO is effectively a call option on the company's ambitious space data center plans."
-      ],
-      "url": "https://techcrunch.com/2026/06/10/the-three-hard-tech-moonshots-fueling-spacexs-unbelievable-ipo/",
-      "category_tag_zh": "#AI应用",
-      "scrapedAt": "2026-06-11T13:08:10.569Z"
     },
     {
       "id": "tc-warner-music-acquires-ai-attribution-startup-suree",
@@ -1662,171 +1527,6 @@
       "scrapedAt": "2026-06-11T06:00:00.000Z"
     },
     {
-      "id": "tc-anthropic-taps-tcs-to-scale-its-enterprise-ai-depl",
-      "source": "TechCrunch",
-      "image": "",
-      "title": "Anthropic taps TCS to scale its enterprise AI deployments",
-      "title_zh": "Anthropic taps TCS to scale its enterprise AI deployments",
-      "publishedAt": "2026-06-11T11:48:55.000Z",
-      "snippet": "The partnership will see TCS creating a business unit focused on deploying Anthropic's AI models to its customers.",
-      "snippet_zh": [
-        "The partnership will see TCS creating a business unit focused on deploying Anthropic's AI models to its customers."
-      ],
-      "url": "https://techcrunch.com/2026/06/11/anthropic-taps-tcs-to-scale-its-enterprise-ai-deployments/",
-      "category_tag_zh": "#AI应用",
-      "scrapedAt": "2026-06-11T13:08:10.556Z"
-    },
-    {
-      "id": "tc-why-andrew-yang-is-building-instead-of-waiting-for",
-      "source": "TechCrunch",
-      "image": "",
-      "title": "Why Andrew Yang is building instead of waiting for Washington",
-      "title_zh": "Why Andrew Yang is building instead of waiting for Washington",
-      "publishedAt": "2026-06-10T22:24:12.000Z",
-      "snippet": "Andrew Yang’s 2020 presidential campaign was based on a warning that automation and AI would hollow out the labor market and concentrate wealth in the hands of a few. At the time, ideas like Universal Basic Income felt fringe. Now Dario Amodei, Sam Altman, and Bernie Sanders are all saying versions ",
-      "snippet_zh": [
-        "Andrew Yang’s 2020 presidential campaign was based on a warning that automation and AI would hollow out the labor market and concentrate wealth in the hands of a few. At the time, ideas like Universal Basic Income felt fringe. Now Dario Amodei, Sam Altman, and Bernie Sanders are all saying versions "
-      ],
-      "url": "https://techcrunch.com/video/why-andrew-yang-is-building-instead-of-waiting-for-washington/",
-      "category_tag_zh": "#AI创业",
-      "scrapedAt": "2026-06-11T13:08:10.558Z"
-    },
-    {
-      "id": "tc-cybercriminals-claim-breach-of-oracle-peoplesoft-s",
-      "source": "TechCrunch",
-      "image": "",
-      "title": "Cybercriminals claim breach of Oracle PeopleSoft servers at 100-plus organizations",
-      "title_zh": "Cybercriminals claim breach of Oracle PeopleSoft servers at 100-plus organizations",
-      "publishedAt": "2026-06-10T21:33:32.000Z",
-      "snippet": "The ShinyHunters hacking gang claims to have compromised the Oracle PeopleSoft servers of more than 100 organizations, including many universities.",
-      "snippet_zh": [
-        "The ShinyHunters hacking gang claims to have compromised the Oracle PeopleSoft servers of more than 100 organizations, including many universities."
-      ],
-      "url": "https://techcrunch.com/2026/06/10/cybercriminals-claim-breach-of-oracle-peoplesoft-servers-at-100-plus-organizations/",
-      "category_tag_zh": "#AI安全",
-      "scrapedAt": "2026-06-11T13:08:10.560Z"
-    },
-    {
-      "id": "tc-everyone-wants-a-piece-of-teslas-battery-business",
-      "source": "TechCrunch",
-      "image": "",
-      "title": "Everyone wants a piece of Tesla’s battery business",
-      "title_zh": "Everyone wants a piece of Tesla’s battery business",
-      "publishedAt": "2026-06-10T20:21:25.000Z",
-      "snippet": "Electricity demand from AI data centers is pushing everyone — including automakers like GM and Ford — into the energy storage business.",
-      "snippet_zh": [
-        "Electricity demand from AI data centers is pushing everyone — including automakers like GM and Ford — into the energy storage business."
-      ],
-      "url": "https://techcrunch.com/2026/06/10/everyone-wants-a-piece-of-teslas-battery-business/",
-      "category_tag_zh": "#清洁能源",
-      "scrapedAt": "2026-06-11T13:08:10.560Z"
-    },
-    {
-      "id": "tc-north-koreans-behind-nearly-half-of-us-tech-indust",
-      "source": "TechCrunch",
-      "image": "",
-      "title": "North Koreans behind nearly half of US tech industry hacks, says CrowdStrike",
-      "title_zh": "North Koreans behind nearly half of US tech industry hacks, says CrowdStrike",
-      "publishedAt": "2026-06-10T19:57:04.000Z",
-      "snippet": "North Korean hackers posing as remote IT workers and recruiters remain a major threat to U.S., European, and Asian companies, accounting for about half of all attacks over the past 12 months.",
-      "snippet_zh": [
-        "North Korean hackers posing as remote IT workers and recruiters remain a major threat to U.S., European, and Asian companies, accounting for about half of all attacks over the past 12 months."
-      ],
-      "url": "https://techcrunch.com/2026/06/10/north-koreans-behind-nearly-half-of-us-tech-industry-hacks-says-crowdstrike/",
-      "category_tag_zh": "#AI安全",
-      "scrapedAt": "2026-06-11T13:08:10.562Z"
-    },
-    {
-      "id": "tc-wing-drone-delivery-might-not-be-a-novelty-anymore",
-      "source": "TechCrunch",
-      "image": "",
-      "title": "Wing drone delivery might not be a novelty anymore",
-      "title_zh": "Wing drone delivery might not be a novelty anymore",
-      "publishedAt": "2026-06-10T19:52:09.000Z",
-      "snippet": "Wing is expanding into seven more U.S. cities through its partnership with Walmart.",
-      "snippet_zh": [
-        "Wing is expanding into seven more U.S. cities through its partnership with Walmart."
-      ],
-      "url": "https://techcrunch.com/2026/06/10/wing-drone-delivery-might-not-be-a-novelty-anymore/",
-      "category_tag_zh": "#科技前沿",
-      "scrapedAt": "2026-06-11T13:08:10.562Z"
-    },
-    {
-      "id": "tc-netflix-expands-revamped-mobile-app-across-asia-an",
-      "source": "TechCrunch",
-      "image": "",
-      "title": "Netflix expands revamped mobile app across Asia and doubles down on kids’ gaming",
-      "title_zh": "Netflix expands revamped mobile app across Asia and doubles down on kids’ gaming",
-      "publishedAt": "2026-06-10T17:13:02.000Z",
-      "snippet": "The media giant is pushing to expand its mobile and gaming business.",
-      "snippet_zh": [
-        "The media giant is pushing to expand its mobile and gaming business."
-      ],
-      "url": "https://techcrunch.com/2026/06/10/netflix-expands-revamped-mobile-app-across-asia-and-doubles-down-on-kids-gaming/",
-      "category_tag_zh": "#AI应用",
-      "scrapedAt": "2026-06-11T13:08:10.563Z"
-    },
-    {
-      "id": "tc-the-indian-government-got-cold-feet-on-starlink-ju",
-      "source": "TechCrunch",
-      "image": "",
-      "title": "The Indian government got cold feet on Starlink just before SpaceX’s IPO",
-      "title_zh": "The Indian government got cold feet on Starlink just before SpaceX’s IPO",
-      "publishedAt": "2026-06-10T16:43:11.000Z",
-      "snippet": "Problems with Starlink's India expansion could challenge SpaceX's IPO growth story.",
-      "snippet_zh": [
-        "Problems with Starlink's India expansion could challenge SpaceX's IPO growth story."
-      ],
-      "url": "https://techcrunch.com/2026/06/10/the-indian-government-got-cold-feet-on-starlink-just-before-spacexs-ipo/",
-      "category_tag_zh": "#太空AI",
-      "scrapedAt": "2026-06-11T13:08:10.564Z"
-    },
-    {
-      "id": "tc-zest-launches-a-restaurant-discovery-app-powered-b",
-      "source": "TechCrunch",
-      "image": "",
-      "title": "Zest launches a restaurant discovery app powered by where people actually eat",
-      "title_zh": "Zest launches a restaurant discovery app powered by where people actually eat",
-      "publishedAt": "2026-06-10T15:53:07.000Z",
-      "snippet": "Backed by Alexis Ohanian’s 776 and Kindred Ventures, Zest uses transaction data and AI to generate restaurant recommendations based on users’ real dining habits and the places they frequent.",
-      "snippet_zh": [
-        "Backed by Alexis Ohanian’s 776 and Kindred Ventures, Zest uses transaction data and AI to generate restaurant recommendations based on users’ real dining habits and the places they frequent."
-      ],
-      "url": "https://techcrunch.com/2026/06/10/zest-launches-a-restaurant-discovery-app-powered-by-where-people-actually-eat/",
-      "category_tag_zh": "#AI应用",
-      "scrapedAt": "2026-06-11T13:08:10.566Z"
-    },
-    {
-      "id": "tc-why-enterprise-ai-will-be-a-major-focus-at-vivatec",
-      "source": "TechCrunch",
-      "image": "",
-      "title": "Why enterprise AI will be a major focus at VivaTech 2026",
-      "title_zh": "Why enterprise AI will be a major focus at VivaTech 2026",
-      "publishedAt": "2026-06-10T15:16:00.000Z",
-      "snippet": "While Silicon Valley continues pushing aggressively into large language models and consumer-facing AI products, many European companies are focused on applying AI to complex systems already embedded into everyday life.",
-      "snippet_zh": [
-        "While Silicon Valley continues pushing aggressively into large language models and consumer-facing AI products, many European companies are focused on applying AI to complex systems already embedded into everyday life."
-      ],
-      "url": "https://techcrunch.com/2026/06/10/why-enterprise-ai-will-be-a-major-focus-at-vivatech-2026/",
-      "category_tag_zh": "#AI创业",
-      "scrapedAt": "2026-06-11T13:08:10.568Z"
-    },
-    {
-      "id": "tc-pinterest-bets-on-creators-with-amazon-storefront-",
-      "source": "TechCrunch",
-      "image": "",
-      "title": "Pinterest bets on creators with Amazon Storefront integration",
-      "title_zh": "Pinterest bets on creators with Amazon Storefront integration",
-      "publishedAt": "2026-06-10T14:34:45.000Z",
-      "snippet": "Pinterest is adding support for Amazon Storefronts, allowing creators to earn affiliate commissions more easily while showcasing their product recommendations in one place.",
-      "snippet_zh": [
-        "Pinterest is adding support for Amazon Storefronts, allowing creators to earn affiliate commissions more easily while showcasing their product recommendations in one place."
-      ],
-      "url": "https://techcrunch.com/2026/06/10/pinterest-bets-on-creators-with-amazon-storefront-integration/",
-      "category_tag_zh": "#AI应用",
-      "scrapedAt": "2026-06-11T13:08:10.570Z"
-    },
-    {
       "id": "vb-best-ai-tools-for-students",
       "source": "Ventureburn",
       "image": "https://ventureburn.com/wp-content/uploads/2026/06/Collate-Raises-95M-1-1-768x431.jpeg",
@@ -1990,21 +1690,6 @@
       "url": "https://ventureburn.com/neura-robotics-raises-record-1-4b-in-funding-round/",
       "category_tag_zh": "#科技创投",
       "scrapedAt": "2026-06-11T13:08:11.119Z"
-    },
-    {
-      "id": "vb-the-crypto-market-is-changing-faster-than-anyone-e",
-      "source": "Ventureburn",
-      "image": "",
-      "title": "The Crypto Market Is Changing Faster Than Anyone Expected",
-      "title_zh": "The Crypto Market Is Changing Faster Than Anyone Expected",
-      "publishedAt": "2026-06-11T11:44:56.000Z",
-      "snippet": "Few industries evolve as rapidly as cryptocurrency. Investors who regularly follow market analysis on platforms such as Coinspot have witnessed dramatic changes in recent years, but even experienced observers are\nThe post The Crypto Market Is Changing Faster Than Anyone Expected appeared first on Ve",
-      "snippet_zh": [
-        "Few industries evolve as rapidly as cryptocurrency. Investors who regularly follow market analysis on platforms such as Coinspot have witnessed dramatic changes in recent years, but even experienced observers are\nThe post The Crypto Market Is Changing Faster Than Anyone Expected appeared first on Ve"
-      ],
-      "url": "https://ventureburn.com/the-crypto-market-is-changing-faster-than-anyone-expected/",
-      "category_tag_zh": "#科技创投",
-      "scrapedAt": "2026-06-11T13:08:11.122Z"
     },
     {
       "id": "vb-nesto-raises-302m-in-series-e-at-1-47b-valuation",

@@ -84,6 +84,16 @@ async function main() {
     await generateCrowdSummaries(byKind.crowdfunding);
   }
 
+  // 新闻：丢弃没图片的条目（参考目标站做法，无图卡片视觉空洞）
+  if (byKind.news.length > 0) {
+    const before = byKind.news.length;
+    byKind.news = byKind.news.filter((it: any) => it.image && String(it.image).trim());
+    const dropped = before - byKind.news.length;
+    if (dropped > 0) {
+      log.info('main', `news: dropped ${dropped} item(s) without image, ${byKind.news.length} remaining`);
+    }
+  }
+
   // AI 翻译：新闻标题 → 中文（参考目标站「硅谷听见」样式）
   if (byKind.news.length > 0) {
     log.info('translate', 'translating news titles...');
