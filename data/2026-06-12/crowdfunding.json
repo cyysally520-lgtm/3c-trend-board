@@ -8,7 +8,7 @@
       "platform": "Crowd Supply",
       "image": "https://www.crowdsupply.com/img/a9cc/3aa4466e-bd14-45d9-a0cc-ca4fd2eda9cc_aa-md.jpg",
       "name": "MiciMike Home Mini Drop-In PCB",
-      "name_zh": "米麦家迷你PCB",
+      "name_zh": "米奇迈克家用PCB",
       "founder": "MiciMike ReV Devices",
       "location": "Bandon, co",
       "raised": 104580,
@@ -22,17 +22,17 @@
       "summary_zh": [
         "A fully local, open-source replacement board that brings Home Assistant voice to the 1st Gen Google Home Mini"
       ],
-      "scrapedAt": "2026-06-12T08:38:41.504Z"
+      "scrapedAt": "2026-06-12T12:40:00.748Z"
     },
     {
       "id": "cs-modos-tech-modos-flow",
       "platform": "Crowd Supply",
       "image": "https://www.crowdsupply.com/img/4d47/d13c7a45-368d-45f8-9eb6-89bd51c04d47_aa-md.jpg",
       "name": "Modos Flow",
-      "name_zh": "模度流",
+      "name_zh": "莫多斯流",
       "founder": "others.",
       "location": "daily use",
-      "raised": 146835,
+      "raised": 153206,
       "currency": "USD",
       "currencySymbol": "$",
       "progress_pct": 100,
@@ -43,14 +43,14 @@
       "summary_zh": [
         "A paper-like monitor for reading, writing, and focused work"
       ],
-      "scrapedAt": "2026-06-12T08:38:41.505Z"
+      "scrapedAt": "2026-06-12T12:40:00.749Z"
     },
     {
       "id": "cs-wafer-space-gf180mcu-run-2",
       "platform": "Crowd Supply",
       "image": "https://www.crowdsupply.com/img/4944/87f2abdc-f041-4d4f-958c-11d447924944_aa-md.jpg",
       "name": "wafer.space GF180MCU Run 2",
-      "name_zh": "GF180MCU第二版",
+      "name_zh": "GF180MCU晶圆空间",
       "founder": "wafer.space",
       "location": "Singapore",
       "raised": 77000,
@@ -64,14 +64,14 @@
       "summary_zh": [
         "Fabricate 1,000 chips of your own design"
       ],
-      "scrapedAt": "2026-06-12T08:38:41.506Z"
+      "scrapedAt": "2026-06-12T12:40:00.749Z"
     },
     {
       "id": "cs-leafkvm-leafkvm",
       "platform": "Crowd Supply",
       "image": "https://www.crowdsupply.com/img/f0b1/acb444da-2aa4-46f6-bdf8-a67784bff0b1_aa-md.jpg",
       "name": "LeafKVM",
-      "name_zh": "绿叶KVM",
+      "name_zh": "轻量KVM",
       "founder": "our partners in China. We will handle final assembly, screen installation, and firmware flashing directly in our studio. Every LeafKVM unit will undergo extensive quality inspection before shipping.",
       "location": "China",
       "raised": 59425,
@@ -85,7 +85,7 @@
       "summary_zh": [
         "A flexible KVM remote control with support for wireless connectivity"
       ],
-      "scrapedAt": "2026-06-12T08:38:41.506Z"
+      "scrapedAt": "2026-06-12T12:40:00.750Z"
     },
     {
       "id": "cs-meatpi-electronics-wican-pro",
@@ -95,18 +95,18 @@
       "name_zh": "WiCAN专业版",
       "founder": "MeatPi Electronics",
       "location": "Melbourne, Australia",
-      "raised": 175732,
+      "raised": 175910,
       "currency": "USD",
       "currencySymbol": "$",
       "progress_pct": 100,
-      "backers": 1776,
+      "backers": 1777,
       "price": "$89",
       "campaign_url": "https://www.crowdsupply.com/meatpi-electronics/wican-pro",
       "category_tag_zh": "#硬件",
       "summary_zh": [
         "Advanced OBD scanner for next-generation vehicle diagnostics and Home Assistant integration"
       ],
-      "scrapedAt": "2026-06-12T08:38:41.507Z"
+      "scrapedAt": "2026-06-12T12:40:00.750Z"
     },
     {
       "id": "cs-meatpi-electronics-ollie-v2",
@@ -127,14 +127,14 @@
       "summary_zh": [
         "An even better all-in-one USB to isolated-UARTx2/CAN/RS485/RS232 converter"
       ],
-      "scrapedAt": "2026-06-12T08:38:41.508Z"
+      "scrapedAt": "2026-06-12T12:40:00.751Z"
     },
     {
       "id": "cs-meatpi-electronics-wican",
       "platform": "Crowd Supply",
       "image": "https://www.crowdsupply.com/img/6d22/2941f95f-cee3-4b94-9a86-67a9abf16d22_aa-md.jpg",
       "name": "WiCAN",
-      "name_zh": "无线CAN",
+      "name_zh": "WiCAN",
       "founder": "MeatPi Electronics",
       "location": "Melbourne, Australia",
       "raised": 54895,
@@ -148,7 +148,7 @@
       "summary_zh": [
         "Open source, ESP32-C3 CAN adapter with USB, Wi-Fi, and BLE support"
       ],
-      "scrapedAt": "2026-06-12T08:38:41.508Z"
+      "scrapedAt": "2026-06-12T12:40:00.751Z"
     },
     {
       "id": "cs-bela-bela-gem-stereo-and-multi",
@@ -169,14 +169,14 @@
       "summary_zh": [
         "A high-performance audio and sensor system for the PocketBeagle 2"
       ],
-      "scrapedAt": "2026-06-12T08:38:41.509Z"
+      "scrapedAt": "2026-06-12T12:40:00.751Z"
     },
     {
       "id": "cs-sitron-labs-solder-ninja-pen",
       "platform": "Crowd Supply",
       "image": "https://www.crowdsupply.com/img/f954/82192cf9-46db-4cb8-b268-8112cefff954_aa-md.jpg",
       "name": "Solder Ninja Pen",
-      "name_zh": "忍者焊笔",
+      "name_zh": "焊锡忍者笔",
       "founder": "local company",
       "location": "the Press",
       "raised": 39699,
@@ -190,7 +190,7 @@
       "summary_zh": [
         "A 45 W USB-powered soldering iron compatible with Weller RT Micro tips"
       ],
-      "scrapedAt": "2026-06-12T08:38:41.509Z"
+      "scrapedAt": "2026-06-12T12:40:00.752Z"
     },
     {
       "id": "cs-aerio-solutions-usb-insight-hub",
@@ -211,14 +211,14 @@
       "summary_zh": [
         "A USB interfacing tool for developers & tech enthusiasts"
       ],
-      "scrapedAt": "2026-06-12T08:38:41.510Z"
+      "scrapedAt": "2026-06-12T12:40:00.752Z"
     },
     {
       "id": "cs-icy-electronics-icepi-zero",
       "platform": "Crowd Supply",
       "image": "https://www.crowdsupply.com/img/e137/1639530e-e138-4460-b8dd-656a7bb6e137_aa-md.jpg",
       "name": "Icepi Zero",
-      "name_zh": "冰派零号",
+      "name_zh": "冰派零",
       "founder": "Icy Electronics",
       "location": "Cannes, France",
       "raised": 25958,
@@ -232,14 +232,14 @@
       "summary_zh": [
         "A powerful FPGA dev board in a familiar, pint-sized package"
       ],
-      "scrapedAt": "2026-06-12T08:38:41.511Z"
+      "scrapedAt": "2026-06-12T12:40:00.752Z"
     },
     {
       "id": "cs-saraai-sarakit",
       "platform": "Crowd Supply",
       "image": "https://www.crowdsupply.com/img/431c/99b3bc80-2a0b-4435-bed6-999a9c9d431c_aa-md.jpg",
       "name": "SaraKIT",
-      "name_zh": "莎拉套件",
+      "name_zh": "萨拉套件",
       "founder": "a phone playing an audible tone.",
       "location": "the standard Raspberry Pi",
       "raised": 17820,
@@ -253,14 +253,14 @@
       "summary_zh": [
         "Raspberry Pi CM4 expansion board with ChatGPT-based voice control, motor control, powerful sensors, and tons of tutorials"
       ],
-      "scrapedAt": "2026-06-12T08:38:41.511Z"
+      "scrapedAt": "2026-06-12T12:40:00.753Z"
     },
     {
       "id": "cs-apfaudio-tiliqua",
       "platform": "Crowd Supply",
       "image": "https://www.crowdsupply.com/img/4f42/04bed5ae-404b-4b64-9ccd-aad5a8d24f42_aa-md.jpg",
       "name": "Tiliqua",
-      "name_zh": "提利夸",
+      "name_zh": "蓝舌蜥",
       "founder": "apf.audio",
       "location": "Heidelberg, DE",
       "raised": 50176,
@@ -274,14 +274,14 @@
       "summary_zh": [
         "A powerful, hackable FPGA-based audio multitool for Eurorack"
       ],
-      "scrapedAt": "2026-06-12T08:38:41.511Z"
+      "scrapedAt": "2026-06-12T12:40:00.753Z"
     },
     {
       "id": "cs-silicognition-lifepo4wered-pi-plus",
       "platform": "Crowd Supply",
       "image": "https://www.crowdsupply.com/img/ad17/1c06c6a9-348a-40af-a1f7-8adb0c0fad17_aa-md.jpg",
       "name": "LiFePO4wered/Pi+",
-      "name_zh": "树莓派磷酸铁锂电源",
+      "name_zh": "LiFePO4wered/Pi+",
       "founder": "Silicognition",
       "location": "Longmont, Colorado",
       "raised": 74157,
@@ -295,28 +295,28 @@
       "summary_zh": [
         "A full-featured LiFePO4 battery, power manager, and UPS for the Raspberry Pi"
       ],
-      "scrapedAt": "2026-06-12T08:38:41.512Z"
+      "scrapedAt": "2026-06-12T12:40:00.753Z"
     },
     {
       "id": "cs-techxartisan-openterface-mini-kvm",
       "platform": "Crowd Supply",
       "image": "https://www.crowdsupply.com/img/3b1b/252f7954-731b-42d8-a16a-5ad0403b3b1b_aa-md.jpg",
       "name": "Openterface Mini-KVM",
-      "name_zh": "开源迷你KVM",
+      "name_zh": "Openterface Mini-KVM",
       "founder": "TechxArtisan",
       "location": "Hong Kong",
-      "raised": 518227,
+      "raised": 518872,
       "currency": "USD",
       "currencySymbol": "$",
-      "progress_pct": 4318,
-      "backers": 3865,
+      "progress_pct": 4323,
+      "backers": 3866,
       "price": "$95",
       "campaign_url": "https://www.crowdsupply.com/techxartisan/openterface-mini-kvm",
       "category_tag_zh": "#硬件",
       "summary_zh": [
         "Your Laptop as a KVM Console"
       ],
-      "scrapedAt": "2026-06-12T08:38:41.512Z"
+      "scrapedAt": "2026-06-12T12:40:00.754Z"
     },
     {
       "id": "cs-mnt-pocket-reform",
@@ -337,7 +337,7 @@
       "summary_zh": [
         "A newer, smaller, lighter, more-affordable, seven-inch mini Reform laptop that remains fully open source"
       ],
-      "scrapedAt": "2026-06-12T08:38:41.513Z"
+      "scrapedAt": "2026-06-12T12:40:00.754Z"
     },
     {
       "id": "cs-securinghw-tigard",
@@ -358,7 +358,7 @@
       "summary_zh": [
         "An open source FT2232H-based, multi-protocol, multi-voltage tool for hardware hacking"
       ],
-      "scrapedAt": "2026-06-12T08:38:41.513Z"
+      "scrapedAt": "2026-06-12T12:40:00.754Z"
     },
     {
       "id": "cs-newae-chipwhisperer-husky",
@@ -379,14 +379,14 @@
       "summary_zh": [
         "The power-analysis and fault-injection tool you can hold in your paw"
       ],
-      "scrapedAt": "2026-06-12T08:38:41.514Z"
+      "scrapedAt": "2026-06-12T12:40:00.754Z"
     },
     {
       "id": "mk-s111pro",
       "platform": "Makuake",
       "image": "https://static.makuake.com/upload/project/52072/main_52072.png?version=1780539882&width=320&height=180&optimize=high",
       "name": "【手ぶらでプロ撮影】強力手ブレ補正！指先サイズ24gの超軽量・第一視点カメラ",
-      "name_zh": "【手ぶらでプロ撮影】強力手ブレ補正！指先サイズ24gの超軽量・第一視点カメラ",
+      "name_zh": "指尖超轻FPV相机",
       "founder": "Unknown",
       "location": "Japan",
       "raised": 1759674,
@@ -398,33 +398,33 @@
       "campaign_url": "https://www.makuake.com/project/s111pro",
       "category_tag_zh": "#科技",
       "summary_zh": [],
-      "scrapedAt": "2026-06-12T08:40:47.187Z"
+      "scrapedAt": "2026-06-12T12:42:05.834Z"
     },
     {
       "id": "mk-kadobin",
       "platform": "Makuake",
       "image": "https://static.makuake.com/upload/project/52038/main_52038.jpg?version=1781161708&width=320&height=180&optimize=high",
       "name": "【角にハマる新発想】オゾン除菌機能付き、自動センサー式ゴミ箱「KADOBIN」",
-      "name_zh": "【角にハマる新発想】オゾン除菌機能付き、自動センサー式ゴミ箱「KADOBIN」",
+      "name_zh": "角落杀菌感应桶",
       "founder": "Unknown",
       "location": "Japan",
-      "raised": 17517245,
+      "raised": 18030245,
       "currency": "JPY",
       "currencySymbol": "￥",
-      "progress_pct": 1751,
+      "progress_pct": 1803,
       "backers": 0,
-      "price": "￥17,517,245",
+      "price": "￥18,030,245",
       "campaign_url": "https://www.makuake.com/project/kadobin",
       "category_tag_zh": "#科技",
       "summary_zh": [],
-      "scrapedAt": "2026-06-12T08:40:47.187Z"
+      "scrapedAt": "2026-06-12T12:42:05.834Z"
     },
     {
       "id": "mk-duraas3",
       "platform": "Makuake",
       "image": "https://static.makuake.com/upload/project/52106/main_52106.jpg?version=1780652427&width=320&height=180&optimize=high",
       "name": "【MIL-STD-810H規格】過酷な環境に強い、無敵のタフモバイルバッテリー",
-      "name_zh": "军规三防充电宝",
+      "name_zh": "军规三防移动电源",
       "founder": "Unknown",
       "location": "Japan",
       "raised": 1971704,
@@ -436,71 +436,71 @@
       "campaign_url": "https://www.makuake.com/project/duraas3",
       "category_tag_zh": "#科技",
       "summary_zh": [],
-      "scrapedAt": "2026-06-12T08:40:47.187Z"
+      "scrapedAt": "2026-06-12T12:42:05.834Z"
     },
     {
       "id": "mk-keychronk3-he-ultra",
       "platform": "Makuake",
       "image": "https://static.makuake.com/upload/project/51986/main_51986.png?version=1779927184&width=320&height=180&optimize=high",
       "name": "Keychron最新薄型キーボード 天然木デザイン×磁気スイッチ / 8KHz",
-      "name_zh": "Keychron薄磁轴键盘",
+      "name_zh": "Keychron木纹磁轴键盘",
       "founder": "Unknown",
       "location": "Japan",
-      "raised": 66982004,
+      "raised": 68123004,
       "currency": "JPY",
       "currencySymbol": "￥",
-      "progress_pct": 1339,
+      "progress_pct": 1362,
       "backers": 0,
-      "price": "￥66,982,004",
+      "price": "￥68,123,004",
       "campaign_url": "https://www.makuake.com/project/keychronk3-he-ultra",
       "category_tag_zh": "#科技",
       "summary_zh": [],
-      "scrapedAt": "2026-06-12T08:40:47.187Z"
+      "scrapedAt": "2026-06-12T12:42:05.834Z"
     },
     {
       "id": "mk-lunada_t2",
       "platform": "Makuake",
       "image": "https://static.makuake.com/upload/project/52030/main_52030.png?version=1780278747&width=320&height=180&optimize=high",
       "name": "【純チタン99％×超軽量28g】圧倒的に明るく美しい。鍵より小さいLED懐中電灯",
-      "name_zh": "纯钛迷你LED手电",
+      "name_zh": "纯钛超亮迷你手电",
       "founder": "Unknown",
       "location": "Japan",
-      "raised": 34076004,
+      "raised": 34304004,
       "currency": "JPY",
       "currencySymbol": "￥",
-      "progress_pct": 3407,
+      "progress_pct": 3430,
       "backers": 0,
-      "price": "￥34,076,004",
+      "price": "￥34,304,004",
       "campaign_url": "https://www.makuake.com/project/lunada_t2",
       "category_tag_zh": "#科技",
       "summary_zh": [],
-      "scrapedAt": "2026-06-12T08:40:47.187Z"
+      "scrapedAt": "2026-06-12T12:42:05.834Z"
     },
     {
       "id": "mk-daynight-scope2",
       "platform": "Makuake",
       "image": "https://static.makuake.com/upload/project/52002/main_52002.jpg?version=1780545013&width=320&height=180&optimize=high",
       "name": "覗き込めばどこでも特等席！昼も夜も鮮明で、動画も写真も撮れる『デジタル単眼鏡』",
-      "name_zh": "高清数码单筒镜",
+      "name_zh": "昼夜摄录数码单筒",
       "founder": "Unknown",
       "location": "Japan",
-      "raised": 15600004,
+      "raised": 16308004,
       "currency": "JPY",
       "currencySymbol": "￥",
-      "progress_pct": 780,
+      "progress_pct": 815,
       "backers": 0,
-      "price": "￥15,600,004",
+      "price": "￥16,308,004",
       "campaign_url": "https://www.makuake.com/project/daynight-scope2",
       "category_tag_zh": "#科技",
       "summary_zh": [],
-      "scrapedAt": "2026-06-12T08:40:47.187Z"
+      "scrapedAt": "2026-06-12T12:42:05.834Z"
     },
     {
       "id": "mk-jiffy75",
       "platform": "Makuake",
       "image": "https://static.makuake.com/upload/project/51822/main_51822.jpg?version=1779418768&width=320&height=180&optimize=high",
       "name": "デスクが整う、姿勢が整う。完全無線分割キーボード Jiffy75 LP",
-      "name_zh": "无线分体式键盘",
+      "name_zh": "无线分体工学键盘",
       "founder": "Unknown",
       "location": "Japan",
       "raised": 64140921,
@@ -512,14 +512,14 @@
       "campaign_url": "https://www.makuake.com/project/jiffy75",
       "category_tag_zh": "#科技",
       "summary_zh": [],
-      "scrapedAt": "2026-06-12T08:40:47.187Z"
+      "scrapedAt": "2026-06-12T12:42:05.834Z"
     },
     {
       "id": "mk-dnsys-boostsuit",
       "platform": "Makuake",
       "image": "https://static.makuake.com/upload/project/52042/main_52042.png?version=1780885974&width=320&height=180&optimize=high",
       "name": "もっと遠くへ、自分の脚で。軽量AIパワードスーツ｜Dnsys BOOSTSUIT",
-      "name_zh": "轻量AI动力服",
+      "name_zh": "轻量AI动力外骨骼",
       "founder": "Unknown",
       "location": "Japan",
       "raised": 254616004,
@@ -531,33 +531,33 @@
       "campaign_url": "https://www.makuake.com/project/dnsys-boostsuit",
       "category_tag_zh": "#科技",
       "summary_zh": [],
-      "scrapedAt": "2026-06-12T08:40:47.187Z"
+      "scrapedAt": "2026-06-12T12:42:05.834Z"
     },
     {
       "id": "mk-edisonsmart06",
       "platform": "Makuake",
       "image": "https://static.makuake.com/upload/project/51994/main_51994.jpg?version=1780901295&width=320&height=180&optimize=high",
       "name": "エアコン効率アップ！工事不要、スマホや声で操るエジソンスマートのシーリングファン",
-      "name_zh": "智能语音吊扇灯",
+      "name_zh": "智能语音风扇灯",
       "founder": "Unknown",
       "location": "Japan",
-      "raised": 67333263,
+      "raised": 67778763,
       "currency": "JPY",
       "currencySymbol": "￥",
-      "progress_pct": 3366,
+      "progress_pct": 3388,
       "backers": 0,
-      "price": "￥67,333,263",
+      "price": "￥67,778,763",
       "campaign_url": "https://www.makuake.com/project/edisonsmart06",
       "category_tag_zh": "#科技",
       "summary_zh": [],
-      "scrapedAt": "2026-06-12T08:40:47.187Z"
+      "scrapedAt": "2026-06-12T12:42:05.834Z"
     },
     {
       "id": "mk-fancyview_aiglasses",
       "platform": "Makuake",
       "image": "https://static.makuake.com/upload/project/51684/main_51684.jpg?version=1778494781&width=320&height=180&optimize=high",
       "name": "【AI操作をメガネ一つで】撮影、翻訳、音楽もハンズフリー。多機能を手の届く価格で",
-      "name_zh": "AI多功能智能镜",
+      "name_zh": "AI智能眼镜",
       "founder": "Unknown",
       "location": "Japan",
       "raised": 9190404,
@@ -569,14 +569,14 @@
       "campaign_url": "https://www.makuake.com/project/fancyview_aiglasses",
       "category_tag_zh": "#科技",
       "summary_zh": [],
-      "scrapedAt": "2026-06-12T08:40:47.187Z"
+      "scrapedAt": "2026-06-12T12:42:05.834Z"
     },
     {
       "id": "mk-sugoi32",
       "platform": "Makuake",
       "image": "https://static.makuake.com/upload/project/51789/main_51789.png?version=1780882195&width=320&height=180&optimize=high",
       "name": "mmの紙1枚から机に変わる\"新世代\"オリガミスタンドを持ち歩く◎iPad・本も",
-      "name_zh": "折叠便携支架",
+      "name_zh": "便携折叠平板支架",
       "founder": "Unknown",
       "location": "Japan",
       "raised": 16860691,
@@ -588,14 +588,14 @@
       "campaign_url": "https://www.makuake.com/project/sugoi32",
       "category_tag_zh": "#科技",
       "summary_zh": [],
-      "scrapedAt": "2026-06-12T08:40:47.187Z"
+      "scrapedAt": "2026-06-12T12:42:05.834Z"
     },
     {
       "id": "mk-magste",
       "platform": "Makuake",
       "image": "https://static.makuake.com/upload/project/51939/main_51939.png?version=1779704614&width=320&height=180&optimize=high",
       "name": "もうキャップは口にくわえない。『マグリン ステーション』でプロの所作をスマートに",
-      "name_zh": "磁吸笔帽收纳座",
+      "name_zh": "磁吸",
       "founder": "Unknown",
       "location": "Japan",
       "raised": 1868403,
@@ -607,7 +607,7 @@
       "campaign_url": "https://www.makuake.com/project/magste",
       "category_tag_zh": "#科技",
       "summary_zh": [],
-      "scrapedAt": "2026-06-12T08:40:47.187Z"
+      "scrapedAt": "2026-06-12T12:42:05.834Z"
     },
     {
       "id": "mk-allite2026",
@@ -655,18 +655,18 @@
       "name_zh": "Miko- 30W GaN Fast Charger That Lives On Your Keyring",
       "founder": "asap Technologies",
       "location": "Los Angeles, USA",
-      "raised": 36078,
+      "raised": 36318,
       "currency": "USD",
       "currencySymbol": "$",
-      "progress_pct": 361,
-      "backers": 590,
+      "progress_pct": 363,
+      "backers": 595,
       "price": "$48",
       "campaign_url": "https://www.kickstarter.com/projects/asaptechnologies/miko",
       "category_tag_zh": "#科技",
       "summary_zh": [
         "Key fob sized 30W GaN charger | Fast charges your phone | Foldable prongs | USB-C cable included | Always on your keys"
       ],
-      "scrapedAt": "2026-06-12T08:39:23.037Z"
+      "scrapedAt": "2026-06-12T12:40:39.709Z"
     },
     {
       "id": "ks-skysphere-building-an-intelligent-all-sky-camera-network",
@@ -676,25 +676,25 @@
       "name_zh": "SkySphere: Building an Intelligent All-Sky Camera Network",
       "founder": "Franck Marchis",
       "location": "San Francisco, USA",
-      "raised": 81039,
+      "raised": 82637,
       "currency": "USD",
       "currencySymbol": "$",
-      "progress_pct": 108,
-      "backers": 141,
+      "progress_pct": 110,
+      "backers": 143,
       "price": "$20",
       "campaign_url": "https://www.kickstarter.com/projects/allplanets/skysphere-building-an-intelligent-all-sky-camera-network",
       "category_tag_zh": "#科技",
       "summary_zh": [
         "Real-time sky monitoring powered by intelligent cameras and continuous, trusted observational data."
       ],
-      "scrapedAt": "2026-06-12T08:39:23.037Z"
+      "scrapedAt": "2026-06-12T12:40:39.709Z"
     },
     {
       "id": "ks-sond-dreambuds",
       "platform": "Kickstarter",
       "image": "https://i.kickstarter.com/assets/054/061/554/22333a89b55ae12a0e807e9642f10432_original.jpg?anim=false&fit=cover&gravity=auto&height=198&origin=ugc&q=92&v=1781107656&width=352&sig=BYG%2FLtJ2i019uZpBeGHuIQ3l1pvo18gZNl1yqvUTrt4%3D",
       "name": "The First 12-Signal Sleep Earbuds That Improve Your Sleep",
-      "name_zh": "The First 12-Signal Sleep Earbuds That Improve Your Sleep",
+      "name_zh": "12信号助眠耳塞",
       "founder": "SOND",
       "location": "Boston, USA",
       "raised": 454670,
@@ -708,77 +708,77 @@
       "summary_zh": [
         "A new category in sleep tech. Helps you fall asleep, stay asleep, & wake up refreshed. No subscription fees. Watch video to learn more"
       ],
-      "scrapedAt": "2026-06-12T08:39:23.037Z"
+      "scrapedAt": "2026-06-12T12:40:39.709Z"
     },
     {
       "id": "ks-lumos-sonorus-mesh-intercom-helmet-with-360-visibility",
       "platform": "Kickstarter",
       "image": "https://i.kickstarter.com/assets/053/772/144/648e60b318ec2ea19bcf3e9fcb7c009f_original.png?anim=false&fit=cover&gravity=auto&height=198&origin=ugc&q=92&v=1779108217&width=352&sig=n6LfV8rK3jPGpGeax%2FlVnXoygKUzpCiJ5iLc%2B2Y26j0%3D",
       "name": "Lumos Sonorus: Mesh Intercom Helmet with 360° Visibility",
-      "name_zh": "Lumos Sonorus: Mesh Intercom Helmet with 360° Visibility",
+      "name_zh": "全景对讲头盔",
       "founder": "Lumos Helmet",
       "location": "Boston, USA",
-      "raised": 655636,
+      "raised": 656830,
       "currency": "USD",
       "currencySymbol": "$",
-      "progress_pct": 4371,
-      "backers": 2251,
+      "progress_pct": 4379,
+      "backers": 2253,
       "price": "$299",
       "campaign_url": "https://www.kickstarter.com/projects/lumoshelmet/lumos-sonorus-mesh-intercom-helmet-with-360-visibility",
       "category_tag_zh": "#科技",
       "summary_zh": [
         "Full-Duplex Mesh Intercom | Up to 15 Riders | Open-Ear Audio | E-Bike Safety | 360° Visibility | Turn Signals & Brake Light"
       ],
-      "scrapedAt": "2026-06-12T08:39:23.037Z"
+      "scrapedAt": "2026-06-12T12:40:39.709Z"
     },
     {
       "id": "ks-airox-145-psi-cordless-dual-compressor-station-just-99-lb",
       "platform": "Kickstarter",
       "image": "https://i.kickstarter.com/assets/053/333/164/1ee6896a0e653260a4d514ef825463fd_original.jpg?anim=false&fit=cover&gravity=auto&height=198&origin=ugc&q=92&v=1776157663&width=352&sig=1NB%2F1NK0XreEAgBB%2BHE5ndvtfeTXU%2FgqRA6wyNmm91c%3D",
       "name": "AIROX: 145 PSI Cordless Dual-Compressor. Just 9.9 lb",
-      "name_zh": "AIROX: 145 PSI Cordless Dual-Compressor. Just 9.9 lb",
+      "name_zh": "无线双压气泵",
       "founder": "Magpie Tech",
       "location": "Wilmington, USA",
-      "raised": 522706,
+      "raised": 529165,
       "currency": "USD",
       "currencySymbol": "$",
-      "progress_pct": 10454,
-      "backers": 1970,
+      "progress_pct": 10583,
+      "backers": 1994,
       "price": "$150",
       "campaign_url": "https://www.kickstarter.com/projects/magpietech/airox-145-psi-cordless-dual-compressor-station-just-99-lb",
       "category_tag_zh": "#科技",
       "summary_zh": [
         "Dual-Motor System| 200 Nails/Min| 6.35s Recovery| Aluminum Tank| 21V Dual Battery| 1PSI Control| Nailing to Airbrushing,Zero Compromise"
       ],
-      "scrapedAt": "2026-06-11T13:06:43.603Z"
+      "scrapedAt": "2026-06-12T12:40:39.709Z"
     },
     {
       "id": "ks-dusq-the-worlds-only-sleep-regulation-system",
       "platform": "Kickstarter",
       "image": "https://i.kickstarter.com/assets/054/070/655/40333b8f3d878d1c64bd468d4f94c74e_original.png?anim=false&fit=cover&gravity=auto&height=198&origin=ugc&q=92&v=1781170241&width=352&sig=fNRtt1h998mDlzxp1VA21bd5jEu8%2BodnAydTj8GKcf8%3D",
       "name": "DUSQ - The World’s Only Sleep Regulation System",
-      "name_zh": "DUSQ - The World’s Only Sleep Regulation System",
+      "name_zh": "睡眠调节系统",
       "founder": "DUSQ",
       "location": "Newark, USA",
-      "raised": 826514,
+      "raised": 829036,
       "currency": "USD",
       "currencySymbol": "$",
-      "progress_pct": 8265,
-      "backers": 3076,
+      "progress_pct": 8290,
+      "backers": 3084,
       "price": "$349",
       "campaign_url": "https://www.kickstarter.com/projects/dusq/dusq-the-worlds-only-sleep-regulation-system",
       "category_tag_zh": "#科技",
       "summary_zh": [
         "Monitors your nervous system, detects when sleep fragments and intervenes using vagus and vestibular nerve stimulation. Non-invasively."
       ],
-      "scrapedAt": "2026-06-12T08:39:23.037Z"
+      "scrapedAt": "2026-06-12T12:40:39.709Z"
     },
     {
       "id": "ks-dojo-air-smarter-breathwork-with-real-time-volume-feedback",
       "platform": "Kickstarter",
       "image": "https://i.kickstarter.com/assets/053/836/061/b09e5dd16af1fb72538cb83098b6720a_original.jpg?anim=false&fit=cover&gravity=auto&height=198&origin=ugc&q=92&v=1779489966&width=352&sig=UCPkffOVNr6EiJbfoAHSUaaiWvluHrsVGNNe%2FI94XPk%3D",
       "name": "DOJO Air: A Portable Data Driven Breath Trainer",
-      "name_zh": "DOJO Air: A Portable Data Driven Breath Trainer",
+      "name_zh": "数据呼吸训练器",
       "founder": "DOJO Air",
       "location": "San Diego, USA",
       "raised": 99231,
@@ -792,49 +792,49 @@
       "summary_zh": [
         "Improve your breathing and track your results using guided training exercises, precise volumetric measurement, and real time data."
       ],
-      "scrapedAt": "2026-06-12T08:39:23.037Z"
+      "scrapedAt": "2026-06-12T12:40:39.709Z"
     },
     {
       "id": "ks-comet-q",
       "platform": "Kickstarter",
       "image": "https://i.kickstarter.com/assets/053/528/492/d8084aafa8b40a2ba3ec9beee0ecad30_original.jpg?anim=false&fit=cover&gravity=auto&height=198&origin=ugc&q=92&v=1777446985&width=352&sig=Ax8SrwZ%2FWlesiYOPbN8Ile3izda96sg1oRbnXvdT%2BDQ%3D",
       "name": "GL.iNet Comet Q: Wake, Unlock & Control Remotely",
-      "name_zh": "GL.iNet Comet Q: Wake, Unlock & Control Remotely",
+      "name_zh": "智能远程控制器",
       "founder": "GL.iNet",
       "location": "Fairfax, USA",
-      "raised": 657187,
+      "raised": 660341,
       "currency": "USD",
       "currencySymbol": "$",
-      "progress_pct": 6572,
-      "backers": 4651,
+      "progress_pct": 6603,
+      "backers": 4662,
       "price": "$15",
       "campaign_url": "https://www.kickstarter.com/projects/glinet/comet-q",
       "category_tag_zh": "#科技",
       "summary_zh": [
         "The World's First Cross-OS Remote Control for Your Mobile Device, including Laptop, Phones, Macmini, Tablet, and more over USB-C Cable."
       ],
-      "scrapedAt": "2026-06-12T08:39:23.037Z"
+      "scrapedAt": "2026-06-12T12:40:39.709Z"
     },
     {
       "id": "ks-xtool-wonderpress-the-most-creative-3d-auto-heat-press-ever",
       "platform": "Kickstarter",
       "image": "https://i.kickstarter.com/assets/053/190/423/03ecd9cb9ab0cf4999dbfcda4aded8f4_original.jpg?anim=false&fit=cover&gravity=auto&height=198&origin=ugc&q=92&v=1775122328&width=352&sig=nt1NgUECOm1V9hlxmSkv8butbtQkFHnBUyb3CsFBopA%3D",
       "name": "xTool WonderPress: The Most Creative 3D Auto Heat Press Ever",
-      "name_zh": "奇思3D自动热压机",
+      "name_zh": "3D自动热压机",
       "founder": "xTool",
       "location": "California City, USA",
-      "raised": 4504595,
+      "raised": 4502876,
       "currency": "USD",
       "currencySymbol": "$",
-      "progress_pct": 4505,
-      "backers": 7978,
+      "progress_pct": 4503,
+      "backers": 7975,
       "price": "$279",
       "campaign_url": "https://www.kickstarter.com/projects/makeblock/xtool-wonderpress-the-most-creative-3d-auto-heat-press-ever",
       "category_tag_zh": "#科技",
       "summary_zh": [
         "All-in-One Modular | Auto Heat Press | 3D Sublimation | Vacuum Forming | DTF Curing | Craft Baking"
       ],
-      "scrapedAt": "2026-06-12T08:39:23.037Z"
+      "scrapedAt": "2026-06-12T12:40:39.709Z"
     },
     {
       "id": "ks-inkwon-tag-worlds-1st-4-in-1-pocket-color-inkjet-printer",
@@ -876,28 +876,28 @@
       "summary_zh": [
         "You can see your games. You can hear your games. Now smell them. Scent Unlocked."
       ],
-      "scrapedAt": "2026-06-12T08:39:23.037Z"
+      "scrapedAt": "2026-06-12T12:40:39.709Z"
     },
     {
       "id": "ks-icemist-the-ultimate-semiconductor-portable-mist-fan",
       "platform": "Kickstarter",
       "image": "https://i.kickstarter.com/assets/053/982/240/5bff82b91a7e3d84958d3b0adf8eb587_original.png?anim=false&fit=cover&gravity=auto&height=198&origin=ugc&q=92&v=1780540771&width=352&sig=1oj0if%2FaJcaVXi4uT6T5tcEhVhes0%2F39jLOg4%2BgEqN8%3D",
       "name": "TAYEN Gen 2 — AC-Style Semiconductor Cooling Mist Fan",
-      "name_zh": "二代半导体制冷雾扇",
+      "name_zh": "半导体冷雾风扇",
       "founder": "Tayen tech",
       "location": "Hong Kong, Hong Kong",
-      "raised": 251377,
+      "raised": 254075,
       "currency": "HKD",
       "currencySymbol": "$",
-      "progress_pct": 2514,
-      "backers": 295,
+      "progress_pct": 2541,
+      "backers": 297,
       "price": "$69",
       "campaign_url": "https://www.kickstarter.com/projects/tayen/icemist-the-ultimate-semiconductor-portable-mist-fan",
       "category_tag_zh": "#科技",
       "summary_zh": [
         "A 3-in-1 personal cooling system with semiconductor water cooling, triple mist nozzles, a 6000mAh battery, and wall-mounted or freestan"
       ],
-      "scrapedAt": "2026-06-12T08:39:23.037Z"
+      "scrapedAt": "2026-06-12T12:40:39.709Z"
     },
     {
       "id": "igo-rfidresearchgroup-proxmark5",
@@ -923,19 +923,23 @@
       "platform": "Indiegogo",
       "image": "https://cdn.images.indiegogo.com/projectimage/projects/425635/17210772-77e1-4d63-bbc4-b77fac0606b3.png",
       "name": "SKWHEEL : Ski Anywhere. All Year Long. by  SKWHEEL",
-      "name_zh": "全地形滑雪轮",
+      "name_zh": "全地形滑雪板",
       "founder": "SKWHEEL",
       "location": "Shipping, Taxes",
       "raised": 409041,
       "currency": "EUR",
       "currencySymbol": "€",
       "progress_pct": 100,
-      "backers": 484,
+      "backers": 485,
       "price": "$316.67",
       "campaign_url": "https://www.indiegogo.com/en/projects/skwheel/skwheel-peak",
       "category_tag_zh": "#科技",
-      "summary_zh": [],
-      "scrapedAt": "2026-06-12T08:39:44.250Z"
+      "summary_zh": [
+        "全地形滑雪创新",
+        "四季皆享滑雪乐",
+        "虚拟实境运动新体验"
+      ],
+      "scrapedAt": "2026-06-12T12:41:02.796Z"
     },
     {
       "id": "igo-vitesy-vitesy-fruit-bowl",
@@ -945,26 +949,30 @@
       "name_zh": "智能保鲜果盘",
       "founder": "Vitesy",
       "location": "Natede, Eteria, Shelfy",
-      "raised": 36260,
+      "raised": 36659,
       "currency": "EUR",
       "currencySymbol": "€",
       "progress_pct": 100,
-      "backers": 873,
+      "backers": 876,
       "price": "$39",
       "campaign_url": "https://www.indiegogo.com/en/projects/vitesy/vitesy-fruit-bowl",
       "category_tag_zh": "#科技",
-      "summary_zh": [],
-      "scrapedAt": "2026-06-12T08:39:44.250Z"
+      "summary_zh": [
+        "智能保鲜延长鲜度",
+        "AI优化果蔬储存",
+        "减少食物浪费方案"
+      ],
+      "scrapedAt": "2026-06-12T12:41:02.796Z"
     },
     {
       "id": "igo-roe-network-original-sin-prelude-to-biohazard",
       "platform": "Indiegogo",
       "image": "https://cdn.images.indiegogo.com/projectimage/projects/428764/f1045edd-7782-4053-849a-f0c053721d3f.jpg",
       "name": "ORIGINAL SIN: Prelude to Biohazard by  ROE Network",
-      "name_zh": "原罪：生化前传",
+      "name_zh": "生化危机前传",
       "founder": "ROE Network",
       "location": "Award, Original",
-      "raised": 92928,
+      "raised": 93093,
       "currency": "USD",
       "currencySymbol": "$",
       "progress_pct": 100,
@@ -972,18 +980,22 @@
       "price": "$10",
       "campaign_url": "https://www.indiegogo.com/en/projects/roe-network/original-sin-prelude-to-biohazard",
       "category_tag_zh": "#科技",
-      "summary_zh": [],
-      "scrapedAt": "2026-06-12T08:39:44.250Z"
+      "summary_zh": [
+        "末日生存游戏前传",
+        "生物危机深度叙事",
+        "沉浸式恐怖体验"
+      ],
+      "scrapedAt": "2026-06-12T12:41:02.796Z"
     },
     {
       "id": "igo-luminanrg-fat-iron-core",
       "platform": "Indiegogo",
       "image": "https://cdn.images.indiegogo.com/projectimage/projects/428000/02a1d118-97e0-4fa3-89e7-71a1ee3d97c0.jpeg",
       "name": "Fat Iron Core — Iron Off Stubborn Fat, Tighten Skin & Recover Faster in 15 Minutes. by  Lumina NRG",
-      "name_zh": "燃脂塑形紧肤仪",
+      "name_zh": "燃脂紧",
       "founder": "Lumina NRG",
       "location": "Fat, Tighten",
-      "raised": 76988,
+      "raised": 77666,
       "currency": "USD",
       "currencySymbol": "$",
       "progress_pct": 100,
@@ -991,8 +1003,12 @@
       "price": "$116.33",
       "campaign_url": "https://www.indiegogo.com/en/projects/luminanrg/fat-iron-core",
       "category_tag_zh": "#科技",
-      "summary_zh": [],
-      "scrapedAt": "2026-06-12T08:39:44.250Z"
+      "summary_zh": [
+        "多功能塑形紧肤",
+        "高效燃脂快速恢复",
+        "智能美容健康方案"
+      ],
+      "scrapedAt": "2026-06-12T12:41:02.796Z"
     },
     {
       "id": "igo-mission-first-marines-always-mission-first-marines-always",
@@ -1018,7 +1034,7 @@
       "platform": "Indiegogo",
       "image": "https://cdn.images.indiegogo.com/projectimage/projects/421070/d0ffee7f-ba79-49f3-a879-6015d098d234.jpg",
       "name": "A Kiss of Vengeance Feature Film by  Meow Entertainment",
-      "name_zh": "复仇之吻长片",
+      "name_zh": "A Kiss of Vengeance Feature Film by  Meow Entertainment",
       "founder": "Meow Entertainment",
       "location": "Meanwhile, Jesse",
       "raised": 60,
@@ -1029,18 +1045,22 @@
       "price": "$12",
       "campaign_url": "https://www.indiegogo.com/en/projects/meow-entertainment/a-kiss-of-vengeance",
       "category_tag_zh": "#科技",
-      "summary_zh": [],
-      "scrapedAt": "2026-06-12T08:39:44.250Z"
+      "summary_zh": [
+        "复仇主题剧情长片",
+        "电影制作众筹项目",
+        "视觉叙事情感张力"
+      ],
+      "scrapedAt": "2026-06-12T12:41:02.796Z"
     },
     {
       "id": "igo-edenluxotus-eyeary-your-personal-ai-eye-focus-coach",
       "platform": "Indiegogo",
       "image": "https://cdn.images.indiegogo.com/projectimage/projects/424662/3345f000-9c3b-47a7-9cd6-cfae44590879.png",
       "name": "Ai for your Eyes-Measure your Focus and Expand it by  Edenlux",
-      "name_zh": "AI",
+      "name_zh": "Ai for your Eyes-Measure your Focus and Expand it by  Edenlux",
       "founder": "Edenlux",
       "location": "Unit, Eyeary",
-      "raised": 31511,
+      "raised": 31846,
       "currency": "USD",
       "currencySymbol": "$",
       "progress_pct": 100,
@@ -1048,8 +1068,12 @@
       "price": "$134",
       "campaign_url": "https://www.indiegogo.com/en/projects/edenluxotus/eyeary-your-personal-ai-eye-focus-coach",
       "category_tag_zh": "#科技",
-      "summary_zh": [],
-      "scrapedAt": "2026-06-12T08:39:44.250Z"
+      "summary_zh": [
+        "AI赋能专注力训练",
+        "提升视觉认知能力",
+        "智能眼部健康管理"
+      ],
+      "scrapedAt": "2026-06-12T12:41:02.796Z"
     },
     {
       "id": "mk-omibo",
@@ -1059,23 +1083,27 @@
       "name_zh": "制限のない”好き”。動画も、枚数も、思いのまま、高自由度デジタルバッジOmibo",
       "founder": "Unknown",
       "location": "Japan",
-      "raised": 3775204,
+      "raised": 4173404,
       "currency": "JPY",
       "currencySymbol": "￥",
-      "progress_pct": 377,
+      "progress_pct": 417,
       "backers": 0,
-      "price": "￥3,775,204",
+      "price": "￥4,173,404",
       "campaign_url": "https://www.makuake.com/project/omibo",
       "category_tag_zh": "#科技",
-      "summary_zh": [],
-      "scrapedAt": "2026-06-12T08:40:47.187Z"
+      "summary_zh": [
+        "高自由度数字徽章",
+        "个性化内容创作平台",
+        "无限制表达与分享"
+      ],
+      "scrapedAt": "2026-06-12T12:42:05.834Z"
     },
     {
       "id": "ks-iron-fleet-the-diy-rc-tank-that-teaches-real-engineering",
       "platform": "Kickstarter",
       "image": "https://i.kickstarter.com/assets/053/611/238/0a7a6df87fcb398d930d729140e42417_original.png?anim=false&fit=cover&gravity=auto&height=198&origin=ugc&q=92&v=1778020814&width=352&sig=aH%2F6q9AszUOkVzzRGWuUoJMjJLwR5B%2BjVk3ZDCGj%2BSc%3D",
       "name": "Iron Fleet: The DIY RC Tank That Teaches Real Engineering",
-      "name_zh": "Iron Fleet: The DIY RC Tank That Teaches Real Engineering",
+      "name_zh": "DIY工程遥控坦克",
       "founder": "Iron Bull",
       "location": "Zagreb, Croatia",
       "raised": 16624,
@@ -1089,7 +1117,7 @@
       "summary_zh": [
         "Iron Fleet is more than a RC Tank, it’s a hands‑on engineering project, an immersive RC experience and a gateway to living history."
       ],
-      "scrapedAt": "2026-06-12T08:39:23.037Z"
+      "scrapedAt": "2026-06-12T12:40:39.709Z"
     },
     {
       "id": "ks-keep-the-connected-keychain-that-keeps-your-people-close",
@@ -1120,16 +1148,20 @@
       "name_zh": "録音・文字起こし・要約・翻訳・AI分析までを1台で実現するAIボイスレコーダー",
       "founder": "Unknown",
       "location": "Japan",
-      "raised": 649004,
+      "raised": 778804,
       "currency": "JPY",
       "currencySymbol": "￥",
-      "progress_pct": 64,
+      "progress_pct": 77,
       "backers": 0,
-      "price": "￥649,004",
+      "price": "￥778,804",
       "campaign_url": "https://www.makuake.com/project/voicecard",
       "category_tag_zh": "#科技",
-      "summary_zh": [],
-      "scrapedAt": "2026-06-12T08:40:47.187Z"
+      "summary_zh": [
+        "AI智能语音一体机",
+        "高效会议记录助手",
+        "多语言实时处理"
+      ],
+      "scrapedAt": "2026-06-12T12:42:05.834Z"
     },
     {
       "id": "igo-damla-ozoral-nefes-2026-a-short-film-by-damla-ozoral",
@@ -1139,7 +1171,7 @@
       "name_zh": "NEFES (2026) A short film by  Damla Ozoral",
       "founder": "Damla Ozoral",
       "location": "Nefes, Deniz",
-      "raised": 839,
+      "raised": 1108,
       "currency": "EUR",
       "currencySymbol": "€",
       "progress_pct": 100,
@@ -1147,8 +1179,12 @@
       "price": "$20",
       "campaign_url": "https://www.indiegogo.com/en/projects/damla-ozoral/nefes-2026-a-short-film-by-damla-ozoral",
       "category_tag_zh": "#科技",
-      "summary_zh": [],
-      "scrapedAt": "2026-06-12T08:39:44.250Z"
+      "summary_zh": [
+        "独立短片艺术创作",
+        "视觉叙事情感表达",
+        "电影项目众筹支持"
+      ],
+      "scrapedAt": "2026-06-12T12:41:02.796Z"
     },
     {
       "id": "igo-volk-volk-2nd-album-crowdfund",
@@ -1158,7 +1194,7 @@
       "name_zh": "ALBUM CROWDFUND by  VOLK",
       "founder": "VOLK",
       "location": "Hand, You",
-      "raised": 8928,
+      "raised": 9028,
       "currency": "USD",
       "currencySymbol": "$",
       "progress_pct": 100,
@@ -1166,8 +1202,12 @@
       "price": "$5",
       "campaign_url": "https://www.indiegogo.com/en/projects/volk/volk-2nd-album-crowdfund",
       "category_tag_zh": "#科技",
-      "summary_zh": [],
-      "scrapedAt": "2026-06-12T08:39:44.250Z"
+      "summary_zh": [
+        "音乐专辑制作众筹",
+        "独立音乐人创作支持",
+        "粉丝共创音乐体验"
+      ],
+      "scrapedAt": "2026-06-12T12:41:02.796Z"
     }
   ]
 }
