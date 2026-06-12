@@ -51,7 +51,7 @@ export async function scrapeYCombinator(maxItems = 100): Promise<ScrapeResult<Ra
           params: new URLSearchParams({
             facetFilters: JSON.stringify([['industries:Consumer Electronics']]),
             facets: JSON.stringify(['batch', 'industries', 'regions']),
-            hitsPerPage: '200',  // 拉取全部，在客户端过滤
+            hitsPerPage: '1000',  // Algolia 单页上限；拉取全部，在客户端过滤
             maxValuesPerFacet: '1000',
             page: '0',
             query: '',

@@ -53,8 +53,9 @@ export async function scrapeMakuake(maxItems = 30): Promise<ScrapeResult<RawCrow
     }
     await page.waitForTimeout(2000);
 
-    // 提取项目数据
-    const rawItems = await extractFromPage(page, maxItems * 2);
+    // 提取项目数据（cap 单次抓取上限到 10000，避免 maxItems=Infinity 时溢出）
+    const extractCap = Math.min(maxItems * 2, 10000);
+    const rawItems = await extractFromPage(page, extractCap);
     log.info('makuake', `extracted ${rawItems.length} raw items`);
 
     // 3C数码筛选
