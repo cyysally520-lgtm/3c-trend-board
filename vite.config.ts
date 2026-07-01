@@ -4,6 +4,8 @@ import path from 'path';
 import { defineConfig } from 'vite';
 import { copyFileSync, mkdirSync, readdirSync, statSync, existsSync } from 'fs';
 
+import { cloudflare } from "@cloudflare/vite-plugin";
+
 // 构建后钩子：把 data/ 目录拷贝到 dist/data/
 function copyDataDir() {
   return {
@@ -29,7 +31,7 @@ function copyDataDir() {
 
 export default defineConfig(() => {
   return {
-    plugins: [react(), tailwindcss(), copyDataDir()],
+    plugins: [react(), tailwindcss(), copyDataDir(), cloudflare()],
     resolve: {
       alias: {
         '@': path.resolve(__dirname, '.'),
