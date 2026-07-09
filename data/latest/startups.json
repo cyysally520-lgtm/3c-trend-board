@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-08",
+  "date": "2026-07-09",
   "kind": "startups",
   "count": 8,
   "items": [
@@ -10,16 +10,14 @@
       "name_zh": "ANORIA",
       "intro": "The first wearable that reads your emotions to enhance your EQ. ",
       "intro_zh": [
-        "情感识别穿戴技术",
-        "个人情商提升订阅",
-        "情绪管理与情商教育"
+        "The first wearable that reads your emotions to enhance your EQ. "
       ],
       "founders": "Unknown",
       "team_size": "5",
       "location": "San Francisco, USA",
       "batch": "Spring 2026",
       "url": "https://www.anoria.com",
-      "scrapedAt": "2026-07-08T09:18:55.315Z"
+      "scrapedAt": "2026-07-09T02:38:06.826Z"
     },
     {
       "id": "yc-fort",
@@ -28,16 +26,14 @@
       "name_zh": "Fort",
       "intro": "Strength Tracking Wearable",
       "intro_zh": [
-        "力量训练数据追踪",
-        "运动表现优化硬件",
-        "健身爱好者与专业运动员"
+        "Strength Tracking Wearable"
       ],
       "founders": "Unknown",
       "team_size": "3",
       "location": "San Francisco, USA",
       "batch": "Winter 2026",
       "url": "https://fort.cx",
-      "scrapedAt": "2026-07-08T09:18:55.315Z"
+      "scrapedAt": "2026-07-09T02:38:06.826Z"
     },
     {
       "id": "yc-tornyol",
@@ -46,16 +42,14 @@
       "name_zh": "Tornyol",
       "intro": "We build micro-drones that kill mosquitoes. ",
       "intro_zh": [
-        "微型无人机灭蚊技术",
-        "病媒控制服务与设备",
-        "公共卫生与病虫害防治"
+        "We build micro-drones that kill mosquitoes. "
       ],
       "founders": "Unknown",
       "team_size": "7",
       "location": "Paris, France",
       "batch": "Fall 2025",
       "url": "https://tornyol.com/",
-      "scrapedAt": "2026-07-08T09:18:55.315Z"
+      "scrapedAt": "2026-07-09T02:38:06.826Z"
     },
     {
       "id": "yc-vassar-robotics",
@@ -64,16 +58,14 @@
       "name_zh": "Vassar Robotics",
       "intro": "Open-source semi-humanoid dev kit → home data → autonomy → 20h/wk",
       "intro_zh": [
-        "开源半人形机器人套件",
-        "开发者工具与数据服务",
-        "机器人研发与智能家居"
+        "Open-source semi-humanoid dev kit → home data → autonomy → 20h/wk"
       ],
       "founders": "Unknown",
       "team_size": "3",
       "location": "Los Angeles, USA",
       "batch": "Spring 2025",
       "url": "https://www.vassarrobotics.com",
-      "scrapedAt": "2026-07-08T09:18:55.315Z"
+      "scrapedAt": "2026-07-09T02:38:06.826Z"
     },
     {
       "id": "yc-pickle-2",
@@ -82,16 +74,14 @@
       "name_zh": "Pickle",
       "intro": "Where your life context becomes understanding.",
       "intro_zh": [
-        "生活情境智能分析",
-        "个性化洞察与决策支持",
-        "个人智能助理与生活管理"
+        "Where your life context becomes understanding."
       ],
       "founders": "Unknown",
       "team_size": "15",
       "location": "San Francisco, USA",
       "batch": "Winter 2025",
       "url": "https://www.pickle.com",
-      "scrapedAt": "2026-07-08T09:18:55.315Z"
+      "scrapedAt": "2026-07-09T02:38:06.826Z"
     },
     {
       "id": "yc-innate",
@@ -100,16 +90,14 @@
       "name_zh": "Innate",
       "intro": "Personal AI Robots",
       "intro_zh": [
-        "个人智能AI机器人",
-        "智能伴侣硬件与服务",
-        "家庭智能与个人陪伴"
+        "Personal AI Robots"
       ],
       "founders": "Unknown",
       "team_size": "7",
       "location": "San Francisco, USA",
       "batch": "Fall 2024",
       "url": "https://innate.bot",
-      "scrapedAt": "2026-07-08T09:18:55.315Z"
+      "scrapedAt": "2026-07-09T02:38:06.826Z"
     },
     {
       "id": "yc-k-scale-labs",
@@ -118,16 +106,14 @@
       "name_zh": "K-Scale Labs",
       "intro": "Open-source humanoid robots",
       "intro_zh": [
-        "开源人形机器人平台",
-        "机器人开发生态构建",
-        "机器人研究与教育市场"
+        "Open-source humanoid robots"
       ],
       "founders": "Unknown",
       "team_size": "10",
       "location": "San Francisco, USA",
       "batch": "Winter 2024",
       "url": "https://kscale.dev/",
-      "scrapedAt": "2026-07-08T09:18:55.315Z"
+      "scrapedAt": "2026-07-09T02:38:06.826Z"
     },
     {
       "id": "yc-tuesday-labs",
@@ -136,16 +122,14 @@
       "name_zh": "Tuesday Labs",
       "intro": "Delightful robots",
       "intro_zh": [
-        "愉悦交互机器人设计",
-        "消费级机器人产品销售",
-        "智能家居与娱乐陪伴"
+        "Delightful robots"
       ],
       "founders": "Unknown",
       "team_size": "7",
       "location": "New York, USA",
       "batch": "Winter 2024",
       "url": "https://www.tuesdaylabs.com",
-      "scrapedAt": "2026-07-08T09:18:55.315Z"
+      "scrapedAt": "2026-07-09T02:38:06.826Z"
     }
   ]
 }
