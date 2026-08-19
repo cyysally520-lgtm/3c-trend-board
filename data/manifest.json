@@ -1,6 +1,7 @@
 {
-  "updatedAt": "2026-08-17T01:10:32.179Z",
+  "updatedAt": "2026-08-19T01:08:59.868Z",
   "dates": [
+    "2026-08-19",
     "2026-08-17",
     "2026-08-16",
     "2026-08-15",
@@ -30,8 +31,7 @@
     "2026-07-22",
     "2026-07-21",
     "2026-07-20",
-    "2026-07-19",
-    "2026-07-18"
+    "2026-07-19"
   ],
   "kinds": [
     "crowdfunding",
@@ -40,6 +40,12 @@
     "investments"
   ],
   "counts": {
+    "2026-08-19": {
+      "crowdfunding": 313,
+      "news": 1522,
+      "startups": 11,
+      "investments": 909
+    },
     "2026-08-17": {
       "crowdfunding": 296,
       "news": 1489,
@@ -218,12 +224,6 @@
       "crowdfunding": 206,
       "news": 984,
       "startups": 9,
-      "investments": 815
-    },
-    "2026-07-18": {
-      "crowdfunding": 203,
-      "news": 971,
-      "startups": 8,
       "investments": 815
     }
   }
