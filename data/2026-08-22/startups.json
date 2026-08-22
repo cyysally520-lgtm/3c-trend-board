@@ -1,7 +1,7 @@
 {
-  "date": "2026-07-23",
+  "date": "2026-08-22",
   "kind": "startups",
-  "count": 9,
+  "count": 11,
   "items": [
     {
       "id": "yc-anoria",
@@ -10,14 +10,16 @@
       "name_zh": "ANORIA",
       "intro": "The first wearable that reads your emotions to enhance your EQ. ",
       "intro_zh": [
-        "The first wearable that reads your emotions to enhance your EQ. "
+        "情绪识别穿戴，情商增强",
+        "智能硬件销售，数据增值",
+        "个人情商管理方案"
       ],
       "founders": "Unknown",
       "team_size": "5",
       "location": "San Francisco, USA",
       "batch": "Spring 2026",
       "url": "https://www.anoria.com",
-      "scrapedAt": "2026-07-23T02:28:05.616Z"
+      "scrapedAt": "2026-08-22T01:03:02.782Z"
     },
     {
       "id": "yc-fort",
@@ -26,14 +28,14 @@
       "name_zh": "Fort",
       "intro": "Strength Tracking Wearable",
       "intro_zh": [
-        "Strength Tracking Wearable"
+        "力量训练追踪"
       ],
       "founders": "Unknown",
-      "team_size": "3",
+      "team_size": "4",
       "location": "San Francisco, USA",
       "batch": "Winter 2026",
       "url": "https://fort.cx",
-      "scrapedAt": "2026-07-23T02:28:05.616Z"
+      "scrapedAt": "2026-08-22T01:03:02.782Z"
     },
     {
       "id": "yc-tornyol",
@@ -49,7 +51,7 @@
       "location": "Paris, France",
       "batch": "Fall 2025",
       "url": "https://tornyol.com/",
-      "scrapedAt": "2026-07-23T02:28:05.616Z"
+      "scrapedAt": "2026-08-22T01:03:02.782Z"
     },
     {
       "id": "yc-vassar-robotics",
@@ -65,7 +67,7 @@
       "location": "Los Angeles, USA",
       "batch": "Spring 2025",
       "url": "https://www.vassarrobotics.com",
-      "scrapedAt": "2026-07-23T02:28:05.616Z"
+      "scrapedAt": "2026-08-22T01:03:02.782Z"
     },
     {
       "id": "yc-pickle-2",
@@ -81,7 +83,7 @@
       "location": "San Francisco, USA",
       "batch": "Winter 2025",
       "url": "https://www.pickle.com",
-      "scrapedAt": "2026-07-23T02:28:05.616Z"
+      "scrapedAt": "2026-08-22T01:03:02.782Z"
     },
     {
       "id": "yc-innate",
@@ -97,7 +99,7 @@
       "location": "San Francisco, USA",
       "batch": "Fall 2024",
       "url": "https://innate.bot",
-      "scrapedAt": "2026-07-23T02:28:05.616Z"
+      "scrapedAt": "2026-08-22T01:03:02.782Z"
     },
     {
       "id": "yc-k-scale-labs",
@@ -106,14 +108,16 @@
       "name_zh": "K-Scale Labs",
       "intro": "Open-source humanoid robots",
       "intro_zh": [
-        "Open-source humanoid robots"
+        "开源人形机器人平台",
+        "硬件销售与生态构建",
+        "赋能机器人研发创新"
       ],
       "founders": "Unknown",
       "team_size": "10",
       "location": "San Francisco, USA",
       "batch": "Winter 2024",
       "url": "https://kscale.dev/",
-      "scrapedAt": "2026-07-23T02:28:05.616Z"
+      "scrapedAt": "2026-08-22T01:03:02.782Z"
     },
     {
       "id": "yc-tuesday-labs",
@@ -129,7 +133,7 @@
       "location": "New York City, USA",
       "batch": "Winter 2024",
       "url": "https://www.tuesdaylabs.com",
-      "scrapedAt": "2026-07-23T02:28:05.616Z"
+      "scrapedAt": "2026-08-22T01:03:02.782Z"
     },
     {
       "id": "yc-ed1th",
@@ -138,14 +142,50 @@
       "name_zh": "ED1TH",
       "intro": "Jarvis IRL",
       "intro_zh": [
-        "Jarvis IRL"
+        "具身智能AI，全能助理",
+        "AI订阅服务，生态集成",
+        "未来智能生活核心"
       ],
       "founders": "Unknown",
       "team_size": "1",
       "location": "San Francisco, USA",
       "batch": "Spring 2026",
       "url": "https://www.ed1th.com",
-      "scrapedAt": "2026-07-23T02:28:05.616Z"
+      "scrapedAt": "2026-08-22T01:03:02.782Z"
+    },
+    {
+      "id": "yc-mirabelle",
+      "source": "Y Combinator",
+      "name": "Mirabelle",
+      "name_zh": "Mirabelle",
+      "intro": "Your robot chef",
+      "intro_zh": [
+        "Your robot chef"
+      ],
+      "founders": "Unknown",
+      "team_size": "2",
+      "location": "Paris, France",
+      "batch": "Winter 2026",
+      "url": "https://meetmirabelle.com",
+      "scrapedAt": "2026-08-22T01:03:02.782Z"
+    },
+    {
+      "id": "yc-antimattr",
+      "source": "Y Combinator",
+      "name": "antimattr",
+      "name_zh": "antimattr",
+      "intro": "voice-first hardware interface for human-agent interaction",
+      "intro_zh": [
+        "语音优先硬件，人机交互",
+        "智能硬件销售，服务",
+        "智能代理交互入口"
+      ],
+      "founders": "Unknown",
+      "team_size": "2",
+      "location": "San Francisco, USA",
+      "batch": "Fall 2026",
+      "url": "https://antimattr.one/",
+      "scrapedAt": "2026-08-22T01:03:02.782Z"
     }
   ]
 }
