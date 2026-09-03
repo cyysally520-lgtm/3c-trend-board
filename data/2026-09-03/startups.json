@@ -1,7 +1,7 @@
 {
-  "date": "2026-08-04",
+  "date": "2026-09-03",
   "kind": "startups",
-  "count": 10,
+  "count": 12,
   "items": [
     {
       "id": "yc-anoria",
@@ -17,7 +17,7 @@
       "location": "San Francisco, USA",
       "batch": "Spring 2026",
       "url": "https://www.anoria.com",
-      "scrapedAt": "2026-08-04T02:09:44.523Z"
+      "scrapedAt": "2026-09-03T02:47:09.792Z"
     },
     {
       "id": "yc-fort",
@@ -29,11 +29,11 @@
         "Strength Tracking Wearable"
       ],
       "founders": "Unknown",
-      "team_size": "3",
+      "team_size": "4",
       "location": "San Francisco, USA",
       "batch": "Winter 2026",
       "url": "https://fort.cx",
-      "scrapedAt": "2026-08-04T02:09:44.523Z"
+      "scrapedAt": "2026-09-03T02:47:09.792Z"
     },
     {
       "id": "yc-tornyol",
@@ -49,7 +49,7 @@
       "location": "Paris, France",
       "batch": "Fall 2025",
       "url": "https://tornyol.com/",
-      "scrapedAt": "2026-08-04T02:09:44.523Z"
+      "scrapedAt": "2026-09-03T02:47:09.792Z"
     },
     {
       "id": "yc-vassar-robotics",
@@ -65,7 +65,7 @@
       "location": "Los Angeles, USA",
       "batch": "Spring 2025",
       "url": "https://www.vassarrobotics.com",
-      "scrapedAt": "2026-08-04T02:09:44.523Z"
+      "scrapedAt": "2026-09-03T02:47:09.792Z"
     },
     {
       "id": "yc-pickle-2",
@@ -81,7 +81,7 @@
       "location": "San Francisco, USA",
       "batch": "Winter 2025",
       "url": "https://www.pickle.com",
-      "scrapedAt": "2026-08-04T02:09:44.523Z"
+      "scrapedAt": "2026-09-03T02:47:09.792Z"
     },
     {
       "id": "yc-innate",
@@ -97,7 +97,7 @@
       "location": "San Francisco, USA",
       "batch": "Fall 2024",
       "url": "https://innate.bot",
-      "scrapedAt": "2026-08-04T02:09:44.523Z"
+      "scrapedAt": "2026-09-03T02:47:09.792Z"
     },
     {
       "id": "yc-k-scale-labs",
@@ -113,7 +113,7 @@
       "location": "San Francisco, USA",
       "batch": "Winter 2024",
       "url": "https://kscale.dev/",
-      "scrapedAt": "2026-08-04T02:09:44.523Z"
+      "scrapedAt": "2026-09-03T02:47:09.792Z"
     },
     {
       "id": "yc-tuesday-labs",
@@ -129,7 +129,7 @@
       "location": "New York City, USA",
       "batch": "Winter 2024",
       "url": "https://www.tuesdaylabs.com",
-      "scrapedAt": "2026-08-04T02:09:44.523Z"
+      "scrapedAt": "2026-09-03T02:47:09.792Z"
     },
     {
       "id": "yc-ed1th",
@@ -145,7 +145,7 @@
       "location": "San Francisco, USA",
       "batch": "Spring 2026",
       "url": "https://www.ed1th.com",
-      "scrapedAt": "2026-08-04T02:09:44.523Z"
+      "scrapedAt": "2026-09-03T02:47:09.792Z"
     },
     {
       "id": "yc-mirabelle",
@@ -161,7 +161,39 @@
       "location": "Paris, France",
       "batch": "Winter 2026",
       "url": "https://meetmirabelle.com",
-      "scrapedAt": "2026-08-04T02:09:44.523Z"
+      "scrapedAt": "2026-09-03T02:47:09.792Z"
+    },
+    {
+      "id": "yc-antimattr",
+      "source": "Y Combinator",
+      "name": "antimattr",
+      "name_zh": "antimattr",
+      "intro": "voice-first hardware interface for human-agent interaction",
+      "intro_zh": [
+        "voice-first hardware interface for human-agent interaction"
+      ],
+      "founders": "Unknown",
+      "team_size": "2",
+      "location": "San Francisco, USA",
+      "batch": "Fall 2026",
+      "url": "https://antimattr.one/",
+      "scrapedAt": "2026-09-03T02:47:09.792Z"
+    },
+    {
+      "id": "yc-the-subvocal-company",
+      "source": "Y Combinator",
+      "name": "The Subvocal Company",
+      "name_zh": "The Subvocal Company",
+      "intro": "Talk to your computer without talking",
+      "intro_zh": [
+        "Talk to your computer without talking"
+      ],
+      "founders": "Unknown",
+      "team_size": "3",
+      "location": "San Francisco, USA",
+      "batch": "Fall 2026",
+      "url": "https://subvocal.company",
+      "scrapedAt": "2026-09-03T02:47:09.792Z"
     }
   ]
 }
