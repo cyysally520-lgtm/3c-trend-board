@@ -1,7 +1,7 @@
 {
-  "date": "2026-09-10",
+  "date": "2026-09-11",
   "kind": "crowdfunding",
-  "count": 399,
+  "count": 402,
   "items": [
     {
       "id": "cs-micimike-rev-devices-micimike-home-mini-drop-in-pcb",
@@ -176,7 +176,7 @@
       "platform": "Crowd Supply",
       "image": "https://www.crowdsupply.com/img/3d7b/fb49004e-bc91-4601-a2bd-b3ef5d2f3d7b_aa-md.jpg",
       "name": "Solder Ninja Pen",
-      "name_zh": "Solder Ninja Pen",
+      "name_zh": "忍者焊笔",
       "founder": "local company",
       "location": "the Press",
       "raised": 39699,
@@ -190,7 +190,7 @@
       "summary_zh": [
         "A 45 W USB-powered soldering iron compatible with Weller RT Micro tips"
       ],
-      "scrapedAt": "2026-09-10T02:51:03.831Z"
+      "scrapedAt": "2026-09-11T02:44:58.527Z"
     },
     {
       "id": "cs-aerio-solutions-usb-insight-hub",
@@ -295,7 +295,7 @@
       "summary_zh": [
         "A full-featured LiFePO4 battery, power manager, and UPS for the Raspberry Pi"
       ],
-      "scrapedAt": "2026-09-10T02:51:03.831Z"
+      "scrapedAt": "2026-09-11T02:44:58.528Z"
     },
     {
       "id": "cs-techxartisan-openterface-mini-kvm",
@@ -323,7 +323,7 @@
       "platform": "Crowd Supply",
       "image": "https://www.crowdsupply.com/img/e516/cb13c54e-2f6a-46fe-9c52-b5bacb68e516_aa-md.jpg",
       "name": "MNT Pocket Reform",
-      "name_zh": "MNT Pocket Reform",
+      "name_zh": "MNT 口袋改革",
       "founder": "MNT Research",
       "location": "Berlin, Germany",
       "raised": 632984,
@@ -337,7 +337,7 @@
       "summary_zh": [
         "A newer, smaller, lighter, more-affordable, seven-inch mini Reform laptop that remains fully open source"
       ],
-      "scrapedAt": "2026-09-10T02:51:03.830Z"
+      "scrapedAt": "2026-09-11T02:44:58.526Z"
     },
     {
       "id": "cs-securinghw-tigard",
@@ -365,7 +365,7 @@
       "platform": "Crowd Supply",
       "image": "https://www.crowdsupply.com/img/664a/eeb4a6bf-e844-4f20-9ef9-cda676b8664a_aa-md.jpg",
       "name": "ChipWhisperer-Husky",
-      "name_zh": "ChipWhisperer-Husky",
+      "name_zh": "芯片耳语者-哈士奇",
       "founder": "us and subject to our quality-assurance process. This approach has allowed us to grow the company while keeping the educational tutorials and critical design pieces (such as the FPGA and firmware code) fully open source.",
       "location": "the more expensive ChipWhisperer-Pro and supports the same innovative \"synchronous sampling\" technology that underpins our ChipWhisperer capture architecture, which allows you to analyze devices well beyond what its low cost would suggest",
       "raised": 538055,
@@ -379,7 +379,7 @@
       "summary_zh": [
         "The power-analysis and fault-injection tool you can hold in your paw"
       ],
-      "scrapedAt": "2026-09-10T02:51:03.832Z"
+      "scrapedAt": "2026-09-11T02:44:58.529Z"
     },
     {
       "id": "mk-s111pro",
@@ -4931,42 +4931,42 @@
       "platform": "Crowd Supply",
       "image": "https://www.crowdsupply.com/img/99d2/ddf5c464-69fe-43ef-82aa-afc35c5b99d2_aa-md.jpg",
       "name": "MNT Reform Next",
-      "name_zh": "MNT Reform Next",
+      "name_zh": "MNT 改革新版",
       "founder": "our partner FKcaps.",
       "location": "Berlin",
-      "raised": 572173,
+      "raised": 573922,
       "currency": "USD",
       "currencySymbol": "$",
-      "progress_pct": 572,
-      "backers": 366,
+      "progress_pct": 573,
+      "backers": 367,
       "price": "$1,249",
       "campaign_url": "https://www.crowdsupply.com/mnt/mnt-reform-next",
       "category_tag_zh": "#硬件",
       "summary_zh": [
         "A new 12.5\" open hardware laptop that is future-proof, modular, and highly performant"
       ],
-      "scrapedAt": "2026-09-10T02:51:03.830Z"
+      "scrapedAt": "2026-09-11T02:44:58.526Z"
     },
     {
       "id": "cs-oddly-specific-objects-sensor-watch-pro",
       "platform": "Crowd Supply",
       "image": "https://www.crowdsupply.com/img/eb8f/cae77d82-25a4-402e-a6a4-5f8922faeb8f_aa-md.jpg",
       "name": "Sensor Watch Pro",
-      "name_zh": "Sensor Watch Pro",
+      "name_zh": "专业传感器手表",
       "founder": "Oddly Specific Objects",
       "location": "Brooklyn, NY, USA",
-      "raised": 166921,
+      "raised": 167095,
       "currency": "USD",
       "currencySymbol": "$",
-      "progress_pct": 476,
-      "backers": 1869,
+      "progress_pct": 477,
+      "backers": 1870,
       "price": "$59",
       "campaign_url": "https://www.crowdsupply.com/oddly-specific-objects/sensor-watch-pro",
       "category_tag_zh": "#硬件",
       "summary_zh": [
         "A more hackable ARM Cortex M0+ brain upgrade for Casio's iconic F-91W"
       ],
-      "scrapedAt": "2026-09-10T02:51:03.831Z"
+      "scrapedAt": "2026-09-11T02:44:58.528Z"
     },
     {
       "id": "cs-oddly-specific-objects-sensor-watch",
@@ -5371,7 +5371,7 @@
       "name_zh": "Unknown",
       "founder": "Vintage Visual & Arno Peever",
       "location": "Unknown",
-      "raised": 97769,
+      "raised": 104273,
       "currency": "EUR",
       "currencySymbol": "€",
       "progress_pct": 100,
@@ -5379,8 +5379,12 @@
       "price": "$62.25",
       "campaign_url": "https://www.indiegogo.com/en/projects/arnopeever/frank-film-processor-motion-picture-film-development-made-easy",
       "category_tag_zh": "#科技",
-      "summary_zh": [],
-      "scrapedAt": "2026-09-10T02:52:00.998Z"
+      "summary_zh": [
+        "用户社群活跃度分析",
+        "技术实现难度与风险",
+        "资金使用效率评估"
+      ],
+      "scrapedAt": "2026-09-11T02:46:52.652Z"
     },
     {
       "id": "igo-istvan-szotyori-flower-of-life-tarot-elet-viraga-tarot",
@@ -5830,21 +5834,21 @@
       "platform": "Crowd Supply",
       "image": "https://www.crowdsupply.com/img/d906/37f85945-923f-4847-9806-63e14aded906_aa-md.jpg",
       "name": "GB-Link USB V2",
-      "name_zh": "GB-Link USB V2",
+      "name_zh": "GB-Link USB二代",
       "founder": "GB-Link",
       "location": "Gainesville, Florida",
-      "raised": 35409,
+      "raised": 35634,
       "currency": "USD",
       "currencySymbol": "$",
-      "progress_pct": 1770,
-      "backers": 373,
+      "progress_pct": 1781,
+      "backers": 378,
       "price": "$45",
       "campaign_url": "https://www.crowdsupply.com/gblink/gblink-usb-v2",
       "category_tag_zh": "#硬件",
       "summary_zh": [
         "A USB-to-Game-Boy Link adapter that brings retro multiplayer online through your browser"
       ],
-      "scrapedAt": "2026-09-10T02:51:03.828Z"
+      "scrapedAt": "2026-09-11T02:44:58.524Z"
     },
     {
       "id": "igo-projectoasis-projectoasis",
@@ -5977,7 +5981,7 @@
       "platform": "Crowd Supply",
       "image": "https://www.crowdsupply.com/img/4944/87f2abdc-f041-4d4f-958c-11d447924944_aa-md.jpg",
       "name": "wafer.space GF180MCU Run 3",
-      "name_zh": "wafer.space GF180MCU Run 3",
+      "name_zh": "GF180MCU 三期",
       "founder": "wafer.space",
       "location": "Singapore",
       "raised": 100500,
@@ -5991,7 +5995,7 @@
       "summary_zh": [
         "Fabricate 1,000 chips of your own design"
       ],
-      "scrapedAt": "2026-09-10T02:51:03.829Z"
+      "scrapedAt": "2026-09-11T02:44:58.524Z"
     },
     {
       "id": "mk-ivycablep6",
@@ -6443,16 +6447,16 @@
       "name_zh": "Unknown",
       "founder": "HOVERAir",
       "location": "Pricing, Ships",
-      "raised": 3118348,
+      "raised": 3107869,
       "currency": "USD",
       "currencySymbol": "$",
       "progress_pct": 100,
-      "backers": 1800,
+      "backers": 1900,
       "price": "$30",
       "campaign_url": "https://www.indiegogo.com/en/projects/hoverair/versa-this-pocket-camera-can-fly",
       "category_tag_zh": "#科技",
       "summary_zh": [],
-      "scrapedAt": "2026-09-10T02:52:00.998Z"
+      "scrapedAt": "2026-09-11T02:46:52.652Z"
     },
     {
       "id": "igo-litefar-b1_electric_beach_wagon",
@@ -6462,16 +6466,16 @@
       "name_zh": "Unknown",
       "founder": "LITEFAR",
       "location": "Handle, Lumi",
-      "raised": 1235463,
+      "raised": 1261879,
       "currency": "USD",
       "currencySymbol": "$",
       "progress_pct": 100,
-      "backers": 76821,
+      "backers": 76922,
       "price": "$1173.50",
       "campaign_url": "https://www.indiegogo.com/en/projects/litefar/b1_electric_beach_wagon",
       "category_tag_zh": "#科技",
       "summary_zh": [],
-      "scrapedAt": "2026-09-10T02:52:00.998Z"
+      "scrapedAt": "2026-09-11T02:46:52.652Z"
     },
     {
       "id": "igo-third-coast-comedy-our-next-act",
@@ -6857,10 +6861,10 @@
       "platform": "Crowd Supply",
       "image": "https://www.crowdsupply.com/img/46e0/5e4cb420-ec6d-449a-89f2-4e8c1e1846e0_aa-md.jpg",
       "name": "Patternflow",
-      "name_zh": "Patternflow",
+      "name_zh": "模式流控",
       "founder": "engmung",
       "location": "Seoul, South Korea",
-      "raised": 6994,
+      "raised": 7532,
       "currency": "USD",
       "currencySymbol": "$",
       "progress_pct": 100,
@@ -6871,7 +6875,7 @@
       "summary_zh": [
         "An Open-Source LED Synthesizer. Play Light With Your Fingertips."
       ],
-      "scrapedAt": "2026-09-10T02:51:03.827Z"
+      "scrapedAt": "2026-09-11T02:44:58.522Z"
     },
     {
       "id": "mk-stromberg-twin-2",
@@ -6927,7 +6931,7 @@
       "name_zh": "Unknown",
       "founder": "QCG",
       "location": "Anytime, Anywhere",
-      "raised": 39025,
+      "raised": 40015,
       "currency": "USD",
       "currencySymbol": "$",
       "progress_pct": 100,
@@ -6935,8 +6939,12 @@
       "price": "$82.50",
       "campaign_url": "https://www.indiegogo.com/en/projects/1052rick/computer-coin-grading-machine",
       "category_tag_zh": "#科技",
-      "summary_zh": [],
-      "scrapedAt": "2026-09-10T02:52:00.998Z"
+      "summary_zh": [
+        "市场趋势与需求契合",
+        "团队执行力与经验",
+        "长期发展潜力分析"
+      ],
+      "scrapedAt": "2026-09-11T02:46:52.652Z"
     },
     {
       "id": "igo-the-tomorrow-co-ranch-friends_and_family",
@@ -7035,10 +7043,10 @@
       "platform": "Crowd Supply",
       "image": "https://www.crowdsupply.com/img/837c/54b53322-0d50-4afa-80cf-3256a29f837c_aa-md.jpg",
       "name": "MNT Station",
-      "name_zh": "MNT Station",
+      "name_zh": "MNT 工作站",
       "founder": "MNT Research",
       "location": "Berlin, Germany",
-      "raised": 13284,
+      "raised": 13802,
       "currency": "USD",
       "currencySymbol": "$",
       "progress_pct": 100,
@@ -7049,28 +7057,28 @@
       "summary_zh": [
         "A modular, open hardware desktop computer and server"
       ],
-      "scrapedAt": "2026-09-10T02:51:03.829Z"
+      "scrapedAt": "2026-09-11T02:44:58.525Z"
     },
     {
       "id": "cs-techxartisan-openterface-keymod",
       "platform": "Crowd Supply",
       "image": "https://www.crowdsupply.com/img/a60d/367a85c7-12ee-4449-aaed-c1d3525ca60d_aa-md.jpg",
       "name": "Openterface KeyMod",
-      "name_zh": "Openterface KeyMod",
+      "name_zh": "开放接口KeyMod",
       "founder": "TechxArtisan",
       "location": "Hong Kong",
-      "raised": 33564,
+      "raised": 33732,
       "currency": "USD",
       "currencySymbol": "$",
-      "progress_pct": 223,
-      "backers": 321,
+      "progress_pct": 224,
+      "backers": 323,
       "price": "$42",
       "campaign_url": "https://www.crowdsupply.com/techxartisan/openterface-keymod",
       "category_tag_zh": "#硬件",
       "summary_zh": [
         "Pocket USB multi-tool bridge for tech, professionals, and gaming"
       ],
-      "scrapedAt": "2026-09-10T02:51:03.828Z"
+      "scrapedAt": "2026-09-11T02:44:58.523Z"
     },
     {
       "id": "cs-everypin-pwrblock-323",
@@ -7218,16 +7226,16 @@
       "name_zh": "Unknown",
       "founder": "Phosgo",
       "location": "Reward, Frame",
-      "raised": 333632,
+      "raised": 340908,
       "currency": "USD",
       "currencySymbol": "$",
       "progress_pct": 100,
-      "backers": 27414,
+      "backers": 27714,
       "price": "$633",
       "campaign_url": "https://www.indiegogo.com/en/projects/phosgo/phosgo-go5-ultra---worlds-first-solar-e-bike",
       "category_tag_zh": "#科技",
       "summary_zh": [],
-      "scrapedAt": "2026-09-10T02:52:00.998Z"
+      "scrapedAt": "2026-09-11T02:46:52.652Z"
     },
     {
       "id": "igo-thecre8tives-damnthatscrazy",
@@ -7610,19 +7618,23 @@
       "platform": "Makuake",
       "image": "https://static.makuake.com/upload/project/53298/main_53298.jpg?version=1788246804&width=320&height=180&optimize=high",
       "name": "LGから新ジャンル。テレビでもタブレットでもない持ち運べる４K大画面ディスプレイ",
-      "name_zh": "LGから新ジャンル。テレビでもタブレットでもない持ち運べる４K大画面ディスプレイ",
+      "name_zh": "便携4K大屏显示器",
       "founder": "Unknown",
       "location": "Japan",
-      "raised": 353428005,
+      "raised": 357862004,
       "currency": "JPY",
       "currencySymbol": "￥",
-      "progress_pct": 3534,
+      "progress_pct": 3578,
       "backers": 0,
-      "price": "￥353,428,005",
+      "price": "￥357,862,004",
       "campaign_url": "https://www.makuake.com/project/lg_stanbyme",
       "category_tag_zh": "#科技",
-      "summary_zh": [],
-      "scrapedAt": "2026-09-10T02:53:02.507Z"
+      "summary_zh": [
+        "MagSafe磁吸快速安装",
+        "单手一秒快速拆装",
+        "瞬时捕捉精彩瞬间"
+      ],
+      "scrapedAt": "2026-09-11T02:45:56.756Z"
     },
     {
       "id": "mk-quick-pack-draft-tote",
@@ -7707,38 +7719,46 @@
       "platform": "Makuake",
       "image": "https://static.makuake.com/upload/project/53223/main_53223.jpg?version=1787144713&width=320&height=180&optimize=high",
       "name": "削る・彫る・磨く・穴あけを1台で。16通りのカラーから選べる日本製ミニルーター",
-      "name_zh": "削る・彫る・磨く・穴あけを1台で。16通りのカラーから選べる日本製ミニルーター",
+      "name_zh": "多功能迷你雕刻机",
       "founder": "Unknown",
       "location": "Japan",
-      "raised": 41934004,
+      "raised": 42169004,
       "currency": "JPY",
       "currencySymbol": "￥",
-      "progress_pct": 4193,
+      "progress_pct": 4216,
       "backers": 0,
-      "price": "￥41,934,004",
+      "price": "￥42,169,004",
       "campaign_url": "https://www.makuake.com/project/toiro-kisopowertool",
       "category_tag_zh": "#科技",
-      "summary_zh": [],
-      "scrapedAt": "2026-09-10T02:53:02.507Z"
+      "summary_zh": [
+        "大小鼠标合二为一",
+        "智能适应办公场景",
+        "模式切换便捷高效"
+      ],
+      "scrapedAt": "2026-09-11T02:45:56.756Z"
     },
     {
       "id": "mk-packmag-s1",
       "platform": "Makuake",
       "image": "https://static.makuake.com/upload/project/53304/main_53304.jpg?version=1787552988&width=320&height=180&optimize=high",
       "name": "【瞬時に撮る】片手で1秒着脱! MagSafeスマホマウントPackMag S1",
-      "name_zh": "【瞬時に撮る】片手で1秒着脱! MagSafeスマホマウントPackMag S1",
+      "name_zh": "MagSafe手机快拆座",
       "founder": "Unknown",
       "location": "Japan",
-      "raised": 37668161,
+      "raised": 40145391,
       "currency": "JPY",
       "currencySymbol": "￥",
-      "progress_pct": 1883,
+      "progress_pct": 2007,
       "backers": 0,
-      "price": "￥37,668,161",
+      "price": "￥40,145,391",
       "campaign_url": "https://www.makuake.com/project/packmag-s1",
       "category_tag_zh": "#科技",
-      "summary_zh": [],
-      "scrapedAt": "2026-09-10T02:53:02.507Z"
+      "summary_zh": [
+        "多功能一体迷你雕刻",
+        "打磨雕刻钻孔一体",
+        "日本制造品质保证"
+      ],
+      "scrapedAt": "2026-09-11T02:45:56.756Z"
     },
     {
       "id": "igo-gpdhk-gpd-win-max-3-handheld-gaming-laptop",
@@ -7746,18 +7766,22 @@
       "image": "https://cdn.images.indiegogo.com/projectimage/projects/442684/54401a1d-1a31-4c6c-a03d-df97ec36ade7.png",
       "name": "Unknown",
       "name_zh": "Unknown",
-      "founder": "Cloudflare",
+      "founder": "GPD HK",
       "location": "Unknown",
-      "raised": 5893485,
+      "raised": 5998405,
       "currency": "USD",
       "currencySymbol": "$",
       "progress_pct": 100,
       "backers": 1000,
-      "price": "",
+      "price": "$542",
       "campaign_url": "https://www.indiegogo.com/en/projects/gpdhk/gpd-win-max-3-handheld-gaming-laptop",
       "category_tag_zh": "#科技",
-      "summary_zh": [],
-      "scrapedAt": "2026-09-10T02:52:00.998Z"
+      "summary_zh": [
+        "LG创新便携显示",
+        "4K超高清便携巨幕",
+        "跨界融合新体验"
+      ],
+      "scrapedAt": "2026-09-11T02:46:52.652Z"
     },
     {
       "id": "igo-wanaichef-wan-aichef-ultra",
@@ -7771,12 +7795,16 @@
       "currency": "USD",
       "currencySymbol": "$",
       "progress_pct": 100,
-      "backers": 1462,
+      "backers": 1502,
       "price": "$449",
       "campaign_url": "https://www.indiegogo.com/en/projects/wanaichef/wan-aichef-ultra",
       "category_tag_zh": "#科技",
-      "summary_zh": [],
-      "scrapedAt": "2026-09-10T02:52:00.998Z"
+      "summary_zh": [
+        "潜在市场规模评估",
+        "供应链稳定性与成本",
+        "投资回报率预测"
+      ],
+      "scrapedAt": "2026-09-11T02:46:52.652Z"
     },
     {
       "id": "igo-sunrise-vista-media-sedgwickcounty",
@@ -7823,28 +7851,28 @@
       "platform": "Crowd Supply",
       "image": "https://www.crowdsupply.com/img/1635/a0e800ea-ff66-41a8-9313-e4f6fcf61635_aa-md.jpg",
       "name": "Firehat",
-      "name_zh": "Firehat",
+      "name_zh": "防火模块",
       "founder": "Computer Equipment Group",
       "location": "Cologne, Germany",
-      "raised": 15250,
+      "raised": 15408,
       "currency": "USD",
       "currencySymbol": "$",
-      "progress_pct": 203,
-      "backers": 117,
+      "progress_pct": 205,
+      "backers": 119,
       "price": "$79",
       "campaign_url": "https://www.crowdsupply.com/computer-equipment-group/firehat",
       "category_tag_zh": "#硬件",
       "summary_zh": [
         "A compact FireWire DV capture HAT for single-board computers"
       ],
-      "scrapedAt": "2026-09-10T02:51:03.829Z"
+      "scrapedAt": "2026-09-11T02:44:58.525Z"
     },
     {
       "id": "cs-dicekeys-dicekeys",
       "platform": "Crowd Supply",
       "image": "https://www.crowdsupply.com/img/b7b1/54771d9d-1879-4ce0-bd72-e3d3ff0eb7b1_aa-md.jpg",
       "name": "DiceKeys",
-      "name_zh": "DiceKeys",
+      "name_zh": "骰子密钥",
       "founder": "DiceKeys",
       "location": "Seoul, Korea",
       "raised": 101720,
@@ -7858,14 +7886,14 @@
       "summary_zh": [
         "Security keys you create by rolling dice"
       ],
-      "scrapedAt": "2026-09-10T02:51:03.831Z"
+      "scrapedAt": "2026-09-11T02:44:58.528Z"
     },
     {
       "id": "cs-second-bedroom-game-bub",
       "platform": "Crowd Supply",
       "image": "https://www.crowdsupply.com/img/0655/20dc7f7f-f790-47c4-94cb-1ce16c790655_aa-md.jpg",
       "name": "Game Bub",
-      "name_zh": "Game Bub",
+      "name_zh": "游戏泡泡",
       "founder": "Second Bedroom",
       "location": "Cambridge, MA",
       "raised": 287824,
@@ -7879,121 +7907,143 @@
       "summary_zh": [
         "An open-source FPGA retro-emulation handheld"
       ],
-      "scrapedAt": "2026-09-10T02:51:03.832Z"
+      "scrapedAt": "2026-09-11T02:44:58.529Z"
     },
     {
       "id": "igo-lumaid-technologies-inc-lumaid",
       "platform": "Indiegogo",
       "image": "https://cdn.images.indiegogo.com/projectimage/projects/442051/789d9209-caea-4657-acbe-2dba4dc799fa.png",
       "name": "Unknown",
-      "name_zh": "Unknown",
+      "name_zh": "未知产品",
       "founder": "LumaID Technologies, Inc.",
       "location": "Technologies, Inc",
       "raised": 13399,
       "currency": "USD",
       "currencySymbol": "$",
       "progress_pct": 100,
-      "backers": 21,
+      "backers": 22,
       "price": "$149.99",
       "campaign_url": "https://www.indiegogo.com/en/projects/lumaid-technologies-inc/lumaid",
       "category_tag_zh": "#科技",
-      "summary_zh": [],
-      "scrapedAt": "2026-09-10T02:52:00.998Z"
+      "summary_zh": [
+        "宏观经济环境影响",
+        "法律法规合规性",
+        "品牌影响力与口碑"
+      ],
+      "scrapedAt": "2026-09-11T02:46:52.652Z"
     },
     {
       "id": "mk-rp-pc1401",
       "platform": "Makuake",
       "image": "https://static.makuake.com/upload/project/53409/main_53409.png?version=1788169037&width=320&height=180&optimize=high",
       "name": "【PCもタブレットもOK】次世代SPR AVS対応 超小型60W急速充電器",
-      "name_zh": "超小型60",
+      "name_zh": "SPR AVS超小快充",
       "founder": "Unknown",
       "location": "Japan",
-      "raised": 8245607,
+      "raised": 8668007,
       "currency": "JPY",
       "currencySymbol": "￥",
-      "progress_pct": 274,
+      "progress_pct": 288,
       "backers": 0,
-      "price": "￥8,245,607",
+      "price": "￥8,668,007",
       "campaign_url": "https://www.makuake.com/project/rp-pc1401",
       "category_tag_zh": "#科技",
-      "summary_zh": [],
-      "scrapedAt": "2026-09-10T02:53:02.507Z"
+      "summary_zh": [
+        "超小型60W快充",
+        "多设备通用兼容",
+        "SPR AVS新标准"
+      ],
+      "scrapedAt": "2026-09-11T02:45:56.756Z"
     },
     {
       "id": "mk-cutting_knife_uc01",
       "platform": "Makuake",
       "image": "https://static.makuake.com/upload/project/53407/main_53407.jpg?version=1788142799&width=320&height=180&optimize=high",
       "name": "AI追従×強力冷却ファン！熱を抑えてサクサク切れるコードレス超音波カッター",
-      "name_zh": "AI追従×強力冷却ファン！熱を抑えてサクサク切れるコードレス超音波カッター",
+      "name_zh": "AI散热超声切割器",
       "founder": "Unknown",
       "location": "Japan",
-      "raised": 2997603,
+      "raised": 3497203,
       "currency": "JPY",
       "currencySymbol": "￥",
-      "progress_pct": 299,
+      "progress_pct": 349,
       "backers": 0,
-      "price": "￥2,997,603",
+      "price": "￥3,497,203",
       "campaign_url": "https://www.makuake.com/project/cutting_knife_uc01",
       "category_tag_zh": "#科技",
-      "summary_zh": [],
-      "scrapedAt": "2026-09-10T02:53:02.507Z"
+      "summary_zh": [
+        "以下是各众筹产品的AI解读要点："
+      ],
+      "scrapedAt": "2026-09-11T02:45:56.756Z"
     },
     {
       "id": "mk-sanwa-002",
       "platform": "Makuake",
       "image": "https://static.makuake.com/upload/project/53369/main_53369.png?version=1788484811&width=320&height=180&optimize=high",
       "name": "常用マウスと小型マウスを１つに！働く場所にマウスが合わせる2in1マウス",
-      "name_zh": "常用マウスと小型マウスを１つに！働く場所にマウスが合わせる2in1マウス",
+      "name_zh": "二合一变形鼠标",
       "founder": "Unknown",
       "location": "Japan",
-      "raised": 12039958,
+      "raised": 12994057,
       "currency": "JPY",
       "currencySymbol": "￥",
-      "progress_pct": 1203,
+      "progress_pct": 1299,
       "backers": 0,
-      "price": "￥12,039,958",
+      "price": "￥12,994,057",
       "campaign_url": "https://www.makuake.com/project/sanwa-002",
       "category_tag_zh": "#科技",
-      "summary_zh": [],
-      "scrapedAt": "2026-09-10T02:53:02.507Z"
+      "summary_zh": [
+        "AI智能追踪切割",
+        "强力散热高效稳定",
+        "无线便携超声切割"
+      ],
+      "scrapedAt": "2026-09-11T02:45:56.756Z"
     },
     {
       "id": "mk-musiccampro",
       "platform": "Makuake",
       "image": "https://static.makuake.com/upload/project/53428/main_53428.png?version=1788240993&width=320&height=180&optimize=high",
       "name": "見たままの世界を、耳で聴きながら記録する！次世代スマートウェアラブル。",
-      "name_zh": "智能视听记录器",
+      "name_zh": "视听记录穿戴",
       "founder": "Unknown",
       "location": "Japan",
-      "raised": 77365125,
+      "raised": 86665604,
       "currency": "JPY",
       "currencySymbol": "￥",
-      "progress_pct": 1547,
+      "progress_pct": 1733,
       "backers": 0,
-      "price": "￥77,365,125",
+      "price": "￥86,665,604",
       "campaign_url": "https://www.makuake.com/project/musiccampro",
       "category_tag_zh": "#科技",
-      "summary_zh": [],
-      "scrapedAt": "2026-09-10T02:53:02.507Z"
+      "summary_zh": [
+        "视听同步记录",
+        "解放双手体验",
+        "未来感穿戴设备"
+      ],
+      "scrapedAt": "2026-09-11T02:45:56.756Z"
     },
     {
       "id": "mk-auriviewx1",
       "platform": "Makuake",
       "image": "https://static.makuake.com/upload/project/53460/main_53460.jpg?version=1788418163&width=320&height=180&optimize=high",
       "name": "【ワンクリック起動】見たまま即録画！AIカメラ搭載骨伝導イヤホン｜翻訳と要約も",
-      "name_zh": "AI骨传导记录耳机",
+      "name_zh": "AI骨传导摄像耳机",
       "founder": "Unknown",
       "location": "Japan",
-      "raised": 6871305,
+      "raised": 7330904,
       "currency": "JPY",
       "currencySymbol": "￥",
-      "progress_pct": 687,
+      "progress_pct": 733,
       "backers": 0,
-      "price": "￥6,871,305",
+      "price": "￥7,330,904",
       "campaign_url": "https://www.makuake.com/project/auriviewx1",
       "category_tag_zh": "#科技",
-      "summary_zh": [],
-      "scrapedAt": "2026-09-10T02:53:02.507Z"
+      "summary_zh": [
+        "骨传导AI视听",
+        "即时录像翻译",
+        "智能信息摘要"
+      ],
+      "scrapedAt": "2026-09-11T02:45:56.756Z"
     },
     {
       "id": "igo-liming-overseas-technology-limited--mindmirror--ai-emotion-mirror-app",
@@ -8023,38 +8073,46 @@
       "platform": "Makuake",
       "image": "https://static.makuake.com/upload/project/53470/main_53470.png?version=1788488651&width=320&height=180&optimize=high",
       "name": "【スマホ充電が変わる】巻ける万能ケーブル最大100W◎AppleWatch+",
-      "name_zh": "卷绕多功能线",
+      "name_zh": "【スマホ充電が変わる】巻ける万能ケーブル最大100W◎AppleWatch+",
       "founder": "Unknown",
       "location": "Japan",
-      "raised": 6313701,
+      "raised": 7335301,
       "currency": "JPY",
       "currencySymbol": "￥",
-      "progress_pct": 1262,
+      "progress_pct": 1467,
       "backers": 0,
-      "price": "￥6,313,701",
+      "price": "￥7,335,301",
       "campaign_url": "https://www.makuake.com/project/sugoi36",
       "category_tag_zh": "#科技",
-      "summary_zh": [],
-      "scrapedAt": "2026-09-10T02:53:02.507Z"
+      "summary_zh": [
+        "100W多设备快充",
+        "创新卷绕设计",
+        "Apple Watch伴侣"
+      ],
+      "scrapedAt": "2026-09-11T02:45:56.756Z"
     },
     {
       "id": "mk-rodman-charger",
       "platform": "Makuake",
       "image": "https://static.makuake.com/upload/project/53501/main_53501.jpg?version=1788761007&width=320&height=180&optimize=high",
       "name": "バンドから直接チャージ！Apple Watch対応 ワイヤレス給電機能付きバンド",
-      "name_zh": "手表无线充电带",
+      "name_zh": "腕带无线充电器",
       "founder": "Unknown",
       "location": "Japan",
-      "raised": 2174681,
+      "raised": 2678221,
       "currency": "JPY",
       "currencySymbol": "￥",
-      "progress_pct": 72,
+      "progress_pct": 89,
       "backers": 0,
-      "price": "￥2,174,681",
+      "price": "￥2,678,221",
       "campaign_url": "https://www.makuake.com/project/rodman-charger",
       "category_tag_zh": "#科技",
-      "summary_zh": [],
-      "scrapedAt": "2026-09-10T02:53:02.507Z"
+      "summary_zh": [
+        "表带无线充电",
+        "延长续航无忧",
+        "Apple Watch专属"
+      ],
+      "scrapedAt": "2026-09-11T02:45:56.756Z"
     },
     {
       "id": "igo-stephanieyeager-new-album-survival",
@@ -8084,19 +8142,23 @@
       "platform": "Makuake",
       "image": "https://static.makuake.com/upload/project/53508/main_53508.png?version=1788772446&width=320&height=180&optimize=high",
       "name": "自然に目が合う!画面の相手とよりオフラインに近い感覚で繋がるWEBカメラ",
-      "name_zh": "眼神追踪摄像头",
+      "name_zh": "自然に目が合う!画面の相手とよりオフラインに近い感覚で繋がるWEBカメラ",
       "founder": "Unknown",
       "location": "Japan",
-      "raised": 980105,
+      "raised": 1524605,
       "currency": "JPY",
       "currencySymbol": "￥",
-      "progress_pct": 49,
+      "progress_pct": 76,
       "backers": 0,
-      "price": "￥980,105",
+      "price": "￥1,524,605",
       "campaign_url": "https://www.makuake.com/project/more-connection",
       "category_tag_zh": "#科技",
-      "summary_zh": [],
-      "scrapedAt": "2026-09-10T02:53:02.507Z"
+      "summary_zh": [
+        "模拟真实眼神",
+        "提升远程互动",
+        "沉浸式视频体验"
+      ],
+      "scrapedAt": "2026-09-11T02:45:56.756Z"
     },
     {
       "id": "igo-viaim-viaim-rise",
@@ -8106,16 +8168,16 @@
       "name_zh": "Unknown",
       "founder": "viaim",
       "location": "Android, Windows",
-      "raised": 13898,
+      "raised": 16446,
       "currency": "USD",
       "currencySymbol": "$",
       "progress_pct": 100,
-      "backers": 1475,
+      "backers": 1536,
       "price": "$86.33",
       "campaign_url": "https://www.indiegogo.com/en/projects/viaim/viaim-rise",
       "category_tag_zh": "#科技",
       "summary_zh": [],
-      "scrapedAt": "2026-09-10T02:52:00.998Z"
+      "scrapedAt": "2026-09-11T02:46:52.652Z"
     },
     {
       "id": "igo-lattice-homes-glamping",
@@ -8125,16 +8187,20 @@
       "name_zh": "Unknown",
       "founder": "Lattice Homes",
       "location": "Unknown",
-      "raised": 13587,
+      "raised": 11970,
       "currency": "USD",
       "currencySymbol": "$",
       "progress_pct": 100,
-      "backers": 19,
-      "price": "$1,495",
+      "backers": 20,
+      "price": "$950",
       "campaign_url": "https://www.indiegogo.com/en/projects/lattice-homes/glamping",
       "category_tag_zh": "#科技",
-      "summary_zh": [],
-      "scrapedAt": "2026-09-10T02:52:00.998Z"
+      "summary_zh": [
+        "市场潜力与用户匹配度",
+        "项目可行性与交付风险",
+        "成功率预测与风险评估"
+      ],
+      "scrapedAt": "2026-09-11T02:46:52.652Z"
     },
     {
       "id": "ks-1293510277-pexarbolt-the-thunderbolt-5-dock-that-shows-your-workflow?ref=discover_saved_projects&category_id=52",
@@ -8288,38 +8354,46 @@
       "platform": "Makuake",
       "image": "https://static.makuake.com/upload/project/53473/main_53473.png?version=1788484804&width=320&height=180&optimize=high",
       "name": "見える化で変わる、耳ケアの新常識。スクリーン付きスマート耳かき「A07」",
-      "name_zh": "智能可视采耳器",
+      "name_zh": "見える化で変わる、耳ケアの新常識。スクリーン付きスマート耳かき「A07」",
       "founder": "Unknown",
       "location": "Japan",
-      "raised": 1872005,
+      "raised": 10444004,
       "currency": "JPY",
       "currencySymbol": "￥",
-      "progress_pct": 93,
+      "progress_pct": 522,
       "backers": 0,
-      "price": "￥1,872,005",
+      "price": "￥10,444,004",
       "campaign_url": "https://www.makuake.com/project/a07",
       "category_tag_zh": "#科技",
-      "summary_zh": [],
-      "scrapedAt": "2026-09-10T02:53:02.507Z"
+      "summary_zh": [
+        "可视精准洁耳",
+        "智能耳道护理",
+        "革新清洁体验"
+      ],
+      "scrapedAt": "2026-09-11T02:45:56.756Z"
     },
     {
       "id": "mk-smartlet",
       "platform": "Makuake",
       "image": "https://static.makuake.com/upload/project/53347/main_53347.png?version=1788828709&width=320&height=180&optimize=high",
       "name": "【見た目と機能を両立！】愛用時計を通知・健康ログ・決済と同時に使えるブレスレット",
-      "name_zh": "腕表智能伴侣",
+      "name_zh": "【見た目と機能を両立！】愛用時計を通知・健康ログ・決済と同時に使えるブレスレット",
       "founder": "Unknown",
       "location": "Japan",
-      "raised": 6252005,
+      "raised": 12507504,
       "currency": "JPY",
       "currencySymbol": "￥",
-      "progress_pct": 208,
+      "progress_pct": 416,
       "backers": 0,
-      "price": "￥6,252,005",
+      "price": "￥12,507,504",
       "campaign_url": "https://www.makuake.com/project/smartlet",
       "category_tag_zh": "#科技",
-      "summary_zh": [],
-      "scrapedAt": "2026-09-10T02:53:02.507Z"
+      "summary_zh": [
+        "腕上智能助理",
+        "健康支付一体",
+        "融合传统美学"
+      ],
+      "scrapedAt": "2026-09-11T02:45:56.756Z"
     },
     {
       "id": "igo-aleddra-lumibe-table-lamp",
@@ -8329,16 +8403,89 @@
       "name_zh": "Unknown",
       "founder": "Aleddra",
       "location": "Unknown",
-      "raised": 7772,
+      "raised": 9069,
       "currency": "USD",
       "currencySymbol": "$",
       "progress_pct": 100,
-      "backers": 131,
+      "backers": 141,
       "price": "$249",
       "campaign_url": "https://www.indiegogo.com/en/projects/aleddra/lumibe-table-lamp",
       "category_tag_zh": "#科技",
-      "summary_zh": [],
-      "scrapedAt": "2026-09-10T02:52:00.998Z"
+      "summary_zh": [
+        "目标用户画像分析",
+        "产品创新度与竞品优势",
+        "众筹策略与传播效果"
+      ],
+      "scrapedAt": "2026-09-11T02:46:52.652Z"
+    },
+    {
+      "id": "mk-sigafy",
+      "platform": "Makuake",
+      "image": "https://static.makuake.com/upload/project/53433/main_53433.png?version=1789016253&width=320&height=180&optimize=high",
+      "name": "クルマ時間をもっと自由に！移動も待ち時間も快適な車載Wi-Fiルーター",
+      "name_zh": "クルマ時間をもっと自由に！移動も待ち時間も快適な車載Wi-Fiルーター",
+      "founder": "Unknown",
+      "location": "Japan",
+      "raised": 3526386,
+      "currency": "JPY",
+      "currencySymbol": "￥",
+      "progress_pct": 352,
+      "backers": 0,
+      "price": "￥3,526,386",
+      "campaign_url": "https://www.makuake.com/project/sigafy",
+      "category_tag_zh": "#科技",
+      "summary_zh": [
+        "车内高速互联",
+        "移动办公娱乐",
+        "告别流量焦虑"
+      ],
+      "scrapedAt": "2026-09-11T02:45:56.756Z"
+    },
+    {
+      "id": "mk-cio-madeinjapan",
+      "platform": "Makuake",
+      "image": "https://static.makuake.com/upload/project/53550/main_53550.jpg?version=1788937350&width=320&height=180&optimize=high",
+      "name": "【日本でつくる。】充電を自分好みに変える65W充電器 NovaPort3",
+      "name_zh": "【日本でつくる。】充電を自分好みに変える65W充電器 NovaPort3",
+      "founder": "Unknown",
+      "location": "Japan",
+      "raised": 231330407,
+      "currency": "JPY",
+      "currencySymbol": "￥",
+      "progress_pct": 7711,
+      "backers": 0,
+      "price": "￥231,330,407",
+      "campaign_url": "https://www.makuake.com/project/cio-madeinjapan",
+      "category_tag_zh": "#科技",
+      "summary_zh": [
+        "65W高效快充",
+        "智能定制充电",
+        "日系品质保障"
+      ],
+      "scrapedAt": "2026-09-11T02:45:56.756Z"
+    },
+    {
+      "id": "igo-zone-5-films-llc-discoface",
+      "platform": "Indiegogo",
+      "image": "https://cdn.images.indiegogo.com/projectimage/projects/439022/1a692961-722b-4884-9f8f-346fcbb934d9.jpeg",
+      "name": "Unknown",
+      "name_zh": "Unknown",
+      "founder": "Zone 5 Films LLC",
+      "location": "Pietromonaco, Christmas",
+      "raised": 1665,
+      "currency": "USD",
+      "currencySymbol": "$",
+      "progress_pct": 100,
+      "backers": 36,
+      "price": "$15",
+      "campaign_url": "https://www.indiegogo.com/en/projects/zone-5-films-llc/discoface",
+      "category_tag_zh": "#科技",
+      "summary_zh": [
+        "消费者情绪与反馈",
+        "商业模式可持续性",
+        "退出策略与风险规避"
+      ],
+      "scrapedAt": "2026-09-11T02:46:52.652Z"
     }
   ]
 }
