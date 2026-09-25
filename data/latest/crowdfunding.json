@@ -1,7 +1,7 @@
 {
-  "date": "2026-09-24",
+  "date": "2026-09-25",
   "kind": "crowdfunding",
-  "count": 429,
+  "count": 433,
   "items": [
     {
       "id": "cs-micimike-rev-devices-micimike-home-mini-drop-in-pcb",
@@ -6445,18 +6445,18 @@
       "image": "https://cdn.images.indiegogo.com/projectimage/projects/439027/18ac62f7-073d-4f67-97fb-2c230b5c4d02.png",
       "name": "Unknown",
       "name_zh": "Unknown",
-      "founder": "HOVERAir",
-      "location": "Pricing, Ships",
-      "raised": 3250970,
+      "founder": "Cloudflare",
+      "location": "Unknown",
+      "raised": 3262320,
       "currency": "USD",
       "currencySymbol": "$",
       "progress_pct": 100,
       "backers": 1900,
-      "price": "$143",
+      "price": "",
       "campaign_url": "https://www.indiegogo.com/en/projects/hoverair/versa-this-pocket-camera-can-fly",
       "category_tag_zh": "#科技",
       "summary_zh": [],
-      "scrapedAt": "2026-09-24T02:56:00.207Z"
+      "scrapedAt": "2026-09-25T03:12:31.930Z"
     },
     {
       "id": "igo-litefar-b1_electric_beach_wagon",
@@ -7226,16 +7226,16 @@
       "name_zh": "Unknown",
       "founder": "Phosgo",
       "location": "Reward, Frame",
-      "raised": 376640,
+      "raised": 378139,
       "currency": "USD",
       "currencySymbol": "$",
       "progress_pct": 100,
-      "backers": 30516,
+      "backers": 30816,
       "price": "$633",
       "campaign_url": "https://www.indiegogo.com/en/projects/phosgo/phosgo-go5-ultra---worlds-first-solar-e-bike",
       "category_tag_zh": "#科技",
       "summary_zh": [],
-      "scrapedAt": "2026-09-24T02:56:00.207Z"
+      "scrapedAt": "2026-09-25T03:12:31.930Z"
     },
     {
       "id": "igo-thecre8tives-damnthatscrazy",
@@ -7768,7 +7768,7 @@
       "name_zh": "Unknown",
       "founder": "GPD HK",
       "location": "Unknown",
-      "raised": 6963098,
+      "raised": 7064123,
       "currency": "USD",
       "currencySymbol": "$",
       "progress_pct": 100,
@@ -7777,7 +7777,7 @@
       "campaign_url": "https://www.indiegogo.com/en/projects/gpdhk/gpd-win-max-3-handheld-gaming-laptop",
       "category_tag_zh": "#科技",
       "summary_zh": [],
-      "scrapedAt": "2026-09-24T02:56:00.207Z"
+      "scrapedAt": "2026-09-25T03:12:31.930Z"
     },
     {
       "id": "igo-wanaichef-wan-aichef-ultra",
@@ -8606,8 +8606,12 @@
       "price": "￥1,197,703",
       "campaign_url": "https://www.makuake.com/project/versatile-laptopbag-omori02",
       "category_tag_zh": "#科技",
-      "summary_zh": [],
-      "scrapedAt": "2026-09-24T02:56:02.494Z"
+      "summary_zh": [
+        "桌面多功能工作站",
+        "收纳支架充电一体",
+        "便携高效办公利器"
+      ],
+      "scrapedAt": "2026-09-25T03:12:47.436Z"
     },
     {
       "id": "igo-foresthill_basecamp-fhbc",
@@ -8626,7 +8630,7 @@
       "campaign_url": "https://www.indiegogo.com/en/projects/foresthill_basecamp/fhbc",
       "category_tag_zh": "#科技",
       "summary_zh": [],
-      "scrapedAt": "2026-09-24T02:56:00.207Z"
+      "scrapedAt": "2026-09-25T03:12:31.930Z"
     },
     {
       "id": "igo-blakebcampbell-wildernest",
@@ -8655,16 +8659,20 @@
       "name_zh": "【1台4役】冷気も暖気も効率よく循環。家中で365日使えるシーリングファンライト",
       "founder": "Unknown",
       "location": "Japan",
-      "raised": 42180503,
+      "raised": 44660003,
       "currency": "JPY",
       "currencySymbol": "￥",
-      "progress_pct": 4218,
+      "progress_pct": 4466,
       "backers": 0,
-      "price": "￥42,180,503",
+      "price": "￥44,660,003",
       "campaign_url": "https://www.makuake.com/project/ceilingfanlight",
       "category_tag_zh": "#科技",
-      "summary_zh": [],
-      "scrapedAt": "2026-09-24T02:56:02.494Z"
+      "summary_zh": [
+        "四季恒温循环风扇",
+        "冷暖气流高效循环",
+        "一机四用多功能"
+      ],
+      "scrapedAt": "2026-09-25T03:12:47.436Z"
     },
     {
       "id": "mk-daynight-scope2-encore",
@@ -8683,7 +8691,7 @@
       "campaign_url": "https://www.makuake.com/project/daynight-scope2-encore",
       "category_tag_zh": "#科技",
       "summary_zh": [],
-      "scrapedAt": "2026-09-24T02:56:02.494Z"
+      "scrapedAt": "2026-09-25T03:12:47.436Z"
     },
     {
       "id": "mk-tank007-e25",
@@ -8693,16 +8701,16 @@
       "name_zh": "全長38mm・6.5g（電池除く）。100ルーメンの超小型EDCライト「E25」",
       "founder": "Unknown",
       "location": "Japan",
-      "raised": 1785003,
+      "raised": 1820003,
       "currency": "JPY",
       "currencySymbol": "￥",
-      "progress_pct": 178,
+      "progress_pct": 182,
       "backers": 0,
-      "price": "￥1,785,003",
+      "price": "￥1,820,003",
       "campaign_url": "https://www.makuake.com/project/tank007-e25",
       "category_tag_zh": "#科技",
       "summary_zh": [],
-      "scrapedAt": "2026-09-24T02:56:02.494Z"
+      "scrapedAt": "2026-09-25T03:12:47.436Z"
     },
     {
       "id": "mk-emsfitcare",
@@ -8712,16 +8720,20 @@
       "name_zh": "今日はどの色でケアする？7色LED×3モード！気分で選ぶ21通りのご褒美美顔器♪",
       "founder": "Unknown",
       "location": "Japan",
-      "raised": 738325,
+      "raised": 777925,
       "currency": "JPY",
       "currencySymbol": "￥",
-      "progress_pct": 73,
+      "progress_pct": 77,
       "backers": 0,
-      "price": "￥738,325",
+      "price": "￥777,925",
       "campaign_url": "https://www.makuake.com/project/emsfitcare",
       "category_tag_zh": "#科技",
-      "summary_zh": [],
-      "scrapedAt": "2026-09-24T02:56:02.494Z"
+      "summary_zh": [
+        "7色LED光疗美肤",
+        "3模式个性定制",
+        "21种组合护肤体验"
+      ],
+      "scrapedAt": "2026-09-25T03:12:47.436Z"
     },
     {
       "id": "igo-neochori-tv---to-pai2i",
@@ -8731,16 +8743,16 @@
       "name_zh": "Unknown",
       "founder": "Neochori TV",
       "location": "Unknown",
-      "raised": 52161,
+      "raised": 66444,
       "currency": "EUR",
       "currencySymbol": "€",
       "progress_pct": 100,
-      "backers": 98248,
+      "backers": 99852,
       "price": "$5",
       "campaign_url": "https://www.indiegogo.com/en/projects/neochori-tv-/-to-pai2i",
       "category_tag_zh": "#科技",
       "summary_zh": [],
-      "scrapedAt": "2026-09-24T02:56:00.207Z"
+      "scrapedAt": "2026-09-25T03:12:31.930Z"
     },
     {
       "id": "cs-hat-and-hammer-openmote",
@@ -8874,16 +8886,16 @@
       "name_zh": "【黒い円のない魚眼】景色がスマホいっぱいに広がる！いつもの一枚を、作品に。",
       "founder": "Unknown",
       "location": "Japan",
-      "raised": 2777602,
+      "raised": 2867202,
       "currency": "JPY",
       "currencySymbol": "￥",
-      "progress_pct": 277,
+      "progress_pct": 286,
       "backers": 0,
-      "price": "￥2,777,602",
+      "price": "￥2,867,202",
       "campaign_url": "https://www.makuake.com/project/aplfe210",
       "category_tag_zh": "#科技",
       "summary_zh": [],
-      "scrapedAt": "2026-09-24T02:56:02.494Z"
+      "scrapedAt": "2026-09-25T03:12:47.436Z"
     },
     {
       "id": "mk-ultra-slim-ss5k",
@@ -8893,16 +8905,16 @@
       "name_zh": ".83mm『極薄だけじゃない』極限まで安全にこだわったモバイルバッテリー",
       "founder": "Unknown",
       "location": "Japan",
-      "raised": 129783203,
+      "raised": 134509203,
       "currency": "JPY",
       "currencySymbol": "￥",
-      "progress_pct": 4326,
+      "progress_pct": 4483,
       "backers": 0,
-      "price": "￥129,783,203",
+      "price": "￥134,509,203",
       "campaign_url": "https://www.makuake.com/project/ultra-slim-ss5k",
       "category_tag_zh": "#科技",
       "summary_zh": [],
-      "scrapedAt": "2026-09-24T02:56:02.494Z"
+      "scrapedAt": "2026-09-25T03:12:47.436Z"
     },
     {
       "id": "mk-phi-ai",
@@ -8921,7 +8933,7 @@
       "campaign_url": "https://www.makuake.com/project/phi-ai",
       "category_tag_zh": "#科技",
       "summary_zh": [],
-      "scrapedAt": "2026-09-24T02:56:02.494Z"
+      "scrapedAt": "2026-09-25T03:12:47.436Z"
     },
     {
       "id": "igo-creality-sparkx-creality-sparkx-i8-the-fastest-most-filament-efficient-four-color-3d-printer",
@@ -8931,16 +8943,16 @@
       "name_zh": "Unknown",
       "founder": "Creality SPARKX",
       "location": "Fastest, Most",
-      "raised": 2190204,
+      "raised": 2306664,
       "currency": "USD",
       "currencySymbol": "$",
       "progress_pct": 100,
-      "backers": 6600,
-      "price": "$309",
+      "backers": 6700,
+      "price": "$289",
       "campaign_url": "https://www.indiegogo.com/en/projects/creality-sparkx/creality-sparkx-i8-the-fastest-most-filament-efficient-four-color-3d-printer",
       "category_tag_zh": "#科技",
       "summary_zh": [],
-      "scrapedAt": "2026-09-24T02:56:00.207Z"
+      "scrapedAt": "2026-09-25T03:12:31.930Z"
     },
     {
       "id": "igo-goopygirls-goopy-mag-issue-2-worlds-of-play",
@@ -8969,16 +8981,16 @@
       "name_zh": "探す時間を減らす、仕事も暮らしも彩る、日本初上陸※スマホ対応カラーラベルメーカー",
       "founder": "Unknown",
       "location": "Japan",
-      "raised": 9333233,
+      "raised": 10743982,
       "currency": "JPY",
       "currencySymbol": "￥",
-      "progress_pct": 933,
+      "progress_pct": 1074,
       "backers": 0,
-      "price": "￥9,333,233",
+      "price": "￥10,743,982",
       "campaign_url": "https://www.makuake.com/project/tbs_colorlabelmakerzp100",
       "category_tag_zh": "#科技",
       "summary_zh": [],
-      "scrapedAt": "2026-09-24T02:56:02.494Z"
+      "scrapedAt": "2026-09-25T03:12:47.436Z"
     },
     {
       "id": "mk-titan-noir-series",
@@ -8988,16 +9000,102 @@
       "name_zh": "黒を極めた、高輝度4Kレーザープロジェクター｜TITAN Noir シリーズ",
       "founder": "Unknown",
       "location": "Japan",
-      "raised": 521138008,
+      "raised": 1273862008,
       "currency": "JPY",
       "currencySymbol": "￥",
-      "progress_pct": 5211,
+      "progress_pct": 12738,
       "backers": 0,
-      "price": "￥521,138,008",
+      "price": "",
       "campaign_url": "https://www.makuake.com/project/titan-noir-series",
       "category_tag_zh": "#科技",
+      "summary_zh": [
+        "*   **【全固体】安全性を追求した、大容量モバイルバッテリー**"
+      ],
+      "scrapedAt": "2026-09-25T03:12:47.436Z"
+    },
+    {
+      "id": "mk-pettichat",
+      "platform": "Makuake",
+      "image": "https://static.makuake.com/upload/project/53707/main_53707.png?version=1789695564&width=320&height=180&optimize=high",
+      "name": "鳴き声を言葉に！愛犬・愛猫ペットの声をAIで感情推測｜PettiChat",
+      "name_zh": "鳴き声を言葉に！愛犬・愛猫ペットの声をAIで感情推測｜PettiChat",
+      "founder": "Unknown",
+      "location": "Japan",
+      "raised": 1319946,
+      "currency": "JPY",
+      "currencySymbol": "￥",
+      "progress_pct": 131,
+      "backers": 0,
+      "price": "￥1,319,946",
+      "campaign_url": "https://www.makuake.com/project/pettichat",
+      "category_tag_zh": "#科技",
+      "summary_zh": [
+        "以下是众筹产品的3条中文AI解读要点："
+      ],
+      "scrapedAt": "2026-09-25T03:12:47.436Z"
+    },
+    {
+      "id": "mk-yamazen_bigblue1",
+      "platform": "Makuake",
+      "image": "https://static.makuake.com/upload/project/53725/main_53725.png?version=1790301192&width=320&height=180&optimize=high",
+      "name": "【全固体】安全性を追求した、大容量モバイルバッテリー",
+      "name_zh": "【全固体】安全性を追求した、大容量モバイルバッテリー",
+      "founder": "Unknown",
+      "location": "Japan",
+      "raised": 4199343,
+      "currency": "JPY",
+      "currencySymbol": "￥",
+      "progress_pct": 139,
+      "backers": 0,
+      "price": "￥4,199,343",
+      "campaign_url": "https://www.makuake.com/project/yamazen_bigblue1",
+      "category_tag_zh": "#科技",
+      "summary_zh": [
+        "*   **鳴き声を言葉に！愛犬・愛猫ペットの声をAIで感情推測｜PettiChat**"
+      ],
+      "scrapedAt": "2026-09-25T03:12:47.436Z"
+    },
+    {
+      "id": "mk-d22pro",
+      "platform": "Makuake",
+      "image": "https://static.makuake.com/upload/project/53675/main_53675.png?version=1789541786&width=320&height=180&optimize=high",
+      "name": "手元操作から空中プレゼン・動画操作まで！マグネット着脱で進化する3in1マウス！",
+      "name_zh": "手元操作から空中プレゼン・動画操作まで！マグネット着脱で進化する3in1マウス！",
+      "founder": "Unknown",
+      "location": "Japan",
+      "raised": 858003,
+      "currency": "JPY",
+      "currencySymbol": "￥",
+      "progress_pct": 85,
+      "backers": 0,
+      "price": "￥858,003",
+      "campaign_url": "https://www.makuake.com/project/d22pro",
+      "category_tag_zh": "#科技",
+      "summary_zh": [
+        "AI智能识别宠物情感",
+        "深度分析动物语言模式",
+        "实时翻译宠物情绪意图"
+      ],
+      "scrapedAt": "2026-09-25T03:12:47.436Z"
+    },
+    {
+      "id": "igo-tumie-mokuena-for-the-record-thesis-short-film",
+      "platform": "Indiegogo",
+      "image": "https://cdn.images.indiegogo.com/projectimage/projects/443554/61cbee36-52ea-46ae-8f0d-e6072b163a9b.png",
+      "name": "Unknown",
+      "name_zh": "Unknown",
+      "founder": "Tumie Mokuena",
+      "location": "Unknown",
+      "raised": 2000,
+      "currency": "USD",
+      "currencySymbol": "$",
+      "progress_pct": 100,
+      "backers": 7,
+      "price": "$5",
+      "campaign_url": "https://www.indiegogo.com/en/projects/tumie-mokuena/for-the-record-thesis-short-film",
+      "category_tag_zh": "#科技",
       "summary_zh": [],
-      "scrapedAt": "2026-09-24T02:56:02.494Z"
+      "scrapedAt": "2026-09-25T03:12:31.930Z"
     }
   ]
 }
