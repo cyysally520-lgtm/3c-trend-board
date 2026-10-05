@@ -1,7 +1,7 @@
 {
-  "date": "2026-10-04",
+  "date": "2026-10-05",
   "kind": "news",
-  "count": 2394,
+  "count": 2406,
   "items": [
     {
       "id": "vb-5-platforms-to-sell-amazon-and-ebay-gift-cards-for",
@@ -25216,7 +25216,7 @@
       "source": "Gizchina",
       "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-08%2Fxxrino3-6a8faee6b58cc.png",
       "title": "Xiaomi Xring O3 is a Contradiction: Using Old Tech to Beat Snapdragon 8 Elite Gen 6 Pro and Dimensity 9600",
-      "title_zh": "Xiaomi Xring O3 is a Contradiction: Using Old Tech to Beat Snapdragon 8 Elite Gen 6 Pro and Dimensity 9600",
+      "title_zh": "小米Xring O3：旧技术逆袭骁龙8 Elite Gen 6 Pro和天玑9600",
       "publishedAt": "2026-08-27T03:29:00.000Z",
       "snippet": "Geekerwan's early testing of Xiaomi's 3nm Xring O3 SoC shows impressive energy efficiency, a 15,000 Geekbench multi-core score, and desktop-grade GPU performance.",
       "snippet_zh": [
@@ -25224,14 +25224,14 @@
       ],
       "url": "https://www.gizchina.com/xiaomi-tablets-tech/xiaomi-xring-o3-is-a-contradiction-using-old-tech-to-beat-snapdragon-8-elite-gen-6-pro-and-dimensity-9600",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:09:56.508Z"
+      "scrapedAt": "2026-10-05T03:54:36.241Z"
     },
     {
       "id": "giz-lenovo-legion-y700-ai-announced-a-tiny-gaming-tabl",
       "source": "Gizchina",
       "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-08%2Fimage-1787759182489-6a8f0a51c9165.jpg",
       "title": "Lenovo Legion Y700 AI Announced: a Tiny Gaming Tablet With Serious Flagship Hardware",
-      "title_zh": "Lenovo Legion Y700 AI Announced: a Tiny Gaming Tablet With Serious Flagship Hardware",
+      "title_zh": "联想",
       "publishedAt": "2026-08-26T15:41:00.000Z",
       "snippet": "Lenovo Legion Y700 AI launches with an 8.4-inch 165Hz OLED display, Snapdragon 8 Elite Gen 5 for flagship performance, 5G and up to 24GB of RAM.",
       "snippet_zh": [
@@ -25239,7 +25239,7 @@
       ],
       "url": "https://www.gizchina.com/lenovo-mini-pc/lenovo-legion-y700-ai-announced-a-tiny-gaming-tablet-with-serious-flagship-hardware",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:09:58.057Z"
+      "scrapedAt": "2026-10-05T03:54:37.783Z"
     },
     {
       "id": "giz-msi-launches-katana-15-hx-c14-gaming-laptop-with-h",
@@ -25576,7 +25576,7 @@
       "source": "Gizchina",
       "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-08%2Fter-6a90fc672f57e.jpg",
       "title": "Vivo X500 Pro Series Confirmed With 2nm MediaTek Dimensity 9600 Series SoC",
-      "title_zh": "Vivo X500 Pro Series Confirmed With 2nm MediaTek Dimensity 9600 Series SoC",
+      "title_zh": "Vivo X500 Pro系列确认搭载2nm天玑9600 SoC",
       "publishedAt": "2026-08-28T03:11:00.000Z",
       "snippet": "Vivo confirmed the Vivo X500 Pro and Pro Max will feature MediaTek's 2nm Dimensity 9600 chipset, TSMC N2P tech, and a custom 4K 120fps imaging chip.",
       "snippet_zh": [
@@ -25584,14 +25584,14 @@
       ],
       "url": "https://www.gizchina.com/vivo-phones/vivo-x500-pro-series-confirmed-with-2nm-mediatek-dimensity-9600-series-soc",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:09:45.223Z"
+      "scrapedAt": "2026-10-05T03:54:25.448Z"
     },
     {
       "id": "giz-gta-vi-extended-look-how-rockstar-built-a-world-th",
       "source": "Gizchina",
       "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-08%2F4544-6a90eeba8a522.jpg",
       "title": "GTA VI Extended Look: How Rockstar Built a World That Remembers Everything",
-      "title_zh": "GTA VI Extended Look: How Rockstar Built a World That Remembers Everything",
+      "title_zh": "GTA VI深度解析：R星如何打造记忆世界",
       "publishedAt": "2026-08-28T02:19:00.000Z",
       "snippet": "he official GTA VI Extended Look reveals a reactive open world across Leonida, featuring dynamic NPC AI, deep relationship mechanics, and more.",
       "snippet_zh": [
@@ -25599,14 +25599,14 @@
       ],
       "url": "https://www.gizchina.com/games/gta-vi-extended-look-how-rockstar-built-a-world-that-remembers-everything",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:09:47.240Z"
+      "scrapedAt": "2026-10-05T03:54:26.996Z"
     },
     {
       "id": "giz-samsung-galaxy-s26-fe-officially-debuts-with-one-u",
       "source": "Gizchina",
       "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-08%2F10d6fb840a36d779987411e3997c9768-6a90640603f2c.jpg",
       "title": "Samsung Galaxy S26 FE Officially Debuts with One UI 9 and Exynos 2500",
-      "title_zh": "Samsung Galaxy S26 FE Officially Debuts with One UI 9 and Exynos 2500",
+      "title_zh": "三星S26 FE正式发布：One UI 9，Exynos 2500",
       "publishedAt": "2026-08-27T16:26:00.000Z",
       "snippet": "Samsung launches the Galaxy S26 FE featuring a 6.7-inch 120Hz display, Exynos 2500, and the debut of One UI 9 based on Android 17, starting at $699.99.",
       "snippet_zh": [
@@ -25614,14 +25614,14 @@
       ],
       "url": "https://www.gizchina.com/samsung/samsung-galaxy-s26-fe-officially-debuts-with-one-ui-9-and-exynos-2500",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:09:48.785Z"
+      "scrapedAt": "2026-10-05T03:54:28.537Z"
     },
     {
       "id": "giz-vivo-t5-global-model-leaked-key-specifications-rev",
       "source": "Gizchina",
       "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-08%2Fvivo-t5-pro-black-back-design-showcased-6a9036338a4d3.jpg",
       "title": "Vivo T5 Global Model Leaked: Key Specifications Revealed",
-      "title_zh": "Vivo T5 Global Model Leaked: Key Specifications Revealed",
+      "title_zh": "Vivo T5全球版曝光：主要配置揭晓",
       "publishedAt": "2026-08-27T13:18:00.000Z",
       "snippet": "The Vivo T5 global model has been leaked, featuring a 6.83-inch 1.5K 144Hz AMOLED display, Dimensity 7300 Turbo processor, and a massive 7050mAh battery.",
       "snippet_zh": [
@@ -25629,14 +25629,14 @@
       ],
       "url": "https://www.gizchina.com/vivo-phones/vivo-t5-global-model-leaked-key-specifications-revealed",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:09:50.326Z"
+      "scrapedAt": "2026-10-05T03:54:30.076Z"
     },
     {
       "id": "giz-samsung-galaxy-quantum-7-launches-with-six-years-o",
       "source": "Gizchina",
       "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-08%2Fimage-1787822887177-6a90033915572.jpg",
       "title": "Samsung Galaxy Quantum 7 Launches With Six Years of Updates",
-      "title_zh": "Samsung Galaxy Quantum 7 Launches With Six Years of Updates",
+      "title_zh": "三星Galaxy Quantum 7发布：享六年系统更新",
       "publishedAt": "2026-08-27T10:09:00.000Z",
       "snippet": "Samsung Galaxy Quantum 7 launches in South Korea with Exynos 1680, 120Hz AMOLED, a typical 50MP camera and six years of full updates.",
       "snippet_zh": [
@@ -25644,14 +25644,14 @@
       ],
       "url": "https://www.gizchina.com/samsung/samsung-galaxy-quantum-7-launches-with-six-years-of-updates",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:09:51.868Z"
+      "scrapedAt": "2026-10-05T03:54:31.614Z"
     },
     {
       "id": "giz-oppo-find-x10-series-lineup-revealed-through-smart",
       "source": "Gizchina",
       "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-08%2Foppo-find-x9-pro-am-ah-03-6a900aa7a31ff.jpg",
       "title": "OPPO Find X10 Series Lineup Revealed Through Smart Cloud Acceleration Service",
-      "title_zh": "OPPO Find X10 Series Lineup Revealed Through Smart Cloud Acceleration Service",
+      "title_zh": "OPPO Find X10系列阵容曝光：源自智能云加速服务",
       "publishedAt": "2026-08-27T10:02:00.000Z",
       "snippet": "The OPPO Find X10 series lineup has been revealed, featuring three models: the OPPO Find X10 Pro, the standard OPPO Find X10, and the OPPO Find X10 Pro Max.",
       "snippet_zh": [
@@ -25659,14 +25659,14 @@
       ],
       "url": "https://www.gizchina.com/oppo-phones-2/oppo-find-x10-series-lineup-revealed-through-smart-cloud-acceleration-service",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:09:53.423Z"
+      "scrapedAt": "2026-10-05T03:54:33.157Z"
     },
     {
       "id": "giz-xiaomi-announced-its-first-smartphone-with-a-massi",
       "source": "Gizchina",
       "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-08%2Fredmi-note-17-pro-max-design-1787819325105-copy-2-6a8ff6202eab5.jpg",
       "title": "Xiaomi Announced its First Smartphone with a Massive 10,000mAh Battery",
-      "title_zh": "Xiaomi Announced its First Smartphone with a Massive 10,000mAh Battery",
+      "title_zh": "小米首款万毫安时电池手机发布",
       "publishedAt": "2026-08-27T08:27:00.000Z",
       "snippet": "Redmi Note 17 Pro Max is official with a 10,000mAh battery, 100W charging, Snapdragon 6 Gen 5 and a 120Hz AMOLED display.",
       "snippet_zh": [
@@ -25674,7 +25674,7 @@
       ],
       "url": "https://www.gizchina.com/xiaomi-phones/xiaomi-announced-its-first-smartphone-with-a-massive-10000mah-battery",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:09:54.966Z"
+      "scrapedAt": "2026-10-05T03:54:34.699Z"
     },
     {
       "id": "vb-ai-rally-cools-as-fed-chair-warsh-eyes-rate-hikes-",
@@ -25876,7 +25876,7 @@
       "source": "Gizchina",
       "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-08%2Fimage-2026-08-29-004039714-6a9254c767ac9.png",
       "title": "Honor Magic9 Series To Combine a 200MP Camera With a 2nm Snapdragon Chip",
-      "title_zh": "Honor Magic9 Series To Combine a 200MP Camera With a 2nm Snapdragon Chip",
+      "title_zh": "荣耀Magic9系列：2亿像素相机，2nm骁龙芯片",
       "publishedAt": "2026-08-29T03:48:00.000Z",
       "snippet": "Honor Magic9 leak reveals a 200MP camera, Snapdragon 8 Elite Gen 6, 100W charging, and a performance model with an active cooling fan. Launching Sept 2026!",
       "snippet_zh": [
@@ -25884,14 +25884,14 @@
       ],
       "url": "https://www.gizchina.com/honor/honor-magic9-series-to-combine-a-200mp-camera-with-a-2nm-snapdragon-chip",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:09:38.243Z"
+      "scrapedAt": "2026-10-05T03:54:19.271Z"
     },
     {
       "id": "giz-oppo-find-x10-pro-max-to-feature-revolutionary-200",
       "source": "Gizchina",
       "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-08%2Foppo-nummer-eins-in-china-huawei-abstieg-6a91b6c2e60d4.jpg",
       "title": "Oppo Find X10 Pro Max to Feature Revolutionary 200MP DeepPix Camera Technology",
-      "title_zh": "Oppo Find X10 Pro Max to Feature Revolutionary 200MP DeepPix Camera Technology",
+      "title_zh": "OPPO Find X10 Pro Max将搭载2亿像素DeepPix相机",
       "publishedAt": "2026-08-28T16:28:00.000Z",
       "snippet": "Oppo introduces ProXDR and DeepPix technology, with the Oppo Find X10 Pro Max set to feature a 200MP triple-lens array for industry-leading mobile photography.",
       "snippet_zh": [
@@ -25899,14 +25899,14 @@
       ],
       "url": "https://www.gizchina.com/oppo-phones-2/oppo-find-x10-pro-max-to-feature-revolutionary-200mp-deeppix-camera-technology",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:09:40.584Z"
+      "scrapedAt": "2026-10-05T03:54:20.815Z"
     },
     {
       "id": "giz-xiaomi-hyperos-super-island-receives-significant-f",
       "source": "Gizchina",
       "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-08%2Fhyperisland-se-inspiroval-u-dynamic-island-6a91ad01c26af.jpg",
       "title": "Xiaomi HyperOS Super Island Receives Significant Functional Upgrade",
-      "title_zh": "Xiaomi HyperOS Super Island Receives Significant Functional Upgrade",
+      "title_zh": "小米澎湃OS超级岛获重大功能升级",
       "publishedAt": "2026-08-28T15:48:00.000Z",
       "snippet": "Xiaomi has updated its HyperOS Super Island with a three-finger swipe gesture to easily display meal and package pickup codes for improved user convenience.",
       "snippet_zh": [
@@ -25914,14 +25914,14 @@
       ],
       "url": "https://www.gizchina.com/xiaomi-phones/xiaomi-hyperos-super-island-receives-significant-functional-upgrade",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:09:42.135Z"
+      "scrapedAt": "2026-10-05T03:54:22.367Z"
     },
     {
       "id": "giz-coloros-16-august-update-is-available-full-list-of",
       "source": "Gizchina",
       "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-08%2Fimage-1787906051470-6a915946623a6.jpg",
       "title": "ColorOS 16 August Update is Available - Full list of compatible devices",
-      "title_zh": "ColorOS 16 August Update is Available - Full list of compatible devices",
+      "title_zh": "ColorOS 16八月更新发布，附兼容设备列表",
       "publishedAt": "2026-08-28T09:44:00.000Z",
       "snippet": "OPPO has started rolling out its August update for ColorOS 16, and this isn't one of those updates built around a single big feature. Instead, OPPO is fixing and improving several smaller parts of the...",
       "snippet_zh": [
@@ -25929,7 +25929,7 @@
       ],
       "url": "https://www.gizchina.com/oppo-phones-2/coloros-16-august-update-is-available-full-list-of-compatible-devices",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:09:43.679Z"
+      "scrapedAt": "2026-10-05T03:54:23.908Z"
     },
     {
       "id": "vb-hubx-raises-75-million-becomes-turkeys-8th-unicorn",
@@ -26071,7 +26071,7 @@
       "source": "Gizchina",
       "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-04%2Foppo-find-x10-69ccb8b64fba1.png",
       "title": "Major Flagship Smartphone Releases Confirmed for September Launch",
-      "title_zh": "Major Flagship Smartphone Releases Confirmed for September Launch",
+      "title_zh": "九月多款旗舰智能手机将发布",
       "publishedAt": "2026-08-29T16:28:00.000Z",
       "snippet": "September will see the launch of iPhone 18 Pro, vivo X500, OPPO Find X10, Huawei Mate90, Xiaomi 18 Pro, and Honor Magic9 series flagship smartphones.",
       "snippet_zh": [
@@ -26079,14 +26079,14 @@
       ],
       "url": "https://www.gizchina.com/launch-2/major-flagship-smartphone-releases-confirmed-for-september-launch",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:09:32.672Z"
+      "scrapedAt": "2026-10-05T03:54:14.651Z"
     },
     {
       "id": "giz-oppo-find-x10-and-find-x10-pro-max-global-launch-t",
       "source": "Gizchina",
       "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2025-06%2Foppo-find-x8-ultra-1-825x1024-1.jpg",
       "title": "OPPO Find X10 and Find X10 Pro Max Global Launch Timeline Leaks!",
-      "title_zh": "OPPO Find X10 and Find X10 Pro Max Global Launch Timeline Leaks!",
+      "title_zh": "OPPO Find X10/Pro Max全球发布时间线曝光",
       "publishedAt": "2026-08-29T09:58:00.000Z",
       "snippet": "OPPO Find X10 and Find X10 Pro Max could launch globally in October, with both flagship phones also expected to arrive in India.",
       "snippet_zh": [
@@ -26094,14 +26094,14 @@
       ],
       "url": "https://www.gizchina.com/oppo-phones-2/oppo-find-x10-and-find-x10-pro-max-global-launch-timeline-leaks",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:09:34.214Z"
+      "scrapedAt": "2026-10-05T03:54:16.191Z"
     },
     {
       "id": "giz-xiaomis-smart-privacy-display-leaks-and-it-looks-s",
       "source": "Gizchina",
       "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-08%2Fimage-1787995817586-6a92a6b768ed1.jpg",
       "title": "Xiaomi's Smart Privacy Display Leaks, and It Looks Smarter Than Expected",
-      "title_zh": "Xiaomi's Smart Privacy Display Leaks, and It Looks Smarter Than Expected",
+      "title_zh": "小米智能隐私屏曝光：比预期更智能",
       "publishedAt": "2026-08-29T09:21:00.000Z",
       "snippet": "Xiaomi Smart Privacy Display could hide passwords, messages and bank details from people around you, with the Xiaomi 18 Pro tipped to get it first.",
       "snippet_zh": [
@@ -26109,7 +26109,7 @@
       ],
       "url": "https://www.gizchina.com/xiaomi-phones/xiaomis-smart-privacy-display-leaks-and-it-looks-smarter-than-expected",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:09:36.186Z"
+      "scrapedAt": "2026-10-05T03:54:17.732Z"
     },
     {
       "id": "vb-trump-trade-wars-american-disapproval",
@@ -26236,7 +26236,7 @@
       "source": "Gizchina",
       "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-08%2Frer3-6a94690ecb0f7.png",
       "title": "Before You Buy Apple’s $2,000 Foldable iPhone Ultra, Check the Screen Repair Cost",
-      "title_zh": "Before You Buy Apple’s $2,000 Foldable iPhone Ultra, Check the Screen Repair Cost",
+      "title_zh": "2000美元折叠iPhone Ultra，先看屏幕维修费",
       "publishedAt": "2026-08-30T17:34:00.000Z",
       "snippet": "The rumored iPhone Ultra foldable could start at $2,000, but repair costs may be even steeper. Reports estimate inner screen replacements could hit $1,155.",
       "snippet_zh": [
@@ -26244,14 +26244,14 @@
       ],
       "url": "https://www.gizchina.com/apple/before-you-buy-apples-2000-foldable-iphone-ultra-check-the-screen-repair-cost",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:09:25.624Z"
+      "scrapedAt": "2026-10-05T03:54:08.471Z"
     },
     {
       "id": "giz-mystery-xiaomi-q11a-model-spotted-with-snapdragon-",
       "source": "Gizchina",
       "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-08%2Fimage-1788107386453-6a945f00c259b.jpg",
       "title": "Mystery Xiaomi Q11A model spotted with Snapdragon 8 Elite and huge battery",
-      "title_zh": "Mystery Xiaomi Q11A model spotted with Snapdragon 8 Elite and huge battery",
+      "title_zh": "神秘小米Q11A现身：骁龙8 Elite，大电池",
       "publishedAt": "2026-08-30T16:47:00.000Z",
       "snippet": "Xiaomi Q11A appeared recently in testing with a 10,000mAh battery, Snapdragon 8 Elite and 100W charging, possibly as the Redmi K90e or K100.",
       "snippet_zh": [
@@ -26259,14 +26259,14 @@
       ],
       "url": "https://www.gizchina.com/xiaomi-phones/mystery-xiaomi-q11a-model-spotted-with-snapdragon-8-elite-and-huge-battery",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:09:27.166Z"
+      "scrapedAt": "2026-10-05T03:54:10.016Z"
     },
     {
       "id": "giz-rising-costs-impact-student-tech-essentials-a-stra",
       "source": "Gizchina",
       "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-08%2Fmaxresdefault-6a942bf843274.jpg",
       "title": "Rising Costs Impact Student Tech Essentials: A Strategic Purchasing Guide",
-      "title_zh": "Rising Costs Impact Student Tech Essentials: A Strategic Purchasing Guide",
+      "title_zh": "成本上涨影响学生科技必需品：购买指南",
       "publishedAt": "2026-08-30T13:13:00.000Z",
       "snippet": "Rising raw material costs are driving up prices for student tech. Learn how to prioritize mobile phones, computers, and tablets for the back-to-school season.",
       "snippet_zh": [
@@ -26274,14 +26274,14 @@
       ],
       "url": "https://www.gizchina.com/guide/rising-costs-impact-student-tech-essentials-a-strategic-purchasing-guide",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:09:29.573Z"
+      "scrapedAt": "2026-10-05T03:54:11.566Z"
     },
     {
       "id": "giz-one-ui-9-beta-is-coming-to-more-galaxy-phones-is-y",
       "source": "Gizchina",
       "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-03%2Fone-ui-9-69b860a85d2b6.jpg",
       "title": "One UI 9 Beta Is Coming to More Galaxy Phones - Is Yours on the List?",
-      "title_zh": "One UI 9 Beta Is Coming to More Galaxy Phones - Is Yours on the List?",
+      "title_zh": "One UI 9 Beta将登陆更多Galaxy手机，有你的吗？",
       "publishedAt": "2026-08-30T09:44:00.000Z",
       "snippet": "Samsung may soon expand the One UI 9 beta to Galaxy S25, S24, S23, Fold, Flip and several Galaxy A phones. Check the full device list.",
       "snippet_zh": [
@@ -26289,7 +26289,7 @@
       ],
       "url": "https://www.gizchina.com/samsung/one-ui-9-beta-is-coming-to-more-galaxy-phones-is-yours-on-the-list",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:09:31.119Z"
+      "scrapedAt": "2026-10-05T03:54:13.107Z"
     },
     {
       "id": "vb-scan-com-raises-220m-us-medical-imagingscan-com-ra",
@@ -26506,7 +26506,7 @@
       "source": "Gizchina",
       "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-08%2F32fc0ce23c222d88b0498f6d18df227e23832737-6a95af73dee0e.jpg",
       "title": "Honor MagicOS 11 Revealed: Storage Optimization, Liquid Glass UX, and Multi-Protocol Charging",
-      "title_zh": "Honor MagicOS 11 Revealed: Storage Optimization, Liquid Glass UX, and Multi-Protocol Charging",
+      "title_zh": "荣耀MagicOS 11发布：优化存储、液态玻璃UX、多协议充电",
       "publishedAt": "2026-08-31T16:48:00.000Z",
       "snippet": "Honor has announced MagicOS 11, featuring storage optimization, a new Liquid Glass UX design, and expanded support for multi-protocol fast charging.",
       "snippet_zh": [
@@ -26514,14 +26514,14 @@
       ],
       "url": "https://www.gizchina.com/honor/honor-magicos-11-revealed-storage-optimization-liquid-glass-ux-and-multi-protocol-charging",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:09:17.895Z"
+      "scrapedAt": "2026-10-05T03:54:00.758Z"
     },
     {
       "id": "giz-coloros-17-teased-with-major-design-overhaul-and-f",
       "source": "Gizchina",
       "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-08%2Fcleanshot-2026-08-10-at-19-6a9583f92f35a.png",
       "title": "ColorOS 17 Teased with Major Design Overhaul and Fluid Animations",
-      "title_zh": "ColorOS 17 Teased with Major Design Overhaul and Fluid Animations",
+      "title_zh": "ColorOS 17预告：设计大改，动画流畅",
       "publishedAt": "2026-08-31T13:49:00.000Z",
       "snippet": "ColorOS 17 is teased with a new global floating island navigation, fluid fusion animations, and a flexible feedback system for a more responsive user experience.",
       "snippet_zh": [
@@ -26529,14 +26529,14 @@
       ],
       "url": "https://www.gizchina.com/oppo-phones-2/coloros-17-teased-with-major-design-overhaul-and-fluid-animations",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:09:19.445Z"
+      "scrapedAt": "2026-10-05T03:54:02.307Z"
     },
     {
       "id": "giz-xiaomi-pad-9-pro-leak-reveals-a-much-bigger-screen",
       "source": "Gizchina",
       "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-08%2Fimage-1788158742576-6a95232cc5e85.jpg",
       "title": "Xiaomi Pad 9 Pro Leak Reveals a Much Bigger Screen and Battery",
-      "title_zh": "Xiaomi Pad 9 Pro Leak Reveals a Much Bigger Screen and Battery",
+      "title_zh": "小米平板9 Pro曝光：屏幕电池大幅升级",
       "publishedAt": "2026-08-31T06:43:00.000Z",
       "snippet": "Xiaomi Pad 9 Pro leak reveals a 12.5-inch 3.2K display, Snapdragon 8 Gen 5, a larger 11,000mAh battery and support for 67W fast charging.",
       "snippet_zh": [
@@ -26544,14 +26544,14 @@
       ],
       "url": "https://www.gizchina.com/xiaomi-phones/xiaomi-pad-9-pro-leak-reveals-a-much-bigger-screen-and-battery",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:09:20.995Z"
+      "scrapedAt": "2026-10-05T03:54:03.847Z"
     },
     {
       "id": "giz-google-maps-the-decision-that-frustrates-a-whole-c",
       "source": "Gizchina",
       "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2025-07%2Fgoogle-maps1-686d01639b0cb.jpg",
       "title": "Google Maps: the Decision that Frustrates a Whole Country",
-      "title_zh": "Google Maps: the Decision that Frustrates a Whole Country",
+      "title_zh": "谷歌地图一决定引全国不满",
       "publishedAt": "2026-08-31T06:27:00.000Z",
       "snippet": "Google Maps now calls Lake Ontario \"Lake America\" in the US, while Canada keeps the old name. What you see depends on where you live.",
       "snippet_zh": [
@@ -26559,14 +26559,14 @@
       ],
       "url": "https://www.gizchina.com/google-maps/google-maps-the-decision-that-frustrates-a-whole-country",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:09:22.538Z"
+      "scrapedAt": "2026-10-05T03:54:05.387Z"
     },
     {
       "id": "giz-standard-no-more-oppo-find-x10-packs-dual-200mp-ca",
       "source": "Gizchina",
       "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-08%2Fimage-2026-08-31-003632054-6a94f6c1c6842.png",
       "title": "Standard No More: Oppo Find X10 Packs Dual 200MP Cameras and Huge 8,000mAh Battery",
-      "title_zh": "Standard No More: Oppo Find X10 Packs Dual 200MP Cameras and Huge 8,000mAh Battery",
+      "title_zh": "OPPO Find X10：双2亿像素，8000mAh巨电",
       "publishedAt": "2026-08-31T03:54:00.000Z",
       "snippet": "Leaks reveal the Oppo Find X10 will feature a massive 8,000mAh battery, dual 200MP cameras, and a complete shake-up of Oppo's flagship lineup strategy.",
       "snippet_zh": [
@@ -26574,7 +26574,7 @@
       ],
       "url": "https://www.gizchina.com/oppo-phones-2/standard-no-more-oppo-find-x10-packs-dual-200mp-cameras-and-huge-8000mah-battery",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:09:24.078Z"
+      "scrapedAt": "2026-10-05T03:54:06.930Z"
     },
     {
       "id": "vb-apple-says-openai-destroying-evidence-trade-secret",
@@ -26776,7 +26776,7 @@
       "source": "Gizchina",
       "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-09%2Fimage-1788292329946-6a972d26bd4b8.jpg",
       "title": "Dyson's $499 Toothbrush Has a Camera That Flosses Your Teeth",
-      "title_zh": "Dyson's $499 Toothbrush Has a Camera That Flosses Your Teeth",
+      "title_zh": "戴森推出499美元牙刷：内置摄像头可自动清洁牙齿",
       "publishedAt": "2026-09-01T19:52:00.000Z",
       "snippet": "Dyson CameraJet is a $499 smart toothbrush with a built-in camera that finds gaps between your teeth and targets them with a jet of mouthrinse.",
       "snippet_zh": [
@@ -26784,14 +26784,14 @@
       ],
       "url": "https://www.gizchina.com/tech/dysons-499-toothbrush-has-a-camera-that-flosses-your-teeth",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:09:08.122Z"
+      "scrapedAt": "2026-10-05T03:53:51.502Z"
     },
     {
       "id": "giz-xiaomi-launches-poco-x8-globally-featuring-massive",
       "source": "Gizchina",
       "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-08%2Fpoco-m8-power-box-contents-1785739332015-6a70392cb2e9c.jpg",
       "title": "Xiaomi Launches POCO X8 Globally Featuring Massive 8340mAh Battery and Snapdragon 6s Gen 4",
-      "title_zh": "Xiaomi Launches POCO X8 Globally Featuring Massive 8340mAh Battery and Snapdragon 6s Gen 4",
+      "title_zh": "小米POCO X8全球发布：搭载",
       "publishedAt": "2026-09-01T16:12:00.000Z",
       "snippet": "Xiaomi has launched the POCO X8 globally, featuring a massive 8340mAh battery, Snapdragon 6s Gen 4 chip, 120Hz AMOLED display, and IP68/IP69K durability ratings.",
       "snippet_zh": [
@@ -26799,7 +26799,7 @@
       ],
       "url": "https://www.gizchina.com/xiaomi-tablets-tech/xiaomi-launches-poco-x8-globally-featuring-massive-8340mah-battery-and-snapdragon-6s-gen-4",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:09:09.661Z"
+      "scrapedAt": "2026-10-05T03:53:53.049Z"
     },
     {
       "id": "giz-netease-cloud-music-harmonyos-beta-receives-versio",
@@ -26814,7 +26814,7 @@
       ],
       "url": "https://www.gizchina.com/huawei/netease-cloud-music-harmonyos-beta-receives-version-9581-update",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:09:11.205Z"
+      "scrapedAt": "2026-10-05T03:53:54.588Z"
     },
     {
       "id": "giz-sony-just-turned-the-ps5-into-a-free-tv-service-wi",
@@ -26829,7 +26829,7 @@
       ],
       "url": "https://www.gizchina.com/playstation-5/sony-just-turned-the-ps5-into-a-free-tv-service-with-over-100-channels",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:09:12.747Z"
+      "scrapedAt": "2026-10-05T03:53:56.127Z"
     },
     {
       "id": "giz-why-your-expensive-iphone-still-charges-slower-tha",
@@ -26844,14 +26844,14 @@
       ],
       "url": "https://www.gizchina.com/apple/why-your-expensive-iphone-still-charges-slower-than-a-xiaomi",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:09:14.807Z"
+      "scrapedAt": "2026-10-05T03:53:57.672Z"
     },
     {
       "id": "giz-oneplus-16-latest-leak-points-to-a-huge-upgrade",
       "source": "Gizchina",
       "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-03%2Foneplus-16-news-69abe667df85a.jpg",
       "title": "OnePlus 16 Latest Leak Points to a Huge Upgrade",
-      "title_zh": "OnePlus 16 Latest Leak Points to a Huge Upgrade",
+      "title_zh": "一加16重大升级曝光",
       "publishedAt": "2026-09-01T06:33:00.000Z",
       "snippet": "OnePlus 16 could get a 200MP main camera, 50MP periscope and ultrawide cameras, plus a 50MP autofocus selfie camera, according to a new leak.",
       "snippet_zh": [
@@ -26859,7 +26859,7 @@
       ],
       "url": "https://www.gizchina.com/oneplus-phones/oneplus-16-latest-leak-points-to-a-huge-upgrade",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:09:16.350Z"
+      "scrapedAt": "2026-10-05T03:53:59.216Z"
     },
     {
       "id": "vb-ai-token-prices-hit-record-low-openai-price-war",
@@ -27106,7 +27106,7 @@
       "source": "Gizchina",
       "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-09%2Fimage-1788373054269-6a9868acdec9b.jpg",
       "title": "This Could Be Our First Look at the OPPO Find X10 Pro Max",
-      "title_zh": "This Could Be Our First Look at the OPPO Find X10 Pro Max",
+      "title_zh": "OPPO Find X10 Pro Max首张渲染图或已曝光",
       "publishedAt": "2026-09-02T18:17:00.000Z",
       "snippet": "New OPPO Find X10 Pro Max renders reveal a huge rear camera module, white and blue finishes, and room for its rumored triple 200MP camera setup.",
       "snippet_zh": [
@@ -27114,14 +27114,14 @@
       ],
       "url": "https://www.gizchina.com/oppo-phones-2/this-could-be-our-first-look-at-the-oppo-find-x10-pro-max",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:08:57.858Z"
+      "scrapedAt": "2026-10-05T03:53:42.232Z"
     },
     {
       "id": "giz-upcoming-foldable-smartphone-landscape-huawei-xiao",
       "source": "Gizchina",
       "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-09%2Fcolour-red-02-xs-6a9827e6dbd46.png",
       "title": "Upcoming Foldable Smartphone Landscape: Huawei, Xiaomi, and Apple Prepare New Devices",
-      "title_zh": "Upcoming Foldable Smartphone Landscape: Huawei, Xiaomi, and Apple Prepare New Devices",
+      "title_zh": "折叠屏手机新格局：华为、小米、苹果蓄势待发",
       "publishedAt": "2026-09-02T13:50:00.000Z",
       "snippet": "Discover the upcoming foldable smartphone releases including the Huawei Mate XT2, Xiaomi 18 Fold, and the wide-folding iPhone Ultra in this industry update.",
       "snippet_zh": [
@@ -27129,14 +27129,14 @@
       ],
       "url": "https://www.gizchina.com/launch-2/upcoming-foldable-smartphone-landscape-huawei-xiaomi-and-apple-prepare-new-devices",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:08:59.402Z"
+      "scrapedAt": "2026-10-05T03:53:43.781Z"
     },
     {
       "id": "giz-oppo-announces-coloros-17-launch-and-developer-con",
       "source": "Gizchina",
       "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-09%2Fcleanshot-2026-08-10-at-19-6a98236229700.png",
       "title": "OPPO Announces ColorOS 17 Launch and Developer Conference for September 2026",
-      "title_zh": "OPPO Announces ColorOS 17 Launch and Developer Conference for September 2026",
+      "title_zh": "OPPO宣布ColorOS 17将于2026年9月发布并召开开发者大会",
       "publishedAt": "2026-09-02T13:27:00.000Z",
       "snippet": "OPPO has announced the ColorOS 17 launch and developer conference for September 17, 2026, in Zhuhai, featuring new progressive motion effects for UI navigation.",
       "snippet_zh": [
@@ -27144,14 +27144,14 @@
       ],
       "url": "https://www.gizchina.com/oppo-phones-2/oppo-announces-coloros-17-launch-and-developer-conference-for-september-2026",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:09:01.936Z"
+      "scrapedAt": "2026-10-05T03:53:45.323Z"
     },
     {
       "id": "giz-hyperos-4-may-skip-more-xiaomi-phones-than-we-expe",
       "source": "Gizchina",
       "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2025-11%2Fhyperos-4-may-turn-xiaomi-phones-691a52600fe61.jpg",
       "title": "HyperOS 4 May Skip More Xiaomi Phones Than We Expected",
-      "title_zh": "HyperOS 4 May Skip More Xiaomi Phones Than We Expected",
+      "title_zh": "HyperOS 4或将跳过比预期更多的小米手机",
       "publishedAt": "2026-09-02T08:52:00.000Z",
       "snippet": "Xiaomi may limit HyperOS 4 to Android 17 devices, leaving some older Xiaomi, Redmi and POCO phones without the next major software update.",
       "snippet_zh": [
@@ -27159,14 +27159,14 @@
       ],
       "url": "https://www.gizchina.com/xiaomi-phones/hyperos-4-may-skip-more-xiaomi-phones-than-we-expected",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:09:03.482Z"
+      "scrapedAt": "2026-10-05T03:53:46.870Z"
     },
     {
       "id": "giz-xiaomi-is-ready-to-launch-their-first-mid-fold-sma",
       "source": "Gizchina",
       "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-09%2Fimage-1788334025599-6a97cfcf6a362.jpg",
       "title": "Xiaomi is ready to launch their first Mid-Fold smartphone",
-      "title_zh": "Xiaomi is ready to launch their first Mid-Fold smartphone",
+      "title_zh": "小米首款中折叠屏手机即将发布",
       "publishedAt": "2026-09-02T07:17:00.000Z",
       "snippet": "Xiaomi officially confirmed the 18 Fold's design, calling it a 'mid-fold' phone with a 7.58-inch main display and a Leica-developed camera system.",
       "snippet_zh": [
@@ -27174,14 +27174,14 @@
       ],
       "url": "https://www.gizchina.com/xiaomi-phones/xiaomi-is-ready-to-launch-their-first-mid-fold-smartphone",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:09:05.026Z"
+      "scrapedAt": "2026-10-05T03:53:48.412Z"
     },
     {
       "id": "giz-iphone-18-pro-colors-leaked-dark-cherry-replaces-c",
       "source": "Gizchina",
       "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-09%2Fimage-2026-09-02-005123380-6a979d3d72b1c.png",
       "title": "iPhone 18 Pro Colors Leaked: Dark Cherry Replaces Cosmic Orange as New Hero Color",
-      "title_zh": "iPhone 18 Pro Colors Leaked: Dark Cherry Replaces Cosmic Orange as New Hero Color",
+      "title_zh": "iPhone 18 Pro配色曝光：暗樱桃取代星辰橙成主打色",
       "publishedAt": "2026-09-02T03:57:00.000Z",
       "snippet": "Leaks reveal Apple's iPhone 18 Pro series will drop in Dark Cherry, Sky Blue, and Black, officially replacing Cosmic Orange ahead of the September 9 event.",
       "snippet_zh": [
@@ -27189,7 +27189,7 @@
       ],
       "url": "https://www.gizchina.com/apple/iphone-18-pro-colors-leaked-dark-cherry-replaces-cosmic-orange-as-new-hero-color",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:09:06.573Z"
+      "scrapedAt": "2026-10-05T03:53:49.959Z"
     },
     {
       "id": "vb-conveo-raises-50-million-for-ai-consumer-research",
@@ -27406,7 +27406,7 @@
       "source": "Gizchina",
       "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-09%2Fimage-2026-09-03-232925683-6a9a2d07cb579.png",
       "title": "Godeal24 Launches Back-to-School Sale With Office 2024 From $22.99 and Windows + Office For $35.94",
-      "title_zh": "Godeal24 Launches Back-to-School Sale With Office 2024 From $22.99 and Windows + Office For $35.94",
+      "title_zh": "Godeal24返校季促销：Office 2024仅22.99美元起，Win+Office套装35.94美元",
       "publishedAt": "2026-09-04T02:08:00.000Z",
       "snippet": "Godeal24’s Back-to-School Sale brings Microsoft Office 2024 from $22.99 and Windows 11 Pro + Office 2024 for just $35.94.",
       "snippet_zh": [
@@ -27414,14 +27414,14 @@
       ],
       "url": "https://www.gizchina.com/sponsored-2/godeal24-launches-back-to-school-sale-with-office-2024-from-2299-and-windows-office-for-3594",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:08:45.323Z"
+      "scrapedAt": "2026-10-05T03:53:29.889Z"
     },
     {
       "id": "giz-gta-6-is-so-big-that-gamers-are-already-taking-day",
       "source": "Gizchina",
       "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-09%2Fgta-vi-coming-soon-1788454047241-6a99a4a6bc6bf.jpg",
       "title": "GTA 6 Is So Big That Gamers Are Already Taking Days Off Work",
-      "title_zh": "GTA 6 Is So Big That Gamers Are Already Taking Days Off Work",
+      "title_zh": "《GTA 6》体量巨大，玩家已开始请假备战",
       "publishedAt": "2026-09-03T17:17:00.000Z",
       "snippet": "Gamers are booking days off work for GTA 6, while one US Army unit is even offering soldiers a four-day pass timed around the game's launch.",
       "snippet_zh": [
@@ -27429,14 +27429,14 @@
       ],
       "url": "https://www.gizchina.com/gaming/gta-6-is-so-big-that-gamers-are-already-taking-days-off-work",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:08:46.870Z"
+      "scrapedAt": "2026-10-05T03:53:31.435Z"
     },
     {
       "id": "giz-xiaomi-pad-9-pro-max-is-official-with-a-huge-133-i",
       "source": "Gizchina",
       "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-09%2Fimage-1788453442592-6a99a275740e7.jpg",
       "title": "Xiaomi Pad 9 Pro Max Is Official With a Huge 13.3-Inch Display",
-      "title_zh": "Xiaomi Pad 9 Pro Max Is Official With a Huge 13.3-Inch Display",
+      "title_zh": "小米平板9 Pro Max发布，配备13.3英寸巨屏",
       "publishedAt": "2026-09-03T16:37:00.000Z",
       "snippet": "Xiaomi Pad 9 Pro Max is official with a huge 13.3-inch display, Xring O3 chip, HyperOS 4, PC-level apps and support for 120W fast charging.",
       "snippet_zh": [
@@ -27444,14 +27444,14 @@
       ],
       "url": "https://www.gizchina.com/xiaomi-phones/xiaomi-pad-9-pro-max-is-official-with-a-huge-133-inch-display",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:08:48.417Z"
+      "scrapedAt": "2026-10-05T03:53:32.978Z"
     },
     {
       "id": "giz-iqoo-16-elevates-mobile-gaming-with-advanced-ray-t",
       "source": "Gizchina",
       "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-09%2Fimg20251107123724-scaled-6a99924a89c72.jpg",
       "title": "iQOO 16 Elevates Mobile Gaming with Advanced Ray Tracing and Q4 Chipset",
-      "title_zh": "iQOO 16 Elevates Mobile Gaming with Advanced Ray Tracing and Q4 Chipset",
+      "title_zh": "iQOO 16搭载先进光追与Q4芯片，提升移动游戏体验",
       "publishedAt": "2026-09-03T15:34:00.000Z",
       "snippet": "The iQOO 16 introduces industry-leading ray tracing and the self-developed Q4 chip, enabling console-grade visuals, 8K screenshots, and customizable gaming.",
       "snippet_zh": [
@@ -27459,14 +27459,14 @@
       ],
       "url": "https://www.gizchina.com/iqoo/iqoo-16-elevates-mobile-gaming-with-advanced-ray-tracing-and-q4-chipset",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:08:50.133Z"
+      "scrapedAt": "2026-10-05T03:53:34.519Z"
     },
     {
       "id": "giz-coloros-17-introduces-new-progressive-motion-effec",
       "source": "Gizchina",
       "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-09%2Fcleanshot-2026-08-10-at-19-6a98236229700.png",
       "title": "ColorOS 17 Introduces New Progressive Motion Effects for Notification and Control Center",
-      "title_zh": "ColorOS 17 Introduces New Progressive Motion Effects for Notification and Control Center",
+      "title_zh": "ColorOS 17引入通知与控制中心渐进式动效",
       "publishedAt": "2026-09-03T15:08:00.000Z",
       "snippet": "ColorOS 17 introduces new progressive motion effects for the notification and control center, featuring dynamic animations that adapt to user interaction directions.",
       "snippet_zh": [
@@ -27474,14 +27474,14 @@
       ],
       "url": "https://www.gizchina.com/oppo-phones-2/coloros-17-introduces-new-progressive-motion-effects-for-notification-and-control-center",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:08:51.676Z"
+      "scrapedAt": "2026-10-05T03:53:36.063Z"
     },
     {
       "id": "giz-iphone-fold-pre-order-details-and-pricing-revealed",
       "source": "Gizchina",
       "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-09%2Fliquid-metal-hinge-apple-fold-phone-6a9985cdbbd4a.jpg",
       "title": "iPhone Fold Pre-order Details and Pricing Revealed by Vodafone Australia",
-      "title_zh": "iPhone Fold Pre-order Details and Pricing Revealed by Vodafone Australia",
+      "title_zh": "沃达丰澳大利亚曝光iPhone Fold预购详情及定价",
       "publishedAt": "2026-09-03T14:42:00.000Z",
       "snippet": "Vodafone Australia reveals iPhone Fold pre-order date of September 12, 2026, with pricing starting at 3,699 AUD and an expected Chinese price of 14,999 RMB.",
       "snippet_zh": [
@@ -27489,14 +27489,14 @@
       ],
       "url": "https://www.gizchina.com/apple/iphone-fold-pre-order-details-and-pricing-revealed-by-vodafone-australia",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:08:53.223Z"
+      "scrapedAt": "2026-10-05T03:53:37.605Z"
     },
     {
       "id": "giz-xiaomi-18-fold-officially-confirmed-with-leica-pro",
       "source": "Gizchina",
       "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-09%2Fimage-1788334025599-6a97cfcf6a362.jpg",
       "title": "Xiaomi 18 Fold Officially Confirmed with Leica Professional Triple Camera System",
-      "title_zh": "Xiaomi 18 Fold Officially Confirmed with Leica Professional Triple Camera System",
+      "title_zh": "小米18 Fold官宣：搭载徕卡专业三摄系统",
       "publishedAt": "2026-09-03T08:59:00.000Z",
       "snippet": "Xiaomi 18 Fold is officially confirmed to feature a Leica professional triple camera system, including a 200MP main sensor and Leica Summilux lenses.",
       "snippet_zh": [
@@ -27504,14 +27504,14 @@
       ],
       "url": "https://www.gizchina.com/xiaomi-tablets-tech/xiaomi-18-fold-officially-confirmed-with-leica-professional-triple-camera-system",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:08:54.765Z"
+      "scrapedAt": "2026-10-05T03:53:39.145Z"
     },
     {
       "id": "giz-one-ui-9-beta-is-now-available-for-more-samsung-ga",
       "source": "Gizchina",
       "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-03%2Fone-ui-9-69b860a85d2b6.jpg",
       "title": "One UI 9 Beta Is Now Available for More Samsung Galaxy Phones",
-      "title_zh": "One UI 9 Beta Is Now Available for More Samsung Galaxy Phones",
+      "title_zh": "One UI 9 Beta现已面向更多三星Galaxy手机开放",
       "publishedAt": "2026-09-03T06:57:00.000Z",
       "snippet": "Samsung is expanding the One UI 9 beta to more Galaxy phones, including the S25, S24, Z Fold 7, Z Flip 7, Z Fold 6 and Galaxy A57 5G.",
       "snippet_zh": [
@@ -27519,7 +27519,7 @@
       ],
       "url": "https://www.gizchina.com/samsung/one-ui-9-beta-is-now-available-for-more-samsung-galaxy-phones",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:08:56.313Z"
+      "scrapedAt": "2026-10-05T03:53:40.691Z"
     },
     {
       "id": "vb-nvidia-hugging-face-hpe-surge",
@@ -27714,7 +27714,7 @@
       ],
       "url": "https://www.gizchina.com/tecno/tecno-at-ifa-2026-360-degree-laptops-true-zero-bezel-concepts-and-lamborghini-collaborations",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:08:35.277Z"
+      "scrapedAt": "2026-10-05T03:53:20.618Z"
     },
     {
       "id": "giz-oppo-find-x10-series-to-feature-advanced-color-pal",
@@ -27729,7 +27729,7 @@
       ],
       "url": "https://www.gizchina.com/oppo-phones-2/oppo-find-x10-series-to-feature-advanced-color-palette-and-portrait-skin-tone-protection",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:08:36.818Z"
+      "scrapedAt": "2026-10-05T03:53:22.162Z"
     },
     {
       "id": "giz-iqoo-16-real-device-design-leaked-featuring-a-futu",
@@ -27744,7 +27744,7 @@
       ],
       "url": "https://www.gizchina.com/iqoo/iqoo-16-real-device-design-leaked-featuring-a-futuristic-ufo-inspired-square-camera-module",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:08:39.134Z"
+      "scrapedAt": "2026-10-05T03:53:23.707Z"
     },
     {
       "id": "giz-oneplus-ace-7-leak-points-to-a-crazy-185hz-display",
@@ -27759,7 +27759,7 @@
       ],
       "url": "https://www.gizchina.com/oneplus-phones/oneplus-ace-7-leak-points-to-a-crazy-185hz-display-and-200mp-camera",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:08:40.679Z"
+      "scrapedAt": "2026-10-05T03:53:25.253Z"
     },
     {
       "id": "giz-infinix-hot-70-pro-launches-with-a-rear-display-an",
@@ -27774,14 +27774,14 @@
       ],
       "url": "https://www.gizchina.com/infinix/infinix-hot-70-pro-launches-with-a-rear-display-and-144hz-screen",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:08:42.227Z"
+      "scrapedAt": "2026-10-05T03:53:26.799Z"
     },
     {
       "id": "giz-xiaomi-18-fold-specs-leak-reveal-a-bright-4000-nit",
       "source": "Gizchina",
       "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-09%2Fimage-2026-09-04-001157130-6a9a36fecd21f.png",
       "title": "Xiaomi 18 Fold Specs Leak Reveal a Bright 4,000-Nit Display",
-      "title_zh": "Xiaomi 18 Fold Specs Leak Reveal a Bright 4,000-Nit Display",
+      "title_zh": "小米18 Fold配置曝光：搭载4000尼特高亮屏",
       "publishedAt": "2026-09-04T02:49:00.000Z",
       "snippet": "Xiaomi 18 Fold may feature 4,000-nit brightness, full RGB displays, dual-layer UTG and Dragon Crystal Glass 3.0 for a premium foldable experience.",
       "snippet_zh": [
@@ -27789,7 +27789,7 @@
       ],
       "url": "https://www.gizchina.com/xiaomi-tablets-tech/xiaomi-18-fold-specs-leak-reveal-a-bright-4000-nit-display",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:08:43.776Z"
+      "scrapedAt": "2026-10-05T03:53:28.348Z"
     },
     {
       "id": "tv-earth-garden-globe-field-recordings",
@@ -27924,7 +27924,7 @@
       ],
       "url": "https://www.gizchina.com/gmktec/gmktec-evo-x5-pro-brings-300b-parameter-local-ai-to-the-desktop-at-ifa-2026",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:08:30.228Z"
+      "scrapedAt": "2026-10-05T03:53:15.983Z"
     },
     {
       "id": "giz-xiaomi-pad-9-pro-max-can-turn-into-a-133-inch-seco",
@@ -27939,7 +27939,7 @@
       ],
       "url": "https://www.gizchina.com/xiaomi-phones/xiaomi-pad-9-pro-max-can-turn-into-a-133-inch-second-monitor-heres-how",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:08:31.774Z"
+      "scrapedAt": "2026-10-05T03:53:17.525Z"
     },
     {
       "id": "giz-iphone-ultra-price-leak-makes-the-iphone-18-pro-lo",
@@ -27954,7 +27954,7 @@
       ],
       "url": "https://www.gizchina.com/apple/iphone-ultra-price-leak-makes-the-iphone-18-pro-look-almost-cheap",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:08:33.319Z"
+      "scrapedAt": "2026-10-05T03:53:19.071Z"
     },
     {
       "id": "tv-seattle-times-newsday-lawsuit-openai-microsoft",
@@ -28074,7 +28074,7 @@
       ],
       "url": "https://www.gizchina.com/nintendo/nintendo-nes-retro-hardware-revived-to-monitor-global-flights-in-real-time",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:08:25.586Z"
+      "scrapedAt": "2026-10-05T03:53:11.342Z"
     },
     {
       "id": "giz-xiaomi-18-fold-specifications-revealed-with-xuanji",
@@ -28089,7 +28089,7 @@
       ],
       "url": "https://www.gizchina.com/xiaomi-tablets-tech/xiaomi-18-fold-specifications-revealed-with-xuanjie-o3-and-leica-cameras",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:08:27.133Z"
+      "scrapedAt": "2026-10-05T03:53:12.881Z"
     },
     {
       "id": "giz-vivo-x500-pro-max-just-broke-4000-points-on-geekbe",
@@ -28104,7 +28104,7 @@
       ],
       "url": "https://www.gizchina.com/vivo-phones/vivo-x500-pro-max-just-broke-4000-points-on-geekbench",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:08:28.675Z"
+      "scrapedAt": "2026-10-05T03:53:14.433Z"
     },
     {
       "id": "vb-south-korea-eyes-22-3-billion-energy-investment",
@@ -28306,7 +28306,7 @@
       "source": "Gizchina",
       "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-09%2Fchuwi-unibox-ai495-pro-picture-6a9f4d5eed289.jpg",
       "title": "CHUWI UniBox AI495 Pro Debuts With Ryzen AI Max+ PRO 495 and Up to 192GB Unified Memory",
-      "title_zh": "CHUWI UniBox AI495 Pro Debuts With Ryzen AI Max+ PRO 495 and Up to 192GB Unified Memory",
+      "title_zh": "酷比魔方UniBox AI495 Pro首发：锐龙AI Max+ 495，192GB内存",
       "publishedAt": "2026-09-08T00:21:00.000Z",
       "snippet": "The CHUWI UniBox AI495 Pro and the AI395 have been unveiled with Ryzen AI Max chips, up to 192GB of unified memory, and support for massive local AI models.",
       "snippet_zh": [
@@ -28314,14 +28314,14 @@
       ],
       "url": "https://www.gizchina.com/chuwi/chuwi-unibox-ai495-pro-debuts-with-ryzen-ai-max-pro-495-and-up-to-192gb-unified-memory",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:08:10.294Z"
+      "scrapedAt": "2026-10-05T03:52:57.448Z"
     },
     {
       "id": "giz-tecno-camon-slim-5g-debuts-with-639mm-body-6000mah",
       "source": "Gizchina",
       "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-09%2Fimage-2026-09-07-113147182-6a9ecaed50590.png",
       "title": "TECNO CAMON Slim 5G Debuts With 6.39mm Body, 6,000mAh Battery and Sony LYTIA Camera",
-      "title_zh": "TECNO CAMON Slim 5G Debuts With 6.39mm Body, 6,000mAh Battery and Sony LYTIA Camera",
+      "title_zh": "传音CAMON Slim 5G发布：6.39mm机身，6000mAh电池，索尼LYTIA相机",
       "publishedAt": "2026-09-07T14:22:00.000Z",
       "snippet": "TECNO CAMON Slim 5G launches with a 6.39mm body, 6,000mAh battery, 50MP Sony LYTIA camera, 144Hz AMOLED display, and AI features.",
       "snippet_zh": [
@@ -28329,14 +28329,14 @@
       ],
       "url": "https://www.gizchina.com/tecno/tecno-camon-slim-5g-debuts-with-639mm-body-6000mah-battery-and-sony-lytia-camera",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:08:12.357Z"
+      "scrapedAt": "2026-10-05T03:52:58.994Z"
     },
     {
       "id": "giz-iphone-18-pro-and-pro-max-price-leak-reveals-expec",
       "source": "Gizchina",
       "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-07%2Fiphone-18-pro-deep-red-feature-l-large-6a48d9b64c267.jpg",
       "title": "iPhone 18 Pro and Pro Max Price Leak Reveals Expected Costs and Storage Tiers",
-      "title_zh": "iPhone 18 Pro and Pro Max Price Leak Reveals Expected Costs and Storage Tiers",
+      "title_zh": "iPhone 18 Pro/Pro Max价格泄露：成本与存储配置曝光",
       "publishedAt": "2026-09-07T10:48:00.000Z",
       "snippet": "Explore the leaked pricing for the upcoming iPhone 18 Pro and iPhone 18 Pro Max models, featuring storage tiers ranging from 256GB to 2TB.",
       "snippet_zh": [
@@ -28344,14 +28344,14 @@
       ],
       "url": "https://www.gizchina.com/apple/iphone-18-pro-and-pro-max-price-leak-reveals-expected-costs-and-storage-tiers",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:08:13.898Z"
+      "scrapedAt": "2026-10-05T03:53:00.541Z"
     },
     {
       "id": "giz-huawei-prepares-for-major-launch-event-featuring-h",
       "source": "Gizchina",
       "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-09%2F03cbb329778e5e1e52006a6dd91dfc9e1787222045-6a9e931888aac.jpg",
       "title": "Huawei Prepares for Major Launch Event Featuring HarmonyOS 7 and HUAWEI Mate XT 2",
-      "title_zh": "Huawei Prepares for Major Launch Event Featuring HarmonyOS 7 and HUAWEI Mate XT 2",
+      "title_zh": "华为将举行",
       "publishedAt": "2026-09-07T10:34:00.000Z",
       "snippet": "Huawei is preparing for a major launch event at 14:30 featuring HarmonyOS 7, the HUAWEI Mate XT 2, a three-fold device, and full-scenario products.",
       "snippet_zh": [
@@ -28359,7 +28359,7 @@
       ],
       "url": "https://www.gizchina.com/huawei/huawei-prepares-for-major-launch-event-featuring-harmonyos-7-and-huawei-mate-xt-2",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:08:15.443Z"
+      "scrapedAt": "2026-10-05T03:53:02.086Z"
     },
     {
       "id": "giz-huawei-harmonyos-7-introduces-new-hyperspace-stora",
@@ -28374,7 +28374,7 @@
       ],
       "url": "https://www.gizchina.com/harmonyos/huawei-harmonyos-7-introduces-new-hyperspace-storage-technology-saving-up-to-109gb-on-1tb-models",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:08:16.986Z"
+      "scrapedAt": "2026-10-05T03:53:03.628Z"
     },
     {
       "id": "giz-oneplus-16-to-feature-massive-9000mah-battery-and-",
@@ -28389,7 +28389,7 @@
       ],
       "url": "https://www.gizchina.com/oneplus-phones/oneplus-16-to-feature-massive-9000mah-battery-and-advanced-charging-tech",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:08:18.947Z"
+      "scrapedAt": "2026-10-05T03:53:05.167Z"
     },
     {
       "id": "giz-huawei-mate-xt2-pricing-leaked-configurations-and-",
@@ -28404,7 +28404,7 @@
       ],
       "url": "https://www.gizchina.com/huawei/huawei-mate-xt2-pricing-leaked-configurations-and-costs-revealed",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:08:20.494Z"
+      "scrapedAt": "2026-10-05T03:53:06.710Z"
     },
     {
       "id": "giz-originos-7-beta-is-now-open-for-these-14-vivo-and-",
@@ -28419,7 +28419,7 @@
       ],
       "url": "https://www.gizchina.com/vivo-phones/originos-7-beta-is-now-open-for-these-14-vivo-and-iqoo-devices",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:08:22.039Z"
+      "scrapedAt": "2026-10-05T03:53:08.254Z"
     },
     {
       "id": "giz-oppo-find-x10-series-is-coming-this-month-with-a-n",
@@ -28434,7 +28434,7 @@
       ],
       "url": "https://www.gizchina.com/oppo-phones-2/oppo-find-x10-series-is-coming-this-month-with-a-new-design",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:08:24.039Z"
+      "scrapedAt": "2026-10-05T03:53:09.798Z"
     },
     {
       "id": "vb-poseidon-aerospace-raises-60-million-pilotless-tes",
@@ -28734,7 +28734,7 @@
       ],
       "url": "https://www.gizchina.com/oppo-phones-2/oppo-a7-pro-launches-with-a-huge-8000mah-battery-and-ip69k-protection",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:08:05.638Z"
+      "scrapedAt": "2026-10-05T03:52:52.810Z"
     },
     {
       "id": "giz-xiaomi-skynomad-n70-shows-its-colors-and-this-suv-",
@@ -28749,7 +28749,7 @@
       ],
       "url": "https://www.gizchina.com/xiaomi-phones/xiaomi-skynomad-n70-shows-its-colors-and-this-suv-looks-huge",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:08:07.194Z"
+      "scrapedAt": "2026-10-05T03:52:54.349Z"
     },
     {
       "id": "giz-tecno-camon-slim-5g-review-this-thin-phone-is-bett",
@@ -28764,7 +28764,7 @@
       ],
       "url": "https://www.gizchina.com/reviews/tecno-camon-slim-5g-review-this-thin-phone-is-better-than-i-expected",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:08:08.739Z"
+      "scrapedAt": "2026-10-05T03:52:55.902Z"
     },
     {
       "id": "vb-openai-and-samsung-deepen-chip-enterprise-partners",
@@ -29064,7 +29064,7 @@
       ],
       "url": "https://www.gizchina.com/apple/apple-watch-series-12-and-ultra-4-launch-with-new-health-features",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:07:49.994Z"
+      "scrapedAt": "2026-10-05T03:52:38.880Z"
     },
     {
       "id": "giz-ios-27-release-date-is-official-apple-users-only-h",
@@ -29079,7 +29079,7 @@
       ],
       "url": "https://www.gizchina.com/apple/ios-27-release-date-is-official-apple-users-only-have-a-few-days-to-wait",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:07:52.034Z"
+      "scrapedAt": "2026-10-05T03:52:40.426Z"
     },
     {
       "id": "giz-iphone-18-pro-and-pro-max-are-here-with-a20-pro-an",
@@ -29094,7 +29094,7 @@
       ],
       "url": "https://www.gizchina.com/apple/iphone-18-pro-and-pro-max-are-here-with-a20-pro-and-variable-aperture",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:07:53.582Z"
+      "scrapedAt": "2026-10-05T03:52:41.983Z"
     },
     {
       "id": "giz-apple-finally-launches-the-iphone-duo-its-first-fo",
@@ -29109,7 +29109,7 @@
       ],
       "url": "https://www.gizchina.com/apple/apple-finally-launches-the-iphone-duo-its-first-foldable-iphone-is-here",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:07:55.124Z"
+      "scrapedAt": "2026-10-05T03:52:43.529Z"
     },
     {
       "id": "giz-honor-magic-9-pro-max-camera-samples-show-some-cra",
@@ -29124,7 +29124,7 @@
       ],
       "url": "https://www.gizchina.com/honor/honor-magic-9-pro-max-camera-samples-show-some-crazy-zoom",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:07:56.674Z"
+      "scrapedAt": "2026-10-05T03:52:45.086Z"
     },
     {
       "id": "giz-wechat-ios-newest-official-version-released-with-n",
@@ -29139,7 +29139,7 @@
       ],
       "url": "https://www.gizchina.com/ai/wechat-ios-newest-official-version-released-with-new-features",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:07:58.222Z"
+      "scrapedAt": "2026-10-05T03:52:46.628Z"
     },
     {
       "id": "giz-honor-magic9-series-launches-on-september-28-with-",
@@ -29154,7 +29154,7 @@
       ],
       "url": "https://www.gizchina.com/honor-2/honor-magic9-series-launches-on-september-28-with-a-very-different-design",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:07:59.769Z"
+      "scrapedAt": "2026-10-05T03:52:48.174Z"
     },
     {
       "id": "giz-iphone-18-pro-price-leak-brings-good-news-but-the-",
@@ -29169,7 +29169,7 @@
       ],
       "url": "https://www.gizchina.com/apple/iphone-18-pro-price-leak-brings-good-news-but-the-iphone-duo-steals-the-show",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:08:01.321Z"
+      "scrapedAt": "2026-10-05T03:52:49.722Z"
     },
     {
       "id": "giz-mediatek-confirms-dimensity-9600-pro-launch-date-w",
@@ -29184,7 +29184,7 @@
       ],
       "url": "https://www.gizchina.com/mediatek/mediatek-confirms-dimensity-9600-pro-launch-date-with-focus-on-gaming-and-ai",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:08:03.773Z"
+      "scrapedAt": "2026-10-05T03:52:51.270Z"
     },
     {
       "id": "vb-unipat-raises-300-million-for-ai-testing-benchmark",
@@ -29446,7 +29446,7 @@
       "source": "Gizchina",
       "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-09%2Fiphone-18-pro-is-displayed-in-black-silver-glaci-1788981305162-6aa1b074402cb.jpg",
       "title": "Apple iPhone 18 Pro Features Significantly Faster Charging Speeds with New 40W Dynamic Power Adapter",
-      "title_zh": "Apple iPhone 18 Pro Features Significantly Faster Charging Speeds with New 40W Dynamic Power Adapter",
+      "title_zh": "iPhone 18 Pro充电大提速，配备全新40W动态电源适配器",
       "publishedAt": "2026-09-10T14:30:00.000Z",
       "snippet": "Discover how the new iPhone 18 Pro achieves blazing fast charging speeds using Apple's specialized 40W dynamic power adapter and USB-C cable.",
       "snippet_zh": [
@@ -29454,14 +29454,14 @@
       ],
       "url": "https://www.gizchina.com/apple/apple-iphone-18-pro-features-significantly-faster-charging-speeds-with-new-40w-dynamic-power-adapter",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:07:40.735Z"
+      "scrapedAt": "2026-10-05T03:52:29.610Z"
     },
     {
       "id": "giz-coloros-17-is-coming-these-oppo-phones-should-get-",
       "source": "Gizchina",
       "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-09%2Fcoloros-17-update-roundup-expected-release-timeli-1789040097153-6aa295e75ed2f.jpg",
       "title": "ColorOS 17 Is Coming: These OPPO Phones Should Get the Android 17 Update",
-      "title_zh": "ColorOS 17 Is Coming: These OPPO Phones Should Get the Android 17 Update",
+      "title_zh": "ColorOS 17将至，这些OPPO手机有望升级安卓17",
       "publishedAt": "2026-09-10T11:31:00.000Z",
       "snippet": "ColorOS 17 launches September 17 with Android 17, smoother animations and new AI features. Here are the OPPO phones expected to receive the update.",
       "snippet_zh": [
@@ -29469,14 +29469,14 @@
       ],
       "url": "https://www.gizchina.com/oppo-phones-2/coloros-17-is-coming-these-oppo-phones-should-get-the-android-17-update",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:07:42.277Z"
+      "scrapedAt": "2026-10-05T03:52:31.154Z"
     },
     {
       "id": "giz-vivo-x500-leaks-with-a-completely-different-camera",
       "source": "Gizchina",
       "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-09%2Fimage-1789032237589-6aa277ff2468e.jpg",
       "title": "Vivo X500 Leaks With a Completely Different Camera Design",
-      "title_zh": "Vivo X500 Leaks With a Completely Different Camera Design",
+      "title_zh": "Vivo X500曝光",
       "publishedAt": "2026-09-10T09:18:00.000Z",
       "snippet": "Vivo X500 appears in new images with a redesigned circular camera module, a flat 6.59-inch display and a different chipset from the X500 Pro models.",
       "snippet_zh": [
@@ -29484,7 +29484,7 @@
       ],
       "url": "https://www.gizchina.com/vivo-phones/vivo-x500-leaks-with-a-completely-different-camera-design",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:07:43.821Z"
+      "scrapedAt": "2026-10-05T03:52:32.705Z"
     },
     {
       "id": "giz-oppo-find-x10-could-set-a-new-bezel-record-with-09",
@@ -29499,7 +29499,7 @@
       ],
       "url": "https://www.gizchina.com/oppo-phones-2/oppo-find-x10-could-set-a-new-bezel-record-with-099mm-bezels",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:07:45.363Z"
+      "scrapedAt": "2026-10-05T03:52:34.247Z"
     },
     {
       "id": "giz-iphone-duo-vs-galaxy-z-fold-8-apple-is-late-but-di",
@@ -29514,7 +29514,7 @@
       ],
       "url": "https://www.gizchina.com/apple/iphone-duo-vs-galaxy-z-fold-8-apple-is-late-but-did-it-build-the-better-foldable",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:07:46.907Z"
+      "scrapedAt": "2026-10-05T03:52:35.789Z"
     },
     {
       "id": "giz-apple-a20-pro-gpu-benchmark-scores-leak-revealing-",
@@ -29529,7 +29529,7 @@
       ],
       "url": "https://www.gizchina.com/apple/apple-a20-pro-gpu-benchmark-scores-leak-revealing-impressive-geekbench-6-metal-performance",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:07:48.449Z"
+      "scrapedAt": "2026-10-05T03:52:37.338Z"
     },
     {
       "id": "vb-clay-raises-115-million-to-build-ai-sales-teams",
@@ -29739,7 +29739,7 @@
       ],
       "url": "https://www.gizchina.com/vivo-phones/vivo-originos-7-launches-september-16-with-android-17-and-liquid-glass-ui",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:07:34.524Z"
+      "scrapedAt": "2026-10-05T03:52:23.426Z"
     },
     {
       "id": "giz-iphone-18-pro-series-pre-orders-open-saturday-nigh",
@@ -29754,14 +29754,14 @@
       ],
       "url": "https://www.gizchina.com/apple/iphone-18-pro-series-pre-orders-open-saturday-night-with-new-color-choices",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:07:36.079Z"
+      "scrapedAt": "2026-10-05T03:52:24.969Z"
     },
     {
       "id": "giz-mangoal-4k-oem-style-dash-cam-review-the-dash-cam-",
       "source": "Gizchina",
       "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-09%2Fscreen-shot-2026-09-05-at-14-13-52-pm-copy-1789120474845-6aa3d04a6467d.jpg",
       "title": "Mangoal 4K OEM Style Dash Cam Review: The Dash Cam That Looks Factory-Fitted and Does its Job!",
-      "title_zh": "Mangoal 4K OEM Style Dash Cam Review: The Dash Cam That Looks Factory-Fitted and Does its Job!",
+      "title_zh": "Mangoal 4K OEM行车记录仪评测：原厂风格，表现称职",
       "publishedAt": "2026-09-11T10:05:00.000Z",
       "snippet": "We review the Mangoal 4K OEM Style Dash Cam in an Alfa Romeo Tonale, testing its discreet factory-like design, 4K video, Wi-Fi, GPS and parking mode.",
       "snippet_zh": [
@@ -29769,14 +29769,14 @@
       ],
       "url": "https://www.gizchina.com/reviews/mangoal-4k-oem-style-dash-cam-review-the-dash-cam-that-looks-factory-fitted-and-does-its-job",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:07:37.636Z"
+      "scrapedAt": "2026-10-05T03:52:26.520Z"
     },
     {
       "id": "giz-oppo-find-x10-series-gets-major-camera-upgrades-wi",
       "source": "Gizchina",
       "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-09%2Fimage-2026-09-10-235535973-6aa36da993fdc.png",
       "title": "Oppo Find X10 Series Gets Major Camera Upgrades With Dual 200MP Cameras",
-      "title_zh": "Oppo Find X10 Series Gets Major Camera Upgrades With Dual 200MP Cameras",
+      "title_zh": "OPPO Find X10系列相机大升级，搭载双2亿像素",
       "publishedAt": "2026-09-11T02:57:00.000Z",
       "snippet": "Oppo Find X10 and Find X10 Pro Max bring dual and triple 200MP cameras, OpenGate video, Blackmagic integration, and 8,000mAh batteries.",
       "snippet_zh": [
@@ -29784,7 +29784,7 @@
       ],
       "url": "https://www.gizchina.com/oppo-phones-2/oppo-find-x10-series-gets-major-camera-upgrades-with-dual-200mp-cameras",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:07:39.184Z"
+      "scrapedAt": "2026-10-05T03:52:28.067Z"
     },
     {
       "id": "tv-openais-rogue-ai-rubygems-hack",
@@ -29949,7 +29949,7 @@
       ],
       "url": "https://www.gizchina.com/xiaomi-phones/hyperos-4-global-beta-is-here-these-xiaomi-phones-get-it-first",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:07:28.342Z"
+      "scrapedAt": "2026-10-05T03:52:17.238Z"
     },
     {
       "id": "giz-xiaomi-18-fold-is-already-a-hit-with-sales-up-310",
@@ -29964,7 +29964,7 @@
       ],
       "url": "https://www.gizchina.com/xiaomi-phones/xiaomi-18-fold-is-already-a-hit-with-sales-up-310",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:07:29.889Z"
+      "scrapedAt": "2026-10-05T03:52:18.783Z"
     },
     {
       "id": "giz-spacex-starship-14th-flight-scheduled-for-septembe",
@@ -29979,7 +29979,7 @@
       ],
       "url": "https://www.gizchina.com/spacex/spacex-starship-14th-flight-scheduled-for-september-18",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:07:31.436Z"
+      "scrapedAt": "2026-10-05T03:52:20.328Z"
     },
     {
       "id": "giz-honor-magic9-super-edition-to-bring-an-11000mah-ba",
@@ -29994,7 +29994,7 @@
       ],
       "url": "https://www.gizchina.com/honor-2/honor-magic9-super-edition-to-bring-an-11000mah-battery-and-165hz-display",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:07:32.986Z"
+      "scrapedAt": "2026-10-05T03:52:21.877Z"
     },
     {
       "id": "tv-trump-mike-johnson-ai-industry-overreacting",
@@ -30114,7 +30114,7 @@
       ],
       "url": "https://www.gizchina.com/oppo-phones-2/oppo-find-x10-series-design-and-launch-date-have-been-revealed",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:07:26.797Z"
+      "scrapedAt": "2026-10-05T03:52:15.697Z"
     },
     {
       "id": "vb-temporal-raises-550m-ai-infrastructure",
@@ -30324,7 +30324,7 @@
       ],
       "url": "https://www.gizchina.com/oppo-phones-2/oppo-find-x10-series-brings-a-new-focus-on-eye-protection-with-1-nit-displays",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:07:16.738Z"
+      "scrapedAt": "2026-10-05T03:52:06.440Z"
     },
     {
       "id": "giz-coloros-17-official-promotional-video-highlights-n",
@@ -30339,7 +30339,7 @@
       ],
       "url": "https://www.gizchina.com/oppo-phones-2/coloros-17-official-promotional-video-highlights-new-fluid-design-and-light-visual-effects",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:07:18.280Z"
+      "scrapedAt": "2026-10-05T03:52:07.981Z"
     },
     {
       "id": "giz-what-to-expect-today-from-the-ios-27-official-vers",
@@ -30354,7 +30354,7 @@
       ],
       "url": "https://www.gizchina.com/apple/what-to-expect-today-from-the-ios-27-official-version",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:07:19.828Z"
+      "scrapedAt": "2026-10-05T03:52:09.528Z"
     },
     {
       "id": "giz-unfortunately-oneplus-16-could-be-a-china-only-fla",
@@ -30369,7 +30369,7 @@
       ],
       "url": "https://www.gizchina.com/oneplus-phones/unfortunately-oneplus-16-could-be-a-china-only-flagship",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:07:21.376Z"
+      "scrapedAt": "2026-10-05T03:52:11.071Z"
     },
     {
       "id": "giz-this-is-the-worlds-first-phone-with-a-2k-165hz-dis",
@@ -30384,7 +30384,7 @@
       ],
       "url": "https://www.gizchina.com/iqoo/this-is-the-worlds-first-phone-with-a-2k-165hz-display",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:07:23.091Z"
+      "scrapedAt": "2026-10-05T03:52:12.608Z"
     },
     {
       "id": "giz-macos-27-ipados-27-and-watchos-27-are-out-today-ch",
@@ -30399,7 +30399,7 @@
       ],
       "url": "https://www.gizchina.com/apple/macos-27-ipados-27-and-watchos-27-are-out-today-check-your-device",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:07:24.632Z"
+      "scrapedAt": "2026-10-05T03:52:14.149Z"
     },
     {
       "id": "vb-jack-jill-raises-40-million-for-ai-hiring-agents",
@@ -30646,7 +30646,7 @@
       "source": "Gizchina",
       "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-09%2Fimage-1789495897730-6aa98a65c6708.jpg",
       "title": "Samsung Galaxy A08 Arrives With a 6,000mAh Battery and Six Years of Updates",
-      "title_zh": "Samsung Galaxy A08 Arrives With a 6,000mAh Battery and Six Years of Updates",
+      "title_zh": "三星Galaxy A08发布：6000mAh电池，六年系统更新",
       "publishedAt": "2026-09-15T18:45:00.000Z",
       "snippet": "Samsung Galaxy A08 finally arrives with a 6,000mAh battery, 90Hz display, Helio G99 chip and six generations of Android updates.",
       "snippet_zh": [
@@ -30654,14 +30654,14 @@
       ],
       "url": "https://www.gizchina.com/samsung/samsung-galaxy-a08-arrives-with-a-6000mah-battery-and-six-years-of-updates",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:07:07.217Z"
+      "scrapedAt": "2026-10-05T03:51:58.716Z"
     },
     {
       "id": "giz-oneplus-n6-lite-is-coming-next-week-with-a-huge-70",
       "source": "Gizchina",
       "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-09%2Fgsmarena-003-1789495306087-6aa9888e60af9.jpg",
       "title": "OnePlus N6 Lite Is Coming Next Week With a Huge 7,000mAh Battery",
-      "title_zh": "OnePlus N6 Lite Is Coming Next Week With a Huge 7,000mAh Battery",
+      "title_zh": "一加N6 Lite下周发布，配备7000mAh超大电池",
       "publishedAt": "2026-09-15T18:01:00.000Z",
       "snippet": "OnePlus N6 Lite seemingly launches in India on September 22 with a 7,000mAh battery, 120Hz display, Aqua Touch and MIL-STD-810H durability.",
       "snippet_zh": [
@@ -30669,14 +30669,14 @@
       ],
       "url": "https://www.gizchina.com/oneplus-phones/oneplus-n6-lite-is-coming-next-week-with-a-huge-7000mah-battery",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:07:09.430Z"
+      "scrapedAt": "2026-10-05T03:52:00.263Z"
     },
     {
       "id": "giz-did-you-find-apples-mac-easter-egg-inside-ios-27-i",
       "source": "Gizchina",
       "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-09%2Fios27-6aa7a4c18d125.jpg",
       "title": "Did you find Apple's Mac Easter egg Inside iOS 27? I did!",
-      "title_zh": "Did you find Apple's Mac Easter egg Inside iOS 27? I did!",
+      "title_zh": "你在iOS 27中发现苹果Mac彩蛋了吗？",
       "publishedAt": "2026-09-15T09:56:00.000Z",
       "snippet": "Did you find it? Apple hid Clarus the Dogcow inside the new Liquid Glass settings in iOS 27, along with a fun \"Moof!\" surprise for Mac fans.",
       "snippet_zh": [
@@ -30684,14 +30684,14 @@
       ],
       "url": "https://www.gizchina.com/apple/did-you-find-apples-mac-easter-egg-inside-ios-27-i-did",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:07:10.973Z"
+      "scrapedAt": "2026-10-05T03:52:01.807Z"
     },
     {
       "id": "giz-redmi-note-17-pro-max-review-the-battery-monster-i",
       "source": "Gizchina",
       "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-09%2Fimg-0316-6aa81b1f475b0.JPG",
       "title": "Redmi Note 17 Pro Max Review: The Battery Monster I Could Actually Live With",
-      "title_zh": "Redmi Note 17 Pro Max Review: The Battery Monster I Could Actually Live With",
+      "title_zh": "红米Note 17 Pro Max评测：续航怪兽，值得拥有",
       "publishedAt": "2026-09-15T09:15:00.000Z",
       "snippet": "My Redmi Note 17 Pro Max review looks at its huge battery, bright AMOLED display, 100W charging, cameras, performance, and daily use.",
       "snippet_zh": [
@@ -30699,14 +30699,14 @@
       ],
       "url": "https://www.gizchina.com/reviews/redmi-note-17-pro-max-review-the-battery-monster-i-could-actually-live-with",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:07:12.891Z"
+      "scrapedAt": "2026-10-05T03:52:03.354Z"
     },
     {
       "id": "giz-honor-magic-9-pro-max-hits-geekbench-with-snapdrag",
       "source": "Gizchina",
       "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-09%2Fhonor-magic-9-pro-max-launch-6aa4be70a07d5.jpg",
       "title": "Honor Magic 9 Pro Max Hits Geekbench With Snapdragon 8 Elite Gen 6 Pro",
-      "title_zh": "Honor Magic 9 Pro Max Hits Geekbench With Snapdragon 8 Elite Gen 6 Pro",
+      "title_zh": "荣耀Magic 9 Pro Max现身Geekbench，搭载骁龙",
       "publishedAt": "2026-09-15T08:30:00.000Z",
       "snippet": "Honor Magic 9 Pro Max finally appears on Geekbench with the Snapdragon 8 Elite Gen 6 Pro, 16GB RAM and a 5.01GHz CPU ahead of launch. Read more inside.",
       "snippet_zh": [
@@ -30714,7 +30714,7 @@
       ],
       "url": "https://www.gizchina.com/honor-2/honor-magic-9-pro-max-hits-geekbench-with-snapdragon-8-elite-gen-6-pro",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:07:14.433Z"
+      "scrapedAt": "2026-10-05T03:52:04.895Z"
     },
     {
       "id": "vb-hang-ten-systems-raises-53m-enterprise-ai",
@@ -31059,7 +31059,7 @@
       ],
       "url": "https://www.gizchina.com/tecno/tecno-pova-8-pro-5g-tonino-lamborghini-edition-turns-mechanical-design-into-a-smartphone",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:06:58.360Z"
+      "scrapedAt": "2026-10-05T03:51:51.003Z"
     },
     {
       "id": "giz-sam-altman-says-ai-accidents-are-unavoidable",
@@ -31074,7 +31074,7 @@
       ],
       "url": "https://www.gizchina.com/openai/sam-altman-says-ai-accidents-are-unavoidable",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:06:59.912Z"
+      "scrapedAt": "2026-10-05T03:51:52.547Z"
     },
     {
       "id": "giz-these-gadget-deals-are-worth-checking-out-today",
@@ -31089,14 +31089,14 @@
       ],
       "url": "https://www.gizchina.com/deals/these-gadget-deals-are-worth-checking-out-today",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:07:01.453Z"
+      "scrapedAt": "2026-10-05T03:51:54.092Z"
     },
     {
       "id": "giz-xiaomi-18-pros-rear-screen-can-now-create-its-own-",
       "source": "Gizchina",
       "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-09%2Fimage-1789544441018-6aaa4800eafd8.jpg",
       "title": "Xiaomi 18 Pro’s Rear Screen Can Now Create Its Own AI Apps",
-      "title_zh": "Xiaomi 18 Pro’s Rear Screen Can Now Create Its Own AI Apps",
+      "title_zh": "小米18 Pro副屏可自创AI应用",
       "publishedAt": "2026-09-16T08:12:00.000Z",
       "snippet": "According to its first official teaser video, the Xiaomi 18 Pro gets a new rear screen that can create AI apps for timers, reminders, recipes and other daily tasks.",
       "snippet_zh": [
@@ -31104,14 +31104,14 @@
       ],
       "url": "https://www.gizchina.com/xiaomi-phones/xiaomi-18-pros-rear-screen-can-now-create-its-own-ai-apps",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:07:03.474Z"
+      "scrapedAt": "2026-10-05T03:51:55.632Z"
     },
     {
       "id": "giz-xiaomi-watch-s5-41mm-and-redmi-buds-8s-get-a-fresh",
       "source": "Gizchina",
       "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-09%2Fxiaomi-watch-s5-41mm-and-redmi-buds-8s-now-open-for-pre-order-3-6aaa4589114f9.jpg",
       "title": "Xiaomi Watch S5 41mm and Redmi Buds 8S Get a Fresh New Look",
-      "title_zh": "Xiaomi Watch S5 41mm and Redmi Buds 8S Get a Fresh New Look",
+      "title_zh": "小米手表S5 41mm与红米Buds 8S焕新登场",
       "publishedAt": "2026-09-16T07:15:00.000Z",
       "snippet": "Xiaomi teases the Watch S5 41mm and Redmi Buds 8S with new designs, colors, HyperOS 4 and up to 14 days of watch battery life.",
       "snippet_zh": [
@@ -31119,7 +31119,7 @@
       ],
       "url": "https://www.gizchina.com/xiaomi-phones/xiaomi-watch-s5-41mm-and-redmi-buds-8s-get-a-fresh-new-look",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:07:05.673Z"
+      "scrapedAt": "2026-10-05T03:51:57.176Z"
     },
     {
       "id": "vb-huawei-new-ai-chip-q1-2027-nvidia-rival",
@@ -31359,7 +31359,7 @@
       ],
       "url": "https://www.gizchina.com/oneplus-phones/oneplus-16-gets-3c-certification-with-100w-charging-and-9000mah-battery",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:06:44.937Z"
+      "scrapedAt": "2026-10-05T03:51:38.611Z"
     },
     {
       "id": "giz-iphone-18-pro-tested-with-15-minute-50-percent-fas",
@@ -31374,7 +31374,7 @@
       ],
       "url": "https://www.gizchina.com/apple/iphone-18-pro-tested-with-15-minute-50-percent-fast-charging-capabilities",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:06:46.486Z"
+      "scrapedAt": "2026-10-05T03:51:40.153Z"
     },
     {
       "id": "giz-xiaomi-hyperos-4-stable-update-these-devices-could",
@@ -31389,7 +31389,7 @@
       ],
       "url": "https://www.gizchina.com/xiaomi-phones/xiaomi-hyperos-4-stable-update-these-devices-could-get-it-first",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:06:48.029Z"
+      "scrapedAt": "2026-10-05T03:51:41.706Z"
     },
     {
       "id": "giz-this-amoled-smartwatch-costs-just-2499-and-it-even",
@@ -31404,7 +31404,7 @@
       ],
       "url": "https://www.gizchina.com/deals/this-amoled-smartwatch-costs-just-2499-and-it-even-lets-you-make-calls",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:06:49.623Z"
+      "scrapedAt": "2026-10-05T03:51:43.292Z"
     },
     {
       "id": "giz-huawei-mate-90-pro-max-leak-points-to-200mp-perisc",
@@ -31419,7 +31419,7 @@
       ],
       "url": "https://www.gizchina.com/huawei/huawei-mate-90-pro-max-leak-points-to-200mp-periscope-and-dual-layer-oled",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:06:51.164Z"
+      "scrapedAt": "2026-10-05T03:51:44.840Z"
     },
     {
       "id": "giz-oppo-find-x10-experience-focuses-on-ai-comfort-and",
@@ -31434,7 +31434,7 @@
       ],
       "url": "https://www.gizchina.com/oppo-phones-2/oppo-find-x10-experience-focuses-on-ai-comfort-and-smart-features",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:06:52.720Z"
+      "scrapedAt": "2026-10-05T03:51:46.383Z"
     },
     {
       "id": "giz-oneplus-16-confirmed-with-165hz-system-wide-refres",
@@ -31449,7 +31449,7 @@
       ],
       "url": "https://www.gizchina.com/oneplus-phones/oneplus-16-confirmed-with-165hz-system-wide-refresh-rate",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:06:55.079Z"
+      "scrapedAt": "2026-10-05T03:51:47.924Z"
     },
     {
       "id": "giz-honor-magicos-11-is-here-with-liquid-glass-design-",
@@ -31464,7 +31464,7 @@
       ],
       "url": "https://www.gizchina.com/honor-2/honor-magicos-11-is-here-with-liquid-glass-design-and-smarter-ai-full-list-of-compatible-devices",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:06:56.626Z"
+      "scrapedAt": "2026-10-05T03:51:49.464Z"
     },
     {
       "id": "vb-google-nvidia-emerald-ai-data-center-power-coaliti",
@@ -31696,7 +31696,7 @@
       "source": "Gizchina",
       "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-09%2F4-3-6aadec690cc16.jpg",
       "title": "TECNO Takes the POVA 8 Pro Tonino Lamborghini Edition Back to Its Italian Roots",
-      "title_zh": "TECNO Takes the POVA 8 Pro Tonino Lamborghini Edition Back to Its Italian Roots",
+      "title_zh": "传音POVA 8 Pro兰博基尼版回归意式本源",
       "publishedAt": "2026-09-19T02:49:00.000Z",
       "snippet": "TECNO takes the POVA 8 Pro 5G Tonino Lamborghini Edition to Bologna, showing how Italian design and Tonino Lamborghini's heritage shaped the smartphone.",
       "snippet_zh": [
@@ -31704,14 +31704,14 @@
       ],
       "url": "https://www.gizchina.com/tecno/tecno-takes-the-pova-8-pro-tonino-lamborghini-edition-back-to-its-italian-roots",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:06:35.653Z"
+      "scrapedAt": "2026-10-05T03:51:29.337Z"
     },
     {
       "id": "giz-honor-tablets-recorded-the-strongest-growth-among-",
       "source": "Gizchina",
       "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-09%2Fimage-2026-09-18-224235011-6aade8c39dd41.png",
       "title": "HONOR Tablets Recorded the Strongest Growth Among Android Brands in EMEA in Q2",
-      "title_zh": "HONOR Tablets Recorded the Strongest Growth Among Android Brands in EMEA in Q2",
+      "title_zh": "荣耀平板Q2在EMEA安卓品牌中增长最强劲",
       "publishedAt": "2026-09-19T01:47:00.000Z",
       "snippet": "HONOR tablet shipments grew 25.3% in EMEA in Q2 2026, making it the fastest-growing Android tablet brand despite a broader market decline.",
       "snippet_zh": [
@@ -31719,14 +31719,14 @@
       ],
       "url": "https://www.gizchina.com/honor/honor-tablets-recorded-the-strongest-growth-among-android-brands-in-emea-in-q2",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:06:37.192Z"
+      "scrapedAt": "2026-10-05T03:51:30.884Z"
     },
     {
       "id": "giz-arc-x1-is-a-new-gaming-handheld-with-android-aosp-",
       "source": "Gizchina",
       "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-09%2Fimage-1789728190871-6aad15c2a6fe8.jpg",
       "title": "ARC X1 Is a New Gaming Handheld With Android AOSP-based OwlOS and a 9,300mAh Battery",
-      "title_zh": "ARC X1 Is a New Gaming Handheld With Android AOSP-based OwlOS and a 9,300mAh Battery",
+      "title_zh": "ARC X1：安卓掌",
       "publishedAt": "2026-09-18T10:41:00.000Z",
       "snippet": "ARC X1 is a new Android gaming handheld with Snapdragon G2 Gen 2, a 7-inch 120Hz display, 9,300mAh battery and OwlOS. It was announced today and has a lot of potential.",
       "snippet_zh": [
@@ -31734,7 +31734,7 @@
       ],
       "url": "https://www.gizchina.com/gaming-console/arc-x1-is-a-new-gaming-handheld-with-android-aosp-based-owlos-and-a-9300mah-battery",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:06:38.739Z"
+      "scrapedAt": "2026-10-05T03:51:32.441Z"
     },
     {
       "id": "giz-coloros-17-update-timeline-is-here-check-when-your",
@@ -31749,7 +31749,7 @@
       ],
       "url": "https://www.gizchina.com/oppo-phones-2/coloros-17-update-timeline-is-here-check-when-your-oppo-oneplus-or-realme-phone-gets-android-17",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:06:40.286Z"
+      "scrapedAt": "2026-10-05T03:51:33.985Z"
     },
     {
       "id": "giz-oppo-find-x10-pro-max-camera-samples-show-what-its",
@@ -31764,7 +31764,7 @@
       ],
       "url": "https://www.gizchina.com/oppo-phones-2/oppo-find-x10-pro-max-camera-samples-show-what-its-200mp-telephoto-can-do",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:06:41.835Z"
+      "scrapedAt": "2026-10-05T03:51:35.531Z"
     },
     {
       "id": "giz-honor-700-pro-could-add-a-rear-screen-to-its-camer",
@@ -31779,7 +31779,7 @@
       ],
       "url": "https://www.gizchina.com/honor-2/honor-700-pro-could-add-a-rear-screen-to-its-camera-setup",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:06:43.386Z"
+      "scrapedAt": "2026-10-05T03:51:37.072Z"
     },
     {
       "id": "vb-disha-secures-5-96m-series-a",
@@ -31951,7 +31951,7 @@
       "source": "Gizchina",
       "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-09%2F4g-wifi-router-1789729469025-6aae9fa73d055.jpg",
       "title": "I Changed One Router Setting and My 5GHz Wi-Fi Speeds Doubled",
-      "title_zh": "I Changed One Router Setting and My 5GHz Wi-Fi Speeds Doubled",
+      "title_zh": "更改路由器设置，5GHz Wi-Fi 速度翻倍",
       "publishedAt": "2026-09-19T14:47:00.000Z",
       "snippet": "A simple router setting can dramatically improve 5GHz Wi-Fi speeds. Here is how channel width works and when 160MHz can help.",
       "snippet_zh": [
@@ -31959,7 +31959,7 @@
       ],
       "url": "https://www.gizchina.com/how-to/i-changed-one-router-setting-and-my-5ghz-wi-fi-speeds-doubled",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:06:34.104Z"
+      "scrapedAt": "2026-10-05T03:51:27.795Z"
     },
     {
       "id": "tv-no-dogs-in-space-is-back-punk-2-0-music-history-po",
@@ -32101,7 +32101,7 @@
       "source": "Gizchina",
       "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-09%2Fmagicos-11-6aafeb3d2fa70.jpg",
       "title": "Honor's Tuning Master Gives You Real Control Over Sound",
-      "title_zh": "Honor's Tuning Master Gives You Real Control Over Sound",
+      "title_zh": "荣耀调音大师，掌控真实音效",
       "publishedAt": "2026-09-20T14:23:00.000Z",
       "snippet": "Honor's new Tuning Master brings a 10-band equalizer and custom sound profiles to MagicOS 11, but only flagship phones support it so far.",
       "snippet_zh": [
@@ -32109,7 +32109,7 @@
       ],
       "url": "https://www.gizchina.com/honor/honors-tuning-master-gives-you-real-control-over-sound",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:06:32.561Z"
+      "scrapedAt": "2026-10-05T03:51:26.252Z"
     },
     {
       "id": "vb-fintechos-raises-28m-ai-financial-products",
@@ -32394,7 +32394,7 @@
       ],
       "url": "https://www.gizchina.com/mini-pc/ninkear-mbox18-brings-intel-18a-technology-to-a-tiny-036l-mini-pc",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:06:22.883Z"
+      "scrapedAt": "2026-10-05T03:51:16.994Z"
     },
     {
       "id": "giz-samsung-could-cut-qled-tv-production-by-80-as-mini",
@@ -32409,7 +32409,7 @@
       ],
       "url": "https://www.gizchina.com/samsung/samsung-could-cut-qled-tv-production-by-80-as-mini-led-grows",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:06:24.430Z"
+      "scrapedAt": "2026-10-05T03:51:18.536Z"
     },
     {
       "id": "giz-apples-ai-lawsuit-payout-how-to-claim-your-cash",
@@ -32424,7 +32424,7 @@
       ],
       "url": "https://www.gizchina.com/apple/apples-ai-lawsuit-payout-how-to-claim-your-cash",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:06:25.971Z"
+      "scrapedAt": "2026-10-05T03:51:20.084Z"
     },
     {
       "id": "giz-apple-may-skip-the-iphone-19",
@@ -32439,7 +32439,7 @@
       ],
       "url": "https://www.gizchina.com/apple/apple-may-skip-the-iphone-19",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:06:27.925Z"
+      "scrapedAt": "2026-10-05T03:51:21.627Z"
     },
     {
       "id": "giz-this-android-setting-keeps-your-deleted-notificati",
@@ -32454,14 +32454,14 @@
       ],
       "url": "https://www.gizchina.com/how-to/this-android-setting-keeps-your-deleted-notifications-for-24-hours",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:06:29.473Z"
+      "scrapedAt": "2026-10-05T03:51:23.172Z"
     },
     {
       "id": "giz-iphone-20-pro-could-get-a-much-bigger-screen-and-a",
       "source": "Gizchina",
       "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-09%2Fapple-iphone-20-pro-20th-anniversary-iphone-redes-1789973504310-6ab0e7a21d781.jpg",
       "title": "iPhone 20 Pro Could Get a Much Bigger Screen and Almost No Bezels",
-      "title_zh": "iPhone 20 Pro Could Get a Much Bigger Screen and Almost No Bezels",
+      "title_zh": "iPhone 20 Pro 或配更大屏，边框近乎消失",
       "publishedAt": "2026-09-21T08:17:00.000Z",
       "snippet": "According to recent leaks and rumors, the iPhone 20 Pro may get a larger 6.41-inch display, quad-curved glass, thinner bezels and a smaller Dynamic Island.",
       "snippet_zh": [
@@ -32469,7 +32469,7 @@
       ],
       "url": "https://www.gizchina.com/apple/iphone-20-pro-could-get-a-much-bigger-screen-and-almost-no-bezels",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:06:31.019Z"
+      "scrapedAt": "2026-10-05T03:51:24.710Z"
     },
     {
       "id": "vb-baselayer-raises-35m-ai-agent-identity",
@@ -32716,7 +32716,7 @@
       "source": "Gizchina",
       "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-09%2Fimage-2026-09-22-220442992-6ab325eda5a81.png",
       "title": "How Lynote Helps Tech Writers Organize Research And Build Better How-To Guides Without Sounding Like AI Filler",
-      "title_zh": "How Lynote Helps Tech Writers Organize Research And Build Better How-To Guides Without Sounding Like AI Filler",
+      "title_zh": "Lynote助科技作者整理研究，撰写优质指南，避免AI痕迹",
       "publishedAt": "2026-09-23T01:37:00.000Z",
       "snippet": "Discover how Lynote helps tech writers organize scattered research into structured notes and edit AI drafts to keep technical how-to guides accurate.",
       "snippet_zh": [
@@ -32724,14 +32724,14 @@
       ],
       "url": "https://www.gizchina.com/ai/how-lynote-helps-tech-writers-organize-research-and-build-better-how-to-guides-without-sounding-like-ai-filler",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:06:08.667Z"
+      "scrapedAt": "2026-10-05T03:51:04.655Z"
     },
     {
       "id": "giz-oppo-find-x10-officially-unveiled-200mp-camera-and",
       "source": "Gizchina",
       "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-09%2Foppo-find-x10-ofi-2-6ab2a3223e3f6.jpg",
       "title": "OPPO Find X10 Officially Unveiled: 200MP Camera and 8,000mAh Battery",
-      "title_zh": "OPPO Find X10 Officially Unveiled: 200MP Camera and 8,000mAh Battery",
+      "title_zh": "OPPO Find X10正式发布：配备2亿像素相机和8000mAh电池",
       "publishedAt": "2026-09-22T15:53:00.000Z",
       "snippet": "OPPO Find X10 is officially unveiled with a 200MP main and telephoto camera, an 8,000mAh battery, a 144Hz display, and the new ColorOS 17.",
       "snippet_zh": [
@@ -32739,14 +32739,14 @@
       ],
       "url": "https://www.gizchina.com/oppo-phones-2/oppo-find-x10-officially-unveiled-200mp-camera-and-8000mah-battery",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:06:11.175Z"
+      "scrapedAt": "2026-10-05T03:51:06.198Z"
     },
     {
       "id": "giz-oppo-find-x10-pro-max-officially-unveiled-how-much",
       "source": "Gizchina",
       "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-09%2Foppo-find-x10-pro-max-ofi-1-6ab29dd3e8524.jpg",
       "title": "OPPO Find X10 Pro Max Officially Unveiled. How Much Does It Cost?",
-      "title_zh": "OPPO Find X10 Pro Max Officially Unveiled. How Much Does It Cost?",
+      "title_zh": "OPPO Find X10 Pro Max正式发布，售价几何？",
       "publishedAt": "2026-09-22T15:33:00.000Z",
       "snippet": "The OPPO Find X10 Pro Max has been officially unveiled. It features a 2nm Dimensity 9600 Pro chip, three 200MP cameras, and an 8,000mAh battery.",
       "snippet_zh": [
@@ -32754,14 +32754,14 @@
       ],
       "url": "https://www.gizchina.com/oppo-phones-2/oppo-find-x10-pro-max-officially-unveiled-how-much-does-it-cost",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:06:12.721Z"
+      "scrapedAt": "2026-10-05T03:51:07.742Z"
     },
     {
       "id": "giz-vivo-x500-launches-with-a-7500mah-battery-and-144h",
       "source": "Gizchina",
       "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-09%2Fvivo-x500-launched-with-dimensity-9600m-and-7-500m-1790067733184-6ab244183b5a5.jpg",
       "title": "Vivo X500 Launches With a 7,500mAh Battery and 144Hz Display",
-      "title_zh": "Vivo X500 Launches With a 7,500mAh Battery and 144Hz Display",
+      "title_zh": "Vivo X500发布：搭载7500mAh电池和144Hz显示屏",
       "publishedAt": "2026-09-22T09:05:00.000Z",
       "snippet": "Vivo X500 launches in China with a 144Hz AMOLED display, Dimensity 9600M, 7,500mAh battery, 90W charging and ZEISS cameras.",
       "snippet_zh": [
@@ -32769,14 +32769,14 @@
       ],
       "url": "https://www.gizchina.com/vivo-phones/vivo-x500-launches-with-a-7500mah-battery-and-144hz-display",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:06:14.264Z"
+      "scrapedAt": "2026-10-05T03:51:09.282Z"
     },
     {
       "id": "giz-vivo-x500-pro-and-pro-max-are-the-first-phones-wit",
       "source": "Gizchina",
       "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-09%2Fimage-1790066747669-6ab2404061d2e.jpg",
       "title": "Vivo X500 Pro and Pro Max Are the First Phones With MediaTek’s 2nm Dimensity 9600 Pro",
-      "title_zh": "Vivo X500 Pro and Pro Max Are the First Phones With MediaTek’s 2nm Dimensity 9600 Pro",
+      "title_zh": "Vivo X500 Pro/Pro Max首发联发科2nm天玑9600 Pro",
       "publishedAt": "2026-09-22T08:27:00.000Z",
       "snippet": "Vivo X500 Pro and Pro Max launch with MediaTek's 2nm Dimensity 9600 Pro, ZEISS cameras, up to 8,000mAh batteries and 200MP telephoto.",
       "snippet_zh": [
@@ -32784,14 +32784,14 @@
       ],
       "url": "https://www.gizchina.com/vivo-phones/vivo-x500-pro-and-pro-max-are-the-first-phones-with-mediateks-2nm-dimensity-9600-pro",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:06:15.812Z"
+      "scrapedAt": "2026-10-05T03:51:10.824Z"
     },
     {
       "id": "giz-redmi-m100-pro-could-bring-back-a-highly-successfu",
       "source": "Gizchina",
       "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-09%2Fimage-1790060776073-6ab2321caedb5.jpg",
       "title": "Redmi M100 Pro Could Bring Back a Highly Successful Model in China",
-      "title_zh": "Redmi M100 Pro Could Bring Back a Highly Successful Model in China",
+      "title_zh": "Redmi M100 Pro或将复活中国市场一款成功机型",
       "publishedAt": "2026-09-22T07:43:00.000Z",
       "snippet": "The Redmi M100 Pro may launch in China as a rebranded Redmi Note 14 Pro 5G with a 200MP camera and Dimensity 7300-Ultra chip.",
       "snippet_zh": [
@@ -32799,14 +32799,14 @@
       ],
       "url": "https://www.gizchina.com/redmi-phones/redmi-m100-pro-could-bring-back-a-highly-successful-model-in-china",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:06:17.362Z"
+      "scrapedAt": "2026-10-05T03:51:12.368Z"
     },
     {
       "id": "giz-vivos-x500-ultra-confirmed-for-launch-in-spring-20",
       "source": "Gizchina",
       "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-03%2Fvivo-x500-pro-concept-v0-kmqrv8b-69b401221869a.jpg",
       "title": "vivo's X500 Ultra Confirmed for Launch in Spring 2027",
-      "title_zh": "vivo's X500 Ultra Confirmed for Launch in Spring 2027",
+      "title_zh": "vivo X500 Ultra确认于2027年春季发布",
       "publishedAt": "2026-09-22T07:31:00.000Z",
       "snippet": "vivo confirms the X500 Ultra will launch in spring 2027 with a wider imaging gap over the Pro Max, as testing on camera hardware continues.",
       "snippet_zh": [
@@ -32814,7 +32814,7 @@
       ],
       "url": "https://www.gizchina.com/vivo-phones/vivos-x500-ultra-confirmed-for-launch-in-spring-2027",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:06:18.902Z"
+      "scrapedAt": "2026-10-05T03:51:13.910Z"
     },
     {
       "id": "giz-iphone-18-owners-are-angry-about-crashes-heating-p",
@@ -32829,7 +32829,7 @@
       ],
       "url": "https://www.gizchina.com/apple/iphone-18-owners-are-angry-about-crashes-heating-problems-and-paint-issues",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:06:20.450Z"
+      "scrapedAt": "2026-10-05T03:51:15.450Z"
     },
     {
       "id": "vb-tekever-raises-580-million-to-scale-ai-defense-dro",
@@ -33076,7 +33076,7 @@
       "source": "Gizchina",
       "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-09%2Fimage-2026-09-23-234016938-6ab48dd759cbe.png",
       "title": "The 1TB and 2TB iPhone 18 Pro Models Have Slower QLC Storage",
-      "title_zh": "The 1TB and 2TB iPhone 18 Pro Models Have Slower QLC Storage",
+      "title_zh": "1TB/2TB版iPhone 18 Pro采用较慢QLC存储",
       "publishedAt": "2026-09-24T02:44:00.000Z",
       "snippet": "Apple's iPhone 18 Pro 1TB and 2TB models use slower QLC NAND instead of TLC, with tests showing major performance drops during sustained writes.",
       "snippet_zh": [
@@ -33084,14 +33084,14 @@
       ],
       "url": "https://www.gizchina.com/apple/the-1tb-and-2tb-iphone-18-pro-models-have-slower-qlc-storage",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:05:53.216Z"
+      "scrapedAt": "2026-10-05T03:50:49.183Z"
     },
     {
       "id": "giz-tecno-shows-how-ellaclaw-can-be-customized-for-dif",
       "source": "Gizchina",
       "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-09%2Fimage-2026-09-23-214108173-6ab471ea68fe0.png",
       "title": "Tecno Shows How EllaClaw Can Be Customized for Different AI Workflows",
-      "title_zh": "Tecno Shows How EllaClaw Can Be Customized for Different AI Workflows",
+      "title_zh": "传音展示EllaClaw如何定制AI工作流",
       "publishedAt": "2026-09-24T00:47:00.000Z",
       "snippet": "TECNO showcases four EllaClaw AI workflows for research, script creation, writing styles, and social media content checks.",
       "snippet_zh": [
@@ -33099,14 +33099,14 @@
       ],
       "url": "https://www.gizchina.com/tecno/tecno-shows-how-ellaclaw-can-be-customized-for-different-ai-workflows",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:05:54.755Z"
+      "scrapedAt": "2026-10-05T03:50:50.723Z"
     },
     {
       "id": "giz-apple-limits-new-ios-27-camera-controls-to-iphone-",
       "source": "Gizchina",
       "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-08%2Fiphone-18-pro-deep-cherry-render-e1776437505915-6a883601dbae4.jpg",
       "title": "Apple Limits New iOS 27 Camera Controls to iPhone 18 Pro and Duo",
-      "title_zh": "Apple Limits New iOS 27 Camera Controls to iPhone 18 Pro and Duo",
+      "title_zh": "苹果iOS 27相机新功能仅限iPhone 18 Pro/Duo",
       "publishedAt": "2026-09-23T13:37:00.000Z",
       "snippet": "Apple has limited iOS 27's new Texture and Grain controls to the iPhone 18 Pro models and iPhone Duo, leaving older iPhones without the feature.",
       "snippet_zh": [
@@ -33114,14 +33114,14 @@
       ],
       "url": "https://www.gizchina.com/apple/apple-limits-new-ios-27-camera-controls-to-iphone-18-pro-and-duo",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:05:56.299Z"
+      "scrapedAt": "2026-10-05T03:50:52.274Z"
     },
     {
       "id": "giz-xiaomi-18-pro-series-launches-with-snapdragon-8-el",
       "source": "Gizchina",
       "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-09%2Fxiaomi-18-pro-1790170327375-6ab3d4df69075.jpg",
       "title": "Xiaomi 18 Pro Series Launches With Snapdragon 8 Elite Gen 6 and an 8,500mAh Battery",
-      "title_zh": "Xiaomi 18 Pro Series Launches With Snapdragon 8 Elite Gen 6 and an 8,500mAh Battery",
+      "title_zh": "小米18 Pro系列发布：搭载骁龙8 Elite Gen 6，配备8500mAh电池",
       "publishedAt": "2026-09-23T13:30:00.000Z",
       "snippet": "Xiaomi 18 Pro and Pro Max launch with 2nm Snapdragon chips, dual 200MP Leica cameras, up to 8,500mAh batteries and HyperOS 4.",
       "snippet_zh": [
@@ -33129,14 +33129,14 @@
       ],
       "url": "https://www.gizchina.com/xiaomi-phones/xiaomi-18-pro-series-launches-with-snapdragon-8-elite-gen-6-and-an-8500mah-battery",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:05:57.850Z"
+      "scrapedAt": "2026-10-05T03:50:53.826Z"
     },
     {
       "id": "giz-microsoft-reportedly-plans-up-to-50-copilot-discou",
       "source": "Gizchina",
       "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2025-07%2Fcopilot-686d00c0af41e.jpg",
       "title": "Microsoft Reportedly Plans Up to 50% Copilot Discounts for Businesses",
-      "title_zh": "Microsoft Reportedly Plans Up to 50% Copilot Discounts for Businesses",
+      "title_zh": "微软据报计划为企业版Copilot提供最高五折优惠",
       "publishedAt": "2026-09-23T13:13:00.000Z",
       "snippet": "Microsoft reportedly plans major Copilot discounts for enterprise customers, with deals of up to 50% for companies buying 10,000 seats or more.",
       "snippet_zh": [
@@ -33144,14 +33144,14 @@
       ],
       "url": "https://www.gizchina.com/microsoft/microsoft-reportedly-plans-up-to-50-copilot-discounts-for-businesses",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:05:59.394Z"
+      "scrapedAt": "2026-10-05T03:50:55.368Z"
     },
     {
       "id": "giz-apple-says-that-you-dont-need-a-new-iphone-every-y",
       "source": "Gizchina",
       "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2025-07%2Fapple-google-search1.jpg",
       "title": "Apple says that you dont need a new iPhone every year",
-      "title_zh": "Apple says that you dont need a new iPhone every year",
+      "title_zh": "苹果称用户无需每年更换新iPhone",
       "publishedAt": "2026-09-23T12:56:00.000Z",
       "snippet": "Apple CEO and executives discuss whether users should upgrade their iPhone every year, highlighting high resale value and long-term device durability.",
       "snippet_zh": [
@@ -33159,14 +33159,14 @@
       ],
       "url": "https://www.gizchina.com/apple/apple-says-that-you-dont-need-a-new-iphone-every-year",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:06:00.933Z"
+      "scrapedAt": "2026-10-05T03:50:56.909Z"
     },
     {
       "id": "giz-xiaomis-mijia-electric-shaver-pro-has-ipx8-water-r",
       "source": "Gizchina",
       "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-09%2Fimage-1789999424866-6ab3adfe35ad8.jpg",
       "title": "Xiaomi’s Mijia Electric Shaver Pro Has IPX8 Water Resistance and 95-Day Battery Life - And it's Available Today",
-      "title_zh": "Xiaomi’s Mijia Electric Shaver Pro Has IPX8 Water Resistance and 95-Day Battery Life - And it's Available Today",
+      "title_zh": "小米米家电动剃须刀Pro发布：IPX8防水，95天续航，今日开售",
       "publishedAt": "2026-09-23T10:49:00.000Z",
       "snippet": "Xiaomi’s Mijia Electric Shaver Pro offers IPX8 water resistance, 45 blades, USB-C charging and up to 95 days of battery life.",
       "snippet_zh": [
@@ -33174,14 +33174,14 @@
       ],
       "url": "https://www.gizchina.com/gadgets/xiaomis-mijia-electric-shaver-pro-has-ipx8-water-resistance-and-95-day-battery-life-and-its-available-today",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:06:02.486Z"
+      "scrapedAt": "2026-10-05T03:50:58.450Z"
     },
     {
       "id": "giz-after-3-years-a-numbered-xiaomi-pro-model-releases",
       "source": "Gizchina",
       "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-09%2F32-6ab3878dbbac3.jpg",
       "title": "After 3 years, a numbered Xiaomi Pro model releases globaly",
-      "title_zh": "After 3 years, a numbered Xiaomi Pro model releases globaly",
+      "title_zh": "时隔三年，小米数字Pro机型首次全球发布",
       "publishedAt": "2026-09-23T08:09:00.000Z",
       "snippet": "Xiaomi confirms a global launch for the 18 Pro this year, ending a three-generation streak of China-only Pro flagships, alongside a new 2nm chip.",
       "snippet_zh": [
@@ -33189,14 +33189,14 @@
       ],
       "url": "https://www.gizchina.com/xiaomi-tablets-tech/after-3-years-a-numbered-xiaomi-pro-model-releases-globaly",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:06:04.030Z"
+      "scrapedAt": "2026-10-05T03:51:00.001Z"
     },
     {
       "id": "giz-red-magic-12-pro-confirmed-with-snapdragon-8-elite",
       "source": "Gizchina",
       "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-09%2Fimage-1790144709364-6ab37f5f91251.jpg",
       "title": "Red Magic 12 Pro+ Confirmed With Snapdragon 8 Elite Extreme Gen 6",
-      "title_zh": "Red Magic 12 Pro+ Confirmed With Snapdragon 8 Elite Extreme Gen 6",
+      "title_zh": "红魔12 Pro+确认搭载骁龙8 Elite Extreme Gen 6",
       "publishedAt": "2026-09-23T07:39:00.000Z",
       "snippet": "Red Magic confirms its 12 Pro+ gaming phone will use the Snapdragon 8 Elite Extreme Gen 6, with a thinner body and 0.96mm bezels.",
       "snippet_zh": [
@@ -33204,14 +33204,14 @@
       ],
       "url": "https://www.gizchina.com/red-magic/red-magic-12-pro-confirmed-with-snapdragon-8-elite-extreme-gen-6",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:06:05.577Z"
+      "scrapedAt": "2026-10-05T03:51:01.543Z"
     },
     {
       "id": "giz-xiaomi-september-2026-security-update-is-rolling-o",
       "source": "Gizchina",
       "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-01%2Fxiaomi-hyperos-interconnectivity-6966190460ab4.jpg",
       "title": "Xiaomi September 2026 Security Update Is Rolling Out to These Devices",
-      "title_zh": "Xiaomi September 2026 Security Update Is Rolling Out to These Devices",
+      "title_zh": "小米2026年9月安全更新正向这些设备推送",
       "publishedAt": "2026-09-23T07:10:00.000Z",
       "snippet": "Xiaomi has started rolling out the September 2026 security update. Check which Xiaomi, Redmi and POCO devices are receiving it.",
       "snippet_zh": [
@@ -33219,7 +33219,7 @@
       ],
       "url": "https://www.gizchina.com/xiaomi-phones/xiaomi-september-2026-security-update-is-rolling-out-to-these-devices",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:06:07.122Z"
+      "scrapedAt": "2026-10-05T03:51:03.084Z"
     },
     {
       "id": "vb-moxing-raises-150-million-low-cost-4d-ai-infrastru",
@@ -33466,7 +33466,7 @@
       "source": "Gizchina",
       "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-09%2Fimage-2026-09-24-232927309-6ab5dccf7073d.png",
       "title": "OUKITEL Celebrates US Anniversary with Massive Discounts on Its Tough Smartphone Lineup",
-      "title_zh": "OUKITEL Celebrates US Anniversary with Massive Discounts on Its Tough Smartphone Lineup",
+      "title_zh": "OUKITEL美国周年庆，坚固手机系列大促",
       "publishedAt": "2026-09-25T02:51:00.000Z",
       "snippet": "Save up to 37% during the OUKITEL US Anniversary Sale! Check out deals on top rugged phones like the WP68 Air, WP500 Ultra with thermal imaging, and more through Oct. 8.",
       "snippet_zh": [
@@ -33474,14 +33474,14 @@
       ],
       "url": "https://www.gizchina.com/oukitel/oukitel-celebrates-us-anniversary-with-massive-discounts-on-its-tough-smartphone-lineup",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:05:42.388Z"
+      "scrapedAt": "2026-10-05T03:50:38.368Z"
     },
     {
       "id": "giz-grapheneos-expands-beyond-pixel-motorola-signature",
       "source": "Gizchina",
       "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-09%2Fmotorola-signature-1-6ab55e3c872af.jpg",
       "title": "GrapheneOS Expands Beyond Pixel: Motorola Signature 27 to Get Full Support",
-      "title_zh": "GrapheneOS Expands Beyond Pixel: Motorola Signature 27 to Get Full Support",
+      "title_zh": "GrapheneOS拓展：摩托罗拉Signature 27将获全支持",
       "publishedAt": "2026-09-24T17:36:00.000Z",
       "snippet": "GrapheneOS is expanding beyond Pixel phones. The Motorola Signature 27, powered by the Snapdragon 8 Elite Extreme Gen 6, will be the first external device to join the lineup.",
       "snippet_zh": [
@@ -33489,14 +33489,14 @@
       ],
       "url": "https://www.gizchina.com/motorola/grapheneos-expands-beyond-pixel-motorola-signature-27-to-get-full-support",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:05:43.932Z"
+      "scrapedAt": "2026-10-05T03:50:39.907Z"
     },
     {
       "id": "giz-huawei-expands-harmonyos-7-rollout-to-more-phones",
       "source": "Gizchina",
       "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2025-07%2Fharmonyos1.jpg",
       "title": "Huawei Expands HarmonyOS 7 Rollout to More Phones",
-      "title_zh": "Huawei Expands HarmonyOS 7 Rollout to More Phones",
+      "title_zh": "华为HarmonyOS 7将适配更多手机",
       "publishedAt": "2026-09-24T16:25:00.000Z",
       "snippet": "Huawei is expanding HarmonyOS 7 to more phones, with the Mate 80, Pura 90, and nova 16 series among the first models to receive it.",
       "snippet_zh": [
@@ -33504,14 +33504,14 @@
       ],
       "url": "https://www.gizchina.com/harmonyos/huawei-expands-harmonyos-7-rollout-to-more-phones",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:05:45.486Z"
+      "scrapedAt": "2026-10-05T03:50:41.454Z"
     },
     {
       "id": "giz-can-the-honor-magic9-pro-maxs-500mm-attachment-rep",
       "source": "Gizchina",
       "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-09%2F36-6ab5036a57591.jpg",
       "title": "Can the Honor Magic9 Pro Max's 500mm Attachment Replace a Big Camera?",
-      "title_zh": "Can the Honor Magic9 Pro Max's 500mm Attachment Replace a Big Camera?",
+      "title_zh": "荣耀Magic9 Pro Max 500mm配件能否取代单反？",
       "publishedAt": "2026-09-24T11:10:00.000Z",
       "snippet": "The Honor Magic9 Pro Max will get the G500 and G200 teleconverters. The first offers a 500mm focal length, while the second weighs just 88 grams.",
       "snippet_zh": [
@@ -33519,14 +33519,14 @@
       ],
       "url": "https://www.gizchina.com/honor/can-the-honor-magic9-pro-maxs-500mm-attachment-replace-a-big-camera",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:05:47.039Z"
+      "scrapedAt": "2026-10-05T03:50:42.995Z"
     },
     {
       "id": "giz-apple-will-fix-iphone-18-pro-face-id-reboot-bug-ne",
       "source": "Gizchina",
       "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-02%2Fiphone-18-pro-6992d59f2c879.png",
       "title": "Apple Will Fix iPhone 18 Pro Face ID Reboot Bug Next Week",
-      "title_zh": "Apple Will Fix iPhone 18 Pro Face ID Reboot Bug Next Week",
+      "title_zh": "苹果下周修复iPhone 18 Pro面容ID重启Bug",
       "publishedAt": "2026-09-24T09:19:00.000Z",
       "snippet": "Apple has confirmed a software update for the iPhone 18 Pro Face ID bug that can freeze and restart some phones after a failed scan.",
       "snippet_zh": [
@@ -33534,14 +33534,14 @@
       ],
       "url": "https://www.gizchina.com/apple/apple-will-fix-iphone-18-pro-face-id-reboot-bug-next-week",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:05:48.578Z"
+      "scrapedAt": "2026-10-05T03:50:44.535Z"
     },
     {
       "id": "giz-meta-vr-glasses-weigh-just-100g-and-are-the-first-",
       "source": "Gizchina",
       "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-09%2Fimage-1790230108247-6ab4e15707fe9.jpg",
       "title": "Meta VR Glasses Weigh Just 100g and Are the First IMAX Enhanced VR Device",
-      "title_zh": "Meta VR Glasses Weigh Just 100g and Are the First IMAX Enhanced VR Device",
+      "title_zh": "Meta VR眼镜仅重100g，首款IMAX增强VR设备",
       "publishedAt": "2026-09-24T08:34:00.000Z",
       "snippet": "Meta VR Glasses weigh about 100g and feature 5K micro-OLED displays, Snapdragon Reality Elite and IMAX Enhanced certification.",
       "snippet_zh": [
@@ -33549,14 +33549,14 @@
       ],
       "url": "https://www.gizchina.com/meta/meta-vr-glasses-weigh-just-100g-and-are-the-first-imax-enhanced-vr-device",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:05:50.130Z"
+      "scrapedAt": "2026-10-05T03:50:46.087Z"
     },
     {
       "id": "giz-why-the-iphone-18-pro-shows-green-ghosting-at-nigh",
       "source": "Gizchina",
       "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-09%2Fiphone-18-pro-test-1-6aabd8829a885.jpg",
       "title": "Why the iPhone 18 Pro Shows Green Ghosting at Night Shots",
-      "title_zh": "Why the iPhone 18 Pro Shows Green Ghosting at Night Shots",
+      "title_zh": "iPhone 18 Pro夜拍为何出现绿色鬼影？",
       "publishedAt": "2026-09-24T07:30:00.000Z",
       "snippet": "iPhone 18 Pro users report green ghosting in night photos, but testing suggests it's tied to the new variable aperture, not a hardware defect.",
       "snippet_zh": [
@@ -33564,7 +33564,7 @@
       ],
       "url": "https://www.gizchina.com/apple/why-the-iphone-18-pro-shows-green-ghosting-at-night-shots",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:05:51.675Z"
+      "scrapedAt": "2026-10-05T03:50:47.636Z"
     },
     {
       "id": "vb-hifi-raises-37-million-stablecoin-payments-tokeniz",
@@ -33751,7 +33751,7 @@
       "source": "Gizchina",
       "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-09%2Fxiaomi-18-pro-global-1-6ab63ac46b403.jpg",
       "title": "Global Xiaomi 18 Pro Gets a Smaller Battery, How Big is the gap?",
-      "title_zh": "Global Xiaomi 18 Pro Gets a Smaller Battery, How Big is the gap?",
+      "title_zh": "全球版小米18 Pro电池缩水，差距有多大？",
       "publishedAt": "2026-09-25T09:12:00.000Z",
       "snippet": "The global Xiaomi 18 Pro will feature a 6,000 mAh battery instead of the 7,000 mAh cell used in China. The Pro Max model loses 1,450 mAh of capacity.",
       "snippet_zh": [
@@ -33759,14 +33759,14 @@
       ],
       "url": "https://www.gizchina.com/xiaomi-tablets-tech/global-xiaomi-18-pro-gets-a-smaller-battery-how-big-is-the-gap",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:05:39.293Z"
+      "scrapedAt": "2026-10-05T03:50:35.273Z"
     },
     {
       "id": "giz-xiaomi-launches-a-4k-indoor-camera-with-full-color",
       "source": "Gizchina",
       "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-09%2Fxiaomi-smart-camera-5-pro-4k-full-color-night-vision-20260917-111120-1790327139346-6ab6398be952a.jpg",
       "title": "Xiaomi Launches a 4K Indoor Camera With Full-Color Night Vision and AI",
-      "title_zh": "Xiaomi Launches a 4K Indoor Camera With Full-Color Night Vision and AI",
+      "title_zh": "小米发布4K室内摄像机，全彩夜视带AI",
       "publishedAt": "2026-09-25T08:55:00.000Z",
       "snippet": "Xiaomi Smart Camera 5 Pro finally brings 4K video, full-color night vision, local AI, Wi-Fi 6 and smart tracking for about $60. Check its full specs inside.",
       "snippet_zh": [
@@ -33774,7 +33774,7 @@
       ],
       "url": "https://www.gizchina.com/xiaomi-phones/xiaomi-launches-a-4k-indoor-camera-with-full-color-night-vision-and-ai",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:05:40.836Z"
+      "scrapedAt": "2026-10-05T03:50:36.820Z"
     },
     {
       "id": "vb-trebellar-secures-18m-series-a",
@@ -33931,7 +33931,7 @@
       "source": "Gizchina",
       "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-09%2F41-6ab7a5f731efe.jpg",
       "title": "Red Magic 12 Pro+: A Gaming Phone with Cooling Arrives in October 2026",
-      "title_zh": "Red Magic 12 Pro+: A Gaming Phone with Cooling Arrives in October 2026",
+      "title_zh": "红魔12 Pro+游戏手机，带散热，2026年10月上市",
       "publishedAt": "2026-09-26T11:14:00.000Z",
       "snippet": "The Red Magic 12 Pro+ arrives in October 2026. It will offer the Snapdragon 8 Elite Extreme Gen 6, active cooling, a full-screen display, and gaming-focused hardware.",
       "snippet_zh": [
@@ -33939,14 +33939,14 @@
       ],
       "url": "https://www.gizchina.com/red-magic/red-magic-12-pro-a-gaming-phone-with-cooling-arrives-in-october-2026",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:05:31.565Z"
+      "scrapedAt": "2026-10-05T03:50:27.553Z"
     },
     {
       "id": "giz-iqoo-16-camera-details-officially-confirmed-ahead-",
       "source": "Gizchina",
       "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-09%2Fimage-2026-09-26-004259292-6ab73f8e15a0a.png",
       "title": "iQOO 16 Camera Details Officially Confirmed Ahead of September 29 Launch",
-      "title_zh": "iQOO 16 Camera Details Officially Confirmed Ahead of September 29 Launch",
+      "title_zh": "iQOO 16相机细节官宣，9月29日发布",
       "publishedAt": "2026-09-26T03:46:00.000Z",
       "snippet": "iQOO has confirmed key iQOO 16 camera details, including a 50MP main sensor, 79% more light capture, Super HDR and CIPA 5.5 stabilization.",
       "snippet_zh": [
@@ -33954,14 +33954,14 @@
       ],
       "url": "https://www.gizchina.com/iqoo/iqoo-16-camera-details-officially-confirmed-ahead-of-september-29-launch",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:05:33.105Z"
+      "scrapedAt": "2026-10-05T03:50:29.097Z"
     },
     {
       "id": "giz-ipad-mini-8-leak-points-to-oled-display-and-a20-pr",
       "source": "Gizchina",
       "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2025-06%2Fapple-ipad-2021-ipad-mini-launch-india.jpg",
       "title": "iPad Mini 8 Leak Points to OLED Display and A20 Pro Chip",
-      "title_zh": "iPad Mini 8 Leak Points to OLED Display and A20 Pro Chip",
+      "title_zh": "iPad mini 8曝光：或配OLED屏和A20 Pro芯片",
       "publishedAt": "2026-09-25T17:13:00.000Z",
       "snippet": "iPad mini 8 leaks point to an OLED display, A20 Pro chip, water resistance and a redesigned speaker system for Apple's compact tablet.",
       "snippet_zh": [
@@ -33969,14 +33969,14 @@
       ],
       "url": "https://www.gizchina.com/apple/ipad-mini-8-leak-points-to-oled-display-and-a20-pro-chip",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:05:34.647Z"
+      "scrapedAt": "2026-10-05T03:50:30.641Z"
     },
     {
       "id": "giz-infinix-gt-nx-controller-and-station-turn-your-pho",
       "source": "Gizchina",
       "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-09%2Fgt-control-main-img0924-new-1790354142767-6ab6a30d9b76f.jpg",
       "title": "Infinix GT NX Controller and Station Turn Your Phone Into a Gaming Setup",
-      "title_zh": "Infinix GT NX Controller and Station Turn Your Phone Into a Gaming Setup",
+      "title_zh": "Infinix GT NX手柄与底座，手机秒变游戏机",
       "publishedAt": "2026-09-25T16:34:00.000Z",
       "snippet": "Infinix GT NX Controller and Station bring a precision touchpad, TEC cooling, HDMI, Ethernet and 22-hour battery life to mobile gaming.",
       "snippet_zh": [
@@ -33984,14 +33984,14 @@
       ],
       "url": "https://www.gizchina.com/infinix/infinix-gt-nx-controller-and-station-turn-your-phone-into-a-gaming-setup",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:05:36.207Z"
+      "scrapedAt": "2026-10-05T03:50:32.190Z"
     },
     {
       "id": "giz-huawei-ruiying-z10-brings-massive-10x-optical-zoom",
       "source": "Gizchina",
       "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-09%2Fhuawei-ruiying-z10-1-6ab6728fea356.jpg",
       "title": "Huawei Ruiying Z10 Brings Massive 10x Optical Zoom to Mate 90 Pro Max",
-      "title_zh": "Huawei Ruiying Z10 Brings Massive 10x Optical Zoom to Mate 90 Pro Max",
+      "title_zh": "华为锐影Z10为Mate 90 Pro Max带来10倍光变",
       "publishedAt": "2026-09-25T13:13:00.000Z",
       "snippet": "The Huawei Ruiying Z10 is expected to offer a 1-inch sensor, 10x optical zoom, and a 24-240mm range. It will be designed for the Mate 90 Pro Max.",
       "snippet_zh": [
@@ -33999,7 +33999,7 @@
       ],
       "url": "https://www.gizchina.com/huawei/huawei-ruiying-z10-brings-massive-10x-optical-zoom-to-mate-90-pro-max",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:05:37.748Z"
+      "scrapedAt": "2026-10-05T03:50:33.731Z"
     },
     {
       "id": "vb-kenyas-rhea-secures-100k-soil-tech-tanzania",
@@ -34314,7 +34314,7 @@
       ],
       "url": "https://www.gizchina.com/iqoo/iqoo-pad-ultra-teased-with-88-inch-165hz-oled-display-and-active-cooling",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:05:17.628Z"
+      "scrapedAt": "2026-10-05T03:50:13.588Z"
     },
     {
       "id": "giz-oneplus-16-targets-gamers-185-fps-and-new-chips",
@@ -34329,7 +34329,7 @@
       ],
       "url": "https://www.gizchina.com/oneplus-phones/oneplus-16-targets-gamers-185-fps-and-new-chips",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:05:19.173Z"
+      "scrapedAt": "2026-10-05T03:50:15.140Z"
     },
     {
       "id": "giz-iqoo-16-will-offer-an-8400mah-battery-and-snapdrag",
@@ -34344,7 +34344,7 @@
       ],
       "url": "https://www.gizchina.com/iqoo/iqoo-16-will-offer-an-8400mah-battery-and-snapdragon-8-elite-extreme-gen-6",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:05:20.755Z"
+      "scrapedAt": "2026-10-05T03:50:16.687Z"
     },
     {
       "id": "giz-honor-magic9-pro-max-launches-with-dual-200mp-came",
@@ -34359,7 +34359,7 @@
       ],
       "url": "https://www.gizchina.com/honor-2/honor-magic9-pro-max-launches-with-dual-200mp-cameras-and-arri-cinema-features",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:05:22.298Z"
+      "scrapedAt": "2026-10-05T03:50:18.235Z"
     },
     {
       "id": "giz-tecnos-100-portraits-of-becoming-looks-beyond-smar",
@@ -34374,7 +34374,7 @@
       ],
       "url": "https://www.gizchina.com/tecno/tecnos-100-portraits-of-becoming-looks-beyond-smartphone-photos-to-the-people-behind-them",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:05:23.844Z"
+      "scrapedAt": "2026-10-05T03:50:19.823Z"
     },
     {
       "id": "giz-honor-magic-9-pro-max-beats-oneplus-16-on-antutu-w",
@@ -34389,14 +34389,14 @@
       ],
       "url": "https://www.gizchina.com/honor/honor-magic-9-pro-max-beats-oneplus-16-on-antutu-with-552-million-points",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:05:25.387Z"
+      "scrapedAt": "2026-10-05T03:50:21.370Z"
     },
     {
       "id": "giz-oneplus-16-gets-185hz-display-and-185fps-gaming-ah",
       "source": "Gizchina",
       "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-03%2Foneplus-16-news-69abe667df85a.jpg",
       "title": "OnePlus 16 Gets 185Hz Display and 185FPS Gaming Ahead of October Launch",
-      "title_zh": "OnePlus 16 Gets 185Hz Display and 185FPS Gaming Ahead of October Launch",
+      "title_zh": "一加16将配185Hz屏和185FPS游戏，10月发布",
       "publishedAt": "2026-09-28T06:47:00.000Z",
       "snippet": "OnePlus 16 launches in China on October 12 with a 185Hz display, 185FPS gaming and Snapdragon 8 Elite Gen 6 Extreme.",
       "snippet_zh": [
@@ -34404,14 +34404,14 @@
       ],
       "url": "https://www.gizchina.com/oneplus-phones/oneplus-16-gets-185hz-display-and-185fps-gaming-ahead-of-october-launch",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:05:26.932Z"
+      "scrapedAt": "2026-10-05T03:50:22.918Z"
     },
     {
       "id": "giz-apple-homepod-mini-2-leaks-reveal-new-colors-but-n",
       "source": "Gizchina",
       "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-09%2Fimage-1790495846040-6ab8e3dc2d8fd.jpg",
       "title": "Apple HomePod mini 2 Leaks Reveal New Colors but No Major Redesign",
-      "title_zh": "Apple HomePod mini 2 Leaks Reveal New Colors but No Major Redesign",
+      "title_zh": "HomePod mini 2曝光：新增配色，设计无大改",
       "publishedAt": "2026-09-27T09:57:00.000Z",
       "snippet": "HomePod mini 2 leaks reveal five colors and the same compact design, while a new chip and smarter Siri are also expected.",
       "snippet_zh": [
@@ -34419,14 +34419,14 @@
       ],
       "url": "https://www.gizchina.com/apple/apple-homepod-mini-2-leaks-reveal-new-colors-but-no-major-redesign",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:05:28.478Z"
+      "scrapedAt": "2026-10-05T03:50:24.461Z"
     },
     {
       "id": "giz-honor-magic-9-series-specs-leak-ahead-of-tomorrows",
       "source": "Gizchina",
       "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-09%2Fhonor-magic-9-pro-max-launch-6aa4be70a07d5.jpg",
       "title": "Honor Magic 9 Series Specs Leak Ahead of Tomorrow’s Launch",
-      "title_zh": "Honor Magic 9 Series Specs Leak Ahead of Tomorrow’s Launch",
+      "title_zh": "荣耀Magic 9系列配置曝光，明日发布",
       "publishedAt": "2026-09-27T09:27:00.000Z",
       "snippet": "Honor Magic 9 series specs have leaked ahead of launch, revealing 200MP cameras, up to 11,000mAh batteries and Snapdragon chips.",
       "snippet_zh": [
@@ -34434,7 +34434,7 @@
       ],
       "url": "https://www.gizchina.com/honor/honor-magic-9-series-specs-leak-ahead-of-tomorrows-launch",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:05:30.020Z"
+      "scrapedAt": "2026-10-05T03:50:26.009Z"
     },
     {
       "id": "vb-prediction-market-all-in-one-evolution-mechanism-s",
@@ -34741,7 +34741,7 @@
       "source": "Gizchina",
       "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-09%2Fiqoo-pad-ultra-1-6abc2aa53e686.jpg",
       "title": "iQOO Pad Ultra is officially here: Snapdragon 8 Elite Extreme Gen 6, 165Hz OLED, and 9020mAh battery",
-      "title_zh": "iQOO Pad Ultra is officially here: Snapdragon 8 Elite Extreme Gen 6, 165Hz OLED, and 9020mAh battery",
+      "title_zh": "iQ",
       "publishedAt": "2026-09-29T21:18:00.000Z",
       "snippet": "The iQOO Pad Ultra arrives with an 8.8-inch 165Hz OLED display, a Snapdragon 8 Elite Extreme Gen 6 processor, an active cooling system, and a 9020mAh battery.",
       "snippet_zh": [
@@ -34749,7 +34749,7 @@
       ],
       "url": "https://www.gizchina.com/iqoo/iqoo-pad-ultra-is-officially-here-snapdragon-8-elite-extreme-gen-6-165hz-oled-and-9020mah-battery",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:05:03.688Z"
+      "scrapedAt": "2026-10-05T03:49:59.661Z"
     },
     {
       "id": "giz-iqoo-16-is-officially-here-8400mah-battery-2k165hz",
@@ -34764,7 +34764,7 @@
       ],
       "url": "https://www.gizchina.com/iqoo/iqoo-16-is-officially-here-8400mah-battery-2k165hz-display-and-snapdragon",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:05:05.247Z"
+      "scrapedAt": "2026-10-05T03:50:01.210Z"
     },
     {
       "id": "giz-70mai-a900-ultra-review-dual-4k-smarter-parking-an",
@@ -34779,7 +34779,7 @@
       ],
       "url": "https://www.gizchina.com/reviews/70mai-a900-ultra-review-dual-4k-smarter-parking-and-a-few-strings-attached",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:05:06.795Z"
+      "scrapedAt": "2026-10-05T03:50:02.762Z"
     },
     {
       "id": "giz-huawei-mate-90-which-model-will-get-the-powerful-k",
@@ -34794,7 +34794,7 @@
       ],
       "url": "https://www.gizchina.com/huawei/huawei-mate-90-which-model-will-get-the-powerful-kirin-9050-pro",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:05:08.335Z"
+      "scrapedAt": "2026-10-05T03:50:04.313Z"
     },
     {
       "id": "giz-honor-win-2-set-to-get-a-12000mah-battery-win-pad-",
@@ -34809,7 +34809,7 @@
       ],
       "url": "https://www.gizchina.com/honor/honor-win-2-set-to-get-a-12000mah-battery-win-pad-a-240hz-display",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:05:09.891Z"
+      "scrapedAt": "2026-10-05T03:50:05.857Z"
     },
     {
       "id": "giz-google-assistant-is-ending-on-android-what-does-it",
@@ -34824,7 +34824,7 @@
       ],
       "url": "https://www.gizchina.com/google-2/google-assistant-is-ending-on-android-what-does-it-mean-for-users",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:05:11.439Z"
+      "scrapedAt": "2026-10-05T03:50:07.403Z"
     },
     {
       "id": "giz-openai-gpt-6-1-astra-release-dropped",
@@ -34839,7 +34839,7 @@
       ],
       "url": "https://www.gizchina.com/ai/openai-gpt-6-1-astra-release-dropped",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:05:12.996Z"
+      "scrapedAt": "2026-10-05T03:50:08.956Z"
     },
     {
       "id": "giz-honor-s3-is-a-tiny-e-ink-reader-that-snaps-onto-yo",
@@ -34854,7 +34854,7 @@
       ],
       "url": "https://www.gizchina.com/honor-2/honor-s3-is-a-tiny-e-ink-reader-that-snaps-onto-your-phone",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:05:14.538Z"
+      "scrapedAt": "2026-10-05T03:50:10.494Z"
     },
     {
       "id": "giz-windows-still-remembers-your-unplugged-usb-drive-a",
@@ -34869,7 +34869,7 @@
       ],
       "url": "https://www.gizchina.com/windows/windows-still-remembers-your-unplugged-usb-drive-and-is-it-actually-tracking-you",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:05:16.083Z"
+      "scrapedAt": "2026-10-05T03:50:12.039Z"
     },
     {
       "id": "vb-restate-raises-20m-series-a-to-expand-durable-exec",
@@ -34877,14 +34877,14 @@
       "image": "https://ventureburn.com/wp-content/uploads/2026/10/Restate-768x431.png",
       "title": "Restate Raises $20M Series A to Expand Durable Execution Infrastructure",
       "title_zh": "Restate Raises $20M Series A to Expand Durable Execution Infrastructure",
-      "publishedAt": "2026-10-04T04:05:00.794Z",
+      "publishedAt": "2026-10-05T03:50:03.064Z",
       "snippet": "Restate Raises $20M Series A Restate has raised $20 million in Series A funding to expand its durable execution infrastructure. The round was led by Singular. Redpoint Ventures and Capital",
       "snippet_zh": [
         "Restate Raises $20M Series A Restate has raised $20 million in Series A funding to expand its durable execution infrastructure. The round was led by Singular. Redpoint Ventures and Capital"
       ],
       "url": "https://ventureburn.com/restate-raises-20m-series-a-to-expand-durable-execution-infrastructure/",
       "category_tag_zh": "#AI应用",
-      "scrapedAt": "2026-10-04T04:05:00.794Z"
+      "scrapedAt": "2026-10-05T03:50:03.064Z"
     },
     {
       "id": "vb-relay-raises-36m-ai-frontline-operations",
@@ -34892,14 +34892,14 @@
       "image": "https://ventureburn.com/wp-content/uploads/2026/09/Relay-768x431.png",
       "title": "Relay Raises $36M to Expand AI-Powered Frontline Operations",
       "title_zh": "Relay Raises $36M to Expand AI-Powered Frontline Operations",
-      "publishedAt": "2026-10-04T04:05:00.794Z",
+      "publishedAt": "2026-10-05T03:50:03.064Z",
       "snippet": "Relay Raises $36M in New Funding Relay has raised $36 million in new funding to expand its system for physical operations. The latest round brings the company’s total capital raised",
       "snippet_zh": [
         "Relay Raises $36M in New Funding Relay has raised $36 million in new funding to expand its system for physical operations. The latest round brings the company’s total capital raised"
       ],
       "url": "https://ventureburn.com/relay-raises-36m-ai-frontline-operations/",
       "category_tag_zh": "#AI应用",
-      "scrapedAt": "2026-10-04T04:05:00.794Z"
+      "scrapedAt": "2026-10-05T03:50:03.064Z"
     },
     {
       "id": "vb-flow-engineering-raises-50m-agentic-hardware",
@@ -34907,14 +34907,14 @@
       "image": "https://ventureburn.com/wp-content/uploads/2026/09/flow-768x431.png",
       "title": "Flow Engineering Raises $50M to Accelerate Agentic Hardware Development",
       "title_zh": "Flow Engineering Raises $50M to Accelerate Agentic Hardware Development",
-      "publishedAt": "2026-10-04T04:05:00.794Z",
+      "publishedAt": "2026-10-05T03:50:03.064Z",
       "snippet": "Flow Engineering Raises $50M at $750M Valuation Flow Engineering has raised $50 million in Series B funding at a $750 million valuation. The round was co-led by Antonio Gracias and",
       "snippet_zh": [
         "Flow Engineering Raises $50M at $750M Valuation Flow Engineering has raised $50 million in Series B funding at a $750 million valuation. The round was co-led by Antonio Gracias and"
       ],
       "url": "https://ventureburn.com/flow-engineering-raises-50m-agentic-hardware/",
       "category_tag_zh": "#AI应用",
-      "scrapedAt": "2026-10-04T04:05:00.794Z"
+      "scrapedAt": "2026-10-05T03:50:03.064Z"
     },
     {
       "id": "vb-occam-raises-3-8m-drone-autonomy",
@@ -35116,7 +35116,7 @@
       "source": "Gizchina",
       "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-09%2Fimage-1790763362450-6abce4bb21d63.jpg",
       "title": "Honor Is Preparing Four More Phones for the End of 2026",
-      "title_zh": "Honor Is Preparing Four More Phones for the End of 2026",
+      "title_zh": "荣耀2026年底将再推四款手机",
       "publishedAt": "2026-09-30T10:32:00.000Z",
       "snippet": "Honor is reportedly preparing four new phones, including the 700 Pro, a 7-inch X series model, a wide foldable and a rollable phone for late 2026.",
       "snippet_zh": [
@@ -35124,14 +35124,14 @@
       ],
       "url": "https://www.gizchina.com/honor/honor-is-preparing-four-more-phones-for-the-end-of-2026",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:04:55.893Z"
+      "scrapedAt": "2026-10-05T03:49:51.915Z"
     },
     {
       "id": "giz-samsung-galaxy-s26-gets-one-ui-9-stable-update-in-",
       "source": "Gizchina",
       "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-03%2Fone-ui-9-69b860a85d2b6.jpg",
       "title": "Samsung Galaxy S26 Gets One UI 9 Stable Update in More Countries",
-      "title_zh": "Samsung Galaxy S26 Gets One UI 9 Stable Update in More Countries",
+      "title_zh": "三星S26在多国获One UI 9稳定版更新",
       "publishedAt": "2026-09-30T09:20:00.000Z",
       "snippet": "Samsung is expanding the stable One UI 9 Android 17 update to Galaxy S26 users in Europe, India and more countries. Read all about it inside - as always.",
       "snippet_zh": [
@@ -35139,14 +35139,14 @@
       ],
       "url": "https://www.gizchina.com/samsung/samsung-galaxy-s26-gets-one-ui-9-stable-update-in-more-countries",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:04:57.438Z"
+      "scrapedAt": "2026-10-05T03:49:53.465Z"
     },
     {
       "id": "giz-ios-vs-android-privacy-what-really-protects-your-d",
       "source": "Gizchina",
       "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-09%2Fimage-2026-09-30-011959787-6abc8e468806d.png",
       "title": "iOS vs Android Privacy: What Really Protects Your Data?",
-      "title_zh": "iOS vs Android Privacy: What Really Protects Your Data?",
+      "title_zh": "iOS与安卓隐私：谁更能保护你的数据？",
       "publishedAt": "2026-09-30T09:04:00.000Z",
       "snippet": "iOS vs Android privacy explained: compare app tracking, permissions, background data, and location tools to see how each platform protects your data.",
       "snippet_zh": [
@@ -35154,14 +35154,14 @@
       ],
       "url": "https://www.gizchina.com/sponsored-2/ios-vs-android-privacy-what-really-protects-your-data",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:04:58.982Z"
+      "scrapedAt": "2026-10-05T03:49:55.008Z"
     },
     {
       "id": "giz-does-the-iphone-18-pro-still-freeze-even-after-the",
       "source": "Gizchina",
       "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-09%2F51-6abcb723d97c7.jpg",
       "title": "Does the iPhone 18 Pro Still Freeze Even After the iOS 27.0.1 Fix Update?",
-      "title_zh": "Does the iPhone 18 Pro Still Freeze Even After the iOS 27.0.1 Fix Update?",
+      "title_zh": "iPhone 18 Pro更新iOS 27.0.1后仍卡顿？",
       "publishedAt": "2026-09-30T07:24:00.000Z",
       "snippet": "iOS 27.0.1 fixes issues with Face ID, the camera, and touch response. But another bug has appeared on iPhones that can cause a freeze while working with widgets.",
       "snippet_zh": [
@@ -35169,14 +35169,14 @@
       ],
       "url": "https://www.gizchina.com/apple/does-the-iphone-18-pro-still-freeze-even-after-the-ios-2701-fix-update",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:05:00.541Z"
+      "scrapedAt": "2026-10-05T03:49:56.560Z"
     },
     {
       "id": "giz-corrupt-pst-file-fix-it-with-stellar-repair-for-ou",
       "source": "Gizchina",
       "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-09%2Fimage-2026-09-30-010118021-6abc89e4c5c3e.png",
       "title": "Corrupt PST File? Fix It with Stellar Repair for Outlook: Desktop Software or Online Service",
-      "title_zh": "Corrupt PST File? Fix It with Stellar Repair for Outlook: Desktop Software or Online Service",
+      "title_zh": "PST文件损坏？用Stellar Repair修复：桌面或在线版",
       "publishedAt": "2026-09-30T04:01:00.000Z",
       "snippet": "Stellar Repair for Outlook review: compare desktop and online PST repair tools, their features, file-size limits, privacy, recovery options, and ease of use.",
       "snippet_zh": [
@@ -35184,22 +35184,22 @@
       ],
       "url": "https://www.gizchina.com/sponsored/corrupt-pst-file-fix-it-with-stellar-repair-for-outlook-desktop-software-or-online-service",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:05:02.095Z"
+      "scrapedAt": "2026-10-05T03:49:58.118Z"
     },
     {
       "id": "vb-satlyt-raises-8m-seed-satellite-ai",
       "source": "Ventureburn",
       "image": "https://ventureburn.com/wp-content/uploads/2026/10/satlyt-raises-8m-seed-satellite-ai_1790878827-768x432.jpg",
       "title": "Satlyt Secures $8M Seed to Run AI on Satellites Without Building Hardware",
-      "title_zh": "Satlyt Secures $8M Seed to Run AI on Satellites Without Building Hardware",
-      "publishedAt": "2026-10-04T04:05:00.793Z",
+      "title_zh": "Satlyt 获 800 万美元种子轮，无需自建硬件即可卫星运行 AI",
+      "publishedAt": "2026-10-05T03:50:03.064Z",
       "snippet": "Sunnyvale- and Nairobi-based startup Satlyt has secured an $8 million seed round led by non sibi ventures to scale its software for running artificial intelligence models directly on satellites. Founded",
       "snippet_zh": [
         "Sunnyvale- and Nairobi-based startup Satlyt has secured an $8 million seed round led by non sibi ventures to scale its software for running artificial intelligence models directly on satellites. Founded"
       ],
       "url": "https://ventureburn.com/satlyt-raises-8m-seed-satellite-ai/",
       "category_tag_zh": "#AI应用",
-      "scrapedAt": "2026-10-04T04:05:00.793Z"
+      "scrapedAt": "2026-10-05T03:50:03.064Z"
     },
     {
       "id": "vb-broadcom-to-lend-anthropic-42-billion-ai-chips",
@@ -35207,14 +35207,14 @@
       "image": "https://ventureburn.com/wp-content/uploads/2026/10/internal_upload_qCz2fLu2RbKcQaxzALvvgw-768x431.jpg",
       "title": "Broadcom To Lend Anthropic $42 Billion To Manage Surging Cost and Fund Next-Gen AI Chips",
       "title_zh": "Broadcom To Lend Anthropic $42 Billion To Manage Surging Cost and Fund Next-Gen AI Chips",
-      "publishedAt": "2026-10-04T04:05:00.793Z",
+      "publishedAt": "2026-10-05T03:50:03.064Z",
       "snippet": "The recent Anthropic IPO prospectus leak gave us the clearest insight into how expensive building a super-intelligent AI actually is. Despite pulling in impressive revenues, the company is bleeding cash",
       "snippet_zh": [
         "The recent Anthropic IPO prospectus leak gave us the clearest insight into how expensive building a super-intelligent AI actually is. Despite pulling in impressive revenues, the company is bleeding cash"
       ],
       "url": "https://ventureburn.com/broadcom-to-lend-anthropic-42-billion-ai-chips/",
       "category_tag_zh": "#AI应用",
-      "scrapedAt": "2026-10-04T04:05:00.793Z"
+      "scrapedAt": "2026-10-05T03:50:03.064Z"
     },
     {
       "id": "vb-armadin-raises-255-million-scale-ai-agentic-securi",
@@ -35222,14 +35222,14 @@
       "image": "https://ventureburn.com/wp-content/uploads/2026/10/internal_upload_LYRUbjJ3QJmwp-D37EEgiw-768x431.jpg",
       "title": "Armadin Raises $255.5 Million To Fight Growing AI Threats With Agentic AI",
       "title_zh": "Armadin Raises $255.5 Million To Fight Growing AI Threats With Agentic AI",
-      "publishedAt": "2026-10-04T04:05:00.793Z",
+      "publishedAt": "2026-10-05T03:50:03.064Z",
       "snippet": "Just as quickly as artificial intelligence is growing, so are attackers moving to find points of exploitation. Some even use frontier AI models to turn fresh vulnerabilities into fully working",
       "snippet_zh": [
         "Just as quickly as artificial intelligence is growing, so are attackers moving to find points of exploitation. Some even use frontier AI models to turn fresh vulnerabilities into fully working"
       ],
       "url": "https://ventureburn.com/armadin-raises-255-million-scale-ai-agentic-security/",
       "category_tag_zh": "#AI应用",
-      "scrapedAt": "2026-10-04T04:05:00.793Z"
+      "scrapedAt": "2026-10-05T03:50:03.064Z"
     },
     {
       "id": "vb-cscale-raises-145-million-to-fix-ai-networking",
@@ -35237,14 +35237,14 @@
       "image": "https://ventureburn.com/wp-content/uploads/2026/10/internal_upload_oko_TlegQSyZpX1lwsfkSw.jpg-768x431.jpeg",
       "title": "CScale Raises $145 Million To Fix Gigawatt-Scale AI Networking And Exit Stealth",
       "title_zh": "CScale Raises $145 Million To Fix Gigawatt-Scale AI Networking And Exit Stealth",
-      "publishedAt": "2026-10-04T04:05:00.794Z",
+      "publishedAt": "2026-10-05T03:50:03.064Z",
       "snippet": "As artificial intelligence data centers grow to staggering gigawatt scales, they inevitably hit a brutal physical wall. While stacking thousands of tightly packed accelerators in a room is easy, getting",
       "snippet_zh": [
         "As artificial intelligence data centers grow to staggering gigawatt scales, they inevitably hit a brutal physical wall. While stacking thousands of tightly packed accelerators in a room is easy, getting"
       ],
       "url": "https://ventureburn.com/cscale-raises-145-million-to-fix-ai-networking/",
       "category_tag_zh": "#AI应用",
-      "scrapedAt": "2026-10-04T04:05:00.794Z"
+      "scrapedAt": "2026-10-05T03:50:03.064Z"
     },
     {
       "id": "vb-homeward-secures-120-million-series-d-funding",
@@ -35259,7 +35259,7 @@
       ],
       "url": "https://ventureburn.com/homeward-secures-120-million-series-d-funding/",
       "category_tag_zh": "#科技创投",
-      "scrapedAt": "2026-10-04T04:05:01.121Z"
+      "scrapedAt": "2026-10-05T03:50:03.635Z"
     },
     {
       "id": "vb-ares-raises-4-2-billion-structured-solutions-fund",
@@ -35274,7 +35274,7 @@
       ],
       "url": "https://ventureburn.com/ares-raises-4-2-billion-structured-solutions-fund/",
       "category_tag_zh": "#科技创投",
-      "scrapedAt": "2026-10-04T04:05:01.121Z"
+      "scrapedAt": "2026-10-05T03:50:03.635Z"
     },
     {
       "id": "vb-volantis-raises-88m-ai-inference",
@@ -35289,7 +35289,7 @@
       ],
       "url": "https://ventureburn.com/volantis-raises-88m-ai-inference/",
       "category_tag_zh": "#科技创投",
-      "scrapedAt": "2026-10-04T04:05:01.122Z"
+      "scrapedAt": "2026-10-05T03:50:03.636Z"
     },
     {
       "id": "vb-binance-stocks-welcome-rewards",
@@ -35304,7 +35304,7 @@
       ],
       "url": "https://ventureburn.com/binance-stocks-welcome-rewards/",
       "category_tag_zh": "#科技创投",
-      "scrapedAt": "2026-10-04T04:05:01.122Z"
+      "scrapedAt": "2026-10-05T03:50:03.636Z"
     },
     {
       "id": "tv-apple-security-camera-no-video",
@@ -35469,7 +35469,7 @@
       ],
       "url": "https://www.gizchina.com/samsung/samsung-galaxy-s27-ultra-will-retain-the-design-of-its-predecessor",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:04:46.606Z"
+      "scrapedAt": "2026-10-05T03:49:42.621Z"
     },
     {
       "id": "giz-nvidia-delivers-massive-security-patch-for-older-g",
@@ -35484,7 +35484,7 @@
       ],
       "url": "https://www.gizchina.com/nvidia/nvidia-delivers-massive-security-patch-for-older-graphics-cards",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:04:48.157Z"
+      "scrapedAt": "2026-10-05T03:49:44.170Z"
     },
     {
       "id": "giz-huawei-mate-xt-2-gets-new-harmonyos-7-update-with-",
@@ -35499,7 +35499,7 @@
       ],
       "url": "https://www.gizchina.com/huawei/huawei-mate-xt-2-gets-new-harmonyos-7-update-with-3d-wallpapers",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:04:49.709Z"
+      "scrapedAt": "2026-10-05T03:49:45.710Z"
     },
     {
       "id": "giz-huawei-mate-90-pro-max-collectors-edition-official",
@@ -35514,7 +35514,7 @@
       ],
       "url": "https://www.gizchina.com/huawei/huawei-mate-90-pro-max-collectors-edition-officially-unveiled",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:04:51.250Z"
+      "scrapedAt": "2026-10-05T03:49:47.251Z"
     },
     {
       "id": "giz-huaweis-mate-90-debut-brings-back-the-kirin-9000-c",
@@ -35529,7 +35529,7 @@
       ],
       "url": "https://www.gizchina.com/huawei/huaweis-mate-90-debut-brings-back-the-kirin-9000-chip",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:04:52.795Z"
+      "scrapedAt": "2026-10-05T03:49:48.793Z"
     },
     {
       "id": "giz-vivo-x-fold6-goes-global-with-120hz-ltpo-displays-",
@@ -35544,52 +35544,52 @@
       ],
       "url": "https://www.gizchina.com/vivo-phones/vivo-x-fold6-goes-global-with-120hz-ltpo-displays-and-a-6900mah-battery",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:04:54.343Z"
+      "scrapedAt": "2026-10-05T03:49:50.336Z"
     },
     {
       "id": "vb-supabase-raises-150-million-acquires-turso-for-age",
       "source": "Ventureburn",
       "image": "https://ventureburn.com/wp-content/uploads/2026/10/internal_upload_woertUKKSWWUFJqg2tPP_w.jpg-768x431.jpeg",
       "title": "Supabase Raises $150 Million And Acquires Turso As AI Agents Drive 600% Database Growth",
-      "title_zh": "Supabase Raises $150 Million And Acquires Turso As AI Agents Drive 600% Database Growth",
-      "publishedAt": "2026-10-04T04:05:00.793Z",
+      "title_zh": "Supabase 获 1.5 亿融资并收购 Turso，AI 助数据库增长 600%",
+      "publishedAt": "2026-10-05T03:50:03.063Z",
       "snippet": "As we get to the point where you can describe a problem and the problem builds itself, one major challenge remains: databases. Every single autonomous agent needs a place to",
       "snippet_zh": [
         "As we get to the point where you can describe a problem and the problem builds itself, one major challenge remains: databases. Every single autonomous agent needs a place to"
       ],
       "url": "https://ventureburn.com/supabase-raises-150-million-acquires-turso-for-agentic-ai/",
       "category_tag_zh": "#AI应用",
-      "scrapedAt": "2026-10-04T04:05:00.793Z"
+      "scrapedAt": "2026-10-05T03:50:03.063Z"
     },
     {
       "id": "vb-extend-robotics-raises-2-6m-2",
       "source": "Ventureburn",
       "image": "https://ventureburn.com/wp-content/uploads/2026/10/extend-robotics-raises-2-6m_1790937919-768x432.jpg",
       "title": "UK’s Extend Robotics Secures £2.6M to Sell Factory Work Instead of Machines",
-      "title_zh": "UK’s Extend Robotics Secures £2.6M to Sell Factory Work Instead of Machines",
-      "publishedAt": "2026-10-04T04:05:00.793Z",
+      "title_zh": "英国 Extend Robotics 获 260 万英镑，提供工厂劳务而非售机",
+      "publishedAt": "2026-10-05T03:50:03.064Z",
       "snippet": "UK embodied-AI startup Extend Robotics has closed a £2.6 million early-stage funding round to scale its Result-as-a-Service model across European industrial sectors. Skyworks Venture Capital Fund led the round, with",
       "snippet_zh": [
         "UK embodied-AI startup Extend Robotics has closed a £2.6 million early-stage funding round to scale its Result-as-a-Service model across European industrial sectors. Skyworks Venture Capital Fund led the round, with"
       ],
       "url": "https://ventureburn.com/extend-robotics-raises-2-6m-2/",
       "category_tag_zh": "#AI应用",
-      "scrapedAt": "2026-10-04T04:05:00.793Z"
+      "scrapedAt": "2026-10-05T03:50:03.064Z"
     },
     {
       "id": "vb-how-to-make-an-ai-essay-sound-more-human",
       "source": "Ventureburn",
       "image": "https://ventureburn.com/wp-content/uploads/2026/10/internal_upload_O7qORrCnQDqyV39ZLtVsxw-768x431.png",
       "title": "How to Make an AI Essay Sound More Human",
-      "title_zh": "How to Make an AI Essay Sound More Human",
-      "publishedAt": "2026-10-04T04:05:00.793Z",
+      "title_zh": "如何让 AI 论文听起来更像人类",
+      "publishedAt": "2026-10-05T03:50:03.064Z",
       "snippet": "AI can produce an essay in seconds. That part is no longer impressive. The harder question comes afterward: why does a technically correct essay sometimes feel strangely empty? The problem",
       "snippet_zh": [
         "AI can produce an essay in seconds. That part is no longer impressive. The harder question comes afterward: why does a technically correct essay sometimes feel strangely empty? The problem"
       ],
       "url": "https://ventureburn.com/how-to-make-an-ai-essay-sound-more-human/",
       "category_tag_zh": "#AI应用",
-      "scrapedAt": "2026-10-04T04:05:00.793Z"
+      "scrapedAt": "2026-10-05T03:50:03.064Z"
     },
     {
       "id": "vb-why-emerging-markets-could-shape-the-next-phase-of",
@@ -35604,7 +35604,7 @@
       ],
       "url": "https://ventureburn.com/why-emerging-markets-could-shape-the-next-phase-of-web3-adoption/",
       "category_tag_zh": "#科技创投",
-      "scrapedAt": "2026-10-04T04:05:01.120Z"
+      "scrapedAt": "2026-10-05T03:50:03.634Z"
     },
     {
       "id": "vb-certo-raises-5m-capstone-drone",
@@ -35619,7 +35619,7 @@
       ],
       "url": "https://ventureburn.com/certo-raises-5m-capstone-drone/",
       "category_tag_zh": "#科技创投",
-      "scrapedAt": "2026-10-04T04:05:01.120Z"
+      "scrapedAt": "2026-10-05T03:50:03.635Z"
     },
     {
       "id": "tv-meta-muse-ai-gadgets-home-link",
@@ -35784,7 +35784,7 @@
       ],
       "url": "https://www.gizchina.com/microsoft/microsoft-brings-faster-game-loading-to-more-pcs",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:04:40.406Z"
+      "scrapedAt": "2026-10-05T03:49:36.441Z"
     },
     {
       "id": "giz-samsung-galaxy-m08-and-f08-go-official-with-6000ma",
@@ -35799,7 +35799,7 @@
       ],
       "url": "https://www.gizchina.com/samsung/samsung-galaxy-m08-and-f08-go-official-with-6000mah-batteries-and-6-years-of-updates",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:04:41.953Z"
+      "scrapedAt": "2026-10-05T03:49:37.984Z"
     },
     {
       "id": "giz-iphone-duo-has-a-replaceable-inner-display-cover-f",
@@ -35814,7 +35814,7 @@
       ],
       "url": "https://www.gizchina.com/apple/iphone-duo-has-a-replaceable-inner-display-cover-for-just-19-with-applecare",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:04:43.509Z"
+      "scrapedAt": "2026-10-05T03:49:39.532Z"
     },
     {
       "id": "giz-apples-first-touchscreen-macbook-pro-could-arrive-",
@@ -35829,7 +35829,7 @@
       ],
       "url": "https://www.gizchina.com/apple/apples-first-touchscreen-macbook-pro-could-arrive-this-month",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:04:45.062Z"
+      "scrapedAt": "2026-10-05T03:49:41.075Z"
     },
     {
       "id": "tv-capcom-ai-game-development",
@@ -35852,14 +35852,14 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268775_October_Prime_Day_art_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100",
       "title": "The best early October Prime Day deals happening now",
       "title_zh": "The best early October Prime Day deals happening now",
-      "publishedAt": "2026-10-03T16:22:40.000Z",
+      "publishedAt": "2026-10-04T17:18:00.000Z",
       "snippet": "It’s not even October yet and Amazon is already offering some Prime Big Deal Day discounts on its own hardware, along with plenty of other popular products. It’s all to hype up October Prime Day, which starts October 6th at 3AM ET and lasts through 3AM ET on the 8th if you’re on the East […]",
       "snippet_zh": [
         "It’s not even October yet and Amazon is already offering some Prime Big Deal Day discounts on its own hardware, along with plenty of other popular products. It’s all to hype up October Prime Day, which starts October 6th at 3AM ET and lasts through 3AM ET on the 8th if you’re on the East […]"
       ],
       "url": "https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october",
       "category_tag_zh": "#科技前沿",
-      "scrapedAt": "2026-10-04T04:06:12.915Z"
+      "scrapedAt": "2026-10-05T03:51:15.086Z"
     },
     {
       "id": "tv-splice-ceo-kakul-srivastava-ai-interview",
@@ -35919,7 +35919,187 @@
       ],
       "url": "https://www.gizchina.com/whatsapp/no-whatsapp-is-not-charging-you-for-messages-heres-what-actually-changed",
       "category_tag_zh": "#科技",
-      "scrapedAt": "2026-10-04T04:04:38.856Z"
+      "scrapedAt": "2026-10-05T03:49:34.900Z"
+    },
+    {
+      "id": "tv-the-new-fitbit-edge-leaks",
+      "source": "The Verge",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24438538/Fitbit_STK151_01.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "title": "The new Fitbit Edge leaks",
+      "title_zh": "The new Fitbit Edge leaks",
+      "publishedAt": "2026-10-04T21:02:09.000Z",
+      "snippet": "We don't know a ton about the Fitbit Edge, but it appears to be a successor to the midrange Charge line. It had leaked previously, but we can clearly see in these images posted by Android Headlines, you can see that Google's rumored fitness tracker sort of splits the difference between the Pixel Wat",
+      "snippet_zh": [
+        "We don't know a ton about the Fitbit Edge, but it appears to be a successor to the midrange Charge line. It had leaked previously, but we can clearly see in these images posted by Android Headlines, you can see that Google's rumored fitness tracker sort of splits the difference between the Pixel Wat"
+      ],
+      "url": "https://www.theverge.com/gadgets/1004616/the-new-fitbit-edge-leaks",
+      "category_tag_zh": "#科技前沿",
+      "scrapedAt": "2026-10-05T03:51:15.084Z"
+    },
+    {
+      "id": "tv-prick-industrial-glam-punk-album-review",
+      "source": "The Verge",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Prick.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "title": "Prick’s theatrical industrial punk is perfect for spooky season",
+      "title_zh": "Prick’s theatrical industrial punk is perfect for spooky season",
+      "publishedAt": "2026-10-04T20:00:00.000Z",
+      "snippet": "While deep in the recording process for The Downward Spiral, Trent Reznor lent some of his production talents to old friend Kevin McMahon, from the new wave band Lucky Pierre (which Reznor was briefly a member of). While Reznor is only credited as the producer on four tracks off Prick's self-titled ",
+      "snippet_zh": [
+        "While deep in the recording process for The Downward Spiral, Trent Reznor lent some of his production talents to old friend Kevin McMahon, from the new wave band Lucky Pierre (which Reznor was briefly a member of). While Reznor is only credited as the producer on four tracks off Prick's self-titled "
+      ],
+      "url": "https://www.theverge.com/entertainment/1004595/prick-industrial-glam-punk-album-review",
+      "category_tag_zh": "#科技前沿",
+      "scrapedAt": "2026-10-05T03:51:15.085Z"
+    },
+    {
+      "id": "tv-well-if-ai-said-it-it-must-be-true",
+      "source": "The Verge",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2244569411.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "title": "NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment",
+      "title_zh": "NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment",
+      "publishedAt": "2026-10-04T16:16:04.000Z",
+      "snippet": "New Jersey's lieutenant governor Dale Caldwell was forced to resign on September 25th after an investigation found he had sexually harassed a staffer and repeatedly violated ethics rules. The now-former Lt. governor has been making the media rounds trying to clear his name. But he took a particularl",
+      "snippet_zh": [
+        "New Jersey's lieutenant governor Dale Caldwell was forced to resign on September 25th after an investigation found he had sexually harassed a staffer and repeatedly violated ethics rules. The now-former Lt. governor has been making the media rounds trying to clear his name. But he took a particularl"
+      ],
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
+      "category_tag_zh": "#AI应用",
+      "scrapedAt": "2026-10-05T03:51:15.086Z"
+    },
+    {
+      "id": "tv-openai-gpt-cheat-starcraft",
+      "source": "The Verge",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/9020427/swarm_screenshot27_large.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "title": "An AI couldn’t beat humans at StarCraft, so it decided to cheat",
+      "title_zh": "AI星际争霸不敌人类，转而作弊",
+      "publishedAt": "2026-10-04T15:21:59.000Z",
+      "snippet": "StarSkirmish pits AI-made StarCraft-playing bots against one another, as well as against human-made bots. OpenAI's GPT-6 Astra and Claude Opus 5.5 were essentially tied as the best-performing AI-made bots, but they couldn't top Stardust, the top-rated human-made bot. On Friday, GPT was facing off ag",
+      "snippet_zh": [
+        "StarSkirmish pits AI-made StarCraft-playing bots against one another, as well as against human-made bots. OpenAI's GPT-6 Astra and Claude Opus 5.5 were essentially tied as the best-performing AI-made bots, but they couldn't top Stardust, the top-rated human-made bot. On Friday, GPT was facing off ag"
+      ],
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
+      "category_tag_zh": "#AI应用",
+      "scrapedAt": "2026-10-05T03:51:15.087Z"
+    },
+    {
+      "id": "tv-this-toolless-modular-lever-action-wallet-is-the-c",
+      "source": "The Verge",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/ohsnap-wallet-2-01.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "title": "This toolless modular lever-action wallet is the coolest I’ve stuck to my phone",
+      "title_zh": "免工具模块化杠杆钱包，吸附手机超酷炫",
+      "publishedAt": "2026-10-04T15:00:00.000Z",
+      "snippet": "This toolless modular lever-action wallet is the coolest I've stuck to my phone. Remember when I tested the ultra-thin and convenient OhSnap Snap Grip Stand and liked it so much I bought my own? Now, OhSnap has a magnetic lever-action card wallet that can stack with that stand. It's the coolest wall",
+      "snippet_zh": [
+        "This toolless modular lever-action wallet is the coolest I've stuck to my phone. Remember when I tested the ultra-thin and convenient OhSnap Snap Grip Stand and liked it so much I bought my own? Now, OhSnap has a magnetic lever-action card wallet that can stack with that stand. It's the coolest wall"
+      ],
+      "url": "https://www.theverge.com/gadgets/1004360/this-toolless-modular-lever-action-wallet-is-the-coolest-ive-stuck-to-my-phone",
+      "category_tag_zh": "#科技前沿",
+      "scrapedAt": "2026-10-05T03:51:15.087Z"
+    },
+    {
+      "id": "tv-airpods-pro-3-amazon-october-prime-day-deal-sale",
+      "source": "The Verge",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257943_Airpods_Pro3_AKrales_0108.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "title": "The AirPods Pro 3 are a fantastic deal at $179",
+      "title_zh": "AirPods Pro 3 售价179美元，性价比极高",
+      "publishedAt": "2026-10-04T13:00:00.000Z",
+      "snippet": "It’s been a while since we’ve seen a good discount on the Apple AirPods Pro 3, but like the latest iPad Mini and the M5 MacBook Airs, a great one is happening now for October Prime Day. You can snag a pair of the noise-canceling earbuds that include five ear tip sizes, live translation, and […]",
+      "snippet_zh": [
+        "It’s been a while since we’ve seen a good discount on the Apple AirPods Pro 3, but like the latest iPad Mini and the M5 MacBook Airs, a great one is happening now for October Prime Day. You can snag a pair of the noise-canceling earbuds that include five ear tip sizes, live translation, and […]"
+      ],
+      "url": "https://www.theverge.com/gadgets/1004242/airpods-pro-3-amazon-october-prime-day-deal-sale",
+      "category_tag_zh": "#科技前沿",
+      "scrapedAt": "2026-10-05T03:51:15.087Z"
+    },
+    {
+      "id": "tv-macbook-air-m5-amazon-prime-big-deal-sale",
+      "source": "The Verge",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268408_Apple_MacBook_Air_15_M5_laptop_ADiBenedetto_0008.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "title": "The MacBook Air M5 is $200 off for the first time in months",
+      "title_zh": "MacBook Air M5 数月来首次降价200美元",
+      "publishedAt": "2026-10-04T12:34:01.000Z",
+      "snippet": "Amazon’s October Prime Day has effectively chopped off Apple’s June price increases. Usually $1,299, the 13-inch MacBook Air with the M5 chip and 512GB of storage is on sale for $1,099 at Amazon. That’s a more palatable price for a machine that’s significantly faster than Apple’s $699 MacBook Neo. T",
+      "snippet_zh": [
+        "Amazon’s October Prime Day has effectively chopped off Apple’s June price increases. Usually $1,299, the 13-inch MacBook Air with the M5 chip and 512GB of storage is on sale for $1,099 at Amazon. That’s a more palatable price for a machine that’s significantly faster than Apple’s $699 MacBook Neo. T"
+      ],
+      "url": "https://www.theverge.com/gadgets/1000832/macbook-air-m5-amazon-prime-big-deal-sale",
+      "category_tag_zh": "#科技前沿",
+      "scrapedAt": "2026-10-05T03:51:15.087Z"
+    },
+    {
+      "id": "tv-apple-ipad-mini-amazon-prime-big-deal-days-sale",
+      "source": "The Verge",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25691621/iPad_Mini_1.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "title": "The iPad Mini is slightly cheaper again during Prime Day",
+      "title_zh": "Prime Day 期间，iPad Mini 再次小幅降价",
+      "publishedAt": "2026-10-04T12:31:50.000Z",
+      "snippet": "Apple bumped up prices on several of its devices in June, and we haven’t seen a good discount on the iPad Mini since. Just ahead of Amazon’s October Prime Big Deals Days, however, both Wi-Fi only and cellular-connected models are $100 off. The Wi-Fi version with 128GB of storage is currently $499, t",
+      "snippet_zh": [
+        "Apple bumped up prices on several of its devices in June, and we haven’t seen a good discount on the iPad Mini since. Just ahead of Amazon’s October Prime Big Deals Days, however, both Wi-Fi only and cellular-connected models are $100 off. The Wi-Fi version with 128GB of storage is currently $499, t"
+      ],
+      "url": "https://www.theverge.com/gadgets/1000323/apple-ipad-mini-amazon-prime-big-deal-days-sale",
+      "category_tag_zh": "#科技前沿",
+      "scrapedAt": "2026-10-05T03:51:15.087Z"
+    },
+    {
+      "id": "tv-the-forgotten-chromebook-that-started-it-all",
+      "source": "The Verge",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/VRG_VRH_Chromebook_Site.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "title": "The forgotten Chromebook that started it all",
+      "title_zh": "开启Chromebook时代，却被",
+      "publishedAt": "2026-10-04T12:00:00.000Z",
+      "snippet": "Google didn't even call the first Chromebook a \"Chromebook.\" The Cr-48 had no interesting design and no bright logos - it wasn't even designed to be a product you could buy. Instead, it was a portal to a big new idea about computers. In this week's episode of Version History, The Verge's Nilay Patel",
+      "snippet_zh": [
+        "Google didn't even call the first Chromebook a \"Chromebook.\" The Cr-48 had no interesting design and no bright logos - it wasn't even designed to be a product you could buy. Instead, it was a portal to a big new idea about computers. In this week's episode of Version History, The Verge's Nilay Patel"
+      ],
+      "url": "https://www.theverge.com/podcast/1001215/the-forgotten-chromebook-that-started-it-all",
+      "category_tag_zh": "#科技前沿",
+      "scrapedAt": "2026-10-05T03:51:15.087Z"
+    },
+    {
+      "id": "giz-honor-magic-9-series-is-coming-to-europe-in-januar",
+      "source": "Gizchina",
+      "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-10%2Fimage-2026-10-04-231457622-6ac308850c227.png",
+      "title": "Honor Magic 9 Series Is Coming To Europe In January 2027",
+      "title_zh": "Honor Magic 9 Series Is Coming To Europe In January 2027",
+      "publishedAt": "2026-10-05T02:21:00.000Z",
+      "snippet": "Honor Magic 9 series is coming to Europe in January 2027, with the Magic 9 Pro Max already confirmed for the European market.",
+      "snippet_zh": [
+        "Honor Magic 9 series is coming to Europe in January 2027, with the Magic 9 Pro Max already confirmed for the European market."
+      ],
+      "url": "https://www.gizchina.com/honor-2/honor-magic-9-series-is-coming-to-europe-in-january-2027",
+      "category_tag_zh": "#科技",
+      "scrapedAt": "2026-10-05T03:49:30.263Z"
+    },
+    {
+      "id": "giz-what-the-xiaomi-18-pro-maxs-new-leica-camera-can-d",
+      "source": "Gizchina",
+      "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-09%2Fxiaomi-18-pro-global-1-6ab63ac46b403.jpg",
+      "title": "What the Xiaomi 18 Pro Max's New Leica Camera Can Do",
+      "title_zh": "What the Xiaomi 18 Pro Max's New Leica Camera Can Do",
+      "publishedAt": "2026-10-04T16:55:00.000Z",
+      "snippet": "The Xiaomi 18 Pro Max brings two 200MP Leica cameras, a new Legendary Moment mode, LOFIC technology and three Leica-inspired photo styles.",
+      "snippet_zh": [
+        "The Xiaomi 18 Pro Max brings two 200MP Leica cameras, a new Legendary Moment mode, LOFIC technology and three Leica-inspired photo styles."
+      ],
+      "url": "https://www.gizchina.com/xiaomi-tablets-tech/what-the-xiaomi-18-pro-maxs-new-leica-camera-can-do",
+      "category_tag_zh": "#科技",
+      "scrapedAt": "2026-10-05T03:49:31.806Z"
+    },
+    {
+      "id": "giz-xiaomi-18-may-bring-a-3d-screen-what-we-really-kno",
+      "source": "Gizchina",
+      "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-01%2Flista-xiaomi-695a3d73498ec.jpg",
+      "title": "Xiaomi 18 may bring a 3D screen: What We Really Know So Far",
+      "title_zh": "Xiaomi 18 may bring a 3D screen: What We Really Know So Far",
+      "publishedAt": "2026-10-04T11:04:00.000Z",
+      "snippet": "A Weibo leak hints at a 3D screen for the Xiaomi 18, but the claim is unconfirmed. Here's what's real, and what's still just speculation.",
+      "snippet_zh": [
+        "A Weibo leak hints at a 3D screen for the Xiaomi 18, but the claim is unconfirmed. Here's what's real, and what's still just speculation."
+      ],
+      "url": "https://www.gizchina.com/xiaomi-tablets-tech/xiaomi-18-may-bring-a-3d-screen-what-we-really-know-so-far",
+      "category_tag_zh": "#科技",
+      "scrapedAt": "2026-10-05T03:49:33.354Z"
     }
   ]
 }
