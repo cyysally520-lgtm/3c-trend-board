@@ -1,14 +1,14 @@
 {
-  "date": "2026-10-29",
+  "date": "2026-10-30",
   "kind": "crowdfunding",
-  "count": 505,
+  "count": 507,
   "items": [
     {
       "id": "cs-micimike-rev-devices-micimike-home-mini-drop-in-pcb",
       "platform": "Crowd Supply",
       "image": "https://www.crowdsupply.com/img/a9cc/3aa4466e-bd14-45d9-a0cc-ca4fd2eda9cc_aa-md.jpg",
       "name": "MiciMike Home Mini Drop-In PCB",
-      "name_zh": "家用迷你嵌入板",
+      "name_zh": "嵌入式迷你PCB",
       "founder": "MiciMike ReV Devices",
       "location": "Bandon, co",
       "raised": 132359,
@@ -22,7 +22,7 @@
       "summary_zh": [
         "A fully local, open-source replacement board that brings Home Assistant voice to the 1st Gen Google Home Mini"
       ],
-      "scrapedAt": "2026-10-29T04:07:32.216Z"
+      "scrapedAt": "2026-10-30T04:08:23.108Z"
     },
     {
       "id": "cs-modos-tech-modos-flow",
@@ -260,7 +260,7 @@
       "platform": "Crowd Supply",
       "image": "https://www.crowdsupply.com/img/4f42/04bed5ae-404b-4b64-9ccd-aad5a8d24f42_aa-md.jpg",
       "name": "Tiliqua",
-      "name_zh": "泰利夸",
+      "name_zh": "泰利夸智能",
       "founder": "apf.audio",
       "location": "Heidelberg, DE",
       "raised": 57767,
@@ -274,7 +274,7 @@
       "summary_zh": [
         "A powerful, hackable FPGA-based audio multitool for Eurorack"
       ],
-      "scrapedAt": "2026-10-29T04:07:32.217Z"
+      "scrapedAt": "2026-10-30T04:08:23.111Z"
     },
     {
       "id": "cs-silicognition-lifepo4wered-pi-plus",
@@ -4955,18 +4955,18 @@
       "name_zh": "传感器手表Pro",
       "founder": "Oddly Specific Objects",
       "location": "Brooklyn, NY, USA",
-      "raised": 174004,
+      "raised": 174432,
       "currency": "USD",
       "currencySymbol": "$",
-      "progress_pct": 497,
-      "backers": 1943,
+      "progress_pct": 498,
+      "backers": 1946,
       "price": "$12",
       "campaign_url": "https://www.crowdsupply.com/oddly-specific-objects/sensor-watch-pro",
       "category_tag_zh": "#硬件",
       "summary_zh": [
         "A more hackable ARM Cortex M0+ brain upgrade for Casio's iconic F-91W"
       ],
-      "scrapedAt": "2026-10-29T04:07:32.216Z"
+      "scrapedAt": "2026-10-30T04:08:23.108Z"
     },
     {
       "id": "cs-oddly-specific-objects-sensor-watch",
@@ -4987,7 +4987,7 @@
       "summary_zh": [
         "A hackable ARM Cortex M0+ upgrade for a classic Casio wristwatch"
       ],
-      "scrapedAt": "2026-10-29T04:07:32.216Z"
+      "scrapedAt": "2026-10-30T04:08:23.108Z"
     },
     {
       "id": "cs-upside-down-labs-bioamp-exg-pill",
@@ -7064,7 +7064,7 @@
       "platform": "Crowd Supply",
       "image": "https://www.crowdsupply.com/img/a60d/367a85c7-12ee-4449-aaed-c1d3525ca60d_aa-md.jpg",
       "name": "Openterface KeyMod",
-      "name_zh": "开源键槽接口",
+      "name_zh": "KeyMod接口",
       "founder": "TechxArtisan",
       "location": "Hong Kong",
       "raised": 54121,
@@ -7078,7 +7078,7 @@
       "summary_zh": [
         "Pocket USB multi-tool bridge for tech, professionals, and gaming"
       ],
-      "scrapedAt": "2026-10-29T04:07:32.214Z"
+      "scrapedAt": "2026-10-30T04:08:23.104Z"
     },
     {
       "id": "cs-everypin-pwrblock-323",
@@ -7843,21 +7843,21 @@
       "platform": "Crowd Supply",
       "image": "https://www.crowdsupply.com/img/1635/a0e800ea-ff66-41a8-9313-e4f6fcf61635_aa-md.jpg",
       "name": "Firehat",
-      "name_zh": "火帽扩展板",
+      "name_zh": "火焰扩展板",
       "founder": "Computer Equipment Group",
       "location": "Cologne, Germany",
       "raised": 26663,
       "currency": "USD",
       "currencySymbol": "$",
       "progress_pct": 355,
-      "backers": 171,
+      "backers": 172,
       "price": "$99",
       "campaign_url": "https://www.crowdsupply.com/computer-equipment-group/firehat",
       "category_tag_zh": "#硬件",
       "summary_zh": [
         "A compact FireWire DV capture HAT for single-board computers"
       ],
-      "scrapedAt": "2026-10-29T04:07:32.214Z"
+      "scrapedAt": "2026-10-30T04:08:23.104Z"
     },
     {
       "id": "cs-dicekeys-dicekeys",
@@ -7878,28 +7878,28 @@
       "summary_zh": [
         "Security keys you create by rolling dice"
       ],
-      "scrapedAt": "2026-10-29T04:07:32.216Z"
+      "scrapedAt": "2026-10-30T04:08:23.109Z"
     },
     {
       "id": "cs-second-bedroom-game-bub",
       "platform": "Crowd Supply",
       "image": "https://www.crowdsupply.com/img/0655/20dc7f7f-f790-47c4-94cb-1ce16c790655_aa-md.jpg",
       "name": "Game Bub",
-      "name_zh": "Game Bub",
+      "name_zh": "游戏泡泡",
       "founder": "Second Bedroom",
       "location": "Cambridge, MA",
-      "raised": 305450,
+      "raised": 305849,
       "currency": "USD",
       "currencySymbol": "$",
       "progress_pct": 305,
-      "backers": 942,
+      "backers": 943,
       "price": "$269",
       "campaign_url": "https://www.crowdsupply.com/second-bedroom/game-bub",
       "category_tag_zh": "#硬件",
       "summary_zh": [
         "An open-source FPGA retro-emulation handheld"
       ],
-      "scrapedAt": "2026-10-29T04:07:32.217Z"
+      "scrapedAt": "2026-10-30T04:08:23.110Z"
     },
     {
       "id": "igo-lumaid-technologies-inc-lumaid",
@@ -8755,16 +8755,16 @@
       "name_zh": "Unknown",
       "founder": "Neochori TV",
       "location": "Unknown",
-      "raised": 146218,
+      "raised": 146243,
       "currency": "EUR",
       "currencySymbol": "€",
       "progress_pct": 100,
-      "backers": 1100,
+      "backers": 0,
       "price": "$5",
       "campaign_url": "https://www.indiegogo.com/en/projects/neochori-tv-/-to-pai2i",
       "category_tag_zh": "#科技",
       "summary_zh": [],
-      "scrapedAt": "2026-10-27T03:31:22.816Z"
+      "scrapedAt": "2026-10-30T04:09:29.917Z"
     },
     {
       "id": "cs-hat-and-hammer-openmote",
@@ -8774,18 +8774,18 @@
       "name_zh": "开源节点",
       "founder": "Hat &amp; Hammer",
       "location": "Los Angeles, CA",
-      "raised": 246823,
+      "raised": 269864,
       "currency": "USD",
       "currencySymbol": "$",
       "progress_pct": 100,
-      "backers": 1750,
-      "price": "$59",
+      "backers": 1909,
+      "price": "$69",
       "campaign_url": "https://www.crowdsupply.com/hat-and-hammer/openmote",
       "category_tag_zh": "#硬件",
       "summary_zh": [
-        "An Arduino-compatible controller for makers"
+        "A multi-platform Home Assistant-compatible gestural controller for makers"
       ],
-      "scrapedAt": "2026-10-29T04:07:32.213Z"
+      "scrapedAt": "2026-10-30T04:08:23.103Z"
     },
     {
       "id": "cs-tall-dog-electronics-tinynes",
@@ -8806,7 +8806,7 @@
       "summary_zh": [
         "Classic NES games on open source hardware that fits in the palm of your hand"
       ],
-      "scrapedAt": "2026-10-29T04:07:32.216Z"
+      "scrapedAt": "2026-10-30T04:08:23.108Z"
     },
     {
       "id": "cs-lime-micro-limesdr",
@@ -8816,18 +8816,18 @@
       "name_zh": "LimeSDR",
       "founder": "Lime Microsystems",
       "location": "Guildford, England",
-      "raised": 3656995,
+      "raised": 3656306,
       "currency": "USD",
       "currencySymbol": "$",
       "progress_pct": 731,
-      "backers": 5549,
+      "backers": 5548,
       "price": "$730",
       "campaign_url": "https://www.crowdsupply.com/lime-micro/limesdr",
       "category_tag_zh": "#硬件",
       "summary_zh": [
         "Flexible, next-generation, open source software-defined radio"
       ],
-      "scrapedAt": "2026-10-29T04:07:32.217Z"
+      "scrapedAt": "2026-10-30T04:08:23.109Z"
     },
     {
       "id": "cs-sqfmi-watchy",
@@ -8848,7 +8848,7 @@
       "summary_zh": [
         "A fully open source & customizable E-Ink watch"
       ],
-      "scrapedAt": "2026-10-29T04:07:32.217Z"
+      "scrapedAt": "2026-10-30T04:08:23.110Z"
     },
     {
       "id": "cs-meticulous-technologies-usb-vsense",
@@ -8967,20 +8967,24 @@
       "id": "igo-creality-sparkx-creality-sparkx-i8-the-fastest-most-filament-efficient-four-color-3d-printer",
       "platform": "Indiegogo",
       "image": "https://cdn.images.indiegogo.com/projectimage/projects/443465/38300a29-51b8-4bec-b00f-9e9b6cf57320.jpg",
-      "name": "Unknown",
-      "name_zh": "未知",
-      "founder": "SPARKX Powered by Creality",
+      "name": "8.3k11.9kExpress crowdfunding 16 days leftCreality SPARKX i8: The Fastest, Most Filament-Efficient Four-Color 3D Printerby SPARKX Powered",
+      "name_zh": "8.3k11.9kExpress crowdfunding 16 days leftCreality SPARKX i8: The Fastest, Most Filament-Efficient Four-Color 3D Printerby SPARKX Powered",
+      "founder": "Creality$5,082,757 pledged",
       "location": "Fastest, Most",
-      "raised": 5032944,
+      "raised": 5082757,
       "currency": "USD",
       "currencySymbol": "$",
       "progress_pct": 100,
-      "backers": 0,
+      "backers": 8300,
       "price": "$59.99",
       "campaign_url": "https://www.indiegogo.com/en/projects/creality-sparkx/creality-sparkx-i8-the-fastest-most-filament-efficient-four-color-3d-printer",
       "category_tag_zh": "#科技",
-      "summary_zh": [],
-      "scrapedAt": "2026-10-29T04:08:37.994Z"
+      "summary_zh": [
+        "最速四色3D打印",
+        "耗材高效智能管理",
+        "专业级多色打印方案"
+      ],
+      "scrapedAt": "2026-10-30T04:09:29.917Z"
     },
     {
       "id": "igo-goopygirls-goopy-mag-issue-2-worlds-of-play",
@@ -9499,25 +9503,25 @@
       "name_zh": "零键USB",
       "founder": "Depbit",
       "location": "Spain",
-      "raised": 9925,
+      "raised": 10222,
       "currency": "USD",
       "currencySymbol": "$",
-      "progress_pct": 397,
-      "backers": 59,
+      "progress_pct": 408,
+      "backers": 62,
       "price": "$99",
       "campaign_url": "https://www.crowdsupply.com/depbit/zerokeyusb",
       "category_tag_zh": "#硬件",
       "summary_zh": [
         "A portable password manager for secure, cloud-free credential storage"
       ],
-      "scrapedAt": "2026-10-29T04:07:32.214Z"
+      "scrapedAt": "2026-10-30T04:08:23.105Z"
     },
     {
       "id": "cs-excamera-i2cdriver",
       "platform": "Crowd Supply",
       "image": "https://www.crowdsupply.com/img/7086/e0a5ccd4-47bb-4302-9f9b-69dba5ff7086_aa-md.jpg",
       "name": "I²CDriver",
-      "name_zh": "I²C驱动器",
+      "name_zh": "IIC驱动器",
       "founder": "Excamera Labs",
       "location": "Pescadero, CA",
       "raised": 69300,
@@ -9531,7 +9535,7 @@
       "summary_zh": [
         "An easy-to-use tool for controlling I²C devices"
       ],
-      "scrapedAt": "2026-10-29T04:07:32.214Z"
+      "scrapedAt": "2026-10-30T04:08:23.105Z"
     },
     {
       "id": "cs-excamera-spidriver",
@@ -9552,35 +9556,35 @@
       "summary_zh": [
         "A better SPI adapter"
       ],
-      "scrapedAt": "2026-10-29T04:07:32.215Z"
+      "scrapedAt": "2026-10-30T04:08:23.106Z"
     },
     {
       "id": "cs-excamera-termdriver-2",
       "platform": "Crowd Supply",
       "image": "https://www.crowdsupply.com/img/b733/c43dab92-b606-4182-b9d4-d4728702b733_aa-md.jpg",
       "name": "TermDriver 2",
-      "name_zh": "终端驱动器2",
+      "name_zh": "终端驱动2",
       "founder": "Excamera Labs",
       "location": "Pescadero, CA",
       "raised": 31464,
       "currency": "USD",
       "currencySymbol": "$",
       "progress_pct": 582,
-      "backers": 711,
+      "backers": 712,
       "price": "$24",
       "campaign_url": "https://www.crowdsupply.com/excamera/termdriver-2",
       "category_tag_zh": "#硬件",
       "summary_zh": [
         "A better USB-to-serial adapter with a built-in screen"
       ],
-      "scrapedAt": "2026-10-29T04:07:32.215Z"
+      "scrapedAt": "2026-10-30T04:08:23.106Z"
     },
     {
       "id": "cs-excamera-gameduino-3x-dazzler",
       "platform": "Crowd Supply",
       "image": "https://www.crowdsupply.com/img/1949/7e621365-9ddd-4b26-ba78-3cebc5591949_aa-md.jpg",
       "name": "Gameduino 3X Dazzler",
-      "name_zh": "炫彩游戏板3X",
+      "name_zh": "游戏板3X炫彩",
       "founder": "Excamera Labs",
       "location": "Pescadero, CA",
       "raised": 23036,
@@ -9594,14 +9598,14 @@
       "summary_zh": [
         "An Arduino shield with a GPU, FPGA, HDMI, and Python support for gaming and audiovisuals"
       ],
-      "scrapedAt": "2026-10-29T04:07:32.215Z"
+      "scrapedAt": "2026-10-30T04:08:23.107Z"
     },
     {
       "id": "cs-excamera-i2cmini",
       "platform": "Crowd Supply",
       "image": "https://www.crowdsupply.com/img/be8d/a1d6d450-91aa-4e7e-abee-b53be5c0be8d_aa-md.jpg",
       "name": "I²CMini",
-      "name_zh": "I²C迷你",
+      "name_zh": "IIC迷你",
       "founder": "Excamera Labs",
       "location": "Pescadero, CA",
       "raised": 7986,
@@ -9615,7 +9619,7 @@
       "summary_zh": [
         "A tiny USB to I²C bridge that is compatible with I²CDriver"
       ],
-      "scrapedAt": "2026-10-29T04:07:32.215Z"
+      "scrapedAt": "2026-10-30T04:08:23.107Z"
     },
     {
       "id": "mk-s51r",
@@ -9880,7 +9884,7 @@
       "platform": "Crowd Supply",
       "image": "https://www.crowdsupply.com/img/2747/1113400e-12b2-471d-9377-4db448b82747_aa-md.jpg",
       "name": "Openviro Axe PoE",
-      "name_zh": "Axe PoE环境板",
+      "name_zh": "Axe PoE环境监测",
       "founder": "Craft Computing",
       "location": "Oregon, USA",
       "raised": 92982,
@@ -9894,28 +9898,28 @@
       "summary_zh": [
         "An open-source temperature monitor for servers and rackmount equipment"
       ],
-      "scrapedAt": "2026-10-29T04:07:32.217Z"
+      "scrapedAt": "2026-10-30T04:08:23.110Z"
     },
     {
       "id": "cs-microphase-technology-antsdr-e200",
       "platform": "Crowd Supply",
       "image": "https://www.crowdsupply.com/img/6af0/7733e0ca-2faf-4124-83cb-e6b0d5956af0_aa-md.jpg",
       "name": "AntSDR E200",
-      "name_zh": "AntSDR E200",
+      "name_zh": "AntS",
       "founder": "MicroPhase Technology",
       "location": "Shanghai, China",
-      "raised": 529473,
+      "raised": 531660,
       "currency": "USD",
       "currencySymbol": "$",
-      "progress_pct": 2647,
-      "backers": 508,
+      "progress_pct": 2658,
+      "backers": 510,
       "price": "$449",
       "campaign_url": "https://www.crowdsupply.com/microphase-technology/antsdr-e200",
       "category_tag_zh": "#硬件",
       "summary_zh": [
         "A powerful, versatile, FPGA-based software-defined radio based on the ZYNQ and AD936x chipsets"
       ],
-      "scrapedAt": "2026-10-29T04:07:32.217Z"
+      "scrapedAt": "2026-10-30T04:08:23.111Z"
     },
     {
       "id": "mk-active_solidmax",
@@ -10363,7 +10367,7 @@
       "platform": "Makuake",
       "image": "https://static.makuake.com/upload/project/54043/main_54043.png?version=1791970139&width=320&height=180&optimize=high",
       "name": "本物のニキシー管を腕に。オレンジの光が目を惹く腕時計UltraNixie",
-      "name_zh": "UltraNixie辉光表",
+      "name_zh": "UltraNix",
       "founder": "Unknown",
       "location": "Japan",
       "raised": 12782002,
@@ -10374,18 +10378,22 @@
       "price": "￥12,782,002",
       "campaign_url": "https://www.makuake.com/project/ultranixie",
       "category_tag_zh": "#科技",
-      "summary_zh": [],
-      "scrapedAt": "2026-10-29T04:08:39.710Z"
+      "summary_zh": [
+        "辉光管复古美学",
+        "独特橙光数字显示",
+        "腕间科技潮品典范"
+      ],
+      "scrapedAt": "2026-10-30T04:09:20.934Z"
     },
     {
       "id": "cs-zerowire-robotics-q8botone",
       "platform": "Crowd Supply",
       "image": "https://www.crowdsupply.com/img/2500/c6641401-a2af-48c6-9dde-d99751042500_aa-md.jpg",
       "name": "Q8botOne",
-      "name_zh": "Q8机器人",
+      "name_zh": "Q8机器",
       "founder": "ZeroWire Robotics",
       "location": "Cupertino, CA",
-      "raised": 5779,
+      "raised": 5978,
       "currency": "USD",
       "currencySymbol": "$",
       "progress_pct": 100,
@@ -10396,26 +10404,26 @@
       "summary_zh": [
         "A quadrupedal robot built with no physical wires that can fit in the palm of your hand"
       ],
-      "scrapedAt": "2026-10-29T04:07:32.213Z"
+      "scrapedAt": "2026-10-30T04:08:23.103Z"
     },
     {
       "id": "mk-revia2",
       "platform": "Makuake",
       "image": "https://static.makuake.com/upload/project/54168/main_54168.png?version=1792655436&width=320&height=180&optimize=high",
       "name": "【登録不要・課金不要】繋いで、押して、話すだけ。AIが気軽に使えるUSBハブ",
-      "name_zh": "免登AI集线器",
+      "name_zh": "AI语音USB集线器",
       "founder": "Unknown",
       "location": "Japan",
-      "raised": 52732803,
+      "raised": 54503603,
       "currency": "JPY",
       "currencySymbol": "￥",
-      "progress_pct": 5273,
+      "progress_pct": 5450,
       "backers": 0,
-      "price": "￥52,732,803",
+      "price": "￥54,503,603",
       "campaign_url": "https://www.makuake.com/project/revia2",
       "category_tag_zh": "#科技",
       "summary_zh": [],
-      "scrapedAt": "2026-10-29T04:08:39.710Z"
+      "scrapedAt": "2026-10-30T04:09:20.934Z"
     },
     {
       "id": "mk-rorolee",
@@ -10434,89 +10442,83 @@
       "campaign_url": "https://www.makuake.com/project/rorolee",
       "category_tag_zh": "#科技",
       "summary_zh": [],
-      "scrapedAt": "2026-10-29T04:08:39.710Z"
+      "scrapedAt": "2026-10-30T04:09:20.934Z"
     },
     {
       "id": "mk-ire5x-lightning",
       "platform": "Makuake",
       "image": "https://static.makuake.com/upload/project/53983/main_53983.jpg?version=1791451506&width=320&height=180&optimize=high",
       "name": "Lightning専用｜最大2TB外部保存＋Type-C充電を実現 iRe5 X",
-      "name_zh": "iRe5 X闪电盘",
+      "name_zh": "iRe5 X闪电扩容盘",
       "founder": "Unknown",
       "location": "Japan",
-      "raised": 3375003,
+      "raised": 3645003,
       "currency": "JPY",
       "currencySymbol": "￥",
-      "progress_pct": 337,
+      "progress_pct": 364,
       "backers": 0,
-      "price": "￥3,375,003",
+      "price": "￥3,645,003",
       "campaign_url": "https://www.makuake.com/project/ire5x-lightning",
       "category_tag_zh": "#科技",
       "summary_zh": [],
-      "scrapedAt": "2026-10-29T04:08:39.710Z"
+      "scrapedAt": "2026-10-30T04:09:20.934Z"
     },
     {
       "id": "mk-boxring",
       "platform": "Makuake",
       "image": "https://static.makuake.com/upload/project/53759/main_53759.png?version=1790298749&width=320&height=180&optimize=high",
       "name": "【スマートにインスタ交換】ワンタッチでURLを渡せる指輪┃BOXリング",
-      "name_zh": "BOX智享指环",
+      "name_zh": "BOX戒指智能名片",
       "founder": "Unknown",
       "location": "Japan",
-      "raised": 650003,
+      "raised": 700003,
       "currency": "JPY",
       "currencySymbol": "￥",
-      "progress_pct": 6,
+      "progress_pct": 7,
       "backers": 0,
-      "price": "￥650,003",
+      "price": "￥700,003",
       "campaign_url": "https://www.makuake.com/project/boxring",
       "category_tag_zh": "#科技",
-      "summary_zh": [
-        "科大讯"
-      ],
-      "scrapedAt": "2026-10-29T04:08:39.710Z"
+      "summary_zh": [],
+      "scrapedAt": "2026-10-30T04:09:20.934Z"
     },
     {
       "id": "mk-fudo-003",
       "platform": "Makuake",
       "image": "https://static.makuake.com/upload/project/54003/main_54003.jpg?version=1792747176&width=320&height=180&optimize=high",
       "name": "Type-C充電式のコードレス2連ファン！3色以上のLEDムードライトを搭載",
-      "name_zh": "无线双扇氛围灯",
+      "name_zh": "双风扇LED氛围灯",
       "founder": "Unknown",
       "location": "Japan",
-      "raised": 957606,
+      "raised": 1037406,
       "currency": "JPY",
       "currencySymbol": "￥",
-      "progress_pct": 95,
+      "progress_pct": 103,
       "backers": 0,
-      "price": "￥957,606",
+      "price": "￥1,037,406",
       "campaign_url": "https://www.makuake.com/project/fudo-003",
       "category_tag_zh": "#科技",
       "summary_zh": [],
-      "scrapedAt": "2026-10-29T04:08:39.710Z"
+      "scrapedAt": "2026-10-30T04:09:20.934Z"
     },
     {
       "id": "mk-iflytek_aitranslation_earbuds",
       "platform": "Makuake",
-      "image": "https://static.makuake.com/upload/project/54143/main_54143.jpg?version=1793181799&width=320&height=180&optimize=high",
+      "image": "https://static.makuake.com/upload/project/54143/main_54143.png?version=1793252178&width=320&height=180&optimize=high",
       "name": "対面も、通話も、会議も。耳元で変わる会話体験。｜iFLYTEK AI翻訳イヤホン",
-      "name_zh": "讯飞智译耳麦",
+      "name_zh": "科大讯飞AI翻译耳机",
       "founder": "Unknown",
       "location": "Japan",
-      "raised": 50928003,
+      "raised": 52371003,
       "currency": "JPY",
       "currencySymbol": "￥",
-      "progress_pct": 1018,
+      "progress_pct": 1047,
       "backers": 0,
-      "price": "￥50,928,003",
+      "price": "￥52,371,003",
       "campaign_url": "https://www.makuake.com/project/iflytek_aitranslation_earbuds",
       "category_tag_zh": "#科技",
-      "summary_zh": [
-        "相机耳机，即时视觉问答",
-        "AI智能识别，探索新知",
-        "解放双手，随拍随问"
-      ],
-      "scrapedAt": "2026-10-29T04:08:39.710Z"
+      "summary_zh": [],
+      "scrapedAt": "2026-10-30T04:09:20.934Z"
     },
     {
       "id": "igo-blackridgemediaproductions-the-third-energy-crisis",
@@ -10542,63 +10544,57 @@
       "platform": "Makuake",
       "image": "https://static.makuake.com/upload/project/54064/main_54064.png?version=1792047335&width=320&height=180&optimize=high",
       "name": "見たものを撮って、その場でAIに聞ける。カメラ搭載イヤホン「ARES」",
-      "name_zh": "ARES智摄耳麦",
+      "name_zh": "ARES AI相机耳机",
       "founder": "Unknown",
       "location": "Japan",
-      "raised": 5205603,
+      "raised": 5494803,
       "currency": "JPY",
       "currencySymbol": "￥",
-      "progress_pct": 260,
+      "progress_pct": 274,
       "backers": 0,
-      "price": "￥5,205,603",
+      "price": "￥5,494,803",
       "campaign_url": "https://www.makuake.com/project/kretaares",
       "category_tag_zh": "#科技",
-      "summary_zh": [
-        "光疗提神，提升工作效率",
-        "PC族专属，健康光习惯",
-        "工作不中断，持续好状态"
-      ],
-      "scrapedAt": "2026-10-29T04:08:39.710Z"
+      "summary_zh": [],
+      "scrapedAt": "2026-10-30T04:09:20.934Z"
     },
     {
       "id": "mk-sunbooster",
       "platform": "Makuake",
       "image": "https://static.makuake.com/upload/project/54042/main_54042.png?version=1793096529&width=320&height=180&optimize=high",
       "name": "一日中PCの前で働く人へ。仕事を止めずに続ける光習慣｜SunBooster",
-      "name_zh": "旭日增能",
+      "name_zh": "阳光助推器",
       "founder": "Unknown",
       "location": "Japan",
-      "raised": 31,
+      "raised": 747003,
       "currency": "JPY",
       "currencySymbol": "￥",
-      "progress_pct": 0,
+      "progress_pct": 74,
       "backers": 0,
-      "price": "￥31",
+      "price": "￥747,003",
       "campaign_url": "https://www.makuake.com/project/sunbooster",
       "category_tag_zh": "#科技",
-      "summary_zh": [
-        "以下是众筹产品的中文AI解读要点："
-      ],
-      "scrapedAt": "2026-10-29T04:08:39.710Z"
+      "summary_zh": [],
+      "scrapedAt": "2026-10-30T04:09:20.934Z"
     },
     {
       "id": "igo-bzzam-smart-hive-monitoring",
       "platform": "Indiegogo",
       "image": "https://cdn.images.indiegogo.com/projectimage/projects/449004/c18d6e25-d285-4588-ba4e-b10669149dbb.png",
       "name": "Unknown",
-      "name_zh": "未知",
+      "name_zh": "Unknown",
       "founder": "BZZ.AM",
       "location": "Hives, Monitoring",
-      "raised": 34590,
+      "raised": 41980,
       "currency": "USD",
       "currencySymbol": "$",
       "progress_pct": 100,
-      "backers": 14,
+      "backers": 16,
       "price": "$10",
       "campaign_url": "https://www.indiegogo.com/en/projects/bzzam/smart-hive-monitoring",
       "category_tag_zh": "#科技",
       "summary_zh": [],
-      "scrapedAt": "2026-10-29T04:08:37.994Z"
+      "scrapedAt": "2026-10-30T04:09:29.917Z"
     },
     {
       "id": "igo-elenapaezpuente-cena-con-mi-suegra",
@@ -10618,6 +10614,48 @@
       "category_tag_zh": "#科技",
       "summary_zh": [],
       "scrapedAt": "2026-10-29T04:08:37.994Z"
+    },
+    {
+      "id": "mk-dreamwave-bolt",
+      "platform": "Makuake",
+      "image": "https://static.makuake.com/upload/project/54171/main_54171.jpg?version=1792725889&width=320&height=180&optimize=high",
+      "name": "スタイリッシュで音楽が水に浮く スピーカー 【DreamWave BOLT】",
+      "name_zh": "梦浪BOLT浮水音箱",
+      "founder": "Unknown",
+      "location": "Japan",
+      "raised": 36,
+      "currency": "JPY",
+      "currencySymbol": "￥",
+      "progress_pct": 0,
+      "backers": 0,
+      "price": "￥36",
+      "campaign_url": "https://www.makuake.com/project/dreamwave-bolt",
+      "category_tag_zh": "#科技",
+      "summary_zh": [
+        "水上漂浮音箱，独特视觉体验",
+        "时尚防水设计，户外娱乐首选",
+        "沉浸式音质，水上派对神器"
+      ],
+      "scrapedAt": "2026-10-30T04:09:20.934Z"
+    },
+    {
+      "id": "mk-egiozr-cable",
+      "platform": "Makuake",
+      "image": "https://static.makuake.com/upload/project/54154/main_54154.png?version=1792634094&width=320&height=180&optimize=high",
+      "name": "【わずか3.2mm】高速転送・240W充電・映像出力を1本に。USB-Cケーブル",
+      "name_zh": "高速240W C线",
+      "founder": "Unknown",
+      "location": "Japan",
+      "raised": 1249253,
+      "currency": "JPY",
+      "currencySymbol": "￥",
+      "progress_pct": 124,
+      "backers": 0,
+      "price": "￥1,249,253",
+      "campaign_url": "https://www.makuake.com/project/egiozr-cable",
+      "category_tag_zh": "#科技",
+      "summary_zh": [],
+      "scrapedAt": "2026-10-30T04:09:20.934Z"
     }
   ]
 }
