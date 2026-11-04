@@ -1,7 +1,7 @@
 {
-  "date": "2026-11-03",
+  "date": "2026-11-04",
   "kind": "crowdfunding",
-  "count": 515,
+  "count": 516,
   "items": [
     {
       "id": "cs-micimike-rev-devices-micimike-home-mini-drop-in-pcb",
@@ -8967,11 +8967,11 @@
       "id": "igo-creality-sparkx-creality-sparkx-i8-the-fastest-most-filament-efficient-four-color-3d-printer",
       "platform": "Indiegogo",
       "image": "https://cdn.images.indiegogo.com/projectimage/projects/443465/38300a29-51b8-4bec-b00f-9e9b6cf57320.jpg",
-      "name": "8.4k12.3kExpress crowdfunding 12 days leftCreality SPARKX i8: The Fastest, Most Filament-Efficient Four-Color 3D Printerby SPARKX Powered",
-      "name_zh": "SPARKX四色3D打印机",
-      "founder": "Creality$5,287,405 pledged",
+      "name": "8.4k12.4kExpress crowdfunding 11 days leftCreality SPARKX i8: The Fastest, Most Filament-Efficient Four-Color 3D Printerby SPARKX Powered",
+      "name_zh": "SPARKX i8 四色打印",
+      "founder": "Creality$5,317,545 pledged",
       "location": "Fastest, Most",
-      "raised": 5287405,
+      "raised": 5317545,
       "currency": "USD",
       "currencySymbol": "$",
       "progress_pct": 100,
@@ -8979,8 +8979,12 @@
       "price": "$59.99",
       "campaign_url": "https://www.indiegogo.com/en/projects/creality-sparkx/creality-sparkx-i8-the-fastest-most-filament-efficient-four-color-3d-printer",
       "category_tag_zh": "#科技",
-      "summary_zh": [],
-      "scrapedAt": "2026-11-03T05:07:18.231Z"
+      "summary_zh": [
+        "高速四色打印",
+        "耗材高效利用",
+        "智能多色成型"
+      ],
+      "scrapedAt": "2026-11-04T04:40:24.782Z"
     },
     {
       "id": "igo-goopygirls-goopy-mag-issue-2-worlds-of-play",
@@ -10540,26 +10544,30 @@
       "platform": "Makuake",
       "image": "https://static.makuake.com/upload/project/54064/main_54064.png?version=1792047335&width=320&height=180&optimize=high",
       "name": "見たものを撮って、その場でAIに聞ける。カメラ搭載イヤホン「ARES」",
-      "name_zh": "AI相机耳机ARES",
+      "name_zh": "ARES相机耳机",
       "founder": "Unknown",
       "location": "Japan",
-      "raised": 7519202,
+      "raised": 8947202,
       "currency": "JPY",
       "currencySymbol": "￥",
-      "progress_pct": 375,
+      "progress_pct": 447,
       "backers": 0,
-      "price": "￥7,519,202",
+      "price": "￥8,947,202",
       "campaign_url": "https://www.makuake.com/project/kretaares",
       "category_tag_zh": "#科技",
-      "summary_zh": [],
-      "scrapedAt": "2026-11-03T05:07:31.139Z"
+      "summary_zh": [
+        "视觉AI实时识别，即时信息获取",
+        "免手持视觉查询，即时语音反馈",
+        "智能感知环境，赋能个性化探索"
+      ],
+      "scrapedAt": "2026-11-04T04:40:42.230Z"
     },
     {
       "id": "mk-sunbooster",
       "platform": "Makuake",
       "image": "https://static.makuake.com/upload/project/54042/main_54042.png?version=1793096529&width=320&height=180&optimize=high",
       "name": "一日中PCの前で働く人へ。仕事を止めずに続ける光習慣｜SunBooster",
-      "name_zh": "SunBooster光疗仪",
+      "name_zh": "SunBooster 光疗仪",
       "founder": "Unknown",
       "location": "Japan",
       "raised": 1120502,
@@ -10571,7 +10579,7 @@
       "campaign_url": "https://www.makuake.com/project/sunbooster",
       "category_tag_zh": "#科技",
       "summary_zh": [],
-      "scrapedAt": "2026-11-03T05:07:31.139Z"
+      "scrapedAt": "2026-11-04T04:40:42.230Z"
     },
     {
       "id": "igo-bzzam-smart-hive-monitoring",
@@ -10616,7 +10624,7 @@
       "platform": "Makuake",
       "image": "https://static.makuake.com/upload/project/54171/main_54171.jpg?version=1792725889&width=320&height=180&optimize=high",
       "name": "スタイリッシュで音楽が水に浮く スピーカー 【DreamWave BOLT】",
-      "name_zh": "浮水音箱",
+      "name_zh": "DreamWave BOLT音箱",
       "founder": "Unknown",
       "location": "Japan",
       "raised": 929433,
@@ -10628,45 +10636,45 @@
       "campaign_url": "https://www.makuake.com/project/dreamwave-bolt",
       "category_tag_zh": "#科技",
       "summary_zh": [],
-      "scrapedAt": "2026-11-03T05:07:31.139Z"
+      "scrapedAt": "2026-11-04T04:40:42.230Z"
     },
     {
       "id": "mk-egiozr-cable",
       "platform": "Makuake",
       "image": "https://static.makuake.com/upload/project/54154/main_54154.png?version=1792634094&width=320&height=180&optimize=high",
       "name": "【わずか3.2mm】高速転送・240W充電・映像出力を1本に。USB-Cケーブル",
-      "name_zh": "纤薄USB-C三合一线",
+      "name_zh": "USB-C 240W多功能",
       "founder": "Unknown",
       "location": "Japan",
-      "raised": 3152102,
+      "raised": 3497902,
       "currency": "JPY",
       "currencySymbol": "￥",
-      "progress_pct": 315,
+      "progress_pct": 349,
       "backers": 0,
-      "price": "￥3,152,102",
+      "price": "￥3,497,902",
       "campaign_url": "https://www.makuake.com/project/egiozr-cable",
       "category_tag_zh": "#科技",
       "summary_zh": [],
-      "scrapedAt": "2026-11-03T05:07:31.139Z"
+      "scrapedAt": "2026-11-04T04:40:42.230Z"
     },
     {
       "id": "mk-active_plumcat",
       "platform": "Makuake",
       "image": "https://static.makuake.com/upload/project/54110/main_54110.png?version=1792465620&width=320&height=180&optimize=high",
       "name": "【AI翻訳】追加料金0円、充電・ペアリング不要！160言語対応の超小型デバイス※",
-      "name_zh": "AI免充多语翻译",
+      "name_zh": "AI微译设备",
       "founder": "Unknown",
       "location": "Japan",
-      "raised": 47691005,
+      "raised": 56416505,
       "currency": "JPY",
       "currencySymbol": "￥",
-      "progress_pct": 4769,
+      "progress_pct": 5641,
       "backers": 0,
-      "price": "￥47,691,005",
+      "price": "￥56,416,505",
       "campaign_url": "https://www.makuake.com/project/active_plumcat",
       "category_tag_zh": "#科技",
       "summary_zh": [],
-      "scrapedAt": "2026-11-03T05:07:31.139Z"
+      "scrapedAt": "2026-11-04T04:40:42.230Z"
     },
     {
       "id": "mk-kinokono-yama-revival",
@@ -10676,16 +10684,16 @@
       "name_zh": "蘑菇山无线耳机",
       "founder": "Unknown",
       "location": "Japan",
-      "raised": 798230004,
+      "raised": 1351457003,
       "currency": "JPY",
       "currencySymbol": "￥",
-      "progress_pct": 267,
+      "progress_pct": 453,
       "backers": 0,
-      "price": "￥798,230,004",
+      "price": "",
       "campaign_url": "https://www.makuake.com/project/kinokono-yama-revival",
       "category_tag_zh": "#科技",
       "summary_zh": [],
-      "scrapedAt": "2026-11-03T05:07:31.139Z"
+      "scrapedAt": "2026-11-04T04:40:42.230Z"
     },
     {
       "id": "cs-hw-media-lab-dockframe",
@@ -10734,19 +10742,19 @@
       "platform": "Makuake",
       "image": "https://static.makuake.com/upload/project/54206/main_54206.jpg?version=1792987372&width=320&height=180&optimize=high",
       "name": "【アンコール】片手で1秒着脱！MagSafeスマホマウントPackMag S1",
-      "name_zh": "MagSafe快拆支架",
+      "name_zh": "MagSafe手机支架S1",
       "founder": "Unknown",
       "location": "Japan",
-      "raised": 2398281,
+      "raised": 3117781,
       "currency": "JPY",
       "currencySymbol": "￥",
-      "progress_pct": 239,
+      "progress_pct": 311,
       "backers": 0,
-      "price": "￥2,398,281",
+      "price": "￥3,117,781",
       "campaign_url": "https://www.makuake.com/project/packmag-s1-encore",
       "category_tag_zh": "#科技",
       "summary_zh": [],
-      "scrapedAt": "2026-11-03T05:07:31.139Z"
+      "scrapedAt": "2026-11-04T04:40:42.230Z"
     },
     {
       "id": "mk-x76",
@@ -10756,16 +10764,18 @@
       "name_zh": "骨空传导LED耳机",
       "founder": "Unknown",
       "location": "Japan",
-      "raised": 656605,
+      "raised": 1594605,
       "currency": "JPY",
       "currencySymbol": "￥",
-      "progress_pct": 65,
+      "progress_pct": 159,
       "backers": 0,
-      "price": "￥656,605",
+      "price": "￥1,594,605",
       "campaign_url": "https://www.makuake.com/project/x76",
       "category_tag_zh": "#科技",
-      "summary_zh": [],
-      "scrapedAt": "2026-11-03T05:07:31.139Z"
+      "summary_zh": [
+        "MagSafe"
+      ],
+      "scrapedAt": "2026-11-04T04:40:42.230Z"
     },
     {
       "id": "igo-lioubov-modernisons-prosveta-et-preparons-lavenir-ensemble",
@@ -10775,16 +10785,20 @@
       "name_zh": "未知产品",
       "founder": "Lioubov",
       "location": "Unknown",
-      "raised": 5169,
+      "raised": 11305,
       "currency": "EUR",
       "currencySymbol": "€",
       "progress_pct": 100,
-      "backers": 322,
+      "backers": 365,
       "price": "$20",
       "campaign_url": "https://www.indiegogo.com/en/projects/lioubov/modernisons-prosveta-et-preparons-lavenir-ensemble",
       "category_tag_zh": "#科技",
-      "summary_zh": [],
-      "scrapedAt": "2026-11-03T05:07:18.231Z"
+      "summary_zh": [
+        "极致影像美学",
+        "灵活自由部署",
+        "十五年专业沉淀"
+      ],
+      "scrapedAt": "2026-11-04T04:40:24.782Z"
     },
     {
       "id": "igo-rebeccalevy-37269109-sweetpotato",
@@ -10804,6 +10818,29 @@
       "category_tag_zh": "#科技",
       "summary_zh": [],
       "scrapedAt": "2026-11-03T05:07:18.231Z"
+    },
+    {
+      "id": "mk-jmgo-iris",
+      "platform": "Makuake",
+      "image": "https://static.makuake.com/upload/project/54316/main_54316.png?version=1793757801&width=320&height=180&optimize=high",
+      "name": "映像美も、設置の自由も。プロジェクター専業15年の技術を結集｜JMGO IRIS",
+      "name_zh": "坚果IRIS投影仪",
+      "founder": "Unknown",
+      "location": "Japan",
+      "raised": 74683507,
+      "currency": "JPY",
+      "currencySymbol": "￥",
+      "progress_pct": 1493,
+      "backers": 0,
+      "price": "￥74,683,507",
+      "campaign_url": "https://www.makuake.com/project/jmgo-iris",
+      "category_tag_zh": "#科技",
+      "summary_zh": [
+        "骨空双传导技术",
+        "音光融合体验",
+        "创新听觉交互"
+      ],
+      "scrapedAt": "2026-11-04T04:40:42.230Z"
     }
   ]
 }
