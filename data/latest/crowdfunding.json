@@ -1,7 +1,7 @@
 {
-  "date": "2026-11-07",
+  "date": "2026-11-08",
   "kind": "crowdfunding",
-  "count": 529,
+  "count": 530,
   "items": [
     {
       "id": "cs-micimike-rev-devices-micimike-home-mini-drop-in-pcb",
@@ -8967,20 +8967,20 @@
       "id": "igo-creality-sparkx-creality-sparkx-i8-the-fastest-most-filament-efficient-four-color-3d-printer",
       "platform": "Indiegogo",
       "image": "https://cdn.images.indiegogo.com/projectimage/projects/443465/38300a29-51b8-4bec-b00f-9e9b6cf57320.jpg",
-      "name": "8.5k12.5kExpress crowdfunding 8 days leftCreality SPARKX i8: The Fastest, Most Filament-Efficient Four-Color 3D Printerby SPARKX Powered",
-      "name_zh": "SPARKX i8四色3D打印机",
-      "founder": "Creality$5,386,654 pledged",
+      "name": "8.6k12.6kExpress crowdfunding 7 days leftCreality SPARKX i8: The Fastest, Most Filament-Efficient Four-Color 3D Printerby SPARKX Powered",
+      "name_zh": "SPARKX i8四色3D打印",
+      "founder": "Creality$5,416,186 pledged",
       "location": "Fastest, Most",
-      "raised": 5386654,
+      "raised": 5416186,
       "currency": "USD",
       "currencySymbol": "$",
       "progress_pct": 100,
-      "backers": 8500,
+      "backers": 8600,
       "price": "$59.99",
       "campaign_url": "https://www.indiegogo.com/en/projects/creality-sparkx/creality-sparkx-i8-the-fastest-most-filament-efficient-four-color-3d-printer",
       "category_tag_zh": "#科技",
       "summary_zh": [],
-      "scrapedAt": "2026-11-07T04:25:17.829Z"
+      "scrapedAt": "2026-11-08T04:08:47.049Z"
     },
     {
       "id": "igo-goopygirls-goopy-mag-issue-2-worlds-of-play",
@@ -9669,18 +9669,22 @@
       "image": "https://cdn.images.indiegogo.com/projectimage/projects/443207/8b570252-6c4c-4590-aa9f-99fb1ed45a8e.jpg",
       "name": "Unknown",
       "name_zh": "Unknown",
-      "founder": "Cloudflare",
+      "founder": "WIN Battery",
       "location": "Unknown",
-      "raised": 59467,
+      "raised": 63097,
       "currency": "USD",
       "currencySymbol": "$",
       "progress_pct": 100,
-      "backers": 624,
-      "price": "",
+      "backers": 965,
+      "price": "$305",
       "campaign_url": "https://www.indiegogo.com/en/projects/win-battery/gpd-win-max-3-the-all-in-one-accessory-ecosystem",
       "category_tag_zh": "#科技",
-      "summary_zh": [],
-      "scrapedAt": "2026-10-26T02:58:25.014Z"
+      "summary_zh": [
+        "智能学习算法，持续迭代升级",
+        "预测分析能力，洞察未来趋势",
+        "革新交互模式，重塑用户体验"
+      ],
+      "scrapedAt": "2026-11-08T04:08:47.049Z"
     },
     {
       "id": "igo-yanzilin-shane-davis-inglorious-rex-comic-book-4",
@@ -10038,20 +10042,20 @@
       "name_zh": "Unknown",
       "founder": "Julie Isgrigg",
       "location": "Unknown",
-      "raised": 45750,
+      "raised": 45850,
       "currency": "USD",
       "currencySymbol": "$",
       "progress_pct": 100,
-      "backers": 285,
+      "backers": 295,
       "price": "$25",
       "campaign_url": "https://www.indiegogo.com/en/projects/julie-isgrigg/reading-tree-bookshop",
       "category_tag_zh": "#科技",
       "summary_zh": [
-        "AI驱动，未来科技",
-        "预测分析，决策辅助",
-        "自主学习，智慧升级"
+        "多维度数据融合，精准智能分析",
+        "赋能核心功能，提升产品价值",
+        "AI驱动创新，引领行业变革"
       ],
-      "scrapedAt": "2026-11-07T04:25:17.829Z"
+      "scrapedAt": "2026-11-08T04:08:47.049Z"
     },
     {
       "id": "igo-williamcollazo-werewolf-unleashed",
@@ -10061,16 +10065,20 @@
       "name_zh": "Unknown",
       "founder": "William Collazo",
       "location": "Horror, Backrooms",
-      "raised": 13112,
+      "raised": 21676,
       "currency": "USD",
       "currencySymbol": "$",
       "progress_pct": 100,
-      "backers": 292,
+      "backers": 623,
       "price": "$10",
       "campaign_url": "https://www.indiegogo.com/en/projects/williamcollazo/werewolf-unleashed",
       "category_tag_zh": "#科技",
-      "summary_zh": [],
-      "scrapedAt": "2026-10-25T02:59:35.411Z"
+      "summary_zh": [
+        "AI赋能，实现智能自动化",
+        "精准洞察用户，提供定制方案",
+        "持续优化算法，确保领先性能"
+      ],
+      "scrapedAt": "2026-11-08T04:08:47.049Z"
     },
     {
       "id": "igo-scarlettsaintt-repent-for-the-living",
@@ -10688,16 +10696,16 @@
       "name_zh": "蘑菇山无线耳机",
       "founder": "Unknown",
       "location": "Japan",
-      "raised": 1521550003,
+      "raised": 1547910003,
       "currency": "JPY",
       "currencySymbol": "￥",
-      "progress_pct": 510,
+      "progress_pct": 519,
       "backers": 0,
       "price": "",
       "campaign_url": "https://www.makuake.com/project/kinokono-yama-revival",
       "category_tag_zh": "#科技",
       "summary_zh": [],
-      "scrapedAt": "2026-11-07T04:25:34.297Z"
+      "scrapedAt": "2026-11-08T04:09:01.976Z"
     },
     {
       "id": "cs-hw-media-lab-dockframe",
@@ -10749,23 +10757,23 @@
       "name_zh": "PackMag S1磁吸支架",
       "founder": "Unknown",
       "location": "Japan",
-      "raised": 3997241,
+      "raised": 4237021,
       "currency": "JPY",
       "currencySymbol": "￥",
-      "progress_pct": 399,
+      "progress_pct": 423,
       "backers": 0,
-      "price": "￥3,997,241",
+      "price": "￥4,237,021",
       "campaign_url": "https://www.makuake.com/project/packmag-s1-encore",
       "category_tag_zh": "#科技",
       "summary_zh": [],
-      "scrapedAt": "2026-11-07T04:25:34.297Z"
+      "scrapedAt": "2026-11-08T04:09:01.976Z"
     },
     {
       "id": "mk-x76",
       "platform": "Makuake",
       "image": "https://static.makuake.com/upload/project/54236/main_54236.png?version=1793085849&width=320&height=180&optimize=high",
       "name": "骨伝導×空気伝導×LED。音と光を楽しむ新しいイヤホン体験",
-      "name_zh": "光音双传导耳机",
+      "name_zh": "骨空光影耳机",
       "founder": "Unknown",
       "location": "Japan",
       "raised": 2063605,
@@ -10777,7 +10785,7 @@
       "campaign_url": "https://www.makuake.com/project/x76",
       "category_tag_zh": "#科技",
       "summary_zh": [],
-      "scrapedAt": "2026-11-07T04:25:34.297Z"
+      "scrapedAt": "2026-11-08T04:09:01.976Z"
     },
     {
       "id": "igo-lioubov-modernisons-prosveta-et-preparons-lavenir-ensemble",
@@ -10787,20 +10795,20 @@
       "name_zh": "Unknown",
       "founder": "Lioubov",
       "location": "Unknown",
-      "raised": 18333,
+      "raised": 19535,
       "currency": "EUR",
       "currencySymbol": "€",
       "progress_pct": 100,
-      "backers": 499,
+      "backers": 5310,
       "price": "$20",
       "campaign_url": "https://www.indiegogo.com/en/projects/lioubov/modernisons-prosveta-et-preparons-lavenir-ensemble",
       "category_tag_zh": "#科技",
       "summary_zh": [
-        "AI赋能，智能升级",
-        "算法优化，效率倍增",
-        "深度学习，持续进化"
+        "AI智能推荐，提升用户体验",
+        "数据驱动决策，实现个性化服务",
+        "自动化流程优化，提高效率"
       ],
-      "scrapedAt": "2026-11-07T04:25:17.829Z"
+      "scrapedAt": "2026-11-08T04:08:47.049Z"
     },
     {
       "id": "igo-rebeccalevy-37269109-sweetpotato",
@@ -10826,57 +10834,57 @@
       "platform": "Makuake",
       "image": "https://static.makuake.com/upload/project/54316/main_54316.png?version=1793867976&width=320&height=180&optimize=high",
       "name": "映像美も、設置の自由も。プロジェクター専業15年の技術を結集｜JMGO IRIS",
-      "name_zh": "JMGO IRIS专业美影仪",
+      "name_zh": "JMGO IRIS自由美投",
       "founder": "Unknown",
       "location": "Japan",
-      "raised": 172713707,
+      "raised": 189552407,
       "currency": "JPY",
       "currencySymbol": "￥",
-      "progress_pct": 3454,
+      "progress_pct": 3791,
       "backers": 0,
-      "price": "￥172,713,707",
+      "price": "￥189,552,407",
       "campaign_url": "https://www.makuake.com/project/jmgo-iris",
       "category_tag_zh": "#科技",
       "summary_zh": [],
-      "scrapedAt": "2026-11-07T04:25:34.297Z"
+      "scrapedAt": "2026-11-08T04:09:01.976Z"
     },
     {
       "id": "mk-fitnfocus",
       "platform": "Makuake",
       "image": "https://static.makuake.com/upload/project/54239/main_54239.jpg?version=1793088256&width=320&height=180&optimize=high",
       "name": "紙の手書き×録音×GPT-5。夢のスマートノート「fitn Focus」",
-      "name_zh": "fitn AI智能手写本",
+      "name_zh": "fitn Focus手录AI智本",
       "founder": "Unknown",
       "location": "Japan",
-      "raised": 15536805,
+      "raised": 17285805,
       "currency": "JPY",
       "currencySymbol": "￥",
-      "progress_pct": 776,
+      "progress_pct": 864,
       "backers": 0,
-      "price": "￥15,536,805",
+      "price": "￥17,285,805",
       "campaign_url": "https://www.makuake.com/project/fitnfocus",
       "category_tag_zh": "#科技",
       "summary_zh": [],
-      "scrapedAt": "2026-11-07T04:25:34.297Z"
+      "scrapedAt": "2026-11-08T04:09:01.976Z"
     },
     {
       "id": "mk-practy-autorella",
       "platform": "Makuake",
       "image": "https://static.makuake.com/upload/project/54213/main_54213.png?version=1793856678&width=320&height=180&optimize=high",
       "name": "【特許電動開閉】雨天移動をスマート化。片手で2秒開閉できる晴雨兼用電動折り畳み傘",
-      "name_zh": "专利电动晴雨伞",
+      "name_zh": "专利晴雨电动伞",
       "founder": "Unknown",
       "location": "Japan",
-      "raised": 39405405,
+      "raised": 44522805,
       "currency": "JPY",
       "currencySymbol": "￥",
-      "progress_pct": 3940,
+      "progress_pct": 4452,
       "backers": 0,
-      "price": "￥39,405,405",
+      "price": "￥44,522,805",
       "campaign_url": "https://www.makuake.com/project/practy-autorella",
       "category_tag_zh": "#科技",
       "summary_zh": [],
-      "scrapedAt": "2026-11-07T04:25:34.297Z"
+      "scrapedAt": "2026-11-08T04:09:01.976Z"
     },
     {
       "id": "ks-sipeed-slogic32u3-the-worlds-first-10gbps-usb32-logic-analyzer?category_id=52",
@@ -11030,65 +11038,67 @@
       "platform": "Makuake",
       "image": "https://static.makuake.com/upload/project/54308/main_54308.png?version=1793771862&width=320&height=180&optimize=high",
       "name": "スマホなしで再生可能！オープンとクローズドを切り替える26g超軽量二刀流イヤホン",
-      "name_zh": "超轻双模独立耳机",
+      "name_zh": "独立双模轻量耳机",
       "founder": "Unknown",
       "location": "Japan",
-      "raised": 21613207,
+      "raised": 25141207,
       "currency": "JPY",
       "currencySymbol": "￥",
-      "progress_pct": 2161,
+      "progress_pct": 2514,
       "backers": 0,
-      "price": "￥21,613,207",
+      "price": "￥25,141,207",
       "campaign_url": "https://www.makuake.com/project/compbeat_pro",
       "category_tag_zh": "#科技",
       "summary_zh": [
-        "脱离手机播放",
-        "26克轻巧切换",
-        "开放封闭双"
+        "独立播放",
+        "双模切换",
+        "26克超轻"
       ],
-      "scrapedAt": "2026-11-07T04:25:34.297Z"
+      "scrapedAt": "2026-11-08T04:09:01.976Z"
     },
     {
       "id": "mk-iezen",
       "platform": "Makuake",
       "image": "https://static.makuake.com/upload/project/54235/main_54235.jpg?version=1793083762&width=320&height=180&optimize=high",
       "name": "動かせる、震える、光る、遊べる。LEDの視覚体験と12のゲームを、IEZENに。",
-      "name_zh": "IEZEN光震互动游戏",
+      "name_zh": "IEZEN光感互动游戏",
       "founder": "Unknown",
       "location": "Japan",
-      "raised": 2209832,
+      "raised": 2599802,
       "currency": "JPY",
       "currencySymbol": "￥",
-      "progress_pct": 220,
+      "progress_pct": 259,
       "backers": 0,
-      "price": "￥2,209,832",
+      "price": "￥2,599,802",
       "campaign_url": "https://www.makuake.com/project/iezen",
       "category_tag_zh": "#科技",
-      "summary_zh": [],
-      "scrapedAt": "2026-11-07T04:25:34.297Z"
+      "summary_zh": [
+        "动态LED"
+      ],
+      "scrapedAt": "2026-11-08T04:09:01.976Z"
     },
     {
       "id": "mk-neonote01",
       "platform": "Makuake",
       "image": "https://static.makuake.com/upload/project/54331/main_54331.jpg?version=1793598345&width=320&height=180&optimize=high",
       "name": "音に沈む、新たなリスニング体験。独自の3振動板構成が生むハイエンドイヤホン",
-      "name_zh": "三振膜旗舰耳机",
+      "name_zh": "三振膜沉浸耳机",
       "founder": "Unknown",
       "location": "Japan",
-      "raised": 2368008,
+      "raised": 3552008,
       "currency": "JPY",
       "currencySymbol": "￥",
-      "progress_pct": 236,
+      "progress_pct": 355,
       "backers": 0,
-      "price": "￥2,368,008",
+      "price": "￥3,552,008",
       "campaign_url": "https://www.makuake.com/project/neonote01",
       "category_tag_zh": "#科技",
       "summary_zh": [
-        "独特三振膜结构",
-        "极致沉浸音质",
-        "定义高端听感"
+        "三振膜技术",
+        "沉浸式听感",
+        "高端音质体验"
       ],
-      "scrapedAt": "2026-11-07T04:25:34.297Z"
+      "scrapedAt": "2026-11-08T04:09:01.975Z"
     },
     {
       "id": "igo-a-friend-a-friend",
@@ -11112,6 +11122,29 @@
         "数据洞察，用户为本"
       ],
       "scrapedAt": "2026-11-07T04:25:17.829Z"
+    },
+    {
+      "id": "igo-grunge-the-movie-grunge-the-movie---a-feature-suspense-horror-thriller",
+      "platform": "Indiegogo",
+      "image": "https://cdn.images.indiegogo.com/projectimage/projects/440652/c14f6311-ffa9-4ab1-a48f-8a215f460781.png",
+      "name": "Unknown",
+      "name_zh": "Unknown",
+      "founder": "Grunge The Movie",
+      "location": "Unknown",
+      "raised": 22190,
+      "currency": "USD",
+      "currencySymbol": "$",
+      "progress_pct": 100,
+      "backers": 322,
+      "price": "$10",
+      "campaign_url": "https://www.indiegogo.com/en/projects/grunge-the-movie/grunge-the-movie---a-feature-suspense-horror-thriller",
+      "category_tag_zh": "#科技",
+      "summary_zh": [
+        "智能决策支持，优化运营效率",
+        "深度学习算法，实现自我进化",
+        "个性化内容生成，满足专属需求"
+      ],
+      "scrapedAt": "2026-11-08T04:08:47.049Z"
     }
   ]
 }
