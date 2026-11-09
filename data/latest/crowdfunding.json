@@ -1,7 +1,7 @@
 {
-  "date": "2026-11-08",
+  "date": "2026-11-09",
   "kind": "crowdfunding",
-  "count": 530,
+  "count": 533,
   "items": [
     {
       "id": "cs-micimike-rev-devices-micimike-home-mini-drop-in-pcb",
@@ -8967,11 +8967,11 @@
       "id": "igo-creality-sparkx-creality-sparkx-i8-the-fastest-most-filament-efficient-four-color-3d-printer",
       "platform": "Indiegogo",
       "image": "https://cdn.images.indiegogo.com/projectimage/projects/443465/38300a29-51b8-4bec-b00f-9e9b6cf57320.jpg",
-      "name": "8.6k12.6kExpress crowdfunding 7 days leftCreality SPARKX i8: The Fastest, Most Filament-Efficient Four-Color 3D Printerby SPARKX Powered",
-      "name_zh": "SPARKX i8四色3D打印",
-      "founder": "Creality$5,416,186 pledged",
+      "name": "8.6k12.7kExpress crowdfunding 6 days leftCreality SPARKX i8: The Fastest, Most Filament-Efficient Four-Color 3D Printerby SPARKX Powered",
+      "name_zh": "8.6k12.7kExpress crowdfunding 6 days leftCreality SPARKX i8: The Fastest, Most Filament-Efficient Four-Color 3D Printerby SPARKX Powered",
+      "founder": "Creality$5,441,795 pledged",
       "location": "Fastest, Most",
-      "raised": 5416186,
+      "raised": 5441795,
       "currency": "USD",
       "currencySymbol": "$",
       "progress_pct": 100,
@@ -8979,8 +8979,12 @@
       "price": "$59.99",
       "campaign_url": "https://www.indiegogo.com/en/projects/creality-sparkx/creality-sparkx-i8-the-fastest-most-filament-efficient-four-color-3d-printer",
       "category_tag_zh": "#科技",
-      "summary_zh": [],
-      "scrapedAt": "2026-11-08T04:08:47.049Z"
+      "summary_zh": [
+        "极致打印速度，大幅提升生产效率",
+        "四色打印技术，实现多色精细模型",
+        "优化耗材利用率，降低打印成本"
+      ],
+      "scrapedAt": "2026-11-09T04:23:39.433Z"
     },
     {
       "id": "igo-goopygirls-goopy-mag-issue-2-worlds-of-play",
@@ -9675,16 +9679,12 @@
       "currency": "USD",
       "currencySymbol": "$",
       "progress_pct": 100,
-      "backers": 965,
+      "backers": 995,
       "price": "$305",
       "campaign_url": "https://www.indiegogo.com/en/projects/win-battery/gpd-win-max-3-the-all-in-one-accessory-ecosystem",
       "category_tag_zh": "#科技",
-      "summary_zh": [
-        "智能学习算法，持续迭代升级",
-        "预测分析能力，洞察未来趋势",
-        "革新交互模式，重塑用户体验"
-      ],
-      "scrapedAt": "2026-11-08T04:08:47.049Z"
+      "summary_zh": [],
+      "scrapedAt": "2026-11-09T04:23:39.433Z"
     },
     {
       "id": "igo-yanzilin-shane-davis-inglorious-rex-comic-book-4",
@@ -10046,16 +10046,12 @@
       "currency": "USD",
       "currencySymbol": "$",
       "progress_pct": 100,
-      "backers": 295,
+      "backers": 315,
       "price": "$25",
       "campaign_url": "https://www.indiegogo.com/en/projects/julie-isgrigg/reading-tree-bookshop",
       "category_tag_zh": "#科技",
-      "summary_zh": [
-        "多维度数据融合，精准智能分析",
-        "赋能核心功能，提升产品价值",
-        "AI驱动创新，引领行业变革"
-      ],
-      "scrapedAt": "2026-11-08T04:08:47.049Z"
+      "summary_zh": [],
+      "scrapedAt": "2026-11-09T04:23:39.433Z"
     },
     {
       "id": "igo-williamcollazo-werewolf-unleashed",
@@ -10069,16 +10065,12 @@
       "currency": "USD",
       "currencySymbol": "$",
       "progress_pct": 100,
-      "backers": 623,
+      "backers": 663,
       "price": "$10",
       "campaign_url": "https://www.indiegogo.com/en/projects/williamcollazo/werewolf-unleashed",
       "category_tag_zh": "#科技",
-      "summary_zh": [
-        "AI赋能，实现智能自动化",
-        "精准洞察用户，提供定制方案",
-        "持续优化算法，确保领先性能"
-      ],
-      "scrapedAt": "2026-11-08T04:08:47.049Z"
+      "summary_zh": [],
+      "scrapedAt": "2026-11-09T04:23:39.433Z"
     },
     {
       "id": "igo-scarlettsaintt-repent-for-the-living",
@@ -10693,19 +10685,23 @@
       "platform": "Makuake",
       "image": "https://static.makuake.com/upload/project/54210/main_54210.png?version=1793582077&width=320&height=180&optimize=high",
       "name": "「きのこの山ワイヤレスイヤホン」が2027年モデルで復活!? 決めるのはあなた！",
-      "name_zh": "蘑菇山无线耳机",
+      "name_zh": "蘑菇山无线",
       "founder": "Unknown",
       "location": "Japan",
-      "raised": 1547910003,
+      "raised": 1568940003,
       "currency": "JPY",
       "currencySymbol": "￥",
-      "progress_pct": 519,
+      "progress_pct": 526,
       "backers": 0,
       "price": "",
       "campaign_url": "https://www.makuake.com/project/kinokono-yama-revival",
       "category_tag_zh": "#科技",
-      "summary_zh": [],
-      "scrapedAt": "2026-11-08T04:09:01.976Z"
+      "summary_zh": [
+        "经典零食IP联名，创意造型耳机",
+        "概念性产品，探索未来市场潜力",
+        "社区投票决定，高度用户参与感"
+      ],
+      "scrapedAt": "2026-11-09T04:23:56.548Z"
     },
     {
       "id": "cs-hw-media-lab-dockframe",
@@ -10754,26 +10750,30 @@
       "platform": "Makuake",
       "image": "https://static.makuake.com/upload/project/54206/main_54206.jpg?version=1792987372&width=320&height=180&optimize=high",
       "name": "【アンコール】片手で1秒着脱！MagSafeスマホマウントPackMag S1",
-      "name_zh": "PackMag S1磁吸支架",
+      "name_zh": "MagSafe单手快拆架",
       "founder": "Unknown",
       "location": "Japan",
-      "raised": 4237021,
+      "raised": 4317001,
       "currency": "JPY",
       "currencySymbol": "￥",
-      "progress_pct": 423,
+      "progress_pct": 431,
       "backers": 0,
-      "price": "￥4,237,021",
+      "price": "￥4,317,001",
       "campaign_url": "https://www.makuake.com/project/packmag-s1-encore",
       "category_tag_zh": "#科技",
-      "summary_zh": [],
-      "scrapedAt": "2026-11-08T04:09:01.976Z"
+      "summary_zh": [
+        "MagSafe兼容，实现单手快速安装",
+        "创新磁吸设计，提升使用便捷性",
+        "经典产品复刻，市场需求旺盛"
+      ],
+      "scrapedAt": "2026-11-09T04:23:56.548Z"
     },
     {
       "id": "mk-x76",
       "platform": "Makuake",
       "image": "https://static.makuake.com/upload/project/54236/main_54236.png?version=1793085849&width=320&height=180&optimize=high",
       "name": "骨伝導×空気伝導×LED。音と光を楽しむ新しいイヤホン体験",
-      "name_zh": "骨空光影耳机",
+      "name_zh": "骨空传导LED耳机",
       "founder": "Unknown",
       "location": "Japan",
       "raised": 2063605,
@@ -10785,7 +10785,7 @@
       "campaign_url": "https://www.makuake.com/project/x76",
       "category_tag_zh": "#科技",
       "summary_zh": [],
-      "scrapedAt": "2026-11-08T04:09:01.976Z"
+      "scrapedAt": "2026-11-09T04:23:56.548Z"
     },
     {
       "id": "igo-lioubov-modernisons-prosveta-et-preparons-lavenir-ensemble",
@@ -10795,20 +10795,16 @@
       "name_zh": "Unknown",
       "founder": "Lioubov",
       "location": "Unknown",
-      "raised": 19535,
+      "raised": 22529,
       "currency": "EUR",
       "currencySymbol": "€",
       "progress_pct": 100,
-      "backers": 5310,
+      "backers": 5912,
       "price": "$20",
       "campaign_url": "https://www.indiegogo.com/en/projects/lioubov/modernisons-prosveta-et-preparons-lavenir-ensemble",
       "category_tag_zh": "#科技",
-      "summary_zh": [
-        "AI智能推荐，提升用户体验",
-        "数据驱动决策，实现个性化服务",
-        "自动化流程优化，提高效率"
-      ],
-      "scrapedAt": "2026-11-08T04:08:47.049Z"
+      "summary_zh": [],
+      "scrapedAt": "2026-11-09T04:23:39.433Z"
     },
     {
       "id": "igo-rebeccalevy-37269109-sweetpotato",
@@ -10834,57 +10830,57 @@
       "platform": "Makuake",
       "image": "https://static.makuake.com/upload/project/54316/main_54316.png?version=1793867976&width=320&height=180&optimize=high",
       "name": "映像美も、設置の自由も。プロジェクター専業15年の技術を結集｜JMGO IRIS",
-      "name_zh": "JMGO IRIS自由美投",
+      "name_zh": "影院级自由投射仪",
       "founder": "Unknown",
       "location": "Japan",
-      "raised": 189552407,
+      "raised": 207700407,
       "currency": "JPY",
       "currencySymbol": "￥",
-      "progress_pct": 3791,
+      "progress_pct": 4154,
       "backers": 0,
-      "price": "￥189,552,407",
+      "price": "￥207,700,407",
       "campaign_url": "https://www.makuake.com/project/jmgo-iris",
       "category_tag_zh": "#科技",
       "summary_zh": [],
-      "scrapedAt": "2026-11-08T04:09:01.976Z"
+      "scrapedAt": "2026-11-09T04:23:56.548Z"
     },
     {
       "id": "mk-fitnfocus",
       "platform": "Makuake",
       "image": "https://static.makuake.com/upload/project/54239/main_54239.jpg?version=1793088256&width=320&height=180&optimize=high",
       "name": "紙の手書き×録音×GPT-5。夢のスマートノート「fitn Focus」",
-      "name_zh": "fitn Focus手录AI智本",
+      "name_zh": "GPT手写录音智能本",
       "founder": "Unknown",
       "location": "Japan",
-      "raised": 17285805,
+      "raised": 21893205,
       "currency": "JPY",
       "currencySymbol": "￥",
-      "progress_pct": 864,
+      "progress_pct": 1094,
       "backers": 0,
-      "price": "￥17,285,805",
+      "price": "￥21,893,205",
       "campaign_url": "https://www.makuake.com/project/fitnfocus",
       "category_tag_zh": "#科技",
       "summary_zh": [],
-      "scrapedAt": "2026-11-08T04:09:01.976Z"
+      "scrapedAt": "2026-11-09T04:23:56.548Z"
     },
     {
       "id": "mk-practy-autorella",
       "platform": "Makuake",
       "image": "https://static.makuake.com/upload/project/54213/main_54213.png?version=1793856678&width=320&height=180&optimize=high",
       "name": "【特許電動開閉】雨天移動をスマート化。片手で2秒開閉できる晴雨兼用電動折り畳み傘",
-      "name_zh": "专利晴雨电动伞",
+      "name_zh": "专利电动晴雨伞",
       "founder": "Unknown",
       "location": "Japan",
-      "raised": 44522805,
+      "raised": 46754604,
       "currency": "JPY",
       "currencySymbol": "￥",
-      "progress_pct": 4452,
+      "progress_pct": 4675,
       "backers": 0,
-      "price": "￥44,522,805",
+      "price": "￥46,754,604",
       "campaign_url": "https://www.makuake.com/project/practy-autorella",
       "category_tag_zh": "#科技",
       "summary_zh": [],
-      "scrapedAt": "2026-11-08T04:09:01.976Z"
+      "scrapedAt": "2026-11-09T04:23:56.548Z"
     },
     {
       "id": "ks-sipeed-slogic32u3-the-worlds-first-10gbps-usb32-logic-analyzer?category_id=52",
@@ -11041,64 +11037,54 @@
       "name_zh": "独立双模轻量耳机",
       "founder": "Unknown",
       "location": "Japan",
-      "raised": 25141207,
+      "raised": 27888006,
       "currency": "JPY",
       "currencySymbol": "￥",
-      "progress_pct": 2514,
+      "progress_pct": 2788,
       "backers": 0,
-      "price": "￥25,141,207",
+      "price": "￥27,888,006",
       "campaign_url": "https://www.makuake.com/project/compbeat_pro",
       "category_tag_zh": "#科技",
-      "summary_zh": [
-        "独立播放",
-        "双模切换",
-        "26克超轻"
-      ],
-      "scrapedAt": "2026-11-08T04:09:01.976Z"
+      "summary_zh": [],
+      "scrapedAt": "2026-11-09T04:23:56.548Z"
     },
     {
       "id": "mk-iezen",
       "platform": "Makuake",
       "image": "https://static.makuake.com/upload/project/54235/main_54235.jpg?version=1793083762&width=320&height=180&optimize=high",
       "name": "動かせる、震える、光る、遊べる。LEDの視覚体験と12のゲームを、IEZENに。",
-      "name_zh": "IEZEN光感互动游戏",
+      "name_zh": "动感震光LED游戏",
       "founder": "Unknown",
       "location": "Japan",
-      "raised": 2599802,
+      "raised": 2989772,
       "currency": "JPY",
       "currencySymbol": "￥",
-      "progress_pct": 259,
+      "progress_pct": 298,
       "backers": 0,
-      "price": "￥2,599,802",
+      "price": "￥2,989,772",
       "campaign_url": "https://www.makuake.com/project/iezen",
       "category_tag_zh": "#科技",
-      "summary_zh": [
-        "动态LED"
-      ],
-      "scrapedAt": "2026-11-08T04:09:01.976Z"
+      "summary_zh": [],
+      "scrapedAt": "2026-11-09T04:23:56.548Z"
     },
     {
       "id": "mk-neonote01",
       "platform": "Makuake",
       "image": "https://static.makuake.com/upload/project/54331/main_54331.jpg?version=1793598345&width=320&height=180&optimize=high",
       "name": "音に沈む、新たなリスニング体験。独自の3振動板構成が生むハイエンドイヤホン",
-      "name_zh": "三振膜沉浸耳机",
+      "name_zh": "高端三振膜耳机",
       "founder": "Unknown",
       "location": "Japan",
-      "raised": 3552008,
+      "raised": 4736008,
       "currency": "JPY",
       "currencySymbol": "￥",
-      "progress_pct": 355,
+      "progress_pct": 473,
       "backers": 0,
-      "price": "￥3,552,008",
+      "price": "￥4,736,008",
       "campaign_url": "https://www.makuake.com/project/neonote01",
       "category_tag_zh": "#科技",
-      "summary_zh": [
-        "三振膜技术",
-        "沉浸式听感",
-        "高端音质体验"
-      ],
-      "scrapedAt": "2026-11-08T04:09:01.975Z"
+      "summary_zh": [],
+      "scrapedAt": "2026-11-09T04:23:56.548Z"
     },
     {
       "id": "igo-a-friend-a-friend",
@@ -11135,16 +11121,79 @@
       "currency": "USD",
       "currencySymbol": "$",
       "progress_pct": 100,
-      "backers": 322,
+      "backers": 352,
       "price": "$10",
       "campaign_url": "https://www.indiegogo.com/en/projects/grunge-the-movie/grunge-the-movie---a-feature-suspense-horror-thriller",
       "category_tag_zh": "#科技",
+      "summary_zh": [],
+      "scrapedAt": "2026-11-09T04:23:39.433Z"
+    },
+    {
+      "id": "mk-smartcoby-ex06",
+      "platform": "Makuake",
+      "image": "https://static.makuake.com/upload/project/54383/main_54383.jpg?version=1793865941&width=320&height=180&optimize=high",
+      "name": "家ではワイヤレス充電器。外ではモバイルバッテリー。PCも巻取り45W",
+      "name_zh": "家外PC卷线快充",
+      "founder": "Unknown",
+      "location": "Japan",
+      "raised": 47874904,
+      "currency": "JPY",
+      "currencySymbol": "￥",
+      "progress_pct": 1595,
+      "backers": 0,
+      "price": "￥47,874,904",
+      "campaign_url": "https://www.makuake.com/project/smartcoby-ex06",
+      "category_tag_zh": "#科技",
       "summary_zh": [
-        "智能决策支持，优化运营效率",
-        "深度学习算法，实现自我进化",
-        "个性化内容生成，满足专属需求"
+        "居家无线充电",
+        "户外移动供电",
+        "PC卷线快充"
       ],
-      "scrapedAt": "2026-11-08T04:08:47.049Z"
+      "scrapedAt": "2026-11-09T04:23:56.548Z"
+    },
+    {
+      "id": "mk-restnatureblanket",
+      "platform": "Makuake",
+      "image": "https://static.makuake.com/upload/project/54357/main_54357.jpg?version=1793844344&width=320&height=180&optimize=high",
+      "name": "冬の快眠を変える！自動調温×目覚まし機能搭載のスマート電気毛布",
+      "name_zh": "智能温控闹钟毯",
+      "founder": "Unknown",
+      "location": "Japan",
+      "raised": 1228406,
+      "currency": "JPY",
+      "currencySymbol": "￥",
+      "progress_pct": 122,
+      "backers": 0,
+      "price": "￥1,228,406",
+      "campaign_url": "https://www.makuake.com/project/restnatureblanket",
+      "category_tag_zh": "#科技",
+      "summary_zh": [
+        "智能温控助眠",
+        "自动调温舒适",
+        "闹钟唤醒管理"
+      ],
+      "scrapedAt": "2026-11-09T04:23:56.548Z"
+    },
+    {
+      "id": "mk-sportmount",
+      "platform": "Makuake",
+      "image": "https://static.makuake.com/upload/project/54147/main_54147.png?version=1792631760&width=320&height=180&optimize=high",
+      "name": "もう首にスマホを掛けない。両手フリーで撮影＆作業できる多機能スマホホルダー",
+      "name_zh": "免提拍摄手机架",
+      "founder": "Unknown",
+      "location": "Japan",
+      "raised": 89602,
+      "currency": "JPY",
+      "currencySymbol": "￥",
+      "progress_pct": 8,
+      "backers": 0,
+      "price": "￥89,602",
+      "campaign_url": "https://www.makuake.com/project/sportmount",
+      "category_tag_zh": "#科技",
+      "summary_zh": [
+        "もう首にスマホ"
+      ],
+      "scrapedAt": "2026-11-09T04:23:56.548Z"
     }
   ]
 }
