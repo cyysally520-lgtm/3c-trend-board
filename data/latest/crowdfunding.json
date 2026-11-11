@@ -1,7 +1,7 @@
 {
-  "date": "2026-11-10",
+  "date": "2026-11-11",
   "kind": "crowdfunding",
-  "count": 539,
+  "count": 543,
   "items": [
     {
       "id": "cs-micimike-rev-devices-micimike-home-mini-drop-in-pcb",
@@ -8967,24 +8967,24 @@
       "id": "igo-creality-sparkx-creality-sparkx-i8-the-fastest-most-filament-efficient-four-color-3d-printer",
       "platform": "Indiegogo",
       "image": "https://cdn.images.indiegogo.com/projectimage/projects/443465/38300a29-51b8-4bec-b00f-9e9b6cf57320.jpg",
-      "name": "8.6k12.7kExpress crowdfunding 5 days leftCreality SPARKX i8: The Fastest, Most Filament-Efficient Four-Color 3D Printerby SPARKX Powered",
-      "name_zh": "SPARKX i8 四色打印",
-      "founder": "Creality$5,456,011 pledged",
+      "name": "8.7k12.7kExpress crowdfunding 4 days leftCreality SPARKX i8: The Fastest, Most Filament-Efficient Four-Color 3D Printerby SPARKX Powered",
+      "name_zh": "8.7k12.7kExpress crowdfunding 4 days leftCreality SPARKX i8: The Fastest, Most Filament-Efficient Four-Color 3D Printerby SPARKX Powered",
+      "founder": "Creality$5,480,632 pledged",
       "location": "Fastest, Most",
-      "raised": 5456011,
+      "raised": 5480632,
       "currency": "USD",
       "currencySymbol": "$",
       "progress_pct": 100,
-      "backers": 8600,
+      "backers": 8700,
       "price": "$59.99",
       "campaign_url": "https://www.indiegogo.com/en/projects/creality-sparkx/creality-sparkx-i8-the-fastest-most-filament-efficient-four-color-3d-printer",
       "category_tag_zh": "#科技",
       "summary_zh": [
-        "极速打印，效率之王",
-        "四色打印，色彩丰富",
-        "耗材高效，成本优化"
+        "四色高速3D打印",
+        "极致打印速度效率大幅提升",
+        "耗材高效利用降低打印成本"
       ],
-      "scrapedAt": "2026-11-10T05:47:17.550Z"
+      "scrapedAt": "2026-11-11T04:29:12.295Z"
     },
     {
       "id": "igo-goopygirls-goopy-mag-issue-2-worlds-of-play",
@@ -10750,42 +10750,46 @@
       "platform": "Makuake",
       "image": "https://static.makuake.com/upload/project/54206/main_54206.jpg?version=1792987372&width=320&height=180&optimize=high",
       "name": "【アンコール】片手で1秒着脱！MagSafeスマホマウントPackMag S1",
-      "name_zh": "PackMag S1 磁吸支架",
+      "name_zh": "【アンコール】片手で1秒着脱！MagSafeスマホマウントPackMag S1",
       "founder": "Unknown",
       "location": "Japan",
-      "raised": 4796401,
+      "raised": 495636,
       "currency": "JPY",
       "currencySymbol": "￥",
-      "progress_pct": 479,
+      "progress_pct": 495,
       "backers": 0,
-      "price": "￥4,796,401",
+      "price": "￥495,636",
       "campaign_url": "https://www.makuake.com/project/packmag-s1-encore",
       "category_tag_zh": "#科技",
       "summary_zh": [
-        "MagSafe磁吸，秒级快拆",
-        "单手操作，极致便捷",
-        "稳固吸附，安全无忧"
+        "MagSafe磁吸支架",
+        "单手秒级操作即刻吸附拆卸",
+        "稳固便捷提升手机使用体验"
       ],
-      "scrapedAt": "2026-11-10T05:47:32.901Z"
+      "scrapedAt": "2026-11-11T04:29:27.375Z"
     },
     {
       "id": "mk-x76",
       "platform": "Makuake",
       "image": "https://static.makuake.com/upload/project/54236/main_54236.png?version=1793085849&width=320&height=180&optimize=high",
       "name": "骨伝導×空気伝導×LED。音と光を楽しむ新しいイヤホン体験",
-      "name_zh": "骨空传导LED耳机",
+      "name_zh": "骨空",
       "founder": "Unknown",
       "location": "Japan",
-      "raised": 2157405,
+      "raised": 2251204,
       "currency": "JPY",
       "currencySymbol": "￥",
-      "progress_pct": 215,
+      "progress_pct": 225,
       "backers": 0,
-      "price": "￥2,157,405",
+      "price": "￥2,251,204",
       "campaign_url": "https://www.makuake.com/project/x76",
       "category_tag_zh": "#科技",
-      "summary_zh": [],
-      "scrapedAt": "2026-11-10T05:47:32.901Z"
+      "summary_zh": [
+        "骨空双传导音质更立体",
+        "集成LED灯效视觉新体验",
+        "音光融合打造沉浸式享受"
+      ],
+      "scrapedAt": "2026-11-11T04:29:27.375Z"
     },
     {
       "id": "igo-lioubov-modernisons-prosveta-et-preparons-lavenir-ensemble",
@@ -10795,7 +10799,7 @@
       "name_zh": "Unknown",
       "founder": "Lioubov",
       "location": "Unknown",
-      "raised": 25025,
+      "raised": 25459,
       "currency": "EUR",
       "currencySymbol": "€",
       "progress_pct": 100,
@@ -10804,7 +10808,7 @@
       "campaign_url": "https://www.indiegogo.com/en/projects/lioubov/modernisons-prosveta-et-preparons-lavenir-ensemble",
       "category_tag_zh": "#科技",
       "summary_zh": [],
-      "scrapedAt": "2026-11-10T05:47:17.550Z"
+      "scrapedAt": "2026-11-11T04:29:12.295Z"
     },
     {
       "id": "igo-rebeccalevy-37269109-sweetpotato",
@@ -10830,57 +10834,69 @@
       "platform": "Makuake",
       "image": "https://static.makuake.com/upload/project/54316/main_54316.png?version=1793867976&width=320&height=180&optimize=high",
       "name": "映像美も、設置の自由も。プロジェクター専業15年の技術を結集｜JMGO IRIS",
-      "name_zh": "坚果IRIS投影仪",
+      "name_zh": "极米IRIS高清投影仪",
       "founder": "Unknown",
       "location": "Japan",
-      "raised": 225848407,
+      "raised": 230385407,
       "currency": "JPY",
       "currencySymbol": "￥",
-      "progress_pct": 4516,
+      "progress_pct": 4607,
       "backers": 0,
-      "price": "￥225,848,407",
+      "price": "￥230,385,407",
       "campaign_url": "https://www.makuake.com/project/jmgo-iris",
       "category_tag_zh": "#科技",
-      "summary_zh": [],
-      "scrapedAt": "2026-11-10T05:47:32.901Z"
+      "summary_zh": [
+        "15年投影技术结晶",
+        "卓越画质尽享沉浸视觉",
+        "灵活安装适应多场景需求"
+      ],
+      "scrapedAt": "2026-11-11T04:29:27.375Z"
     },
     {
       "id": "mk-fitnfocus",
       "platform": "Makuake",
       "image": "https://static.makuake.com/upload/project/54239/main_54239.jpg?version=1793088256&width=320&height=180&optimize=high",
       "name": "紙の手書き×録音×GPT-5。夢のスマートノート「fitn Focus」",
-      "name_zh": "紙の手書き×録音×GPT-5。夢のスマートノート「fitn Focus」",
+      "name_zh": "GPT-5智能手写本",
       "founder": "Unknown",
       "location": "Japan",
-      "raised": 23662205,
+      "raised": 23662204,
       "currency": "JPY",
       "currencySymbol": "￥",
       "progress_pct": 1183,
       "backers": 0,
-      "price": "￥23,662,205",
+      "price": "￥23,662,204",
       "campaign_url": "https://www.makuake.com/project/fitnfocus",
       "category_tag_zh": "#科技",
-      "summary_zh": [],
-      "scrapedAt": "2026-11-10T05:47:32.901Z"
+      "summary_zh": [
+        "纸笔手写",
+        "录音转写",
+        "GPT-5赋能"
+      ],
+      "scrapedAt": "2026-11-11T04:29:27.375Z"
     },
     {
       "id": "mk-practy-autorella",
       "platform": "Makuake",
       "image": "https://static.makuake.com/upload/project/54213/main_54213.png?version=1793856678&width=320&height=180&optimize=high",
       "name": "【特許電動開閉】雨天移動をスマート化。片手で2秒開閉できる晴雨兼用電動折り畳み傘",
-      "name_zh": "【特許電動開閉】雨天移動をスマート化。片手で2秒開閉できる晴雨兼用電動折り畳み傘",
+      "name_zh": "专利电动晴雨伞",
       "founder": "Unknown",
       "location": "Japan",
-      "raised": 51771304,
+      "raised": 54443604,
       "currency": "JPY",
       "currencySymbol": "￥",
-      "progress_pct": 5177,
+      "progress_pct": 5444,
       "backers": 0,
-      "price": "￥51,771,304",
+      "price": "￥54,443,604",
       "campaign_url": "https://www.makuake.com/project/practy-autorella",
       "category_tag_zh": "#科技",
-      "summary_zh": [],
-      "scrapedAt": "2026-11-10T05:47:32.901Z"
+      "summary_zh": [
+        "专利电动",
+        "一键开合",
+        "晴雨两用"
+      ],
+      "scrapedAt": "2026-11-11T04:29:27.375Z"
     },
     {
       "id": "ks-sipeed-slogic32u3-the-worlds-first-10gbps-usb32-logic-analyzer?category_id=52",
@@ -11034,57 +11050,69 @@
       "platform": "Makuake",
       "image": "https://static.makuake.com/upload/project/54308/main_54308.png?version=1794216018&width=320&height=180&optimize=high",
       "name": "スマホなしで再生可能！オープンとクローズドを切り替える26g超軽量二刀流イヤホン",
-      "name_zh": "スマホなしで再生可能！オープンとクローズドを切り替える26g超軽量二刀流イヤホン",
+      "name_zh": "超轻双模独立耳机",
       "founder": "Unknown",
       "location": "Japan",
-      "raised": 30013206,
+      "raised": 32256006,
       "currency": "JPY",
       "currencySymbol": "￥",
-      "progress_pct": 3001,
+      "progress_pct": 3225,
       "backers": 0,
-      "price": "￥30,013,206",
+      "price": "￥32,256,006",
       "campaign_url": "https://www.makuake.com/project/compbeat_pro",
       "category_tag_zh": "#科技",
-      "summary_zh": [],
-      "scrapedAt": "2026-11-10T05:47:32.901Z"
+      "summary_zh": [
+        "脱离手机播放",
+        "开放封闭切换",
+        "26克极致轻盈"
+      ],
+      "scrapedAt": "2026-11-11T04:29:27.375Z"
     },
     {
       "id": "mk-iezen",
       "platform": "Makuake",
       "image": "https://static.makuake.com/upload/project/54235/main_54235.jpg?version=1793083762&width=320&height=180&optimize=high",
       "name": "動かせる、震える、光る、遊べる。LEDの視覚体験と12のゲームを、IEZENに。",
-      "name_zh": "動かせる、震える、光る、遊べる。LEDの視覚体験と12のゲームを、IEZENに。",
+      "name_zh": "IEZEN互动光影游戏",
       "founder": "Unknown",
       "location": "Japan",
-      "raised": 3379741,
+      "raised": 3631731,
       "currency": "JPY",
       "currencySymbol": "￥",
-      "progress_pct": 337,
+      "progress_pct": 363,
       "backers": 0,
-      "price": "￥3,379,741",
+      "price": "￥3,631,731",
       "campaign_url": "https://www.makuake.com/project/iezen",
       "category_tag_zh": "#科技",
-      "summary_zh": [],
-      "scrapedAt": "2026-11-10T05:47:32.901Z"
+      "summary_zh": [
+        "光影震动",
+        "多感体验",
+        "内置12游戏"
+      ],
+      "scrapedAt": "2026-11-11T04:29:27.375Z"
     },
     {
       "id": "mk-neonote01",
       "platform": "Makuake",
       "image": "https://static.makuake.com/upload/project/54331/main_54331.jpg?version=1793598345&width=320&height=180&optimize=high",
       "name": "音に沈む、新たなリスニング体験。独自の3振動板構成が生むハイエンドイヤホン",
-      "name_zh": "音に沈む、新たなリスニング体験。独自の3振動板構成が生むハイエンドイヤホン",
+      "name_zh": "三振膜高端耳机",
       "founder": "Unknown",
       "location": "Japan",
-      "raised": 5328008,
+      "raised": 5920008,
       "currency": "JPY",
       "currencySymbol": "￥",
-      "progress_pct": 532,
+      "progress_pct": 592,
       "backers": 0,
-      "price": "￥5,328,008",
+      "price": "￥5,920,008",
       "campaign_url": "https://www.makuake.com/project/neonote01",
       "category_tag_zh": "#科技",
-      "summary_zh": [],
-      "scrapedAt": "2026-11-10T05:47:32.901Z"
+      "summary_zh": [
+        "沉浸音质",
+        "独特声学",
+        "革新听感"
+      ],
+      "scrapedAt": "2026-11-11T04:29:27.375Z"
     },
     {
       "id": "igo-a-friend-a-friend",
@@ -11133,66 +11161,69 @@
       "platform": "Makuake",
       "image": "https://static.makuake.com/upload/project/54383/main_54383.jpg?version=1793865941&width=320&height=180&optimize=high",
       "name": "家ではワイヤレス充電器。外ではモバイルバッテリー。PCも巻取り45W",
-      "name_zh": "家ではワイヤレス充電器。外ではモバイルバッテリー。PCも巻取り45W",
+      "name_zh": "多功能无线充电宝",
       "founder": "Unknown",
       "location": "Japan",
-      "raised": 86916684,
+      "raised": 95167124,
       "currency": "JPY",
       "currencySymbol": "￥",
-      "progress_pct": 2897,
+      "progress_pct": 3172,
       "backers": 0,
-      "price": "￥86,916,684",
+      "price": "￥95,167,124",
       "campaign_url": "https://www.makuake.com/project/smartcoby-ex06",
       "category_tag_zh": "#科技",
       "summary_zh": [
-        "以下是众筹产品的中文AI解读要点："
+        "居家无线充",
+        "外出移动电源",
+        "45W卷线快充"
       ],
-      "scrapedAt": "2026-11-10T05:47:32.901Z"
+      "scrapedAt": "2026-11-11T04:29:27.375Z"
     },
     {
       "id": "mk-restnatureblanket",
       "platform": "Makuake",
       "image": "https://static.makuake.com/upload/project/54357/main_54357.jpg?version=1793844344&width=320&height=180&optimize=high",
       "name": "冬の快眠を変える！自動調温×目覚まし機能搭載のスマート電気毛布",
-      "name_zh": "冬の快眠を変える！自動調温×目覚まし機能搭載のスマート電気毛布",
+      "name_zh": "智能温控闹钟毯",
       "founder": "Unknown",
       "location": "Japan",
-      "raised": 3765406,
+      "raised": 4574406,
       "currency": "JPY",
       "currencySymbol": "￥",
-      "progress_pct": 376,
+      "progress_pct": 457,
       "backers": 0,
-      "price": "￥3,765,406",
+      "price": "￥4,574,406",
       "campaign_url": "https://www.makuake.com/project/restnatureblanket",
       "category_tag_zh": "#科技",
       "summary_zh": [
-        "多功能智能充电",
-        "桌面移动两用",
-        "45W高效快充"
+        "自动调温",
+        "集成闹钟",
+        "改善睡眠"
       ],
-      "scrapedAt": "2026-11-10T05:47:32.901Z"
+      "scrapedAt": "2026-11-11T04:29:27.375Z"
     },
     {
       "id": "mk-sportmount",
       "platform": "Makuake",
       "image": "https://static.makuake.com/upload/project/54147/main_54147.png?version=1792631760&width=320&height=180&optimize=high",
       "name": "もう首にスマホを掛けない。両手フリーで撮影＆作業できる多機能スマホホルダー",
-      "name_zh": "もう首にスマホを掛けない。両手フリーで撮影＆作業できる多機能スマホホルダー",
+      "name_zh": "免提多功能手机架",
       "founder": "Unknown",
       "location": "Japan",
-      "raised": 537601,
+      "raised": 627201,
       "currency": "JPY",
       "currencySymbol": "￥",
-      "progress_pct": 53,
+      "progress_pct": 62,
       "backers": 0,
-      "price": "￥537,601",
+      "price": "￥627,201",
       "campaign_url": "https://www.makuake.com/project/sportmount",
       "category_tag_zh": "#科技",
       "summary_zh": [
-        "智能温控助眠",
-        "自动"
+        "解放双手",
+        "免持拍摄",
+        "高效作业"
       ],
-      "scrapedAt": "2026-11-10T05:47:32.901Z"
+      "scrapedAt": "2026-11-11T04:29:27.375Z"
     },
     {
       "id": "ks-1086667996-beelink-me-pro-nas?category_id=52",
@@ -11315,6 +11346,90 @@
       "category_tag_zh": "#科技",
       "summary_zh": [],
       "scrapedAt": "2026-11-10T05:47:17.550Z"
+    },
+    {
+      "id": "mk-torchbuddy4",
+      "platform": "Makuake",
+      "image": "https://static.makuake.com/upload/project/53901/main_53901.png?version=1792650448&width=320&height=180&optimize=high",
+      "name": "【親指サイズの懐中電灯】たった20g！選べる2色＋暖色ライト点灯で広がる使い道",
+      "name_zh": "拇指轻巧手电",
+      "founder": "Unknown",
+      "location": "Japan",
+      "raised": 4446408,
+      "currency": "JPY",
+      "currencySymbol": "￥",
+      "progress_pct": 444,
+      "backers": 0,
+      "price": "￥4,446,408",
+      "campaign_url": "https://www.makuake.com/project/torchbuddy4",
+      "category_tag_zh": "#科技",
+      "summary_zh": [
+        "极致便携",
+        "超轻多色",
+        "暖光增效"
+      ],
+      "scrapedAt": "2026-11-11T04:29:27.375Z"
+    },
+    {
+      "id": "mk-daynight-scope3",
+      "platform": "Makuake",
+      "image": "https://static.makuake.com/upload/project/54348/main_54348.jpg?version=1793620339&width=320&height=180&optimize=high",
+      "name": "軽すぎるデジタル録画双眼鏡。暗視スコープ機能搭載で昼でも夜でも快適に観察・撮影。",
+      "name_zh": "轻便夜视录像双筒",
+      "founder": "Unknown",
+      "location": "Japan",
+      "raised": 1195008,
+      "currency": "JPY",
+      "currencySymbol": "￥",
+      "progress_pct": 59,
+      "backers": 0,
+      "price": "￥1,195,008",
+      "campaign_url": "https://www.makuake.com/project/daynight-scope3",
+      "category_tag_zh": "#科技",
+      "summary_zh": [
+        "昼夜两用",
+        "暗视录像",
+        "便携观测"
+      ],
+      "scrapedAt": "2026-11-11T04:29:27.375Z"
+    },
+    {
+      "id": "igo-songsbyralph-labour-of-love-nouveau-3",
+      "platform": "Indiegogo",
+      "image": "https://cdn.images.indiegogo.com/projectimage/projects/449333/1ec10c50-c4a7-4808-9f4e-3c671146ec06.jpeg",
+      "name": "Unknown",
+      "name_zh": "Unknown",
+      "founder": "SongsbyRalph",
+      "location": "Unknown",
+      "raised": 4879,
+      "currency": "USD",
+      "currencySymbol": "$",
+      "progress_pct": 100,
+      "backers": 64,
+      "price": "$10",
+      "campaign_url": "https://www.indiegogo.com/en/projects/songsbyralph/labour-of-love-nouveau-3",
+      "category_tag_zh": "#科技",
+      "summary_zh": [],
+      "scrapedAt": "2026-11-11T04:29:12.295Z"
+    },
+    {
+      "id": "igo-fusionride_official-shredlord-snowboard-suspension-system",
+      "platform": "Indiegogo",
+      "image": "https://cdn.images.indiegogo.com/projectimage/projects/442040/b2218080-a2f4-4942-bab7-acd02ddfac1f.jpg",
+      "name": "Unknown",
+      "name_zh": "Unknown",
+      "founder": "Fusionride ShredLORD",
+      "location": "Yeah, Science",
+      "raised": 1279,
+      "currency": "USD",
+      "currencySymbol": "$",
+      "progress_pct": 100,
+      "backers": 291,
+      "price": "$39",
+      "campaign_url": "https://www.indiegogo.com/en/projects/fusionride_official/shredlord-snowboard-suspension-system",
+      "category_tag_zh": "#科技",
+      "summary_zh": [],
+      "scrapedAt": "2026-11-11T04:29:12.295Z"
     }
   ]
 }
